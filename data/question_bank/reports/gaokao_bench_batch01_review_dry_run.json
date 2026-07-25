@@ -1,0 +1,1260 @@
+{
+  "dry_run": true,
+  "total": 50,
+  "pass": 37,
+  "revise": 13,
+  "active_after": 37,
+  "inactive_after": 13,
+  "items": [
+    {
+      "number": 1,
+      "question_id": 111,
+      "decision": "PASS",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:MATH-DERIVATIVE-ELEMENTARY",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:MATH-DERIVATIVE-ELEMENTARY",
+          "origin:external",
+          "grade:high-school",
+          "review:passed"
+        ]
+      }
+    },
+    {
+      "number": 2,
+      "question_id": 112,
+      "decision": "REVISE",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:MATH-FUNCTION-PARITY",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 3,
+        "is_active": false,
+        "tags": [
+          "kp:MATH-FUNCTION-PARITY",
+          "origin:external",
+          "grade:high-school",
+          "review:revise"
+        ]
+      }
+    },
+    {
+      "number": 3,
+      "question_id": 113,
+      "decision": "PASS",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:MATH-COMPLEX-ARITHMETIC",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 2,
+        "is_active": true,
+        "tags": [
+          "kp:MATH-COMPLEX-ARITHMETIC",
+          "origin:external",
+          "grade:high-school",
+          "review:passed"
+        ]
+      }
+    },
+    {
+      "number": 4,
+      "question_id": 114,
+      "decision": "PASS",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:MATH-FUNCTION-PARITY",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 2,
+        "is_active": true,
+        "tags": [
+          "kp:MATH-FUNCTION-PARITY",
+          "origin:external",
+          "grade:high-school",
+          "review:passed"
+        ]
+      }
+    },
+    {
+      "number": 5,
+      "question_id": 115,
+      "decision": "PASS",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:MATH-PROBABILITY-CLASSICAL",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 2,
+        "is_active": true,
+        "tags": [
+          "kp:MATH-PROBABILITY-CLASSICAL",
+          "origin:external",
+          "grade:high-school",
+          "review:passed"
+        ]
+      }
+    },
+    {
+      "number": 6,
+      "question_id": 116,
+      "decision": "PASS",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:MATH-TRIG-FUNDAMENTAL-IDENTITY",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:MATH-TRIG-FUNDAMENTAL-IDENTITY",
+          "origin:external",
+          "grade:high-school",
+          "review:passed"
+        ]
+      }
+    },
+    {
+      "number": 7,
+      "question_id": 117,
+      "decision": "PASS",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:MATH-SET-OPERATIONS",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 2,
+        "is_active": true,
+        "tags": [
+          "kp:MATH-SET-OPERATIONS",
+          "origin:external",
+          "grade:high-school",
+          "review:passed"
+        ]
+      }
+    },
+    {
+      "number": 8,
+      "question_id": 118,
+      "decision": "PASS",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:MATH-SEQUENCE-GEOMETRIC-GENERAL",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 4,
+        "is_active": true,
+        "tags": [
+          "kp:MATH-SEQUENCE-GEOMETRIC-GENERAL",
+          "origin:external",
+          "grade:high-school",
+          "review:passed"
+        ]
+      }
+    },
+    {
+      "number": 9,
+      "question_id": 119,
+      "decision": "PASS",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:MATH-COMPLEX-ARITHMETIC",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 2,
+        "is_active": true,
+        "tags": [
+          "kp:MATH-COMPLEX-ARITHMETIC",
+          "origin:external",
+          "grade:high-school",
+          "review:passed"
+        ]
+      }
+    },
+    {
+      "number": 10,
+      "question_id": 120,
+      "decision": "PASS",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:MATH-SEQUENCE-ARITHMETIC-GENERAL",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:MATH-SEQUENCE-ARITHMETIC-GENERAL",
+          "origin:external",
+          "grade:high-school",
+          "review:passed"
+        ]
+      }
+    },
+    {
+      "number": 11,
+      "question_id": 121,
+      "decision": "PASS",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:MATH-SET-INTERSECTION",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 2,
+        "is_active": true,
+        "tags": [
+          "kp:MATH-SET-INTERSECTION",
+          "origin:external",
+          "grade:high-school",
+          "review:passed"
+        ]
+      }
+    },
+    {
+      "number": 12,
+      "question_id": 122,
+      "decision": "PASS",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:MATH-COMPLEX-ARITHMETIC",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 2,
+        "is_active": true,
+        "tags": [
+          "kp:MATH-COMPLEX-ARITHMETIC",
+          "origin:external",
+          "grade:high-school",
+          "review:passed"
+        ]
+      }
+    },
+    {
+      "number": 13,
+      "question_id": 123,
+      "decision": "REVISE",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:MATH-FUNCTION-PARITY",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 2,
+        "is_active": false,
+        "tags": [
+          "kp:MATH-FUNCTION-PARITY",
+          "origin:external",
+          "grade:high-school",
+          "review:revise"
+        ]
+      }
+    },
+    {
+      "number": 14,
+      "question_id": 124,
+      "decision": "PASS",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:MATH-PROBABILITY-CLASSICAL",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 2,
+        "is_active": true,
+        "tags": [
+          "kp:MATH-PROBABILITY-CLASSICAL",
+          "origin:external",
+          "grade:high-school",
+          "review:passed"
+        ]
+      }
+    },
+    {
+      "number": 15,
+      "question_id": 125,
+      "decision": "PASS",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:MATH-SET-INTERSECTION",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 2,
+        "is_active": true,
+        "tags": [
+          "kp:MATH-SET-INTERSECTION",
+          "origin:external",
+          "grade:high-school",
+          "review:passed"
+        ]
+      }
+    },
+    {
+      "number": 16,
+      "question_id": 126,
+      "decision": "PASS",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:MATH-COMPLEX-ARITHMETIC",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 2,
+        "is_active": true,
+        "tags": [
+          "kp:MATH-COMPLEX-ARITHMETIC",
+          "origin:external",
+          "grade:high-school",
+          "review:passed"
+        ]
+      }
+    },
+    {
+      "number": 17,
+      "question_id": 127,
+      "decision": "REVISE",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:MATH-VECTOR-COORDINATE",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 3,
+        "is_active": false,
+        "tags": [
+          "kp:MATH-VECTOR-COORDINATE",
+          "origin:external",
+          "grade:high-school",
+          "review:revise"
+        ]
+      }
+    },
+    {
+      "number": 18,
+      "question_id": 128,
+      "decision": "REVISE",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:MATH-DERIVATIVE-ELEMENTARY",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 3,
+        "is_active": false,
+        "tags": [
+          "kp:MATH-DERIVATIVE-ELEMENTARY",
+          "origin:external",
+          "grade:high-school",
+          "review:revise"
+        ]
+      }
+    },
+    {
+      "number": 19,
+      "question_id": 129,
+      "decision": "PASS",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:MATH-SEQUENCE-GEOMETRIC-GENERAL",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:MATH-SEQUENCE-GEOMETRIC-GENERAL",
+          "origin:external",
+          "grade:high-school",
+          "review:passed"
+        ]
+      }
+    },
+    {
+      "number": 20,
+      "question_id": 130,
+      "decision": "PASS",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:MATH-SEQUENCE-ARITHMETIC-GENERAL",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:MATH-SEQUENCE-ARITHMETIC-GENERAL",
+          "origin:external",
+          "grade:high-school",
+          "review:passed"
+        ]
+      }
+    },
+    {
+      "number": 21,
+      "question_id": 131,
+      "decision": "PASS",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:PHY-GRAVITY-UNIVERSAL-LAW",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 4,
+        "is_active": true,
+        "tags": [
+          "kp:PHY-GRAVITY-UNIVERSAL-LAW",
+          "origin:external",
+          "grade:high-school",
+          "review:passed"
+        ]
+      }
+    },
+    {
+      "number": 22,
+      "question_id": 132,
+      "decision": "PASS",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:PHY-PROJECTILE-HORIZONTAL",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:PHY-PROJECTILE-HORIZONTAL",
+          "origin:external",
+          "grade:high-school",
+          "review:passed"
+        ]
+      }
+    },
+    {
+      "number": 23,
+      "question_id": 133,
+      "decision": "REVISE",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:PHY-NEWTON-SECOND-LAW",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 4,
+        "is_active": false,
+        "tags": [
+          "kp:PHY-NEWTON-SECOND-LAW",
+          "origin:external",
+          "grade:high-school",
+          "review:revise"
+        ]
+      }
+    },
+    {
+      "number": 24,
+      "question_id": 134,
+      "decision": "REVISE",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:PHY-GRAVITY-UNIVERSAL-LAW",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 4,
+        "is_active": false,
+        "tags": [
+          "kp:PHY-GRAVITY-UNIVERSAL-LAW",
+          "origin:external",
+          "grade:high-school",
+          "review:revise"
+        ]
+      }
+    },
+    {
+      "number": 25,
+      "question_id": 135,
+      "decision": "PASS",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:PHY-KINEMATICS-UNIFORM-ACCELERATION",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:PHY-KINEMATICS-UNIFORM-ACCELERATION",
+          "origin:external",
+          "grade:high-school",
+          "review:passed"
+        ]
+      }
+    },
+    {
+      "number": 26,
+      "question_id": 136,
+      "decision": "PASS",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:PHY-MOMENTUM-BASIC",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:PHY-MOMENTUM-BASIC",
+          "origin:external",
+          "grade:high-school",
+          "review:passed"
+        ]
+      }
+    },
+    {
+      "number": 27,
+      "question_id": 137,
+      "decision": "PASS",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:PHY-WORK-ENERGY-KINETIC",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 2,
+        "is_active": true,
+        "tags": [
+          "kp:PHY-WORK-ENERGY-KINETIC",
+          "origin:external",
+          "grade:high-school",
+          "review:passed"
+        ]
+      }
+    },
+    {
+      "number": 28,
+      "question_id": 138,
+      "decision": "PASS",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:PHY-GRAVITY-UNIVERSAL-LAW",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 4,
+        "is_active": true,
+        "tags": [
+          "kp:PHY-GRAVITY-UNIVERSAL-LAW",
+          "origin:external",
+          "grade:high-school",
+          "review:passed"
+        ]
+      }
+    },
+    {
+      "number": 29,
+      "question_id": 139,
+      "decision": "PASS",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:PHY-MOMENTUM-BASIC",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:PHY-MOMENTUM-BASIC",
+          "origin:external",
+          "grade:high-school",
+          "review:passed"
+        ]
+      }
+    },
+    {
+      "number": 30,
+      "question_id": 140,
+      "decision": "PASS",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:PHY-NEWTON-SECOND-LAW",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:PHY-NEWTON-SECOND-LAW",
+          "origin:external",
+          "grade:high-school",
+          "review:passed"
+        ]
+      }
+    },
+    {
+      "number": 31,
+      "question_id": 141,
+      "decision": "REVISE",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:PHY-CIRCULAR-CENTRIPETAL-ACCELERATION",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 3,
+        "is_active": false,
+        "tags": [
+          "kp:PHY-CIRCULAR-CENTRIPETAL-ACCELERATION",
+          "origin:external",
+          "grade:high-school",
+          "review:revise"
+        ]
+      }
+    },
+    {
+      "number": 32,
+      "question_id": 142,
+      "decision": "PASS",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:PHY-MOMENTUM-BASIC",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 2,
+        "is_active": true,
+        "tags": [
+          "kp:PHY-MOMENTUM-BASIC",
+          "origin:external",
+          "grade:high-school",
+          "review:passed"
+        ]
+      }
+    },
+    {
+      "number": 33,
+      "question_id": 143,
+      "decision": "PASS",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:PHY-GRAVITY-UNIVERSAL-LAW",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 4,
+        "is_active": true,
+        "tags": [
+          "kp:PHY-GRAVITY-UNIVERSAL-LAW",
+          "origin:external",
+          "grade:high-school",
+          "review:passed"
+        ]
+      }
+    },
+    {
+      "number": 34,
+      "question_id": 144,
+      "decision": "REVISE",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:PHY-GRAVITY-UNIVERSAL-LAW",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 4,
+        "is_active": false,
+        "tags": [
+          "kp:PHY-GRAVITY-UNIVERSAL-LAW",
+          "origin:external",
+          "grade:high-school",
+          "review:revise"
+        ]
+      }
+    },
+    {
+      "number": 35,
+      "question_id": 145,
+      "decision": "REVISE",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:PHY-GRAVITY-UNIVERSAL-LAW",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 2,
+        "is_active": false,
+        "tags": [
+          "kp:PHY-GRAVITY-UNIVERSAL-LAW",
+          "origin:external",
+          "grade:high-school",
+          "review:revise"
+        ]
+      }
+    },
+    {
+      "number": 36,
+      "question_id": 146,
+      "decision": "PASS",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:ENG-GRAMMAR-TENSE-PAST-CONTINUOUS",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 2,
+        "is_active": true,
+        "tags": [
+          "kp:ENG-GRAMMAR-TENSE-PAST-CONTINUOUS",
+          "origin:external",
+          "grade:high-school",
+          "review:passed"
+        ]
+      }
+    },
+    {
+      "number": 37,
+      "question_id": 147,
+      "decision": "PASS",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:ENG-VOCAB-CONTEXT-VERB",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 2,
+        "is_active": true,
+        "tags": [
+          "kp:ENG-VOCAB-CONTEXT-VERB",
+          "origin:external",
+          "grade:high-school",
+          "review:passed"
+        ]
+      }
+    },
+    {
+      "number": 38,
+      "question_id": 148,
+      "decision": "PASS",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:ENG-CLAUSE-RELATIVE-WORD-SELECTION",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 2,
+        "is_active": true,
+        "tags": [
+          "kp:ENG-CLAUSE-RELATIVE-WORD-SELECTION",
+          "origin:external",
+          "grade:high-school",
+          "review:passed"
+        ]
+      }
+    },
+    {
+      "number": 39,
+      "question_id": 149,
+      "decision": "REVISE",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:ENG-GRAMMAR-ADJECTIVE-COMPARATIVE",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 2,
+        "is_active": false,
+        "tags": [
+          "kp:ENG-GRAMMAR-ADJECTIVE-COMPARATIVE",
+          "origin:external",
+          "grade:high-school",
+          "review:revise"
+        ]
+      }
+    },
+    {
+      "number": 40,
+      "question_id": 150,
+      "decision": "PASS",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:ENG-GRAMMAR-TENSE-PRESENT-PERFECT",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 2,
+        "is_active": true,
+        "tags": [
+          "kp:ENG-GRAMMAR-TENSE-PRESENT-PERFECT",
+          "origin:external",
+          "grade:high-school",
+          "review:passed"
+        ]
+      }
+    },
+    {
+      "number": 41,
+      "question_id": 151,
+      "decision": "PASS",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:ENG-GRAMMAR-MODAL-BASIC",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 2,
+        "is_active": true,
+        "tags": [
+          "kp:ENG-GRAMMAR-MODAL-BASIC",
+          "origin:external",
+          "grade:high-school",
+          "review:passed"
+        ]
+      }
+    },
+    {
+      "number": 42,
+      "question_id": 152,
+      "decision": "PASS",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:ENG-CLAUSE-ADVERBIAL-CONDITION",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 2,
+        "is_active": true,
+        "tags": [
+          "kp:ENG-CLAUSE-ADVERBIAL-CONDITION",
+          "origin:external",
+          "grade:high-school",
+          "review:passed"
+        ]
+      }
+    },
+    {
+      "number": 43,
+      "question_id": 153,
+      "decision": "REVISE",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:ENG-NONFINITE-INFINITIVE",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 1,
+        "is_active": false,
+        "tags": [
+          "kp:ENG-NONFINITE-INFINITIVE",
+          "origin:external",
+          "grade:high-school",
+          "review:revise"
+        ]
+      }
+    },
+    {
+      "number": 44,
+      "question_id": 154,
+      "decision": "PASS",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:ENG-NONFINITE-INFINITIVE",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 2,
+        "is_active": true,
+        "tags": [
+          "kp:ENG-NONFINITE-INFINITIVE",
+          "origin:external",
+          "grade:high-school",
+          "review:passed"
+        ]
+      }
+    },
+    {
+      "number": 45,
+      "question_id": 155,
+      "decision": "PASS",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:ENG-VOCAB-COLLOCATION",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 2,
+        "is_active": true,
+        "tags": [
+          "kp:ENG-VOCAB-COLLOCATION",
+          "origin:external",
+          "grade:high-school",
+          "review:passed"
+        ]
+      }
+    },
+    {
+      "number": 46,
+      "question_id": 156,
+      "decision": "REVISE",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:ENG-GRAMMAR-TENSE-PRESENT-SIMPLE",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 2,
+        "is_active": false,
+        "tags": [
+          "kp:ENG-GRAMMAR-TENSE-PRESENT-SIMPLE",
+          "origin:external",
+          "grade:high-school",
+          "review:revise"
+        ]
+      }
+    },
+    {
+      "number": 47,
+      "question_id": 157,
+      "decision": "REVISE",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:ENG-GRAMMAR-ADJECTIVE-COMPARATIVE",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 2,
+        "is_active": false,
+        "tags": [
+          "kp:ENG-GRAMMAR-ADJECTIVE-COMPARATIVE",
+          "origin:external",
+          "grade:high-school",
+          "review:revise"
+        ]
+      }
+    },
+    {
+      "number": 48,
+      "question_id": 158,
+      "decision": "PASS",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:ENG-GRAMMAR-VOICE-PRESENT-PASSIVE",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 2,
+        "is_active": true,
+        "tags": [
+          "kp:ENG-GRAMMAR-VOICE-PRESENT-PASSIVE",
+          "origin:external",
+          "grade:high-school",
+          "review:passed"
+        ]
+      }
+    },
+    {
+      "number": 49,
+      "question_id": 159,
+      "decision": "PASS",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:ENG-CLAUSE-RELATIVE-THAT",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 2,
+        "is_active": true,
+        "tags": [
+          "kp:ENG-CLAUSE-RELATIVE-THAT",
+          "origin:external",
+          "grade:high-school",
+          "review:passed"
+        ]
+      }
+    },
+    {
+      "number": 50,
+      "question_id": 160,
+      "decision": "PASS",
+      "before": {
+        "difficulty": 3,
+        "is_active": true,
+        "tags": [
+          "kp:ENG-GRAMMAR-MODAL-BASIC",
+          "origin:external",
+          "grade:high-school",
+          "review:required"
+        ]
+      },
+      "after": {
+        "difficulty": 1,
+        "is_active": true,
+        "tags": [
+          "kp:ENG-GRAMMAR-MODAL-BASIC",
+          "origin:external",
+          "grade:high-school",
+          "review:passed"
+        ]
+      }
+    }
+  ]
+}
