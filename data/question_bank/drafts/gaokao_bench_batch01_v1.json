@@ -1,0 +1,1304 @@
+{
+  "questions": [
+    {
+      "subject": "数学",
+      "chapter": "导数",
+      "knowledge_points": [
+        "基本初等函数的导数"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "(5 分) 曲线 $y=\\frac{x}{x+2}$ 在点 $(-1,-1)$ 处的切线方程为（ $）$",
+      "options": [
+        "$y=2 x+1$",
+        "$y=2 x-1$",
+        "$y=-2 x-3$",
+        "$y=-2 x-2$"
+      ],
+      "answer": "A",
+      "solution": "解: $\\because y=\\frac{x}{x+2}$,\n\n$\\therefore y^{\\prime}=\\frac{2}{(x+2)^{2}}$\n\n所以 $\\mathrm{k}=\\left.\\mathrm{y}^{\\prime}\\right|_{\\mathrm{x}=-1}=2$, 得切线的斜率为 2 , 所以 $\\mathrm{k}=2$;\n\n所以曲线 $y=f(x)$ 在点 $(-1,-1)$ 处的切线方程为:\n\n$y+1=2 \\times(x+1)$ ，即 $y=2 x+1$.\n\n故选: A.",
+      "source": "GAOKAO-Bench|year:2010|index:2|commit:6dbb24f8d843",
+      "title": "高考真题·数学·2010·2",
+      "tags": [
+        "kp:MATH-DERIVATIVE-ELEMENTARY",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "数学",
+      "chapter": "函数",
+      "knowledge_points": [
+        "函数的奇偶性"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "（5 分）设偶函数 $f(x)$ 满足 $f(x)=2^{x}-4(x \\geqslant 0)$ ，则 $\\{x \\mid f(x-2)>0\\}=($ )",
+      "options": [
+        "$\\{x \\mid x<-2$ 或 $x>4\\}$",
+        "$\\{x \\mid x<0$ 或 $x>4\\}$",
+        "$\\{x \\mid x<0$ 或 $x>6\\}$",
+        "$\\{x \\mid x<-2$ 或 $x>2\\}$"
+      ],
+      "answer": "B",
+      "solution": "解: 由偶函数 $f(x)$ 满足 $f(x)=2^{x}-4(x \\geqslant 0)$, 可得 $f(x)=f(|x|)$ $=2^{|x|-4}$,\n\n则 $f(x-2)=f(|x-2|)=2^{|x-2|}-4$, 要使 $f(|x-2|)>0$, 只需 $2^{|x-2|}-4>0$,\n\n$$\n|x-2|>2\n$$\n\n解得 $x>4$, 或 $x<0$.\n\n应选: B.",
+      "source": "GAOKAO-Bench|year:2010|index:5|commit:6dbb24f8d843",
+      "title": "高考真题·数学·2010·5",
+      "tags": [
+        "kp:MATH-FUNCTION-PARITY",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "数学",
+      "chapter": "复数",
+      "knowledge_points": [
+        "复数的四则运算"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "(5 分) 复数 $\\frac{2+i}{1-2 i}$ 的共轭复数是 $(\\quad)$",
+      "options": [
+        "$-\\frac{3}{5} i$",
+        "$\\frac{3}{5} i$",
+        "$-\\mathrm{i}$",
+        "i"
+      ],
+      "answer": "C",
+      "solution": "解：复数 $\\frac{2+i}{1-2 i}=\\frac{(2+i)(1+2 i)}{(1-2 i)(1+2 i)}=\\frac{5 i}{5}=i$, 它的共轭复数为: $-i$.\n\n故选: C.",
+      "source": "GAOKAO-Bench|year:2011|index:9|commit:6dbb24f8d843",
+      "title": "高考真题·数学·2011·9",
+      "tags": [
+        "kp:MATH-COMPLEX-ARITHMETIC",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "数学",
+      "chapter": "函数",
+      "knowledge_points": [
+        "函数的奇偶性"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "（5 分) 下列函数中, 既是偶函数又在 $(0,+\\infty)$ 上单调递增的函数是 $(\\quad)$",
+      "options": [
+        "$y=2 x^{3}$",
+        "$y=|x|+1$",
+        "$y=-x^{2}+4$",
+        "$y=2^{-\\mid x}$"
+      ],
+      "answer": "B",
+      "solution": "解：对于 $A . y=2 x^{3}$, 由 $f(-x)=-2 x^{3}=-f(x)$, 为奇函数, 故排除 $A$\n\n对于 B. $y=|x|+1$, 由 $f(-x)=|-x|+1=f(x)$, 为偶函数, 当 $x>0$ 时, $y=x+1$, 是增函数，故 B 正确;\n\n对于 $C . y=-x^{2}+4$, 有 $f(-x)=f(x)$, 是偶函数, 但 $x>0$ 时为减函数, 故排 除 C;\n\n对于 D. $y=2^{-|x|}$, 有 $f(-x)=f(x)$, 是偶函数, 当 $x>0$ 时, $y=2^{-x}$, 为减函数 ，故排除 D.\n\n故选: B.",
+      "source": "GAOKAO-Bench|year:2011|index:10|commit:6dbb24f8d843",
+      "title": "高考真题·数学·2011·10",
+      "tags": [
+        "kp:MATH-FUNCTION-PARITY",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "数学",
+      "chapter": "概率",
+      "knowledge_points": [
+        "古典概型"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "（5 分) 有 3 个兴趣小组, 甲、乙两位同学各自参加其中一个小组, 每位同 学参加各个小组的可能性相同, 则这两位同学参加同一个兴趣小组的概率为 ( )",
+      "options": [
+        "$\\frac{1}{3}$",
+        "$\\frac{1}{2}$",
+        "$\\frac{2}{3}$",
+        "$\\frac{3}{4}$"
+      ],
+      "answer": "A",
+      "solution": "解：由题意知本题是一个古典概型,\n\n试验发生包含的事件数是 $3 \\times 3=9$ 种结果，\n\n满足条件的事件是这两位同学参加同一个兴趣小组,\n\n由于共有三个小组, 则有 3 种结果,\n\n根据古典概型概率公式得到 $P=\\frac{3}{9}=\\frac{1}{3}$,\n\n故选: A.",
+      "source": "GAOKAO-Bench|year:2011|index:11|commit:6dbb24f8d843",
+      "title": "高考真题·数学·2011·11",
+      "tags": [
+        "kp:MATH-PROBABILITY-CLASSICAL",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "数学",
+      "chapter": "三角函数",
+      "knowledge_points": [
+        "同角三角函数的基本关系"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "(5 分) 已知角 $\\theta$ 的顶点与原点重合, 始边与 $\\mathrm{x}$ 轴的正半轴重合, 终边在直 线 $y=2 x$ 上, 则 $\\cos 2 \\theta=(\\quad)$",
+      "options": [
+        "$-\\frac{4}{5}$",
+        "$-\\frac{3}{5}$",
+        "$\\frac{3}{5}$",
+        "$\\frac{4}{5}$"
+      ],
+      "answer": "B",
+      "solution": "解：根据题意可知: $\\tan \\theta=2$,\n\n所以 $\\cos ^{2} \\theta=\\frac{1}{\\sec ^{2} \\theta}=\\frac{1}{\\tan ^{2} \\theta+1}=\\frac{1}{5}$,\n\n则 $\\cos 2 \\theta=2 \\cos ^{2} \\theta-1=2 \\times \\frac{1}{5}-1=-\\frac{3}{5}$.\n\n故选: B.",
+      "source": "GAOKAO-Bench|year:2011|index:12|commit:6dbb24f8d843",
+      "title": "高考真题·数学·2011·12",
+      "tags": [
+        "kp:MATH-TRIG-FUNDAMENTAL-IDENTITY",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "数学",
+      "chapter": "集合",
+      "knowledge_points": [
+        "集合的基本运算"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "（5 分）已知集合 $A=\\{1,2,3,4,5\\}, B=\\{(x, y) \\mid x \\in A, y \\in A, x-y \\in A\\}$, 则 $B$ 中所含元素的个数为（ $)$",
+      "options": [
+        "3",
+        "6",
+        "8",
+        "10"
+      ],
+      "answer": "D",
+      "solution": "解: 由题意, $x=5$ 时, $y=1,2,3,4$,\n\n$x=4$ 时 $, y=1,2,3$ ，\n\n$x=3$ 时, $y=1,2$,\n\n$x=2$ 时,$y=1$\n\n综上知, $\\mathrm{B}$ 中的元素个数为 10 个\n\n故选: D.",
+      "source": "GAOKAO-Bench|year:2012|index:17|commit:6dbb24f8d843",
+      "title": "高考真题·数学·2012·17",
+      "tags": [
+        "kp:MATH-SET-OPERATIONS",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "数学",
+      "chapter": "数列",
+      "knowledge_points": [
+        "等比数列的通项公式"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "(5 分）已知 $\\left\\{a_{n}\\right\\}$ 为等比数列, $a_{4}+a_{7}=2, a_{5} a_{6}=-8$, 则 $a_{1}+a_{10}=(\\quad)$",
+      "options": [
+        "7",
+        "5",
+        "-5",
+        "-7"
+      ],
+      "answer": "D",
+      "solution": "解: $\\because a_{4}+a_{7}=2$, 由等比数列的性质可得, $a_{5} a_{6}=a_{4} a_{7}=-8$\n\n$\\therefore a_{4}=4, a_{7}=-2$ 或 $a_{4}=-2, a_{7}=4$\n\n当 $a_{4}=4, a_{7}=-2$ 时, $q^{3}=-\\frac{1}{2}$,\n\n$\\therefore a_{1}=-8, a_{10}=1$\n\n$\\therefore a_{1}+a_{10}=-7$\n\n当 $a_{4}=-2, a_{7}=4$ 时, $q^{3}=-2$, 则 $a_{10}=-8, a_{1}=1$\n\n$\\therefore \\mathrm{a}_{1}+\\mathrm{a}_{10}=-7$\n\n综上可得, $\\mathrm{a}_{1}+\\mathrm{a}_{10}=-7$\n\n故选: D.",
+      "source": "GAOKAO-Bench|year:2012|index:20|commit:6dbb24f8d843",
+      "title": "高考真题·数学·2012·20",
+      "tags": [
+        "kp:MATH-SEQUENCE-GEOMETRIC-GENERAL",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "数学",
+      "chapter": "复数",
+      "knowledge_points": [
+        "复数的四则运算"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "(5 分) 若复数 $z$ 满足 $(3-4 i) z=|4+3 i|$, 则 $z$ 的虚部为（ ）",
+      "options": [
+        "-4",
+        "$-\\frac{4}{5}$",
+        "4",
+        "$\\frac{4}{5}$"
+      ],
+      "answer": "D",
+      "solution": "解: $\\because$ 复数 $z$ 满足 $(3-4 i) z=|4+3 i|, \\therefore z=\\frac{|4+3 i|}{3-4 i}=\\frac{5}{3-4 i}=\\frac{5(3+4 i)}{25}=\\frac{3}{5}+$ $\\frac{4}{5} i$\n\n故 $z$ 的虚部等于 $\\frac{4}{5}$,\n\n故选: D.",
+      "source": "GAOKAO-Bench|year:2013|index:24|commit:6dbb24f8d843",
+      "title": "高考真题·数学·2013·24",
+      "tags": [
+        "kp:MATH-COMPLEX-ARITHMETIC",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "数学",
+      "chapter": "数列",
+      "knowledge_points": [
+        "等差数列的通项公式"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "(5 分) 设等差数列 $\\left\\{a_{n}\\right\\}$ 的前 $n$ 项和为 $S_{n}$, 若 $S_{m-1}=-2, S_{m}=0, S_{m+1}=3$, 则 $m=$",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "C",
+      "solution": "解: $a_{m}=S_{m}-S_{m-1}=2, a_{m+1}=S_{m+1}-S_{m}=3$,\n\n所以公差 $d=a_{m+1}-a_{m}=1$,\n\n$S_{m}=\\frac{m\\left(a_{1}+a_{m}\\right)}{2}=0$\n\n$m-1>0, m>1$, 因此 $m$ 不能为 0 ,\n\n得 $\\mathrm{a}_{1}=-2$,\n\n所以 $a_{m}=-2+(m-1) \\cdot 1=2$, 解得 $m=5$,\n\n另解: 等差数列 $\\left\\{a_{n}\\right\\}$ 的前 $n$ 项和为 $S_{n}$, 即有数列 $\\left\\{\\frac{S_{n}}{n}\\right\\}$ 成等差数列,\n\n则 $\\frac{S_{m-1}}{m-1}, \\frac{S_{m}}{m}, \\frac{S_{m+1}}{m+1}$ 成等差数列,\n\n可得 $2 \\cdot \\frac{S_{m}}{m}=\\frac{S_{m-1}}{m-1}+\\frac{S_{m+1}}{m+1}$,\n\n即有 $0=\\frac{-2}{m-1}+\\frac{3}{m+1}$, 解得 $m=5$.\n\n又一解：由等差数列的求和公式可得 $\\frac{1}{2}(m-1) \\quad\\left(a_{1}+a_{m-1}\\right)=-2$,\n\n$\\frac{1}{2} m\\left(a_{1}+a_{m}\\right)=0, \\frac{1}{2}(m+1) \\quad\\left(a_{1}+a_{m+1}\\right)=3$,\n\n可得 $a_{1}=-a_{m},-2 a_{m}+a_{m+1}+a_{m+1}=\\frac{6}{m+1}+\\frac{-4}{m-1}=0$,\n\n解得 $m=5$.\n\n故选: C.",
+      "source": "GAOKAO-Bench|year:2013|index:27|commit:6dbb24f8d843",
+      "title": "高考真题·数学·2013·27",
+      "tags": [
+        "kp:MATH-SEQUENCE-ARITHMETIC-GENERAL",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "数学",
+      "chapter": "集合",
+      "knowledge_points": [
+        "集合的基本运算（交集）"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "（5 分）已知集合 $M=\\left\\{x \\mid(x-1)^{2}<4, x \\in R\\right\\}, N=\\{-1,0,1,2,3\\}$, 则 $M$ $\\cap N=(\\quad)$",
+      "options": [
+        "$\\{0,1,2\\}$",
+        "$\\{-1,0,1,2\\}$",
+        "$\\{-1,0,2,3\\}$",
+        "$\\{0,1,2,3\\}$"
+      ],
+      "answer": "A",
+      "solution": "解: 由 $(x-1)^{2}<4$, 解得: $-1<x<3$, 即 $M=\\{x \\mid-1<x<3\\}$,\n\n$\\because N=\\{-1,0,1,2,3\\}$,\n\n$\\therefore M \\cap N=\\{0,1,2\\}$.\n\n故选: A.",
+      "source": "GAOKAO-Bench|year:2013|index:31|commit:6dbb24f8d843",
+      "title": "高考真题·数学·2013·31",
+      "tags": [
+        "kp:MATH-SET-INTERSECTION",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "数学",
+      "chapter": "复数",
+      "knowledge_points": [
+        "复数的四则运算"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "（5 分）设复数 $z$ 满足 $(1-i) z=2 i$, 则 $z=(\\quad)$",
+      "options": [
+        "$-1+i$",
+        "$-1-i$",
+        "$1+i$",
+        "1- $\\mathrm{i}$"
+      ],
+      "answer": "A",
+      "solution": "解: $\\because$ 复数 $z$ 满足 $z(1-\\mathrm{i})=2 \\mathrm{i}$,\n\n$\\therefore z=\\frac{2 i}{1-i}=\\frac{2 i(1+i)}{(1-i)(1+i)}=-1+i$\n\n故选: A.",
+      "source": "GAOKAO-Bench|year:2013|index:32|commit:6dbb24f8d843",
+      "title": "高考真题·数学·2013·32",
+      "tags": [
+        "kp:MATH-COMPLEX-ARITHMETIC",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "数学",
+      "chapter": "函数",
+      "knowledge_points": [
+        "函数的奇偶性"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "（5 分) 设函数 $f(x), g(x)$ 的定义域都为 $R$, 且 $f(x)$ 是奇函数, $g(x)$ 是偶函数，则下列结论正确的是（ ）",
+      "options": [
+        "$f(x) \\bullet g(x)$ 是偶函数",
+        "$|f(x)| \\bullet g(x)$ 是奇函数",
+        "$f(x) \\bullet|g(x)|$ 是奇函数",
+        "$|f(x) \\cdot g(x)|$ 是奇函数"
+      ],
+      "answer": "C",
+      "solution": "解: $\\because \\mathrm{f}(\\mathrm{x})$ 是奇函数, $\\mathrm{g}(\\mathrm{x})$ 是偶函数,\n\n$\\therefore f(-\\mathrm{x})=-\\mathrm{f}(\\mathrm{x}), g(-\\mathrm{x})=\\mathrm{g}(\\mathrm{x})$,\n\n$f(-x) \\cdot g(-x)=-f(x) \\cdot g(x)$, 故函数是奇函数, 故 $A$ 错误,\n\n$|f(-x)| \\cdot g(-x)=|f(x)| \\cdot g(x)$ 为偶函数, 故 B 错误,\n\n$f(-x) \\cdot \\lg (-x)|=-f(x) \\cdot| g(x) \\mid$ 是奇函数, 故 C 正确.\n\n$|f(-x) \\cdot g(-x)|=|f(x) \\cdot g(x)|$ 为偶函数, 故 $D$ 错误,\n\n故选：C.",
+      "source": "GAOKAO-Bench|year:2014|index:39|commit:6dbb24f8d843",
+      "title": "高考真题·数学·2014·39",
+      "tags": [
+        "kp:MATH-FUNCTION-PARITY",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "数学",
+      "chapter": "概率",
+      "knowledge_points": [
+        "古典概型"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "（5 分） 4 位同学各自在周六、周日两天中任选一天参加公益活动, 则周六、 周日都有同学参加公益活动的概率为（）",
+      "options": [
+        "$\\frac{1}{8}$",
+        "$\\frac{3}{8}$",
+        "$\\frac{5}{8}$",
+        "$\\frac{7}{8}$"
+      ],
+      "answer": "D",
+      "solution": "解：4 位同学各自在周六、周日两天中任选一天参加公益活动, 共有 $2^{4}=16$ 种情况,\n\n周六、周日都有同学参加公益活动, 共有 $2^{4}-2=16-2=14$ 种情况,\n\n$\\therefore$ 所求概率为 $\\frac{14}{16}=\\frac{7}{8}$.\n\n故选: D.",
+      "source": "GAOKAO-Bench|year:2014|index:41|commit:6dbb24f8d843",
+      "title": "高考真题·数学·2014·41",
+      "tags": [
+        "kp:MATH-PROBABILITY-CLASSICAL",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "数学",
+      "chapter": "集合",
+      "knowledge_points": [
+        "集合的基本运算（交集）"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "（5 分）设集合 $M=\\{0,1,2\\}, N=\\left\\{x \\mid x^{2}-3 x+2 \\leqslant 0\\right\\}$, 则 $M \\cap N=(\\quad)$",
+      "options": [
+        "$\\{1\\}$",
+        "$\\{2\\}$",
+        "$\\{0,1\\}$",
+        "$\\{1,2\\}$"
+      ],
+      "answer": "D",
+      "solution": "解: $\\left.\\because N=\\left\\{x \\mid x^{2}-3 x+2 \\leqslant 0\\right\\}=\\{x \\mid （ x-1) \\quad(x-2) \\leqslant 0\\right\\}=\\{x \\mid 1 \\leqslant x \\leqslant 2\\}$,\n\n$\\therefore M \\cap N=\\{1,2\\}$,\n\n故选: D.",
+      "source": "GAOKAO-Bench|year:2014|index:45|commit:6dbb24f8d843",
+      "title": "高考真题·数学·2014·45",
+      "tags": [
+        "kp:MATH-SET-INTERSECTION",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "数学",
+      "chapter": "复数",
+      "knowledge_points": [
+        "复数的四则运算"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "(5 分) 设复数 $z_{1}, z_{2}$ 在复平面内的对应点关于虚轴对称, $z_{1}=2+i$, 则 $z_{1} z_{2}=$",
+      "options": [
+        "-5",
+        "5",
+        "$-4+i$",
+        "$-4-i$"
+      ],
+      "answer": "A",
+      "solution": "解： $z_{1}=2+i$ 对应的点的坐标为 $(2,1)$,\n\n$\\because$ 复数 $z_{1}, z_{2}$ 在复平面内的对应点关于虚轴对称,\n\n$\\therefore(2,1)$ 关于虚轴对称的点的坐标为 $(-2,1)$,\n\n则对应的复数, $z_{2}=-2+i$, 则 $z_{1} z_{2}=(2+i)(-2+i)=i^{2}-4=-1-4=-5$,\n\n故选: A.",
+      "source": "GAOKAO-Bench|year:2014|index:46|commit:6dbb24f8d843",
+      "title": "高考真题·数学·2014·46",
+      "tags": [
+        "kp:MATH-COMPLEX-ARITHMETIC",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "数学",
+      "chapter": "平面向量",
+      "knowledge_points": [
+        "平面向量的坐标运算"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "(5 分) 设向量 $\\vec{a}, \\vec{b}$ 满足 $|\\vec{a}+\\vec{b}|=\\sqrt{10},|\\vec{a}-\\vec{b}|=\\sqrt{6}$, 则 $\\vec{a} \\bullet \\vec{b}=(\\quad)$",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "5"
+      ],
+      "answer": "A",
+      "solution": "解: $\\because|\\vec{a}+\\vec{b}|=\\sqrt{10},|\\vec{a}-\\vec{b}|=\\sqrt{6}$,\n\n$\\therefore$ 分别平方得 $\\vec{a}^{2}+2 \\vec{a} \\bullet \\vec{b}+\\vec{b}^{2}=10, \\vec{a}^{2}-2 \\vec{a} \\bullet \\vec{b}+\\vec{b}^{2}=6$,\n\n两式相减得 $4 \\vec{a} \\bullet \\vec{b}=10-6=4$,\n\n即 $\\vec{a} \\cdot \\vec{b}=1$,\n\n故选: A.",
+      "source": "GAOKAO-Bench|year:2014|index:47|commit:6dbb24f8d843",
+      "title": "高考真题·数学·2014·47",
+      "tags": [
+        "kp:MATH-VECTOR-COORDINATE",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "数学",
+      "chapter": "导数",
+      "knowledge_points": [
+        "基本初等函数的导数"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "(5 分) 设曲线 $y=a x-\\ln (x+1)$ 在点 $(0,0)$ 处的切线方程为 $y=2 x$, 则 $a=($",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": "D",
+      "solution": "解: $y^{\\prime}=a \\frac{1}{x+1}$,\n\n$\\therefore y^{\\prime}(0)=a-1=2$\n\n$\\therefore a=3$.\n\n故选: D.",
+      "source": "GAOKAO-Bench|year:2014|index:50|commit:6dbb24f8d843",
+      "title": "高考真题·数学·2014·50",
+      "tags": [
+        "kp:MATH-DERIVATIVE-ELEMENTARY",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "数学",
+      "chapter": "数列",
+      "knowledge_points": [
+        "等比数列的通项公式"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "(5 分) 已知等比数列 $\\left\\{a_{n}\\right\\}$ 满足 $a_{1}=3, a_{1}+a_{3}+a_{5}=21$, 则 $a_{3}+a_{5}+a_{7}=(\\quad)$",
+      "options": [
+        "21",
+        "42",
+        "63",
+        "84"
+      ],
+      "answer": "B",
+      "solution": "解: $\\because a_{1}=3, a_{1}+a_{3}+a_{5}=21$,\n\n$\\therefore a_{1}\\left(1+q^{2}+q^{4}\\right)=21$\n\n$\\therefore q^{4}+q^{2}+1=7$\n\n$\\therefore q^{4}+q^{2}-6=0$\n\n$\\therefore q^{2}=2$\n\n$\\therefore a_{3}+a_{5}+a_{7}=a_{1}\\left(q^{2}+q^{4}+q^{6}\\right)=3 \\times(2+4+8)=42$.\n\n故选: B.",
+      "source": "GAOKAO-Bench|year:2015|index:61|commit:6dbb24f8d843",
+      "title": "高考真题·数学·2015·61",
+      "tags": [
+        "kp:MATH-SEQUENCE-GEOMETRIC-GENERAL",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "数学",
+      "chapter": "数列",
+      "knowledge_points": [
+        "等差数列的通项公式"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "(5 分) 已知等差数列 $\\left\\{a_{n}\\right\\}$ 前 9 项的和为 $27, a_{10}=8$, 则 $a_{100}=(\\quad)$",
+      "options": [
+        "100",
+        "99",
+        "98",
+        "97"
+      ],
+      "answer": "C",
+      "solution": "解: $\\because$ 等差数列 $\\left\\{a_{n}\\right\\}$ 前 9 项的和为 $27, \\mathrm{~S}_{9}=\\frac{9\\left(\\mathrm{a}_{1}+\\mathrm{a}_{9}\\right)}{2}=\\frac{9 \\times 2 \\mathrm{a}_{5}}{2}=9 a_{5}$.\n\n$\\therefore 9 a_{5}=27, a_{5}=3$,\n\n又 $\\because a_{10}=8$,\n\n$\\therefore \\mathrm{d}=1$,\n\n$\\therefore \\mathrm{a}_{100}=\\mathrm{a}_{5}+95 \\mathrm{~d}=98$,\n\n故选: C.",
+      "source": "GAOKAO-Bench|year:2016|index:67|commit:6dbb24f8d843",
+      "title": "高考真题·数学·2016·67",
+      "tags": [
+        "kp:MATH-SEQUENCE-ARITHMETIC-GENERAL",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "物理",
+      "chapter": "万有引力",
+      "knowledge_points": [
+        "万有引力定律"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "(3 分) 假设地球是一半径为 $R$ 、质量分布均匀的球体。一矿井深度为 $d$ 。已 知质量分布均匀的球壳对壳内物体的引力为零。矿井底部和地面处的重力加 速度大小之比为 $(\\quad)$",
+      "options": [
+        "$1-\\frac{d}{R}$",
+        "$1+\\frac{d}{R}$",
+        "$\\left(\\frac{\\mathrm{R}-\\mathrm{d}}{\\mathrm{R}}\\right)^{2}$",
+        "$\\left(\\frac{\\mathrm{R}}{\\mathrm{R}-\\mathrm{d}}\\right)^{2}$"
+      ],
+      "answer": "A",
+      "solution": "解: 令地球的密度为 $\\rho$, 则在地球表面, 重力和地球的万有引力大小相 等, 有: $g=\\mathrm{G} \\frac{\\mathrm{M}}{\\mathrm{R}^{2}}$,\n\n由于地球的质量为: $M=\\rho \\frac{4}{3} \\pi R^{3}$, 所以重力加速度的表达式可写成:\n\n$g=\\frac{G M}{R^{2}}=G \\frac{\\rho \\frac{4}{3} \\pi R^{3}}{R^{2}}=\\frac{4}{3} G \\rho \\pi R$.\n\n根据题意有, 质量分布均匀的球壳对壳内物体的引力为零, 固在深度为 $\\mathrm{d}$ 的井底 , 受到地球的万有引力即为半径等于（ $R-d ）$ 的球体在其表面产生的万有引 力, 故井底的重力加速度 $g^{\\prime}=\\frac{4}{3} \\mathrm{G} \\rho \\pi(\\mathrm{R}-\\mathrm{d})$\n\n所以有 $\\frac{\\mathrm{g}^{\\prime}}{\\mathrm{g}}=\\frac{\\frac{4}{3} \\mathrm{G} \\rho \\pi(\\mathrm{R}-\\mathrm{d})}{\\frac{4}{3} \\mathrm{G} \\rho \\pi \\mathrm{R}}=\\frac{\\mathrm{R}-\\mathrm{d}}{\\mathrm{R}}=1-\\frac{\\mathrm{d}}{\\mathrm{R}}$\n\n故选: $A$ 。",
+      "source": "GAOKAO-Bench|year:2012|index:9|commit:6dbb24f8d843",
+      "title": "高考真题·物理·2012·9",
+      "tags": [
+        "kp:PHY-GRAVITY-UNIVERSAL-LAW",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "物理",
+      "chapter": "平抛运动",
+      "knowledge_points": [
+        "平抛运动规律"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "(6 分) 取水平地面为重力势能零点, 一物块从某一高度水平抛出, 在抛出 点其动能与重力势能恰好相等. 不计空气阻力, 该物块落地时的速度方向与 水平方向的夹角为 $(\\quad)$",
+      "options": [
+        "$\\frac{\\pi}{6}$",
+        "$\\frac{\\pi}{4}$",
+        "$\\frac{\\pi}{3}$",
+        "$\\frac{5 \\pi}{12}$"
+      ],
+      "answer": "B",
+      "solution": "解: 设抛出时物体的初速度为 $v_{0}$, 高度为 $h$, 物块落地时的速度大小为 $v$, 方向与水平方向的夹角为 $\\alpha$. 根据机械能守恒定律得:\n\n$\\frac{1}{2} m v_{0}^{2}+m g h=\\frac{1}{2} m v^{2}$\n\n据题有: $\\frac{1}{2} m v_{0}^{2}=m g h$,\n\n联立解得: $v=\\sqrt{2} \\mathrm{v}_{0}$,\n\n则 $\\cos \\alpha=\\frac{\\mathrm{v}_{0}}{\\mathrm{v}}=\\frac{\\sqrt{2}}{2}$,\n\n得： $\\alpha=\\frac{\\pi}{4}$ 。\n\n故选: $\\mathrm{B}$ 。",
+      "source": "GAOKAO-Bench|year:2014|index:16|commit:6dbb24f8d843",
+      "title": "高考真题·物理·2014·16",
+      "tags": [
+        "kp:PHY-PROJECTILE-HORIZONTAL",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "物理",
+      "chapter": "牛顿运动定律",
+      "knowledge_points": [
+        "牛顿第二定律"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "(6 分) 一物体静止在粗䊁水平地面上, 现用一大小为 $\\mathrm{F}_{1}$ 的水平拉力拉动物 体, 经过一段时间后其速度为 $\\mathrm{v}$, 若将水平拉力的大小改为 $F_{2}$, 物体从静止开 始经过同样的时间后速度变为 $2 \\mathrm{v}$, 对于上述两个过程, 用 $W_{F 1} 、 W_{F 2}$ 分别表示 拉力 $F_{1} 、 F_{2}$ 所做的功, $W_{f 1} 、 W_{f 2}$ 分别表示前两次克服摩擦力所做的功, 则 ( $)$",
+      "options": [
+        "$\\mathrm{W}_{\\mathrm{F} 2}>4 \\mathrm{~W}_{\\mathrm{F} 1}, \\mathrm{~W}_{\\mathrm{f} 2}>2 \\mathrm{~W}_{\\mathrm{f} 1}$",
+        "$\\mathrm{W}_{\\mathrm{F} 2}>4 \\mathrm{~W}_{\\mathrm{F} 1}, \\mathrm{~W}_{\\mathrm{f} 2}=2 \\mathrm{~W}_{\\mathrm{f} 1}$",
+        "$\\mathrm{W}_{\\mathrm{F} 2}<4 \\mathrm{~W}_{\\mathrm{F} 1}, \\mathrm{~W}_{\\mathrm{f} 2}=2 \\mathrm{~W}_{\\mathrm{f} 1}$",
+        "$\\mathrm{W}_{\\mathrm{F} 2}<4 \\mathrm{~W}_{\\mathrm{F} 1}, \\mathrm{~W}_{\\mathrm{f} 2}<2 \\mathrm{~W}_{\\mathrm{f} 1}$"
+      ],
+      "answer": "C",
+      "solution": "解: 由题意可知, 两次物体均做匀加速运动, 则在同样的时间内, 它们 的位移之比为 $S_{1}: S_{2}=\\frac{\\mathrm{v}}{2} t: \\frac{2 \\mathrm{v}}{2} t=1: 2$;\n\n两次物体所受的摩擦力不变, 根据力做功表达式, 则有滑动摩擦力做功之比 $\\mathrm{W}_{\\mathrm{f} 1}$\n\n$: \\mathrm{W}_{\\mathrm{f2}}=\\mathrm{fS}_{1}: \\mathrm{fS}_{2}=1: 2 ;$\n\n再由动能定理, 则有: $W_{F^{-}} W_{f}=\\frac{1}{2} m v^{2}-0$;\n\n可知, $W_{F 1}-W_{f 1}=\\frac{1}{2} m v^{2}-0$;\n\n$\\mathrm{W}_{\\mathrm{F} 2}-\\mathrm{W}_{\\mathrm{f} 2}=4 \\times \\frac{1}{2} \\mathrm{mv} \\mathrm{v}^{2}-0$;\n\n由上两式可解得: $W_{F 2}=4 W_{F 1}-2 W_{f 1}$, 故 C 正确, $A B D$ 错误;\n\n故选: C。",
+      "source": "GAOKAO-Bench|year:2014|index:17|commit:6dbb24f8d843",
+      "title": "高考真题·物理·2014·17",
+      "tags": [
+        "kp:PHY-NEWTON-SECOND-LAW",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "物理",
+      "chapter": "万有引力",
+      "knowledge_points": [
+        "万有引力定律"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "(6 分) 假设地球可视为质量均匀分布的球体, 已知地球表面重力加速度在 两极的大小为 $g_{0}$, 赤道的大小为 $g$; 地球自转的周期为 $\\mathrm{T}$, 引力常量为 $G$. 则 地球的密度为 ( $)$",
+      "options": [
+        "$\\frac{3 \\pi g_{0}-g}{G T^{2} g_{0}}$",
+        "$\\frac{3 \\pi g_{0}}{G T^{2} g_{0}-g}$",
+        "$\\frac{3 \\pi}{\\mathrm{GT}^{2}}$",
+        "$\\frac{3 \\pi g_{0}}{G T^{2} g}$"
+      ],
+      "answer": "B",
+      "solution": "解: 在两极, 引力等于重力, 则有: $\\mathrm{mg}=\\mathrm{G} \\frac{\\mathrm{MW}}{\\mathrm{R}^{2}}$,\n\n由此可得地球质量 $M=\\frac{g_{0} R^{2}}{G}$,\n\n在赤道处, 引力与支持力的合力提供向心力, 由牛顿第二定律, 则有: $G \\frac{\\mathrm{mK}}{\\mathrm{R}^{2}}-\\mathrm{mg}=\\mathrm{m}$ $\\frac{4 \\pi^{2}}{T^{2}} R$\n\n而密度公式 $\\rho=\\frac{M}{V}$,\n\n$\\rho=\\frac{\\frac{g_{0} R^{2}}{G}}{\\frac{4}{3} \\pi R^{3}}=\\frac{3 \\pi g_{0}}{G T^{2}\\left(g_{0}-g\\right)}$, 故 B 正确, ACD 错误;\n\n故选: B。",
+      "source": "GAOKAO-Bench|year:2014|index:18|commit:6dbb24f8d843",
+      "title": "高考真题·物理·2014·18",
+      "tags": [
+        "kp:PHY-GRAVITY-UNIVERSAL-LAW",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "物理",
+      "chapter": "运动学",
+      "knowledge_points": [
+        "匀变速直线运动规律"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "(6 分) 一质点做速度逐渐增大的匀加速直线运动, 在时间间隔 $\\mathrm{t}$ 内位移为 $\\mathrm{s}$, 动能变为原来的 9 倍。该质点的加速度为 $(\\quad)$",
+      "options": [
+        "$\\frac{2 s}{t^{2}}$",
+        "$\\frac{s}{t^{2}}$",
+        "$\\frac{3 s}{2 t^{2}}$",
+        "$\\frac{4 s}{t^{2}}$"
+      ],
+      "answer": "B",
+      "solution": "【解答】解：设质点的初速度为 $\\mathrm{v}$, 则动能 $\\mathrm{E}_{\\mathrm{k} 1}=\\frac{1}{2} \\mathrm{mv}^{2}$, 由于末动能变为原来的 9 倍, 则可知, 末速度为原来的 3 倍, 故 $v^{\\prime}=3 \\mathrm{v}$;\n\n故平均速度 $\\bar{v}=\\frac{v+3 v}{2}=2 v$;\n\n根据位移公式可知: $\\bar{v}=\\frac{s}{t}$\n\n联立解得： $v=\\frac{s}{2 t}$;\n\n根据加速度定义可知 $a=\\frac{\\Delta v}{t}=\\frac{3 v-v}{t}=\\frac{2 \\times \\frac{s}{2 t}}{t}=\\frac{s}{t^{2}}$, 故 $B$ 正确, ACD 错误。\n\n故选: B。",
+      "source": "GAOKAO-Bench|year:2016|index:29|commit:6dbb24f8d843",
+      "title": "高考真题·物理·2016·29",
+      "tags": [
+        "kp:PHY-KINEMATICS-UNIFORM-ACCELERATION",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "物理",
+      "chapter": "动量",
+      "knowledge_points": [
+        "动量概念与计算"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "(6 分) 将质量为 $1.00 \\mathrm{~kg}$ 的模型火箭点火升空, $50 \\mathrm{~g}$ 燃烧的燃气以大小为 $600 \\mathrm{~m} / \\mathrm{s}$ 的速度从火箭喷口在很短时间内喷出。在燃气喷出后的瞬间, 火箭的 动量大小为 (喷出过程中重力和空气阻力可忽略) ( $）$",
+      "options": [
+        "$30 \\mathrm{~kg} \\cdot \\mathrm{m} / \\mathrm{s}$",
+        "$5.7 \\times 10^{2} \\mathrm{~kg} \\cdot \\mathrm{m} / \\mathrm{s}$",
+        "$6.0 \\times 10^{2} \\mathrm{~kg} \\cdot \\mathrm{m} / \\mathrm{s}$",
+        "$6.3 \\times 10^{2} \\mathrm{~kg} \\cdot \\mathrm{m} / \\mathrm{s}$"
+      ],
+      "answer": "A",
+      "solution": "解: 开始总动量为零, 规定气体喷出的方向为正方向, 根据动量守恒定 律得， $0=m_{1} v_{1}+P$,\n\n解得火箭的动量 $P=-\\mathrm{m}_{1} \\mathrm{v}_{1}=-0.05 \\times 600 \\mathrm{~kg} \\cdot \\mathrm{m} / \\mathrm{s}=-30 \\mathrm{~kg} \\cdot \\mathrm{m} / \\mathrm{s}$, 负号表示方向, 故 A 正确, B、C、D 错误。\n\n故选: A。",
+      "source": "GAOKAO-Bench|year:2017|index:30|commit:6dbb24f8d843",
+      "title": "高考真题·物理·2017·30",
+      "tags": [
+        "kp:PHY-MOMENTUM-BASIC",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "物理",
+      "chapter": "功和能",
+      "knowledge_points": [
+        "动能概念与计算"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "(6 分) 高铁列车在启动阶段的运动可看作初速度为零的匀加速直线运动, 在启动阶段，列车的动能（ $)$",
+      "options": [
+        "与它所经历的时间成正比",
+        "与它的位移成正比",
+        "与它的速度成正比",
+        "与它的动量成正比"
+      ],
+      "answer": "B",
+      "solution": "解: $A$ 、因列车做初速度为零的匀加速直线运动, 则有: $v=a t$, 而动能 表达式 $E_{k}=\\frac{1}{2} m v^{2}=\\frac{1}{2} m a^{2} t^{2}$, 可知动能与所经历的时间平方成正比, 故 $A$ 错误 ;\n\n$B 、$ 依据动能定理, 则有: $F$ 合 $x=\\frac{1}{2} m v^{2}-0$, 可知, 动能与它的位移成正比, 故 $B$ 正确;\n\nC、由动能表达式 $E_{k}=\\frac{1}{2} m v^{2}$, 可知, 动能与它的速度平方成正比, 故 $C$ 错误;\n\nD、依据动能与动量关系式, $E_{k}=\\frac{P^{2}}{2 \\mathrm{~m}}$, 可知, 动能与它的动量平方成正比, 故 $D$ 错误;\n\n故选: B。",
+      "source": "GAOKAO-Bench|year:2018|index:37|commit:6dbb24f8d843",
+      "title": "高考真题·物理·2018·37",
+      "tags": [
+        "kp:PHY-WORK-ENERGY-KINETIC",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "物理",
+      "chapter": "万有引力",
+      "knowledge_points": [
+        "万有引力定律"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "（6 分) 2018 年 2 月, 我国 $500 \\mathrm{~m}$ 口径射电望远镜 (天眼) 发现毫秒脉冲星 \"J0318+0253\", 其自转周期 $T=5.19 \\mathrm{~ms}$ 。假设星体为质量均匀分布的球体, 已 知万有引力常量为 $6.67 \\times 10^{-11} \\mathrm{~N} \\cdot \\mathrm{m}^{2} / \\mathrm{kg}^{2}$. 以周期 $T$ 稳定自转的星体的密度最 小值约为 ( $)$",
+      "options": [
+        "$5 \\times 10^{4} \\mathrm{~kg} / \\mathrm{m}^{3}$",
+        "$5 \\times 10^{12} \\mathrm{~kg} / \\mathrm{m}^{3}$",
+        "$5 \\times 10^{15} \\mathrm{~kg} / \\mathrm{m}^{3}$",
+        "$5 \\times 10^{18} \\mathrm{~kg} / \\mathrm{m}^{3}$"
+      ],
+      "answer": "C",
+      "solution": "解: 设位于该星体赤道处的小块物质质量为 $\\mathrm{m}$, 物体受到的星体的万有 引力恰好提供向心力, 这时星体不瓦解且有最小密度, 由万有引力定律结合牛顿第二定律得: $\\frac{\\mathrm{GM} M \\mathrm{~m}}{\\mathrm{R}^{2}}=\\mathrm{mR} \\frac{4 \\pi^{2}}{\\mathrm{~T}^{2}}$\n\n球体的体积为: $V=\\frac{4}{3} \\pi R^{3}$\n\n密度为: $\\rho=\\frac{\\mathbb{M}}{\\mathrm{V}}=\\frac{3 \\pi}{\\mathrm{GT}^{2}}$\n\n代入数据解得 $\\rho=\\frac{3 \\times 3.14}{6.67 \\times 10^{-11} \\times\\left(5.19 \\times 10^{-3}\\right)^{2}}=5 \\times 10^{15} \\mathrm{~kg} / \\mathrm{m}^{3}$. 故 C 正确、ABD\n\n错误;\n\n故选: C。",
+      "source": "GAOKAO-Bench|year:2018|index:40|commit:6dbb24f8d843",
+      "title": "高考真题·物理·2018·40",
+      "tags": [
+        "kp:PHY-GRAVITY-UNIVERSAL-LAW",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "物理",
+      "chapter": "动量",
+      "knowledge_points": [
+        "动量概念与计算"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "(6 分) 最近, 我国为 “长征九号” 研制的大推力新型火箭发动机联试成功, 这标志着我 国重型运载火箭的研发取得突破性进展。若某次实验中该发动机向后喷射的气体速度约 为 $3 \\mathrm{~km} / \\mathrm{s}$, 产生的推力约为 $4.8 \\times 10^{6} \\mathrm{~N}$, 则它在 $1 \\mathrm{~s}$ 时间内喷射的气体质量约为 $(\\quad)$",
+      "options": [
+        "$1.6 \\times 10^{2} \\mathrm{~kg}$",
+        "$1.6 \\times 10^{3} \\mathrm{~kg}$",
+        "$1.6 \\times 10^{5} \\mathrm{~kg}$",
+        "$1.6 \\times 10^{6} \\mathrm{~kg}$"
+      ],
+      "answer": "B",
+      "solution": "【解答】解: 以气体为研究对象, 设 $\\mathrm{t}=1 \\mathrm{~s}$ 内喷出的气体质量为 $\\mathrm{m}$, 根据动量定理可得:\n\n$\\mathrm{Ft}=\\mathrm{mv}-0$\n\n其中 $\\mathrm{v}=3 \\mathrm{~km} / \\mathrm{s}=3000 \\mathrm{~m} / \\mathrm{s}$\n\n解得: $\\mathrm{m}=\\frac{\\mathrm{Ft}}{\\mathrm{v}}=\\frac{4.8 \\times 10^{6} \\times 1}{3000} \\mathrm{~kg}=1.6 \\times 10^{3} \\mathrm{~kg}$, 故 B 正确, $\\mathrm{ACD}$ 错误。\n\n故选：B。",
+      "source": "GAOKAO-Bench|year:2019|index:43|commit:6dbb24f8d843",
+      "title": "高考真题·物理·2019·43",
+      "tags": [
+        "kp:PHY-MOMENTUM-BASIC",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "物理",
+      "chapter": "牛顿运动定律",
+      "knowledge_points": [
+        "牛顿第二定律"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "(6 分) 物块在轻绳的拉动下沿倾角为 $30^{\\circ}$ 的固定斜面向上匀速运动, 轻绳与斜面平行。 已知物块与斜面之间的动摩擦因数为 $\\frac{\\sqrt{3}}{3}$, 重力加速度取 $10 \\mathrm{~m} / \\mathrm{s}^{2}$. 若轻绳能承受的最大张 力为 $1500 \\mathrm{~N}$ ，则物块的质量最大为 $(\\quad)$",
+      "options": [
+        "$150 \\mathrm{~kg}$",
+        "$100 \\sqrt{3} \\mathrm{~kg}$",
+        "$200 \\mathrm{~kg}$",
+        "$200 \\sqrt{3} \\mathrm{~kg}$"
+      ],
+      "answer": "A",
+      "solution": "【解答】解: 以物体为研究对象, 沿斜面方向根据平衡条件可得:\n\n$\\mathrm{F}=\\mathrm{mg} \\sin 30^{\\circ}+\\mu \\mathrm{mg} \\cos 30^{\\circ}$\n\n当拉力最大时质量最大, 解得: $\\mathrm{m}=150 \\mathrm{~kg}$, 故 A 正确, $\\mathrm{BCD}$ 错误。\n\n故选：A。",
+      "source": "GAOKAO-Bench|year:2019|index:45|commit:6dbb24f8d843",
+      "title": "高考真题·物理·2019·45",
+      "tags": [
+        "kp:PHY-NEWTON-SECOND-LAW",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "物理",
+      "chapter": "圆周运动",
+      "knowledge_points": [
+        "向心加速度"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "(6 分) 金星、地球和火星绕太阳的公转均可视为匀速圆周运动, 它们的向心加速度大小 分别为 $\\mathrm{a}_{\\text {金、 }} \\mathrm{a}_{\\text {地、 }} \\mathrm{a}_{\\text {火 }}$, 它们沿轨道运行的速率分别为 $\\mathrm{v}_{\\text {金、 }} \\mathrm{v}_{\\text {地、 }} \\mathrm{v}$ 炏. 已知它们的轨道半 径 $\\mathrm{R}_{\\text {金 }}<\\mathrm{R}_{\\text {地 }}<\\mathrm{R}_{\\text {火 }}$ ，由此可以判定（（）",
+      "options": [
+        "$\\mathrm{a}_{\\text {金 }}>\\mathrm{a}_{\\text {地 }}>\\mathrm{a}_{\\text {火 }}$",
+        "$\\mathrm{a}_{\\text {火 }}>\\mathrm{a}_{\\text {地 }}>\\mathrm{a}_{\\text {金 }}$",
+        "$v_{\\text {地 }}>\\mathrm{v}_{\\text {火 }}>\\mathrm{v}_{\\text {金 }}$",
+        "$\\mathrm{v}_{\\text {火 }}>\\mathrm{v}_{\\text {地 }}>\\mathrm{v}_{\\text {金 }}$"
+      ],
+      "answer": "A",
+      "solution": "【解答】解: 行星绕太阳运动时, 万有引力提供向心力, 设太阳的质量为 $\\mathrm{M}$, 行星的质 量为 $\\mathrm{m}$, 行星的轨道半径为 $\\mathrm{r}$, 根据牛顿第二定律有:\n\n$G \\frac{M m}{r^{2}}=m a=m \\frac{v^{2}}{r}$\n\n可得向心加速度为 $a=G \\frac{M}{r^{2}}$, 线速度为 $v=\\sqrt{\\frac{G M}{r}}$, 由题意有 $R_{\\text {金 }}<R_{\\text {地 }}<R_{\\text {火 }}$, 所以有 $a \\hat{a}_{\\text {金 }}>a$ 地 $>\\mathrm{a}_{\\text {火 }}, \\mathrm{v}_{\\text {金 }}>\\mathrm{v}_{\\text {地 }}>\\mathrm{v}_{\\text {火 }}$, 故 A 正确, BCD 错误。\n\n故选: A。",
+      "source": "GAOKAO-Bench|year:2019|index:48|commit:6dbb24f8d843",
+      "title": "高考真题·物理·2019·48",
+      "tags": [
+        "kp:PHY-CIRCULAR-CENTRIPETAL-ACCELERATION",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "物理",
+      "chapter": "动量",
+      "knowledge_points": [
+        "动量概念与计算"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "(6 分) 行驶中的汽车如果发生剧烈碰撞, 车内的安全气囊会被弹出并瞬间充满气体。若 碰撞后汽车的速度在很短时间内减小为零, 关于安全气囊在此过程中的作用, 下列说法 正确的是 $(\\quad)$",
+      "options": [
+        "增加了司机单位面积的受力大小",
+        "减少了碰撞前后司机动量的变化量",
+        "将司机的动能全部转换成汽车的动能",
+        "延长了司机的受力时间并增大了司机的受力面积"
+      ],
+      "answer": "D",
+      "solution": "【解答】解: ABD、在碰撞过程中, 司机的动量的变化量是一定的, 但安全气囊会增加 作用的时间, 根据动量定理 $\\mathrm{Ft}=\\triangle \\mathrm{p}$ 可知, 可以减小司机受到的冲击力 $\\mathrm{F}$, 同时安全气囊 会增大司机的受力面积, 则司机单位面积的受力大小 $\\frac{F}{S}$ 减小, 故 $\\mathrm{AB}$ 错误, D 正确。\n\n$\\mathrm{C} 、$ 安全气囊只是延长了作用时间, 减小了司机的受力, 将司机的动能转换成气囊的弹性 势能，故 $\\mathrm{C}$ 错误。\n\n故选：D。",
+      "source": "GAOKAO-Bench|year:2020|index:49|commit:6dbb24f8d843",
+      "title": "高考真题·物理·2020·49",
+      "tags": [
+        "kp:PHY-MOMENTUM-BASIC",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "物理",
+      "chapter": "万有引力",
+      "knowledge_points": [
+        "万有引力定律"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "(6 分) “嫦娥四号” 探测器于 2019 年 1 月在月球背面成功着陆, 着陆前曾绕月球飞行, 某段时间可认为绕月做匀速圆周运动, 圆周半径为月球半径的 $\\mathrm{K}$ 倍。已知地球半径 $\\mathrm{R}$ 是 月球半径的 $\\mathrm{P}$ 倍, 地球质量是月球质量的 $\\mathrm{Q}$ 倍, 地球表面重力加速度大小为 $\\mathrm{g}$ 。则 “嫦 娥四号”绕月球做圆周运动的速率为（）",
+      "options": [
+        "$\\sqrt{\\frac{\\mathrm{RKg}}{\\mathrm{QP}}}$",
+        "$\\sqrt{\\frac{\\mathrm{RPKg}}{\\mathrm{Q}}}$",
+        "$\\sqrt{\\frac{\\mathrm{RQg}}{\\mathrm{KP}}}$",
+        "$\\sqrt{\\frac{\\mathrm{RPg}}{\\mathrm{QK}}}$"
+      ],
+      "answer": "D",
+      "solution": "【解答】解: 令月球的半径为 $\\mathrm{R}_{1}$, 月球的质量为 $\\mathrm{M}_{1}$, 地球的质量为 $\\mathrm{M}$, 嫦娥四号的质 量为 $\\mathrm{m}$, 则嫦娥四号” 绕月球做匀速圆周运动的半径为 $\\mathrm{KR}_{1}$, 根据牛顿第二定律有: $G \\frac{M_{1} m}{\\left(\\mathrm{KR}_{1}\\right)^{2}}=\\frac{\\mathrm{v}^{2}}{\\mathrm{KR}_{1}}$\n\n所以 $v=\\sqrt{\\frac{G M_{1}}{K_{R}}}=\\sqrt{\\frac{G \\frac{M}{Q}}{K \\frac{R}{P}}}=\\sqrt{\\frac{G M P}{K R Q}}$\n\n根据黄金代换式有: $\\mathrm{GM}=\\mathrm{gR}^{2}$ ，\n\n所以嫦娥四号” 绕月球做圆周运动的速率为: $v=\\sqrt{\\frac{\\mathrm{RPg}}{\\mathrm{QK}}}$, 故 $\\mathrm{ABC}$ 错误, $\\mathrm{D}$ 正确。\n\n故选：D。",
+      "source": "GAOKAO-Bench|year:2020|index:55|commit:6dbb24f8d843",
+      "title": "高考真题·物理·2020·55",
+      "tags": [
+        "kp:PHY-GRAVITY-UNIVERSAL-LAW",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "物理",
+      "chapter": "万有引力",
+      "knowledge_points": [
+        "万有引力定律"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "2021 年 2 月, 执行我国火星探测任务的 “天问一号” 探测器在成功实施三次近火制动后, 进人运行周期 约为 $1.8 \\times 10^{5} \\mathrm{~s}$ 的椭圆形停泊轨道, 轨道与火星表面的最近距离约为 $2.8 \\times 10^{5} \\mathrm{~m}$ 。已知火星半径约为 $3.4 \\times 10^{6} \\mathrm{~m}$, 火星表面处自由落体的加速度大小约为 $3.7 \\mathrm{~m} / \\mathrm{s}^{2}$, 则 “天问一号” 的停泊轨道与火星表面的最远距离约为",
+      "options": [
+        "$6 \\times 10^{5} \\mathrm{~m}$",
+        "$6 \\times 10^{6} \\mathrm{~m}$",
+        "$6 \\times 10^{7} \\mathrm{~m}$",
+        "$6 \\times 10^{8} \\mathrm{~m}$"
+      ],
+      "answer": "C",
+      "solution": "【详解】忽略火星自转则\n\n$$\n\\frac{G M m}{R^{2}}=m g(1)\n$$\n\n可知\n\n$$\nG M=g R^{2}\n$$\n\n设与为 $1.8 \\times 10^{5} \\mathrm{~s}$ 的椭圆形停泊轨道周期相同的圆形轨道半径为 $r$, 由万引力提供向心力可知\n\n$$\n\\frac{G M m}{r^{2}}=m \\frac{4 \\pi^{2}}{T^{2}} r(2)\n$$\n\n设近火点到火星中心为\n\n$$\nR_{1}=R+d_{1}(3\n$$\n\n设远火点到火星中心为\n\n$$\nR_{2}=R+d_{2}(4)\n$$\n\n由开普勒第三定律可知\n\n$$\n\\frac{r 3}{T^{2}}=\\frac{\\left(\\frac{R_{1}+R_{2}}{2}\\right)^{3}}{T^{2}}\n$$\n\n由以上分析可得\n\n$$\nd_{2} \\approx 6 \\times 10^{7} \\mathrm{~m}\n$$\n\n故选 $\\mathrm{C}$ 。",
+      "source": "GAOKAO-Bench|year:2021|index:57|commit:6dbb24f8d843",
+      "title": "高考真题·物理·2021·57",
+      "tags": [
+        "kp:PHY-GRAVITY-UNIVERSAL-LAW",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "物理",
+      "chapter": "万有引力",
+      "knowledge_points": [
+        "万有引力定律"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "2022 年 3 月, 中国航天员翟志刚、王亚平、叶光富在离地球表面约 $400 \\mathrm{~km}$ 的“天宫二号”空间站上通过天 地连线, 为同学们上了一堂精彩的科学课。通过直播画面可以看到, 在近地圆轨道上飞行的“天宫二号”中, 航天员可以自由地漂浮，这表明他们（）",
+      "options": [
+        "所受地球引力的大小近似为零",
+        "所受地球引力与飞船对其作用力两者的合力近似为零",
+        "所受地球引力的大小与其随飞船运动所需向心力的大小近似相等",
+        "在地球表面上所受引力的大小小于其随飞船运动所需向心力的大小"
+      ],
+      "answer": "C",
+      "solution": "【详解】ABC. 航天员在空间站中所受万有引力完全提供做圆周运动的向心力, 飞船对其作用力等于零, 故 C 正确, AB 错误;\n\nD. 根据万有引力公式\n\n$$\nF_{\\text {万 }}=G \\frac{M m}{r^{2}}\n$$\n\n可知在地球表面上所受引力的大小大于在飞船所受的万有引力大小, 因此地球表面引力大于其随飞船运动 所需向心力的大小, 故 D 错误。\n\n故选 C。",
+      "source": "GAOKAO-Bench|year:2022|index:60|commit:6dbb24f8d843",
+      "title": "高考真题·物理·2022·60",
+      "tags": [
+        "kp:PHY-GRAVITY-UNIVERSAL-LAW",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "时态",
+      "knowledge_points": [
+        "过去进行时"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "--- Have  you finished  reading  Jane  Eyre ? \n--- No, I        my homework  all day yesterday .",
+      "options": [
+        "was doing",
+        "would  do",
+        "had done",
+        "do"
+      ],
+      "answer": "A",
+      "solution": "【解答】 答案 A． was/were  doing，表示过去的某个时间点或时间段正在做某事\n，根据句意，我没有读完简爱，我昨天一天一直在写家庭作业． 故选 A． \n【点评】",
+      "source": "GAOKAO-Bench|year:2010|index:0|commit:6dbb24f8d843",
+      "title": "高考真题·英语·2010·0",
+      "tags": [
+        "kp:ENG-GRAMMAR-TENSE-PAST-CONTINUOUS",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "词汇",
+      "knowledge_points": [
+        "动词语境辨析"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "The workers      the glasses  and marked  on each box “This Side UP”.",
+      "options": [
+        "carried",
+        "delivered",
+        "pressed",
+        "packed"
+      ],
+      "answer": "D",
+      "solution": "【解答】 答案 D． carry\"拿，携带 \"；deliver\"递送，发表，给 …接生 \"；press\"压\"\n；pack\"包装 \"．根据常识和句意，先把玻璃杯 \"包装起来 \"再标上 \"此面朝上 \"．故\n  选D． \n【点评】",
+      "source": "GAOKAO-Bench|year:2010|index:1|commit:6dbb24f8d843",
+      "title": "高考真题·英语·2010·1",
+      "tags": [
+        "kp:ENG-VOCAB-CONTEXT-VERB",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "定语从句",
+      "knowledge_points": [
+        "定语从句关系词的选择"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "As a child , Jack studied  in a village  school ,       is named  after his grandfather .",
+      "options": [
+        "which",
+        "where",
+        "what",
+        "that"
+      ],
+      "answer": "A",
+      "solution": "【解答】答案： A． 题干中含有的从句是非限制性的定语从句， 所以不能用 that\n，what不能引导定语从句， 故排除 C，从句中缺少主语，应该用关系代词，所\n以排除 where．所以本题选 A． \n【点评】",
+      "source": "GAOKAO-Bench|year:2010|index:3|commit:6dbb24f8d843",
+      "title": "高考真题·英语·2010·3",
+      "tags": [
+        "kp:ENG-CLAUSE-RELATIVE-WORD-SELECTION",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "形容词",
+      "knowledge_points": [
+        "形容词比较级"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "I have  seldom  seen my mother       pleased  with my progress  as she is now.",
+      "options": [
+        "so",
+        "very",
+        "too",
+        "rather"
+      ],
+      "answer": "A",
+      "solution": "【解答】 答案： A  如此满意的语义， 只有 so pleased…as  能表达出来吧， as是\n像…一样， too表示 \"太…\"，rather  确实满意，像现在一样对我确实满意，这样\n的表达不符语境． 所以选择 A． \n【点评】",
+      "source": "GAOKAO-Bench|year:2010|index:5|commit:6dbb24f8d843",
+      "title": "高考真题·英语·2010·5",
+      "tags": [
+        "kp:ENG-GRAMMAR-ADJECTIVE-COMPARATIVE",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "时态",
+      "knowledge_points": [
+        "现在完成时"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "When  you are home , give a call to let me know  you        safely .",
+      "options": [
+        "are arriving",
+        "have  arrived",
+        "had arrived",
+        "will arrive"
+      ],
+      "answer": "B",
+      "solution": "【解答】 答案 B．本题主要考查动词时态．根据题意可知，这里要表达 \"回家后\n打电话确认已经安全到达 \"，所以应该用现在完成时 ，答案为 B项．A项和 D项\n均表示将来，没有 \"完成 \"之意，所以排除 ；C项为过去完成时，不符合题意，所\n以排除． 故选 B． \n【点评】",
+      "source": "GAOKAO-Bench|year:2010|index:7|commit:6dbb24f8d843",
+      "title": "高考真题·英语·2010·7",
+      "tags": [
+        "kp:ENG-GRAMMAR-TENSE-PRESENT-PERFECT",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "情态动词",
+      "knowledge_points": [
+        "情态动词的基本用法"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "Just be patient . You       expect  the world  to change  so soon .",
+      "options": [
+        "can’t",
+        "needn ’t",
+        "may not",
+        "will not"
+      ],
+      "answer": "A",
+      "solution": "【解答】 答案 A． can't \"不能，不可能 \"；needn't  \"不需要，没必要 \"；may \"一般\n用于肯定句中 ，表示可能 \"；will \"意愿或习惯性动作 \"．根据句意 ，要耐心点 ，你\n\"不能 \"期望世界变得如此之快， 故选 A． \n【点评】",
+      "source": "GAOKAO-Bench|year:2010|index:8|commit:6dbb24f8d843",
+      "title": "高考真题·英语·2010·8",
+      "tags": [
+        "kp:ENG-GRAMMAR-MODAL-BASIC",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "状语从句",
+      "knowledge_points": [
+        "条件状语从句"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "The little boy won’t go to sleep      his mother  tells him a story .",
+      "options": [
+        "or",
+        "unless",
+        "but",
+        "whether"
+      ],
+      "answer": "B",
+      "solution": "【解答】 答案 B．本题主要考查连词， unless  引导条件状语从句，意思是除非 ，\n如果不 =\"if not\"； A or 或，或者；还是；不然，否则；  C but但是，表转折； D \nwhether  是否、不管 …（还是 …）习惯用语 whether  or not．根据句意， 应该选 B\n． \n【点评】",
+      "source": "GAOKAO-Bench|year:2010|index:9|commit:6dbb24f8d843",
+      "title": "高考真题·英语·2010·9",
+      "tags": [
+        "kp:ENG-CLAUSE-ADVERBIAL-CONDITION",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "非谓语动词",
+      "knowledge_points": [
+        "动词不定式"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "--- Everybody  is going  to climb  the mountain . Can I go too, mum ? \n---         Wait  till you are old enough , dear.",
+      "options": [
+        "will you?",
+        "Why  not?",
+        "I hope  so.",
+        "I’m afraid  not."
+      ],
+      "answer": "D",
+      "solution": "【解答】 答案 D．A项\"Will用于第二人称表示征求对方的意见 \"；B项\"为什么\n不？ \"表示同意对方的观点； C项\"我希望如此 \"；D项\"我恐怕不行 \"；根据句意 \"\n亲爱的，等到你年龄足够大的时候再去 \"可知，孩子的妈妈不让孩子去爬山．因\n此D项符合语境， 故选 D． \n【点评】",
+      "source": "GAOKAO-Bench|year:2010|index:10|commit:6dbb24f8d843",
+      "title": "高考真题·英语·2010·10",
+      "tags": [
+        "kp:ENG-NONFINITE-INFINITIVE",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "非谓语动词",
+      "knowledge_points": [
+        "动词不定式"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "With  Father ’s Day around  the corner , I have  taken  some  money  out of the bank  \n         presents  for my dad.",
+      "options": [
+        "buy",
+        "to buy",
+        "buying",
+        "to have  bought"
+      ],
+      "answer": "B",
+      "solution": "【解答】答案 B．根据句意，我从银行里取钱的 \"目的是 \"为了给父亲买礼物，所\n以用不定式表示目的状语， 而to have  done  表示不定式的动作发生在主句之间 ，\n不符合题意， 故选 B． \n【点评】",
+      "source": "GAOKAO-Bench|year:2010|index:13|commit:6dbb24f8d843",
+      "title": "高考真题·英语·2010·13",
+      "tags": [
+        "kp:ENG-NONFINITE-INFINITIVE",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "词汇",
+      "knowledge_points": [
+        "固定搭配"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "My mother  opened  the drawer  to _________  the knives  and spoons .",
+      "options": [
+        "put away",
+        "put up",
+        "put on",
+        "put together"
+      ],
+      "answer": "A",
+      "solution": "【解答】 答案 A. put away\"放好，收好 \"；put up\"举起，搭建，张贴 \"；put on\"播\n放，上演，增加，穿上 \"；put together\"组合，装配 \". 根据句意 ，to _____  the knives  \nand spoons是目的状语，妈妈打开抽屉是为了 \"收好 \"刀和汤匙 . 故选 A.  \n【点评】",
+      "source": "GAOKAO-Bench|year:2010|index:17|commit:6dbb24f8d843",
+      "title": "高考真题·英语·2010·17",
+      "tags": [
+        "kp:ENG-VOCAB-COLLOCATION",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "主谓一致",
+      "knowledge_points": [
+        "一般现在时"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "Barbara  is easy to recognize  as she’s the only of the women  who ____  evening  \ndress .",
+      "options": [
+        "wear",
+        "wears",
+        "has worm",
+        "have  worm"
+      ],
+      "answer": "B",
+      "solution": "【解答】 答案： B 此题考查主谓一致和时态， the only one of …. 为先行词时，\n定语从句修饰的是 one，即who代替的是 one，而非后面的复数 women，根据主\n谓一致的原则，定语从句的谓语动词应该用单数， 排除 A/D；根据前句中的 \"is\"\n以及句意 ，可以看出句子表示只是个人穿着方面的一种习惯性动作 ，因此只须一\n般现在时即可， 由此可以排除 C，所以正确答案为 B.  \n【点评】",
+      "source": "GAOKAO-Bench|year:2010|index:18|commit:6dbb24f8d843",
+      "title": "高考真题·英语·2010·18",
+      "tags": [
+        "kp:ENG-GRAMMAR-TENSE-PRESENT-SIMPLE",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "形容词",
+      "knowledge_points": [
+        "形容词比较级"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "The island  is ____  attractive  in spring  and autumn  because  of the pleasant  weather  \nin both seasons .",
+      "options": [
+        "partly",
+        "merely",
+        "nearly",
+        "equally"
+      ],
+      "answer": "D",
+      "solution": "【解答】 答案： D，本题考查副词辨析 . A. partly  部分的， B. merely  只是，仅仅\n，C. nearly  几乎的， D. equally  相等的，同样的 . 根据题干的意思：这个岛屿在\n春天和秋天都同样的（ equally）迷人，因为这两季的惬意的天气 . 所以本题选择\nD.  \n【点评】",
+      "source": "GAOKAO-Bench|year:2010|index:22|commit:6dbb24f8d843",
+      "title": "高考真题·英语·2010·22",
+      "tags": [
+        "kp:ENG-GRAMMAR-ADJECTIVE-COMPARATIVE",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "被动语态",
+      "knowledge_points": [
+        "一般现在时被动语态"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "Linda , make  sure the tables  ____  before  the guests  arrive .",
+      "options": [
+        "be set",
+        "set",
+        "are set",
+        "are setting"
+      ],
+      "answer": "C",
+      "solution": "【解答】答案： C. make  sure后面加宾语从句 . 根据动词 set与其逻辑主语即句子\n的主语 the tables之间的关系可知， set tables桌子是被摆放的，所以需用被动语\n态，排除选项 B和D；另外根据题干中的 make  sure可知，后面跟陈述语气的宾\n语从句，不接虚拟语气， 所以排除选项 A. 故选 C.  \n【点评】",
+      "source": "GAOKAO-Bench|year:2010|index:24|commit:6dbb24f8d843",
+      "title": "高考真题·英语·2010·24",
+      "tags": [
+        "kp:ENG-GRAMMAR-VOICE-PRESENT-PASSIVE",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "定语从句",
+      "knowledge_points": [
+        "关系代词 that 的用法"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "I refuse  to accept  the blame  for something  _____  was someone  else’s fault.",
+      "options": [
+        "who",
+        "that",
+        "as",
+        "what"
+      ],
+      "answer": "B",
+      "solution": "【解答】 答案： B 本句中含有定语从句， what不可以引导定语从句， 所以排除\nD. 从句中缺少主语，所以应该用关系代词，当先行词是事物时，定语从句的关\n系代词可用 that 或which，可以排除 who. 但本句中先行词是不定代词 something\n，所以只能用关系代词 that. as作为关系代词时 ，先行词前面应有 such或so、the \nsame修饰，或代替一句话，不符本题题干 . 故选择 B.  \n【点评】",
+      "source": "GAOKAO-Bench|year:2010|index:25|commit:6dbb24f8d843",
+      "title": "高考真题·英语·2010·25",
+      "tags": [
+        "kp:ENG-CLAUSE-RELATIVE-THAT",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "情态动词",
+      "knowledge_points": [
+        "情态动词的基本用法"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "I’m afraid  Mr. Harding  ____  see you now, he’s busy .",
+      "options": [
+        "can’t",
+        "mustn ’t",
+        "shouldn ’t",
+        "needn ’t"
+      ],
+      "answer": "A",
+      "solution": "【解答】答案 A. can't \"不能，不可能 \"；mustn 't \"禁止，不允许 \"；shouldn 't \"不应\n该\"；needn 't \"不需要，没必要 \". 根据句意，他在忙，说明他现在 \"不能 \"见你 . 故\n选A.  \n【点评】",
+      "source": "GAOKAO-Bench|year:2010|index:26|commit:6dbb24f8d843",
+      "title": "高考真题·英语·2010·26",
+      "tags": [
+        "kp:ENG-GRAMMAR-MODAL-BASIC",
+        "origin:external",
+        "grade:high-school",
+        "review:required"
+      ]
+    }
+  ]
+}
