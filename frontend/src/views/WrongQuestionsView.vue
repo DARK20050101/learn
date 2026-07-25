@@ -4,6 +4,7 @@ import { useRouter } from 'vue-router'
 import { AlertCircle, Brain, ChevronDown, ChevronUp, Dumbbell, Lightbulb, RefreshCw } from 'lucide-vue-next'
 import AppNav from '../components/AppNav.vue'
 import LoadingState from '../components/LoadingState.vue'
+import RichText from '../components/RichText.vue'
 import { api } from '../services/api'
 import type { AnswerValue, WrongQuestion, WrongQuestionSort } from '../types'
 
@@ -158,9 +159,9 @@ onMounted(load)
 
         <div v-if="expandedId === item.question_id" class="border-t border-slate-100 px-5 pb-5">
           <div class="py-5">
-            <p class="whitespace-pre-line text-base font-semibold leading-7">{{ item.content }}</p>
+            <RichText :text="item.content" block class="text-base font-semibold leading-7"/>
             <ol v-if="item.options?.length" class="mt-4 space-y-2 text-sm text-slate-600">
-              <li v-for="(option, index) in item.options" :key="option" class="rounded-xl bg-slate-50 px-3 py-2.5">{{ String.fromCharCode(65 + index) }}. {{ option }}</li>
+              <li v-for="(option, index) in item.options" :key="option" class="rounded-xl bg-slate-50 px-3 py-2.5"><span class="mr-1">{{ String.fromCharCode(65 + index) }}.</span><RichText :text="option"/></li>
             </ol>
           </div>
           <div class="grid grid-cols-2 gap-3 text-sm">
@@ -169,7 +170,7 @@ onMounted(load)
           </div>
           <div v-if="item.explanation" class="mt-4 rounded-xl bg-amber-50/70 p-4">
             <div class="flex items-center gap-2 text-sm font-semibold"><Lightbulb :size="17" class="text-amber-500"/>标准解析</div>
-            <p class="mt-2 whitespace-pre-line text-sm leading-6 text-slate-600">{{ item.explanation }}</p>
+            <RichText :text="item.explanation" block class="mt-2 text-sm leading-6 text-slate-600"/>
           </div>
           <div class="mt-4 rounded-xl bg-slate-50 p-4">
             <div class="flex items-center gap-2 text-sm font-semibold"><Brain :size="17" class="text-leaf-600"/>AI错因分析</div>
