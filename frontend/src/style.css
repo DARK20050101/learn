@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { font-family: Inter, "PingFang SC", "Microsoft YaHei", sans-serif; color: #17231d; background: #f6f7f2; font-synthesis: none; }
+* { -webkit-tap-highlight-color: transparent; }
+html, body, #app { min-height: 100%; }
+body { margin: 0; background-image: radial-gradient(circle at 85% 2%, rgba(217,234,223,.8), transparent 30%), radial-gradient(circle at 0 80%, rgba(232,223,207,.5), transparent 28%); background-attachment: fixed; }
+button, a, input, textarea { touch-action: manipulation; }
+button:focus-visible, a:focus-visible, input:focus-visible, textarea:focus-visible { outline: 3px solid rgba(79,128,98,.28); outline-offset: 2px; }
+.safe-bottom { padding-bottom: max(1rem, env(safe-area-inset-bottom)); }
+.page-enter-active, .page-leave-active { transition: opacity .18s ease, transform .18s ease; }
+.page-enter-from { opacity: 0; transform: translateY(6px); }
+.page-leave-to { opacity: 0; transform: translateY(-4px); }

@@ -1,0 +1,392 @@
+{
+  "command": "lint",
+  "total": 50,
+  "passed": 50,
+  "errors": 0,
+  "warnings": 0,
+  "files": [
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "phase10_3_math_core_batch01_v1.json",
+      "total": 20,
+      "passed": 20,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "函数 f(x)=√(2x-4) 的定义域是（ ）。",
+          "content_hash": "873ee80191e3661a0660aabd824af1f0db9f437c3848b7d65a1ef6d96714fd0a",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 2,
+          "question": "函数 f(x)=1/(x-3) 的定义域是（ ）。",
+          "content_hash": "13e85e57860e10b2a61ec36f690a74ef017c9a891efff89843188be4df683a9d",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 3,
+          "question": "函数 f(x)=√(x+1)/(x-2) 的定义域是（ ）。",
+          "content_hash": "deedce03d3289da7df41795101da152f2ab8322c3501b96be959258f4e812b54",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 4,
+          "question": "一次函数 f(x)=-3x+2 在 R 上（ ）。",
+          "content_hash": "5f8018b297fddd15a770fcddffd9f00ad30d42a28b8392ad62898cc9d658fb21",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 5,
+          "question": "函数 f(x)=x²-4x+1 的单调递减区间是（ ）。",
+          "content_hash": "cab1e0b1a802022be7a6a81699b7752ddf33bcebe6a5cc89e8559f6095997c6b",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 6,
+          "question": "若函数 f(x)=(2-a)x+1 在 R 上单调递增，则实数 a 的取值范围是（ ）。",
+          "content_hash": "a3aa5c37391bf0cc33b1954a9d33918f529096f096e1a1a35cc01db288f59410",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 7,
+          "question": "下列函数中，在定义域内为奇函数的是（ ）。",
+          "content_hash": "e4a849951a12525b4e5daf80175b892829d572edcf473ef508eaafdb60d21935",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 8,
+          "question": "已知偶函数 f(x) 的定义域为 R，且 f(2)=5，则 f(-2) 等于（ ）。",
+          "content_hash": "aefe064290a7a8c6264c9525f149dab6c6ea0b8f0d054ac8a932fa9dd5978776",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 9,
+          "question": "等差数列{aₙ}中，a₁=3，公差d=2，则a₅等于（ ）。",
+          "content_hash": "f8f60e9cae9cda07a600f5341c266422a5e65f10fb8bb280706a352c91d509e7",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 10,
+          "question": "等差数列{aₙ}中，a₃=7，a₇=15，则公差d等于（ ）。",
+          "content_hash": "8ceeafe6937278e15e9a6783cf4dcd734a41e850f188f9be1cde93b9dc26ab03",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 11,
+          "question": "等差数列{aₙ}满足a₄+a₈=24，则a₆等于（ ）。",
+          "content_hash": "4c2b81fda2e2de34e9df22b2646390f4d9779fbc4e9166109a49c5c7d2af0d94",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 12,
+          "question": "等比数列{aₙ}中，a₁=2，公比q=3，则a₄等于（ ）。",
+          "content_hash": "38f4ff144bdeeb9e38cf10605250bcaf1234c1878c7414ff3bb525518b7b3c43",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 13,
+          "question": "正项等比数列{aₙ}中，a₂=4，a₄=16，则公比q等于（ ）。",
+          "content_hash": "a5682d66c3b9b19a1784ea39b19f9fdf59f5ad9194395591ca8322e68f7c0ef5",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 14,
+          "question": "sin 30° 的值是（ ）。",
+          "content_hash": "c0b5a0f6e67a66c5646f007fc7e0aac97c3061dac5d62d402daa736f02401abb",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 15,
+          "question": "cos 60°+tan 45° 的值是（ ）。",
+          "content_hash": "81704eb0de1f95c687572fcd9e1b38b34c7d2fabfe04da5ac7fa3994e6e0932b",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 16,
+          "question": "若α为锐角，sinα=3/5，则cosα等于（ ）。",
+          "content_hash": "643af17d7dba769062f940574c6bfc8c0f7ce8a23894b40a0860a44b854bea68",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 17,
+          "question": "已知tanα=2，且cosα≠0，则sinα/cosα的值为（ ）。",
+          "content_hash": "95429293ec0fc616c57c78ce96cd4949c28941c1657a874e2729ded642aa992a",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 18,
+          "question": "函数 f(x)=x³ 的导函数是（ ）。",
+          "content_hash": "deefd46be2cbb2dbe46f67e87194253b9348a58d4577722721f7a18165feb750",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 19,
+          "question": "函数 f(x)=2x²-3x+1，则f'(1)等于（ ）。",
+          "content_hash": "42d4186a066ff3435fe70d8a23107cf2e5b427428ae2656d3e7fccbf190b1c62",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 20,
+          "question": "曲线 y=x²+1 在点(1,2)处的切线斜率为（ ）。",
+          "content_hash": "7b0e19abc0ee3fa9cad78eab7c0970eef192ae137a1ed6a15fd29c72876fe8ab",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "phase10_3_physics_core_batch01_v1.json",
+      "total": 15,
+      "passed": 15,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "一辆汽车以5 m/s的初速度做匀加速直线运动，加速度为2 m/s²，3 s末速度为（ ）。",
+          "content_hash": "a140cf94787d03f617352f118b4bbe7d2ccde57d12128b2b6153b48b830b667a",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 2,
+          "question": "物体从静止开始做加速度为3 m/s²的匀加速直线运动，4 s内的位移为（ ）。",
+          "content_hash": "d7948bbf62569fb4b2a8015b5282b8584f0f5be72d3bf24a7274a1ad641731c5",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 3,
+          "question": "汽车以20 m/s的速度行驶，刹车后做加速度大小为4 m/s²的匀减速直线运动，从刹车到停止所用时间为（ ）。",
+          "content_hash": "6b165046d7772e0028feecfb2cd2b16ff3b0963f14456183a2fc18e024a73d4e",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 4,
+          "question": "忽略空气阻力，一物体从静止开始自由下落，取g=10 m/s²，2 s末速度大小为（ ）。",
+          "content_hash": "147160851d0bf7b3fa9033d68911a409bd7ff4a576e9b99f08163829e039e0d1",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 5,
+          "question": "忽略空气阻力，一物体从距地面45 m高处由静止释放，取g=10 m/s²，物体落地所需时间为（ ）。",
+          "content_hash": "ab0852b6468dea5c95185185a359fddd6dd7862679d57d4d703fb38fda901fb8",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 6,
+          "question": "物体同时受到方向相同的3 N和5 N两个力作用，这两个力的合力大小为（ ）。",
+          "content_hash": "93a9372dd652eb1532a66b192e4579702c3ccb86a9aa52dd9489c614b0f8e380",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 7,
+          "question": "物体受到方向相反的10 N和6 N两个共线力作用，合力大小为（ ）。",
+          "content_hash": "9102ca2206bc5dbf858f745a9c32e5a799b9a100980ca461361854452c8300a6",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 8,
+          "question": "两个大小分别为3 N和4 N、方向相互垂直的力，其合力大小为（ ）。",
+          "content_hash": "a6f56490a4f658aa6fb106addd688df00f3d9b18babdaf83c88146d193735976",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 9,
+          "question": "质量为2 kg的物体受到4 N的水平合力作用，其加速度大小为（ ）。",
+          "content_hash": "3aa59636844851c66d6c4d52cbff9aed8621c105cb1c954c8eb2ae5493240385",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 10,
+          "question": "质量为5 kg的物体以2 m/s²的加速度运动，物体所受合力大小为（ ）。",
+          "content_hash": "43b51469baf0371d26407aa1cae4dc76139f28d4d885c05737da6a6196ffde93",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 11,
+          "question": "质量为2 kg的物体在水平面上受到10 N水平拉力和4 N滑动摩擦力作用，物体的加速度大小为（ ）。",
+          "content_hash": "9189b6ac9159338dd03697b3f184c57a64f4fafff13395bdf9c0bf16e7d3955b",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 12,
+          "question": "质量相同的甲、乙两物体，甲的速度大小是乙的2倍，则甲、乙动能之比为（ ）。",
+          "content_hash": "05997fdcb8e91ef9656dc5d2029836c08058379d1944154ba9b6172cb096ae52",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 13,
+          "question": "水平恒力10 N作用在物体上，使物体沿力的方向移动3 m，该力做功为（ ）。",
+          "content_hash": "6d9a6d11a2257ec69d178ee367ded2ce3373d97df081a4263ae6d0d99c86fa8c",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 14,
+          "question": "物体在水平地面上向右移动5 m，受到大小为4 N、方向水平向左的摩擦力，摩擦力做功为（ ）。",
+          "content_hash": "ea2f14537d456e7994f6e0f7fdb9d0afff6569c57f961970fb9393d65d6e627a",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 15,
+          "question": "质量为2 kg的物体以3 m/s的速度运动，其动能为（ ）。",
+          "content_hash": "590d75a6a12357945396889ac9ea57488b59ac55f6a7254282c0c2ee96ea24c7",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "phase10_3_english_core_batch01_v1.json",
+      "total": 15,
+      "passed": 15,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "We decided ______ the museum after lunch.",
+          "content_hash": "be85ee0bcc26560e1213970fc5aa12d01dc9e3afa0bde60d5498b64733f335df",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 2,
+          "question": "My teacher encouraged me ______ the speaking competition.",
+          "content_hash": "22a7ec912bed0409a91e7b3cd017300dbb75f704dfbad8dc5d7b839689dff603",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 3,
+          "question": "To improve your English, it is important ______ every day.",
+          "content_hash": "35492f4038fc752f90d1c6a3f3388bebd5f52d8f3c0d5ba834b924eeaa348105",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 4,
+          "question": "______ books before bed helps me relax.",
+          "content_hash": "09c8ec21d8e63ac9192ae7b3254d23da2b2985d4a5e51b3b764c680853f6aee1",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 5,
+          "question": "______ enough sleep is necessary for students to stay focused in class.",
+          "content_hash": "518ee16977d673e74bbc1f80f99a18bdd9a04201655da3f8ed9724298aa86d15",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 6,
+          "question": "The book ______ I borrowed from the library is very useful.",
+          "content_hash": "b601d09922e1482a5df748fe2130ef6eada72f4447cea0edf56cdae608a60227",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 7,
+          "question": "This is the classroom ______ we had our first English lesson.",
+          "content_hash": "1ac79f66830ceb2eccf73ab7f51d74113265644922206cdcba58bbc1dd9ca4c6",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 8,
+          "question": "The student ______ mother is a doctor won the speech contest.",
+          "content_hash": "8fe1fa6851a2ba29f17b2635c45a63a95d61f368dd61d49218e433db311c67e1",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 9,
+          "question": "She ______ in Xining since she was ten years old.",
+          "content_hash": "3af341465c10fb1f72925fbcb88cc4f0ac79b29afb41df03afff56ee5d045433",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 10,
+          "question": "I ______ this movie twice, so I know the story well.",
+          "content_hash": "a820b2b50eebcea91bd7500410ce0de8954eaa2a3ef4f8a2220a36977aaacd0c",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 11,
+          "question": "—Can I borrow your dictionary? —Sorry, I ______ it to Li Ming.",
+          "content_hash": "df49326ab0b3303bc6087cc93a1b494eaf7b3fdbeeeed2166356ab908b6190e9",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 12,
+          "question": "Read the passage and answer the question.\n\nLi Hua studies for forty minutes and then takes a ten-min",
+          "content_hash": "4a55b425028630ab2214fdfa9bbdb50f6f193c7838b203bf8be908e3a78c22d7",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 13,
+          "question": "Read the passage and answer the question.\n\nThe school science club meets every Wednesday afternoon i",
+          "content_hash": "a7f13e05ab454f072e5bc22d545989e256d9da29569d2c91ca897d30e36b65b7",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 14,
+          "question": "Read the passage and choose the best title.\n\nKeeping a small vocabulary notebook can make English st",
+          "content_hash": "17fe05900734518bbe586bfd6e03f3145be8f2ea6e2f69e9d329b2b05ee41c26",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 15,
+          "question": "Read the passage and choose the main idea.\n\nMany students think exercise takes time away from study.",
+          "content_hash": "445e0062e09a480b8322e24306ec03dddfb2c1fe98f4fbc250f1981f582b3b9c",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    }
+  ]
+}

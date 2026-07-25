@@ -1,0 +1,1 @@
+<template><div class="flex min-h-[55vh] flex-col items-center justify-center gap-4 text-slate-500"><div class="h-8 w-8 animate-spin rounded-full border-2 border-leaf-100 border-t-leaf-600"/><p class="text-sm">正在准备你的学习内容…</p></div></template>

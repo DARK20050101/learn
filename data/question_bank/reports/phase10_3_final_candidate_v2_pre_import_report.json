@@ -1,0 +1,321 @@
+{
+  "report": "pre_import",
+  "filename": "phase10_3_final_candidate_v2.json",
+  "file_hash": "b2693182926e396a7f65c854a4f719edaeed43762791127899f91a6eeabbf356",
+  "mapping_version": "kp-mapping-v1.1",
+  "database": {
+    "questions": 60,
+    "primary_knowledge_point_links": 60,
+    "orphan_questions": 0,
+    "selected_question_count": 60,
+    "selected_questions_business_hash": "f0998e227443a16fa57dde566ead38df0ebe91a548c63bce9c25cf186d00dc41"
+  },
+  "total": 50,
+  "new_questions": 50,
+  "matching_duplicates": 0,
+  "conflicts": 0,
+  "errors": [],
+  "ready": true,
+  "items": [
+    {
+      "index": 1,
+      "content_hash": "2d2a1092a01c76fc8122144335987ac0b702cf191e4a79d021bda7e1490e382d",
+      "primary_code": "MATH-FUNCTION-DOMAIN",
+      "status": "new"
+    },
+    {
+      "index": 2,
+      "content_hash": "7bab7ffd631e52e9b54b7f7b5df015147409c575171989e34b94a3ed5a9296a6",
+      "primary_code": "MATH-FUNCTION-DOMAIN",
+      "status": "new"
+    },
+    {
+      "index": 3,
+      "content_hash": "7e30a78d2c8786a84a8a6354b12188746905f46a469bdea9abdd5066e015d00c",
+      "primary_code": "MATH-FUNCTION-DOMAIN",
+      "status": "new"
+    },
+    {
+      "index": 4,
+      "content_hash": "5f8018b297fddd15a770fcddffd9f00ad30d42a28b8392ad62898cc9d658fb21",
+      "primary_code": "MATH-FUNCTION-MONOTONICITY",
+      "status": "new"
+    },
+    {
+      "index": 5,
+      "content_hash": "cab1e0b1a802022be7a6a81699b7752ddf33bcebe6a5cc89e8559f6095997c6b",
+      "primary_code": "MATH-FUNCTION-MONOTONICITY",
+      "status": "new"
+    },
+    {
+      "index": 6,
+      "content_hash": "15320a9a1991c490493e139cb84cbbcf5760572b6d10a16a906dadd0605cf22c",
+      "primary_code": "MATH-FUNCTION-MONOTONICITY",
+      "status": "new"
+    },
+    {
+      "index": 7,
+      "content_hash": "e4a849951a12525b4e5daf80175b892829d572edcf473ef508eaafdb60d21935",
+      "primary_code": "MATH-FUNCTION-PARITY",
+      "status": "new"
+    },
+    {
+      "index": 8,
+      "content_hash": "4c0914563ff8c1f44345237e50519ce86174578d137b621fcc592fd045dc7c11",
+      "primary_code": "MATH-FUNCTION-PARITY",
+      "status": "new"
+    },
+    {
+      "index": 9,
+      "content_hash": "f8f60e9cae9cda07a600f5341c266422a5e65f10fb8bb280706a352c91d509e7",
+      "primary_code": "MATH-SEQUENCE-ARITHMETIC-GENERAL",
+      "status": "new"
+    },
+    {
+      "index": 10,
+      "content_hash": "8ceeafe6937278e15e9a6783cf4dcd734a41e850f188f9be1cde93b9dc26ab03",
+      "primary_code": "MATH-SEQUENCE-ARITHMETIC-GENERAL",
+      "status": "new"
+    },
+    {
+      "index": 11,
+      "content_hash": "d48bbd55fa165b893153ff17b01c577cba23e95cd34b9dd700ab627531bf60f1",
+      "primary_code": "MATH-SEQUENCE-ARITHMETIC-GENERAL",
+      "status": "new"
+    },
+    {
+      "index": 12,
+      "content_hash": "38f4ff144bdeeb9e38cf10605250bcaf1234c1878c7414ff3bb525518b7b3c43",
+      "primary_code": "MATH-SEQUENCE-GEOMETRIC-GENERAL",
+      "status": "new"
+    },
+    {
+      "index": 13,
+      "content_hash": "985540fb1f01a002117a93766c0aa5c115f19209424652bc012df8bbd17d128f",
+      "primary_code": "MATH-SEQUENCE-GEOMETRIC-GENERAL",
+      "status": "new"
+    },
+    {
+      "index": 14,
+      "content_hash": "c0b5a0f6e67a66c5646f007fc7e0aac97c3061dac5d62d402daa736f02401abb",
+      "primary_code": "MATH-TRIG-SPECIAL-ANGLE",
+      "status": "new"
+    },
+    {
+      "index": 15,
+      "content_hash": "81704eb0de1f95c687572fcd9e1b38b34c7d2fabfe04da5ac7fa3994e6e0932b",
+      "primary_code": "MATH-TRIG-SPECIAL-ANGLE",
+      "status": "new"
+    },
+    {
+      "index": 16,
+      "content_hash": "643af17d7dba769062f940574c6bfc8c0f7ce8a23894b40a0860a44b854bea68",
+      "primary_code": "MATH-TRIG-FUNDAMENTAL-IDENTITY",
+      "status": "new"
+    },
+    {
+      "index": 17,
+      "content_hash": "e430a7a06f7895768a7c3d07f5c5b2429e3fa50e9a27adc48b934ab64999f361",
+      "primary_code": "MATH-TRIG-FUNDAMENTAL-IDENTITY",
+      "status": "new"
+    },
+    {
+      "index": 18,
+      "content_hash": "deefd46be2cbb2dbe46f67e87194253b9348a58d4577722721f7a18165feb750",
+      "primary_code": "MATH-DERIVATIVE-ELEMENTARY",
+      "status": "new"
+    },
+    {
+      "index": 19,
+      "content_hash": "42d4186a066ff3435fe70d8a23107cf2e5b427428ae2656d3e7fccbf190b1c62",
+      "primary_code": "MATH-DERIVATIVE-ELEMENTARY",
+      "status": "new"
+    },
+    {
+      "index": 20,
+      "content_hash": "64d8e77cff1f584aed19dd2c478c5cc69a843d20fa9a03b9fa927de7204d8df6",
+      "primary_code": "MATH-DERIVATIVE-ELEMENTARY",
+      "status": "new"
+    },
+    {
+      "index": 21,
+      "content_hash": "a140cf94787d03f617352f118b4bbe7d2ccde57d12128b2b6153b48b830b667a",
+      "primary_code": "PHY-KINEMATICS-UNIFORM-ACCELERATION",
+      "status": "new"
+    },
+    {
+      "index": 22,
+      "content_hash": "d7948bbf62569fb4b2a8015b5282b8584f0f5be72d3bf24a7274a1ad641731c5",
+      "primary_code": "PHY-KINEMATICS-UNIFORM-ACCELERATION",
+      "status": "new"
+    },
+    {
+      "index": 23,
+      "content_hash": "4c90cbb6ed4a5a28fb64154d852d3a39e32c21e363b543340076d1bc57f94fcc",
+      "primary_code": "PHY-KINEMATICS-UNIFORM-ACCELERATION",
+      "status": "new"
+    },
+    {
+      "index": 24,
+      "content_hash": "278a1dd3c17c349495b4fc378d512867ec2b005190026fb2b4dc9169272bd6b6",
+      "primary_code": "PHY-KINEMATICS-FREE-FALL",
+      "status": "new"
+    },
+    {
+      "index": 25,
+      "content_hash": "426fb00ce4a0487c2cff4eb46b4a8fce518529af9b3122c6819aa30848816b94",
+      "primary_code": "PHY-KINEMATICS-FREE-FALL",
+      "status": "new"
+    },
+    {
+      "index": 26,
+      "content_hash": "59b7a2d33818fe2af02959227ab2aa5aac19a9aaa1b3eeebc082a70179ee6c93",
+      "primary_code": "PHY-FORCE-COMPOSITION",
+      "status": "new"
+    },
+    {
+      "index": 27,
+      "content_hash": "21bbe52deae321abb9158e271ac31ea4f926f96e2942e3a4815972cbfa9fab2f",
+      "primary_code": "PHY-FORCE-COMPOSITION",
+      "status": "new"
+    },
+    {
+      "index": 28,
+      "content_hash": "c3603ba2d20ed7310469d1695c2e1d6fab711733fa89bcbbb44889e7bf440a60",
+      "primary_code": "PHY-FORCE-COMPOSITION",
+      "status": "new"
+    },
+    {
+      "index": 29,
+      "content_hash": "3aa59636844851c66d6c4d52cbff9aed8621c105cb1c954c8eb2ae5493240385",
+      "primary_code": "PHY-NEWTON-SECOND-LAW",
+      "status": "new"
+    },
+    {
+      "index": 30,
+      "content_hash": "89f35048cdf876a6eb92f5b0e749708846f544dbda1f51528767f92792ac51b6",
+      "primary_code": "PHY-NEWTON-SECOND-LAW",
+      "status": "new"
+    },
+    {
+      "index": 31,
+      "content_hash": "3259e2531e17abbb3402d3354dd5e8bfc8a58ef919167085ff7cbd19368a190e",
+      "primary_code": "PHY-NEWTON-SECOND-LAW",
+      "status": "new"
+    },
+    {
+      "index": 32,
+      "content_hash": "05997fdcb8e91ef9656dc5d2029836c08058379d1944154ba9b6172cb096ae52",
+      "primary_code": "PHY-WORK-ENERGY-KINETIC",
+      "status": "new"
+    },
+    {
+      "index": 33,
+      "content_hash": "4e19f5fe9c5637cc6309ee1dc0c6c0e52dd2b190c3816eea20ef3ad405371b16",
+      "primary_code": "PHY-WORK-ENERGY-WORK-CALCULATION",
+      "status": "new"
+    },
+    {
+      "index": 34,
+      "content_hash": "2f5a43b917836be03e7d862bd17321cf82c179b086edb7223af9ecc86febac35",
+      "primary_code": "PHY-WORK-ENERGY-WORK-CALCULATION",
+      "status": "new"
+    },
+    {
+      "index": 35,
+      "content_hash": "226b3d889a25415c150bdf475e1ccad77f881c8fe2ceccd3865d25dda26eb74b",
+      "primary_code": "PHY-WORK-ENERGY-KINETIC",
+      "status": "new"
+    },
+    {
+      "index": 36,
+      "content_hash": "be85ee0bcc26560e1213970fc5aa12d01dc9e3afa0bde60d5498b64733f335df",
+      "primary_code": "ENG-NONFINITE-INFINITIVE",
+      "status": "new"
+    },
+    {
+      "index": 37,
+      "content_hash": "22a7ec912bed0409a91e7b3cd017300dbb75f704dfbad8dc5d7b839689dff603",
+      "primary_code": "ENG-NONFINITE-INFINITIVE",
+      "status": "new"
+    },
+    {
+      "index": 38,
+      "content_hash": "0e74dbccb7e84f4a86ff3ee1540c5987c7988ebafc4764f19411255d539cdc23",
+      "primary_code": "ENG-NONFINITE-INFINITIVE",
+      "status": "new"
+    },
+    {
+      "index": 39,
+      "content_hash": "09c8ec21d8e63ac9192ae7b3254d23da2b2985d4a5e51b3b764c680853f6aee1",
+      "primary_code": "ENG-NONFINITE-GERUND-SUBJECT",
+      "status": "new"
+    },
+    {
+      "index": 40,
+      "content_hash": "e25d4fe08ad6ca7c55029cf82ed7a5270bc331972af56ea8115d90de24cc217b",
+      "primary_code": "ENG-NONFINITE-GERUND-SUBJECT",
+      "status": "new"
+    },
+    {
+      "index": 41,
+      "content_hash": "b601d09922e1482a5df748fe2130ef6eada72f4447cea0edf56cdae608a60227",
+      "primary_code": "ENG-CLAUSE-RELATIVE-WORD-SELECTION",
+      "status": "new"
+    },
+    {
+      "index": 42,
+      "content_hash": "1ac79f66830ceb2eccf73ab7f51d74113265644922206cdcba58bbc1dd9ca4c6",
+      "primary_code": "ENG-CLAUSE-RELATIVE-WORD-SELECTION",
+      "status": "new"
+    },
+    {
+      "index": 43,
+      "content_hash": "d356f65a70e53d68c93f127d1b3d3eb74a9dcfd0468e0e6072ccdc96f72f8572",
+      "primary_code": "ENG-CLAUSE-RELATIVE-WORD-SELECTION",
+      "status": "new"
+    },
+    {
+      "index": 44,
+      "content_hash": "3af341465c10fb1f72925fbcb88cc4f0ac79b29afb41df03afff56ee5d045433",
+      "primary_code": "ENG-GRAMMAR-TENSE-PRESENT-PERFECT",
+      "status": "new"
+    },
+    {
+      "index": 45,
+      "content_hash": "0e392363380de5a2f57d3ae55c11df1fe2fd7de9c6e2eeccaf3f0a48cbb79b96",
+      "primary_code": "ENG-GRAMMAR-TENSE-PRESENT-PERFECT",
+      "status": "new"
+    },
+    {
+      "index": 46,
+      "content_hash": "e793014ad35971fac21f2eb82cc1ac080873098782074ecdcf3b278811c0998a",
+      "primary_code": "ENG-GRAMMAR-TENSE-PRESENT-PERFECT",
+      "status": "new"
+    },
+    {
+      "index": 47,
+      "content_hash": "15577de55907f03cf8afc40f059007c2c9ead2febd485e7834c77cc6a7413b22",
+      "primary_code": "ENG-READING-DETAIL",
+      "status": "new"
+    },
+    {
+      "index": 48,
+      "content_hash": "625d92f296e4e72ed554abb0c993e181daa6e9f48c0bdce09ec79ca11da47dfd",
+      "primary_code": "ENG-READING-DETAIL",
+      "status": "new"
+    },
+    {
+      "index": 49,
+      "content_hash": "17fe05900734518bbe586bfd6e03f3145be8f2ea6e2f69e9d329b2b05ee41c26",
+      "primary_code": "ENG-READING-MAIN-IDEA",
+      "status": "new"
+    },
+    {
+      "index": 50,
+      "content_hash": "ecdb06b64ce7bbb95dd46ec3c6e75e229086558877cf1a15ffce349f55acb890",
+      "primary_code": "ENG-READING-MAIN-IDEA",
+      "status": "new"
+    }
+  ]
+}
