@@ -1,0 +1,909 @@
+{
+  "dry_run": true,
+  "total": 50,
+  "content_changed": 6,
+  "activated": 50,
+  "answers_unchanged": true,
+  "items": [
+    {
+      "number": 1,
+      "question_id": 111,
+      "changed_content": false,
+      "primary_code": "MATH-DERIVATIVE-ELEMENTARY",
+      "before": {
+        "content_hash": "1ae3bb653f0cedfea555f4169172453ef23eb19c5b1fd97539f56be4e53154a2",
+        "difficulty": 3,
+        "is_active": true,
+        "knowledge_point_id": 345
+      },
+      "after": {
+        "content_hash": "1ae3bb653f0cedfea555f4169172453ef23eb19c5b1fd97539f56be4e53154a2",
+        "difficulty": 3,
+        "is_active": true,
+        "knowledge_point_id": 345
+      }
+    },
+    {
+      "number": 2,
+      "question_id": 112,
+      "changed_content": false,
+      "primary_code": "MATH-FUNCTION-PARITY",
+      "before": {
+        "content_hash": "5366ea9f0cb398e8b7c5b554a7d9a7eebb14611586048770dfd22945f963fd66",
+        "difficulty": 3,
+        "is_active": false,
+        "knowledge_point_id": 331
+      },
+      "after": {
+        "content_hash": "5366ea9f0cb398e8b7c5b554a7d9a7eebb14611586048770dfd22945f963fd66",
+        "difficulty": 3,
+        "is_active": true,
+        "knowledge_point_id": 331
+      }
+    },
+    {
+      "number": 3,
+      "question_id": 113,
+      "changed_content": false,
+      "primary_code": "MATH-COMPLEX-ARITHMETIC",
+      "before": {
+        "content_hash": "69364762e3edfba756d41647047511391dbec0108f78cf9183ebfe189ed866ac",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 346
+      },
+      "after": {
+        "content_hash": "69364762e3edfba756d41647047511391dbec0108f78cf9183ebfe189ed866ac",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 346
+      }
+    },
+    {
+      "number": 4,
+      "question_id": 114,
+      "changed_content": false,
+      "primary_code": "MATH-FUNCTION-PARITY",
+      "before": {
+        "content_hash": "4627865e62a3b55812460e2bffc78e8ffbd6df7d42d10fd726c6429b2b67d453",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 331
+      },
+      "after": {
+        "content_hash": "4627865e62a3b55812460e2bffc78e8ffbd6df7d42d10fd726c6429b2b67d453",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 331
+      }
+    },
+    {
+      "number": 5,
+      "question_id": 115,
+      "changed_content": false,
+      "primary_code": "MATH-PROBABILITY-CLASSICAL",
+      "before": {
+        "content_hash": "ff8d9448a8e4e41581364812fb56cbf18484fa5fd12d9543ddbdc6e8c3158d29",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 343
+      },
+      "after": {
+        "content_hash": "ff8d9448a8e4e41581364812fb56cbf18484fa5fd12d9543ddbdc6e8c3158d29",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 343
+      }
+    },
+    {
+      "number": 6,
+      "question_id": 116,
+      "changed_content": false,
+      "primary_code": "MATH-TRIG-FUNDAMENTAL-IDENTITY",
+      "before": {
+        "content_hash": "b3530e11c1c5ed5a351e544bf5c565fa8fccd0c8fab9baca2f6a1efaf85fb0f8",
+        "difficulty": 3,
+        "is_active": true,
+        "knowledge_point_id": 335
+      },
+      "after": {
+        "content_hash": "b3530e11c1c5ed5a351e544bf5c565fa8fccd0c8fab9baca2f6a1efaf85fb0f8",
+        "difficulty": 3,
+        "is_active": true,
+        "knowledge_point_id": 335
+      }
+    },
+    {
+      "number": 7,
+      "question_id": 117,
+      "changed_content": false,
+      "primary_code": "MATH-SET-OPERATIONS",
+      "before": {
+        "content_hash": "342e904c30d8e1138828027233e60c2b163dc77d5b19632d05cffe94430bbcee",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 391
+      },
+      "after": {
+        "content_hash": "342e904c30d8e1138828027233e60c2b163dc77d5b19632d05cffe94430bbcee",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 391
+      }
+    },
+    {
+      "number": 8,
+      "question_id": 118,
+      "changed_content": false,
+      "primary_code": "MATH-SEQUENCE-GEOMETRIC-GENERAL",
+      "before": {
+        "content_hash": "eaca1d86914b9017586b59014f6d4423cec3b7e8fc36ce26a547317879c599a1",
+        "difficulty": 4,
+        "is_active": true,
+        "knowledge_point_id": 338
+      },
+      "after": {
+        "content_hash": "eaca1d86914b9017586b59014f6d4423cec3b7e8fc36ce26a547317879c599a1",
+        "difficulty": 4,
+        "is_active": true,
+        "knowledge_point_id": 338
+      }
+    },
+    {
+      "number": 9,
+      "question_id": 119,
+      "changed_content": false,
+      "primary_code": "MATH-COMPLEX-ARITHMETIC",
+      "before": {
+        "content_hash": "86ff3afbe73ad4740bf52dacf3e1b82391c8634599390bb0b0c2a91bd919451d",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 346
+      },
+      "after": {
+        "content_hash": "86ff3afbe73ad4740bf52dacf3e1b82391c8634599390bb0b0c2a91bd919451d",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 346
+      }
+    },
+    {
+      "number": 10,
+      "question_id": 120,
+      "changed_content": false,
+      "primary_code": "MATH-SEQUENCE-ARITHMETIC-GENERAL",
+      "before": {
+        "content_hash": "29d5e7a5da317c1356aa607f2cd36f352bea7fcddded59139b159cc3ac99c514",
+        "difficulty": 3,
+        "is_active": true,
+        "knowledge_point_id": 337
+      },
+      "after": {
+        "content_hash": "29d5e7a5da317c1356aa607f2cd36f352bea7fcddded59139b159cc3ac99c514",
+        "difficulty": 3,
+        "is_active": true,
+        "knowledge_point_id": 337
+      }
+    },
+    {
+      "number": 11,
+      "question_id": 121,
+      "changed_content": false,
+      "primary_code": "MATH-SET-INTERSECTION",
+      "before": {
+        "content_hash": "6699cd69bf693412203fa2a38604b2dd2d4385331a0b255d4c1fb30bfe928717",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 391
+      },
+      "after": {
+        "content_hash": "6699cd69bf693412203fa2a38604b2dd2d4385331a0b255d4c1fb30bfe928717",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 327
+      }
+    },
+    {
+      "number": 12,
+      "question_id": 122,
+      "changed_content": false,
+      "primary_code": "MATH-COMPLEX-ARITHMETIC",
+      "before": {
+        "content_hash": "42b0d5d397eafb08fd58e1ba46a25bb6ef5ff9e4764347d8c31d3b0ac3ae0fce",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 346
+      },
+      "after": {
+        "content_hash": "42b0d5d397eafb08fd58e1ba46a25bb6ef5ff9e4764347d8c31d3b0ac3ae0fce",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 346
+      }
+    },
+    {
+      "number": 13,
+      "question_id": 123,
+      "changed_content": false,
+      "primary_code": "MATH-FUNCTION-PARITY",
+      "before": {
+        "content_hash": "028aa39a14f13c423b4749ccaf9affe9b8d8e9182d7b6132099080a1f44f3c20",
+        "difficulty": 2,
+        "is_active": false,
+        "knowledge_point_id": 331
+      },
+      "after": {
+        "content_hash": "028aa39a14f13c423b4749ccaf9affe9b8d8e9182d7b6132099080a1f44f3c20",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 331
+      }
+    },
+    {
+      "number": 14,
+      "question_id": 124,
+      "changed_content": false,
+      "primary_code": "MATH-PROBABILITY-CLASSICAL",
+      "before": {
+        "content_hash": "943a83a9fa3e9fc46f6167db8f11739ab6bb1e9d5c76186a2efb45fd8a689fb1",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 343
+      },
+      "after": {
+        "content_hash": "943a83a9fa3e9fc46f6167db8f11739ab6bb1e9d5c76186a2efb45fd8a689fb1",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 343
+      }
+    },
+    {
+      "number": 15,
+      "question_id": 125,
+      "changed_content": false,
+      "primary_code": "MATH-SET-INTERSECTION",
+      "before": {
+        "content_hash": "eae2866229b8d64cdbb1decc7adb7b2ef7fc97e068b8270c314001a98e18b9d5",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 391
+      },
+      "after": {
+        "content_hash": "eae2866229b8d64cdbb1decc7adb7b2ef7fc97e068b8270c314001a98e18b9d5",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 327
+      }
+    },
+    {
+      "number": 16,
+      "question_id": 126,
+      "changed_content": false,
+      "primary_code": "MATH-COMPLEX-ARITHMETIC",
+      "before": {
+        "content_hash": "ac82fda964fe3d8c7fe88995786eb8fb2986711926e253fba32422c6e0fd2749",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 346
+      },
+      "after": {
+        "content_hash": "ac82fda964fe3d8c7fe88995786eb8fb2986711926e253fba32422c6e0fd2749",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 346
+      }
+    },
+    {
+      "number": 17,
+      "question_id": 127,
+      "changed_content": false,
+      "primary_code": "MATH-VECTOR-DOT-PRODUCT",
+      "before": {
+        "content_hash": "2bb5c170a1efcc318bfb8c971bb834ddb064cfbb638dd6653d514ffe381ebb97",
+        "difficulty": 3,
+        "is_active": false,
+        "knowledge_point_id": 336
+      },
+      "after": {
+        "content_hash": "2bb5c170a1efcc318bfb8c971bb834ddb064cfbb638dd6653d514ffe381ebb97",
+        "difficulty": 3,
+        "is_active": true,
+        "knowledge_point_id": 401
+      }
+    },
+    {
+      "number": 18,
+      "question_id": 128,
+      "changed_content": false,
+      "primary_code": "MATH-DERIVATIVE-ELEMENTARY",
+      "before": {
+        "content_hash": "34b531a5ab1445f1e59218c8e6ee48ac052bf3a4f415ba4fb36cc2c2caf5bbdd",
+        "difficulty": 3,
+        "is_active": false,
+        "knowledge_point_id": 345
+      },
+      "after": {
+        "content_hash": "34b531a5ab1445f1e59218c8e6ee48ac052bf3a4f415ba4fb36cc2c2caf5bbdd",
+        "difficulty": 3,
+        "is_active": true,
+        "knowledge_point_id": 345
+      }
+    },
+    {
+      "number": 19,
+      "question_id": 129,
+      "changed_content": false,
+      "primary_code": "MATH-SEQUENCE-GEOMETRIC-GENERAL",
+      "before": {
+        "content_hash": "607f116cbd94b61ab43ba58665b876e70e704643cb5bcc8376f2a708b0563fe6",
+        "difficulty": 3,
+        "is_active": true,
+        "knowledge_point_id": 338
+      },
+      "after": {
+        "content_hash": "607f116cbd94b61ab43ba58665b876e70e704643cb5bcc8376f2a708b0563fe6",
+        "difficulty": 3,
+        "is_active": true,
+        "knowledge_point_id": 338
+      }
+    },
+    {
+      "number": 20,
+      "question_id": 130,
+      "changed_content": false,
+      "primary_code": "MATH-SEQUENCE-ARITHMETIC-GENERAL",
+      "before": {
+        "content_hash": "1aa3c97253057d50068ab09e9f7cc6e124a3b3b133df907b8bab52b3f1fd9ea5",
+        "difficulty": 3,
+        "is_active": true,
+        "knowledge_point_id": 337
+      },
+      "after": {
+        "content_hash": "1aa3c97253057d50068ab09e9f7cc6e124a3b3b133df907b8bab52b3f1fd9ea5",
+        "difficulty": 3,
+        "is_active": true,
+        "knowledge_point_id": 337
+      }
+    },
+    {
+      "number": 21,
+      "question_id": 131,
+      "changed_content": false,
+      "primary_code": "PHY-GRAVITY-UNIVERSAL-LAW",
+      "before": {
+        "content_hash": "ec6719426414588d19e40220842b84d01a7d037ecae822f6abd4e8ac2bca0cda",
+        "difficulty": 4,
+        "is_active": true,
+        "knowledge_point_id": 356
+      },
+      "after": {
+        "content_hash": "ec6719426414588d19e40220842b84d01a7d037ecae822f6abd4e8ac2bca0cda",
+        "difficulty": 4,
+        "is_active": true,
+        "knowledge_point_id": 356
+      }
+    },
+    {
+      "number": 22,
+      "question_id": 132,
+      "changed_content": false,
+      "primary_code": "PHY-PROJECTILE-HORIZONTAL",
+      "before": {
+        "content_hash": "500fd3a1176ae609b9b83bf2aed7a9f2d89312320e78bf4d5b7288ee030bc184",
+        "difficulty": 3,
+        "is_active": true,
+        "knowledge_point_id": 354
+      },
+      "after": {
+        "content_hash": "500fd3a1176ae609b9b83bf2aed7a9f2d89312320e78bf4d5b7288ee030bc184",
+        "difficulty": 3,
+        "is_active": true,
+        "knowledge_point_id": 354
+      }
+    },
+    {
+      "number": 23,
+      "question_id": 133,
+      "changed_content": true,
+      "primary_code": "PHY-WORK-ENERGY-WORK-CALCULATION",
+      "before": {
+        "content_hash": "d4dd681752a41e46a6338ad10ed295904436189cccff42a28d5401c9b450a939",
+        "difficulty": 4,
+        "is_active": false,
+        "knowledge_point_id": 353
+      },
+      "after": {
+        "content_hash": "20aa3a88e77afd760efa7080a4a15dfc3fbfcdbe25237edc400c9b9de215ec94",
+        "difficulty": 4,
+        "is_active": true,
+        "knowledge_point_id": 357
+      }
+    },
+    {
+      "number": 24,
+      "question_id": 134,
+      "changed_content": true,
+      "primary_code": "PHY-GRAVITY-UNIVERSAL-LAW",
+      "before": {
+        "content_hash": "eee44cb0c04997d4db42f12f8bff1dda265c767b2a8e5bd19763e207548fe65b",
+        "difficulty": 4,
+        "is_active": false,
+        "knowledge_point_id": 356
+      },
+      "after": {
+        "content_hash": "394586fbb573ff73b770f7572e10d74acac292c63f0512d5c286d33881f3a6b3",
+        "difficulty": 4,
+        "is_active": true,
+        "knowledge_point_id": 356
+      }
+    },
+    {
+      "number": 25,
+      "question_id": 135,
+      "changed_content": false,
+      "primary_code": "PHY-KINEMATICS-UNIFORM-ACCELERATION",
+      "before": {
+        "content_hash": "7d152e28486c2354ca225470bd0594022c2fa1997b45ae1935990f6b935d1fe4",
+        "difficulty": 3,
+        "is_active": true,
+        "knowledge_point_id": 392
+      },
+      "after": {
+        "content_hash": "7d152e28486c2354ca225470bd0594022c2fa1997b45ae1935990f6b935d1fe4",
+        "difficulty": 3,
+        "is_active": true,
+        "knowledge_point_id": 392
+      }
+    },
+    {
+      "number": 26,
+      "question_id": 136,
+      "changed_content": false,
+      "primary_code": "PHY-MOMENTUM-BASIC",
+      "before": {
+        "content_hash": "6f2c23edeb87a54b6ee817f0ac530f41a9e2c878447410f07d6a34746379f1b2",
+        "difficulty": 3,
+        "is_active": true,
+        "knowledge_point_id": 359
+      },
+      "after": {
+        "content_hash": "6f2c23edeb87a54b6ee817f0ac530f41a9e2c878447410f07d6a34746379f1b2",
+        "difficulty": 3,
+        "is_active": true,
+        "knowledge_point_id": 359
+      }
+    },
+    {
+      "number": 27,
+      "question_id": 137,
+      "changed_content": false,
+      "primary_code": "PHY-WORK-ENERGY-KINETIC",
+      "before": {
+        "content_hash": "f536a164827fe2beb67c295e5626ffbe8ecaafbd3e4e2c12ced68b805883f11e",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 358
+      },
+      "after": {
+        "content_hash": "f536a164827fe2beb67c295e5626ffbe8ecaafbd3e4e2c12ced68b805883f11e",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 358
+      }
+    },
+    {
+      "number": 28,
+      "question_id": 138,
+      "changed_content": false,
+      "primary_code": "PHY-GRAVITY-UNIVERSAL-LAW",
+      "before": {
+        "content_hash": "a6c7975bff882d31087a98e7fa15024e02cb5f2fdec46aaa2022c9eab9bcc91c",
+        "difficulty": 4,
+        "is_active": true,
+        "knowledge_point_id": 356
+      },
+      "after": {
+        "content_hash": "a6c7975bff882d31087a98e7fa15024e02cb5f2fdec46aaa2022c9eab9bcc91c",
+        "difficulty": 4,
+        "is_active": true,
+        "knowledge_point_id": 356
+      }
+    },
+    {
+      "number": 29,
+      "question_id": 139,
+      "changed_content": false,
+      "primary_code": "PHY-MOMENTUM-BASIC",
+      "before": {
+        "content_hash": "1c08e7d0b51fb03e79b53d1d40fad8962a8907b8c2b1c6eb44a8489de68a93c4",
+        "difficulty": 3,
+        "is_active": true,
+        "knowledge_point_id": 359
+      },
+      "after": {
+        "content_hash": "1c08e7d0b51fb03e79b53d1d40fad8962a8907b8c2b1c6eb44a8489de68a93c4",
+        "difficulty": 3,
+        "is_active": true,
+        "knowledge_point_id": 359
+      }
+    },
+    {
+      "number": 30,
+      "question_id": 140,
+      "changed_content": false,
+      "primary_code": "PHY-NEWTON-SECOND-LAW",
+      "before": {
+        "content_hash": "ccc404951a694115544c3ae1f9cb858c9573a964f7e04bda97926b02398cdfc3",
+        "difficulty": 3,
+        "is_active": true,
+        "knowledge_point_id": 353
+      },
+      "after": {
+        "content_hash": "ccc404951a694115544c3ae1f9cb858c9573a964f7e04bda97926b02398cdfc3",
+        "difficulty": 3,
+        "is_active": true,
+        "knowledge_point_id": 353
+      }
+    },
+    {
+      "number": 31,
+      "question_id": 141,
+      "changed_content": true,
+      "primary_code": "PHY-CIRCULAR-CENTRIPETAL-ACCELERATION",
+      "before": {
+        "content_hash": "1eb2b3fb51e2644904565b8c718793beabc0a19480387772a48b7df730966494",
+        "difficulty": 3,
+        "is_active": false,
+        "knowledge_point_id": 355
+      },
+      "after": {
+        "content_hash": "b5fa28dd5c4e4b9886e373de138ed28170c05351f05227b030c0096123d7608d",
+        "difficulty": 3,
+        "is_active": true,
+        "knowledge_point_id": 355
+      }
+    },
+    {
+      "number": 32,
+      "question_id": 142,
+      "changed_content": false,
+      "primary_code": "PHY-MOMENTUM-BASIC",
+      "before": {
+        "content_hash": "ed2ddf2987ebe62fb3021135b93d630ef2b9b5748bde467373b1aa6b0b1a8fc0",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 359
+      },
+      "after": {
+        "content_hash": "ed2ddf2987ebe62fb3021135b93d630ef2b9b5748bde467373b1aa6b0b1a8fc0",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 359
+      }
+    },
+    {
+      "number": 33,
+      "question_id": 143,
+      "changed_content": false,
+      "primary_code": "PHY-GRAVITY-UNIVERSAL-LAW",
+      "before": {
+        "content_hash": "c1c3ac37d73145e23166dc21c87f2ee61b446cc4bceca6f8d027778a4f690aea",
+        "difficulty": 4,
+        "is_active": true,
+        "knowledge_point_id": 356
+      },
+      "after": {
+        "content_hash": "c1c3ac37d73145e23166dc21c87f2ee61b446cc4bceca6f8d027778a4f690aea",
+        "difficulty": 4,
+        "is_active": true,
+        "knowledge_point_id": 356
+      }
+    },
+    {
+      "number": 34,
+      "question_id": 144,
+      "changed_content": true,
+      "primary_code": "PHY-GRAVITY-UNIVERSAL-LAW",
+      "before": {
+        "content_hash": "054fe9f4b074195f9723002e373f9dd1366b4c3c16131028eb76b8c4f95aabd1",
+        "difficulty": 4,
+        "is_active": false,
+        "knowledge_point_id": 356
+      },
+      "after": {
+        "content_hash": "96d9e6955880029146d6c8752dd73a6a28161c3d3781f8b4d8e5e6f3fdad7160",
+        "difficulty": 4,
+        "is_active": true,
+        "knowledge_point_id": 356
+      }
+    },
+    {
+      "number": 35,
+      "question_id": 145,
+      "changed_content": true,
+      "primary_code": "PHY-GRAVITY-UNIVERSAL-LAW",
+      "before": {
+        "content_hash": "7002a054207fc9c2e53aec327819bbc0e038e2d30cd14678fbf10b190f58cced",
+        "difficulty": 2,
+        "is_active": false,
+        "knowledge_point_id": 356
+      },
+      "after": {
+        "content_hash": "431007a292de44cdcfaf9eb41318e5df9ba01f349b0bdfa8d22f1265b434fa11",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 356
+      }
+    },
+    {
+      "number": 36,
+      "question_id": 146,
+      "changed_content": false,
+      "primary_code": "ENG-GRAMMAR-TENSE-PAST-CONTINUOUS",
+      "before": {
+        "content_hash": "6ce57f18bb81a6285a37bf3151d565242751e8bd67f3d971d25959939457fb5f",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 371
+      },
+      "after": {
+        "content_hash": "6ce57f18bb81a6285a37bf3151d565242751e8bd67f3d971d25959939457fb5f",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 371
+      }
+    },
+    {
+      "number": 37,
+      "question_id": 147,
+      "changed_content": false,
+      "primary_code": "ENG-VOCAB-CONTEXT-VERB",
+      "before": {
+        "content_hash": "7299a311ce4d2885a845cba7a053dbc1d39f647855afddb6d40984c11503ff97",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 368
+      },
+      "after": {
+        "content_hash": "7299a311ce4d2885a845cba7a053dbc1d39f647855afddb6d40984c11503ff97",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 368
+      }
+    },
+    {
+      "number": 38,
+      "question_id": 148,
+      "changed_content": false,
+      "primary_code": "ENG-CLAUSE-RELATIVE-WORD-SELECTION",
+      "before": {
+        "content_hash": "a6961fd88401bb35b69a4e6cfd5ea398ee418cd151171f67b106159b976fd140",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 394
+      },
+      "after": {
+        "content_hash": "a6961fd88401bb35b69a4e6cfd5ea398ee418cd151171f67b106159b976fd140",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 394
+      }
+    },
+    {
+      "number": 39,
+      "question_id": 149,
+      "changed_content": false,
+      "primary_code": "ENG-VOCAB-COLLOCATION",
+      "before": {
+        "content_hash": "d50ba807a7042444e3b441c0020f845c05df52f239e420676462f4ef6ba21d6a",
+        "difficulty": 2,
+        "is_active": false,
+        "knowledge_point_id": 380
+      },
+      "after": {
+        "content_hash": "d50ba807a7042444e3b441c0020f845c05df52f239e420676462f4ef6ba21d6a",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 367
+      }
+    },
+    {
+      "number": 40,
+      "question_id": 150,
+      "changed_content": false,
+      "primary_code": "ENG-GRAMMAR-TENSE-PRESENT-PERFECT",
+      "before": {
+        "content_hash": "ce96bda7613e45c8c7c80ccc3a80868507283ef987474e9a6030b123bd3f37cf",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 370
+      },
+      "after": {
+        "content_hash": "ce96bda7613e45c8c7c80ccc3a80868507283ef987474e9a6030b123bd3f37cf",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 370
+      }
+    },
+    {
+      "number": 41,
+      "question_id": 151,
+      "changed_content": false,
+      "primary_code": "ENG-GRAMMAR-MODAL-BASIC",
+      "before": {
+        "content_hash": "fda28503d742a15a9bd139349e56e681fb0544c4e9c6041a21601b8ae5814a21",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 395
+      },
+      "after": {
+        "content_hash": "fda28503d742a15a9bd139349e56e681fb0544c4e9c6041a21601b8ae5814a21",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 395
+      }
+    },
+    {
+      "number": 42,
+      "question_id": 152,
+      "changed_content": false,
+      "primary_code": "ENG-CLAUSE-ADVERBIAL-CONDITION",
+      "before": {
+        "content_hash": "7ac9c677966971b26214bdb1325a06474f2266bcebda44fa8c5bff2f3a9420fc",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 377
+      },
+      "after": {
+        "content_hash": "7ac9c677966971b26214bdb1325a06474f2266bcebda44fa8c5bff2f3a9420fc",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 377
+      }
+    },
+    {
+      "number": 43,
+      "question_id": 153,
+      "changed_content": false,
+      "primary_code": "ENG-VOCAB-SITUATIONAL-COMMUNICATION",
+      "before": {
+        "content_hash": "b4dfa51b76d51bdca7fb0bfdb227f0815a07985b7a90c0719e235a60a76ea540",
+        "difficulty": 1,
+        "is_active": false,
+        "knowledge_point_id": 373
+      },
+      "after": {
+        "content_hash": "b4dfa51b76d51bdca7fb0bfdb227f0815a07985b7a90c0719e235a60a76ea540",
+        "difficulty": 1,
+        "is_active": true,
+        "knowledge_point_id": 403
+      }
+    },
+    {
+      "number": 44,
+      "question_id": 154,
+      "changed_content": false,
+      "primary_code": "ENG-NONFINITE-INFINITIVE",
+      "before": {
+        "content_hash": "f1def04e055752d1150e8383e64efa2a66f57b9e0d278ae0046a19a21fb4965e",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 373
+      },
+      "after": {
+        "content_hash": "f1def04e055752d1150e8383e64efa2a66f57b9e0d278ae0046a19a21fb4965e",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 373
+      }
+    },
+    {
+      "number": 45,
+      "question_id": 155,
+      "changed_content": false,
+      "primary_code": "ENG-VOCAB-COLLOCATION",
+      "before": {
+        "content_hash": "3e4144e5f95b9e6ce9958a609ef0f12db4c6c5e16d1462670194a7c3a62448a7",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 367
+      },
+      "after": {
+        "content_hash": "3e4144e5f95b9e6ce9958a609ef0f12db4c6c5e16d1462670194a7c3a62448a7",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 367
+      }
+    },
+    {
+      "number": 46,
+      "question_id": 156,
+      "changed_content": true,
+      "primary_code": "ENG-GRAMMAR-TENSE-PRESENT-SIMPLE",
+      "before": {
+        "content_hash": "027411e3a34751fcf87e17daf4914f721c8e6929ffe15b5538f079dc1d119941",
+        "difficulty": 2,
+        "is_active": false,
+        "knowledge_point_id": 369
+      },
+      "after": {
+        "content_hash": "0007d04a6b9d423b16b593ce4dc9a217000c46ff81b84bc9db658ae490c31561",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 369
+      }
+    },
+    {
+      "number": 47,
+      "question_id": 157,
+      "changed_content": false,
+      "primary_code": "ENG-VOCAB-CONTEXT-ADVERB",
+      "before": {
+        "content_hash": "628ade777d17a083899989c1f5841b9c795d260371a26442fd36a89d8fc2df5a",
+        "difficulty": 2,
+        "is_active": false,
+        "knowledge_point_id": 380
+      },
+      "after": {
+        "content_hash": "628ade777d17a083899989c1f5841b9c795d260371a26442fd36a89d8fc2df5a",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 402
+      }
+    },
+    {
+      "number": 48,
+      "question_id": 158,
+      "changed_content": false,
+      "primary_code": "ENG-GRAMMAR-VOICE-PRESENT-PASSIVE",
+      "before": {
+        "content_hash": "43ac805816806889f49448edb81bb40cd4d81a17961b970e8fe8f42020726ddf",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 372
+      },
+      "after": {
+        "content_hash": "43ac805816806889f49448edb81bb40cd4d81a17961b970e8fe8f42020726ddf",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 372
+      }
+    },
+    {
+      "number": 49,
+      "question_id": 159,
+      "changed_content": false,
+      "primary_code": "ENG-CLAUSE-RELATIVE-THAT",
+      "before": {
+        "content_hash": "1440654f9abaa5530a8d2fb2439b5bd91cd51c5d612aff34b9d11c6033a125c3",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 394
+      },
+      "after": {
+        "content_hash": "1440654f9abaa5530a8d2fb2439b5bd91cd51c5d612aff34b9d11c6033a125c3",
+        "difficulty": 2,
+        "is_active": true,
+        "knowledge_point_id": 374
+      }
+    },
+    {
+      "number": 50,
+      "question_id": 160,
+      "changed_content": false,
+      "primary_code": "ENG-GRAMMAR-MODAL-BASIC",
+      "before": {
+        "content_hash": "30561440d02db643dee814d5864b36b55e54d15aaeae6fe5dbc3d722c7f1a521",
+        "difficulty": 1,
+        "is_active": true,
+        "knowledge_point_id": 395
+      },
+      "after": {
+        "content_hash": "30561440d02db643dee814d5864b36b55e54d15aaeae6fe5dbc3d722c7f1a521",
+        "difficulty": 1,
+        "is_active": true,
+        "knowledge_point_id": 395
+      }
+    }
+  ]
+}
