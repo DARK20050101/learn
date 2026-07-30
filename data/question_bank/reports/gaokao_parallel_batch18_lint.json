@@ -1,0 +1,224 @@
+{
+  "command": "lint",
+  "total": 26,
+  "passed": 26,
+  "errors": 0,
+  "warnings": 0,
+  "files": [
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "gaokao_biology_parallel_batch18_v1.json",
+      "total": 8,
+      "passed": 8,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "【共同材料】制作泡菜时，需配制盐水并利用乳酸菌进行发酵。\n\n制作泡菜所用盐水需先煮沸，其主要目的是（ ）",
+          "content_hash": "c3707f44652640ef9474e106573b5eccd45adf1242795d25cfaa42ad5f588b7e",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 2,
+          "question": "【共同材料】制作泡菜时，需配制盐水并利用乳酸菌进行发酵。\n\n在冷却后的盐水中加入少量陈泡菜液，主要作用是（ ）",
+          "content_hash": "f90fb32ceeb128d6a8092471e2ec18d872d086446d8e95c031570abc174f82f7",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 3,
+          "question": "【共同材料】制作泡菜时，需配制盐水并利用乳酸菌进行发酵。\n\n乳酸菌产生乳酸的过程及其主要场所分别是（ ）",
+          "content_hash": "bed2ab4d963c3d183c34e15553116ca1cdd1aea39b54b68285ee6919d06df176",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 4,
+          "question": "【共同材料】制作泡菜时，需配制盐水并利用乳酸菌进行发酵。\n\n从开始制作到泡菜质量最佳，乳酸菌增多而许多杂菌减少，主要原因是（ ）",
+          "content_hash": "4ac88e920a169a7b9cd2fd9ef8fed86a65ffe3d49f19c50745fb1da0a880eeaa",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 5,
+          "question": "【共同材料】某同学观察大蒜根尖细胞的有丝分裂，使用盐酸和酒精混合液处理根尖，并用龙胆紫溶液染色。\n\n盐酸和酒精混合液处理根尖的主要作用是（ ）",
+          "content_hash": "29f8f2207d7d0702d25f4930207d189d177ec0444bb88e011f3c1f0035faad77",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 6,
+          "question": "【共同材料】某同学观察大蒜根尖细胞的有丝分裂，使用盐酸和酒精混合液处理根尖，并用龙胆紫溶液染色。\n\n龙胆紫溶液在该实验中的作用是（ ）",
+          "content_hash": "bf52b132384dec37cece22b067f02eb95fe946e69a9a127c8f7095f15fd1902c",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 7,
+          "question": "【共同材料】某果蝇种群雌雄个体数目相等，对于 A、a 这对等位基因，亲代只有 Aa 一种基因型。不考虑基因突变和染色体变异，该种群随机交配。\n\n亲代中 A 与 a 的基因频率之比，以及随机交配产生的第",
+          "content_hash": "042403fab7504dc9498c79aad1848623822fba7199d6224d61eb320ea68fdea2",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 8,
+          "question": "【共同材料】某果蝇种群雌雄个体数目相等，对于 A、a 这对等位基因，亲代只有 Aa 一种基因型。不考虑基因突变和染色体变异，该种群随机交配。\n\n若第一代实际只有 Aa 和 aa 两种基因型，数量比为 ",
+          "content_hash": "df204c3d4663aba1fa65bae4de20e7b85d680dca6b9562d559253cc5c1105575",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "gaokao_chemistry_parallel_batch18_v1.json",
+      "total": 9,
+      "passed": 9,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "【共同材料】某班同学探究 Fe²⁺、Fe³⁺ 的性质。实验中分别配制 0.1 mol·L⁻¹ 的 FeCl₂ 和 FeCl₃ 溶液，并利用氯水、KSCN 溶液、KI 溶液等试剂进行检验。\n\n配制 Fe",
+          "content_hash": "82128c3fe9946b53c905db24e3d1d2594b3b580430f5abf3a5c8a49b52ba4554",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 2,
+          "question": "【共同材料】某班同学探究 Fe²⁺、Fe³⁺ 的性质。实验中分别配制 0.1 mol·L⁻¹ 的 FeCl₂ 和 FeCl₃ 溶液，并利用氯水、KSCN 溶液、KI 溶液等试剂进行检验。\n\n向 FeC",
+          "content_hash": "78f61d88434ddb0084c24b5bf4fc619d1e349aed711ef747901a91e2eb74b0f1",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 3,
+          "question": "【共同材料】某班同学探究 Fe²⁺、Fe³⁺ 的性质。实验中分别配制 0.1 mol·L⁻¹ 的 FeCl₂ 和 FeCl₃ 溶液，并利用氯水、KSCN 溶液、KI 溶液等试剂进行检验。\n\n在 FeC",
+          "content_hash": "18924c0198cd665aee5ad606f1d972e75f212159ddb33548edb0ec056eb282ef",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 4,
+          "question": "【共同材料】某班同学探究 Fe²⁺、Fe³⁺ 的性质。将 KI 与少量 FeCl₃ 溶液混合后，CCl₄ 层呈紫色；同时检出 Fe²⁺，加入 KSCN 后水层又显红色。\n\n上述现象表明，在 I⁻过量时",
+          "content_hash": "4222d530767178901607e4a2cb1d8cd4825940a2882961bbc0172c7d997a8768",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 5,
+          "question": "【共同材料】某班同学探究 Fe²⁺、Fe³⁺ 的性质。向 H₂O₂ 溶液中加入几滴酸化的 FeCl₂ 溶液，溶液变成棕黄色。\n\n使溶液变成棕黄色的反应对应的离子方程式是（ ）",
+          "content_hash": "5a6b9ce4e6fbf3dd3e155c74f3678a2238937d2ef0dadd6d976bbb02e0acf57d",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 6,
+          "question": "【共同材料】硫代硫酸钠晶体（Na₂S₂O₃·5H₂O，M=248 g·mol⁻¹）可作定影剂和还原剂，市售样品中可能混有 SO₄²⁻。已知 Ksp(BaSO₄)=1.1×10⁻¹⁰，Ksp(BaS₂O",
+          "content_hash": "69544b5ddc42eae4a500f0cce2d112ac5ad1f1c318c22e13126d4f55c17f29ca",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 7,
+          "question": "【共同材料】硫代硫酸钠晶体（Na₂S₂O₃·5H₂O，M=248 g·mol⁻¹）可作定影剂和还原剂。实验需将一定质量样品配成 100 mL 溶液。\n\n完成溶解并将溶液全部转移到 100 mL 容量瓶",
+          "content_hash": "61fa3b40e1edcd4f265e24133c0bb3a5fbc5ead8f541e13b46c679ff98c6aedd",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 8,
+          "question": "【共同材料】用 Na₂S₂O₃ 样品溶液滴定由 K₂Cr₂O₇、过量 KI 和硫酸反应生成的 I₂。接近终点时加入淀粉溶液，继续滴定。\n\n该滴定的终点现象是（ ）",
+          "content_hash": "f9a1d488393d92b7af500ab9113082b4e0620e00d815c2d243a7f749291a6a7c",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 9,
+          "question": "【共同材料】称取 1.2000 g Na₂S₂O₃·5H₂O 样品配成 100 mL 溶液。取 0.00950 mol·L⁻¹ K₂Cr₂O₇ 标准溶液 20.00 mL，酸化后加入过量 KI，再用样",
+          "content_hash": "fe52bdcec7ad1a8ff622a1b594e3cb3c31524784257b0184150e076044b36898",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "gaokao_physics_parallel_batch18_v1.json",
+      "total": 9,
+      "passed": 9,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "【共同材料】公路上行驶的汽车在司机和制动系统的反应时间内保持匀速，随后做匀减速直线运动。晴天时汽车以 $108\\ \\mathrm{km/h}$ 行驶，反应时间为 $1\\ \\mathrm{s}$，从发现",
+          "content_hash": "d3c0a91bc4183b68663849fd7d81774a7462f925de5a2728e8f7eebc8cd42d9d",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 2,
+          "question": "【共同材料】公路上行驶的汽车在司机和制动系统的反应时间内保持匀速，随后做匀减速直线运动。晴天时汽车以 $108\\ \\mathrm{km/h}$ 行驶，反应时间为 $1\\ \\mathrm{s}$，从发现",
+          "content_hash": "9c350811cf2718fc4aa4cc98df3ab79a532a77feafed1672baf29e2fcf4bb13d",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 3,
+          "question": "【共同材料】公路上行驶的汽车在司机和制动系统的反应时间内保持匀速，随后做匀减速直线运动。晴天时汽车以 $108\\ \\mathrm{km/h}$ 行驶，反应时间为 $1\\ \\mathrm{s}$，从发现",
+          "content_hash": "b7ae359c2e325c34d7bf27eeac8ac7bfc328e54036eff7611a570fe0d6790d02",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 4,
+          "question": "【共同材料】质量为 $0.60\\ \\mathrm{kg}$ 的篮球第一次从 $1.8\\ \\mathrm{m}$ 高处自由落下，碰地后反弹到 $1.2\\ \\mathrm{m}$。第二次从 $1.5\\ \\",
+          "content_hash": "c09c7caf56d472bf73e30b806cd506c8d648ca934aee0f1fb1d9514d2eae6fe7",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 5,
+          "question": "【共同材料】质量为 $0.60\\ \\mathrm{kg}$ 的篮球第一次从 $1.8\\ \\mathrm{m}$ 高处自由落下，碰地后反弹到 $1.2\\ \\mathrm{m}$。第二次从 $1.5\\ \\",
+          "content_hash": "804cca6a36a5831134f29402adf3d14744e3b885f825a7dfe453f6cbd45fba22",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 6,
+          "question": "【共同材料】质量为 $0.60\\ \\mathrm{kg}$ 的篮球第一次从 $1.8\\ \\mathrm{m}$ 高处自由落下，碰地后反弹到 $1.2\\ \\mathrm{m}$。第二次从 $1.5\\ \\",
+          "content_hash": "ddf90e45eee560a96f27e1af8b45bb4d398a29bc13a542c3b53c04008818eba7",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 7,
+          "question": "【共同材料】均匀介质中质点 A、B 的平衡位置在 $x$ 轴上，坐标分别为 $0$ 和 $16\\ \\mathrm{cm}$。一列简谐横波沿 $x$ 轴正方向传播，波速为 $20\\ \\mathrm{cm",
+          "content_hash": "9b7394774d9320054842b8abfa344ab4a36836a3dc262f5b75c957834544dc58",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 8,
+          "question": "【共同材料】均匀介质中质点 A、B 的平衡位置在 $x$ 轴上，坐标分别为 $0$ 和 $16\\ \\mathrm{cm}$。一列简谐横波沿 $x$ 轴正方向传播，波速为 $20\\ \\mathrm{cm",
+          "content_hash": "5fa3e24b790f577ea2dcdc58034369871f9b07e75f18a5b03f7245373097a456",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 9,
+          "question": "【共同材料】均匀介质中质点 A、B 的平衡位置在 $x$ 轴上，坐标分别为 $0$ 和 $16\\ \\mathrm{cm}$。一列简谐横波沿 $x$ 轴正方向传播，波速为 $20\\ \\mathrm{cm",
+          "content_hash": "3f0118337fc6b560fdd3ccc8f3cec649042009f957b156fb4acaef240009538d",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    }
+  ]
+}

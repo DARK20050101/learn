@@ -1,0 +1,75 @@
+{
+  "report": "pre_import",
+  "filename": "gaokao_physics_parallel_batch18_v1.json",
+  "file_hash": "e6aaa3a9e582f53afe6fb192f41baabb3ea394720867e50d3c12d6546aacdf98",
+  "mapping_version": "kp-mapping-v1.1",
+  "database": {
+    "questions": 415,
+    "primary_knowledge_point_links": 415,
+    "orphan_questions": 0,
+    "selected_question_count": 415,
+    "selected_questions_business_hash": "8fc69a9e00523fc0acb0a9b1c32583f34d03d9e4e762bcfe3c708a9984bc8598"
+  },
+  "total": 9,
+  "new_questions": 9,
+  "matching_duplicates": 0,
+  "conflicts": 0,
+  "errors": [],
+  "ready": true,
+  "items": [
+    {
+      "index": 1,
+      "content_hash": "d3c0a91bc4183b68663849fd7d81774a7462f925de5a2728e8f7eebc8cd42d9d",
+      "primary_code": "PHY-KINEMATICS-UNIFORM-ACCELERATION",
+      "status": "new"
+    },
+    {
+      "index": 2,
+      "content_hash": "9c350811cf2718fc4aa4cc98df3ab79a532a77feafed1672baf29e2fcf4bb13d",
+      "primary_code": "PHY-KINEMATICS-UNIFORM-ACCELERATION",
+      "status": "new"
+    },
+    {
+      "index": 3,
+      "content_hash": "b7ae359c2e325c34d7bf27eeac8ac7bfc328e54036eff7611a570fe0d6790d02",
+      "primary_code": "PHY-KINEMATICS-UNIFORM-ACCELERATION",
+      "status": "new"
+    },
+    {
+      "index": 4,
+      "content_hash": "c09c7caf56d472bf73e30b806cd506c8d648ca934aee0f1fb1d9514d2eae6fe7",
+      "primary_code": "PHY-WORK-ENERGY-KINETIC",
+      "status": "new"
+    },
+    {
+      "index": 5,
+      "content_hash": "804cca6a36a5831134f29402adf3d14744e3b885f825a7dfe453f6cbd45fba22",
+      "primary_code": "PHY-WORK-ENERGY-WORK-CALCULATION",
+      "status": "new"
+    },
+    {
+      "index": 6,
+      "content_hash": "ddf90e45eee560a96f27e1af8b45bb4d398a29bc13a542c3b53c04008818eba7",
+      "primary_code": "PHY-NEWTON-SECOND-LAW",
+      "status": "new"
+    },
+    {
+      "index": 7,
+      "content_hash": "9b7394774d9320054842b8abfa344ab4a36836a3dc262f5b75c957834544dc58",
+      "primary_code": "PHY-WAVE-SPEED-FREQUENCY-WAVELENGTH",
+      "status": "new"
+    },
+    {
+      "index": 8,
+      "content_hash": "5fa3e24b790f577ea2dcdc58034369871f9b07e75f18a5b03f7245373097a456",
+      "primary_code": "PHY-WAVE-SPEED-FREQUENCY-WAVELENGTH",
+      "status": "new"
+    },
+    {
+      "index": 9,
+      "content_hash": "3f0118337fc6b560fdd3ccc8f3cec649042009f957b156fb4acaef240009538d",
+      "primary_code": "PHY-WAVE-SPEED-FREQUENCY-WAVELENGTH",
+      "status": "new"
+    }
+  ]
+}

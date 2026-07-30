@@ -1,0 +1,69 @@
+{
+  "report": "pre_import",
+  "filename": "gaokao_biology_parallel_batch18_v1.json",
+  "file_hash": "9fc86e5f40cc65ae8d7d524331c5bc96023d78c67ccf55700a1b71b9fe0b2ea7",
+  "mapping_version": "kp-mapping-v1.1",
+  "database": {
+    "questions": 398,
+    "primary_knowledge_point_links": 398,
+    "orphan_questions": 0,
+    "selected_question_count": 398,
+    "selected_questions_business_hash": "018d1f80d4754b097d1fd1fb2b70d5b078a6d1c7afcdf6d9b6562033cefae26c"
+  },
+  "total": 8,
+  "new_questions": 8,
+  "matching_duplicates": 0,
+  "conflicts": 0,
+  "errors": [],
+  "ready": true,
+  "items": [
+    {
+      "index": 1,
+      "content_hash": "c3707f44652640ef9474e106573b5eccd45adf1242795d25cfaa42ad5f588b7e",
+      "primary_code": "BIO-TECHNOLOGY-FERMENTATION",
+      "status": "new"
+    },
+    {
+      "index": 2,
+      "content_hash": "f90fb32ceeb128d6a8092471e2ec18d872d086446d8e95c031570abc174f82f7",
+      "primary_code": "BIO-TECHNOLOGY-FERMENTATION",
+      "status": "new"
+    },
+    {
+      "index": 3,
+      "content_hash": "bed2ab4d963c3d183c34e15553116ca1cdd1aea39b54b68285ee6919d06df176",
+      "primary_code": "BIO-TECHNOLOGY-FERMENTATION",
+      "status": "new"
+    },
+    {
+      "index": 4,
+      "content_hash": "4ac88e920a169a7b9cd2fd9ef8fed86a65ffe3d49f19c50745fb1da0a880eeaa",
+      "primary_code": "BIO-TECHNOLOGY-FERMENTATION",
+      "status": "new"
+    },
+    {
+      "index": 5,
+      "content_hash": "29f8f2207d7d0702d25f4930207d189d177ec0444bb88e011f3c1f0035faad77",
+      "primary_code": "BIO-CELL-LIFE-CYCLE",
+      "status": "new"
+    },
+    {
+      "index": 6,
+      "content_hash": "bf52b132384dec37cece22b067f02eb95fe946e69a9a127c8f7095f15fd1902c",
+      "primary_code": "BIO-CELL-LIFE-CYCLE",
+      "status": "new"
+    },
+    {
+      "index": 7,
+      "content_hash": "042403fab7504dc9498c79aad1848623822fba7199d6224d61eb320ea68fdea2",
+      "primary_code": "BIO-GENETICS-VARIATION-EVOLUTION",
+      "status": "new"
+    },
+    {
+      "index": 8,
+      "content_hash": "df204c3d4663aba1fa65bae4de20e7b85d680dca6b9562d559253cc5c1105575",
+      "primary_code": "BIO-GENETICS-VARIATION-EVOLUTION",
+      "status": "new"
+    }
+  ]
+}

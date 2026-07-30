@@ -1,0 +1,75 @@
+{
+  "report": "pre_import",
+  "filename": "gaokao_chemistry_parallel_batch18_v1.json",
+  "file_hash": "52fea776325c9ecf6ac84c633965a1b540bb94d6865be746f9e74531e34def46",
+  "mapping_version": "kp-mapping-v1.1",
+  "database": {
+    "questions": 406,
+    "primary_knowledge_point_links": 406,
+    "orphan_questions": 0,
+    "selected_question_count": 406,
+    "selected_questions_business_hash": "429f303aa13287e3b0b048714ce4b98dcadb89150092592625d17305e205db42"
+  },
+  "total": 9,
+  "new_questions": 9,
+  "matching_duplicates": 0,
+  "conflicts": 0,
+  "errors": [],
+  "ready": true,
+  "items": [
+    {
+      "index": 1,
+      "content_hash": "82128c3fe9946b53c905db24e3d1d2594b3b580430f5abf3a5c8a49b52ba4554",
+      "primary_code": "CHEM-EXPERIMENT-ANALYSIS",
+      "status": "new"
+    },
+    {
+      "index": 2,
+      "content_hash": "78f61d88434ddb0084c24b5bf4fc619d1e349aed711ef747901a91e2eb74b0f1",
+      "primary_code": "CHEM-CONCEPT-REDOX",
+      "status": "new"
+    },
+    {
+      "index": 3,
+      "content_hash": "18924c0198cd665aee5ad606f1d972e75f212159ddb33548edb0ec056eb282ef",
+      "primary_code": "CHEM-EXPERIMENT-ANALYSIS",
+      "status": "new"
+    },
+    {
+      "index": 4,
+      "content_hash": "4222d530767178901607e4a2cb1d8cd4825940a2882961bbc0172c7d997a8768",
+      "primary_code": "CHEM-REACTION-RATE-EQUILIBRIUM",
+      "status": "new"
+    },
+    {
+      "index": 5,
+      "content_hash": "5a6b9ce4e6fbf3dd3e155c74f3678a2238937d2ef0dadd6d976bbb02e0acf57d",
+      "primary_code": "CHEM-CONCEPT-REDOX",
+      "status": "new"
+    },
+    {
+      "index": 6,
+      "content_hash": "69544b5ddc42eae4a500f0cce2d112ac5ad1f1c318c22e13126d4f55c17f29ca",
+      "primary_code": "CHEM-EXPERIMENT-ANALYSIS",
+      "status": "new"
+    },
+    {
+      "index": 7,
+      "content_hash": "61fa3b40e1edcd4f265e24133c0bb3a5fbc5ead8f541e13b46c679ff98c6aedd",
+      "primary_code": "CHEM-EXPERIMENT-OPERATION",
+      "status": "new"
+    },
+    {
+      "index": 8,
+      "content_hash": "f9a1d488393d92b7af500ab9113082b4e0620e00d815c2d243a7f749291a6a7c",
+      "primary_code": "CHEM-EXPERIMENT-OPERATION",
+      "status": "new"
+    },
+    {
+      "index": 9,
+      "content_hash": "fe52bdcec7ad1a8ff622a1b594e3cb3c31524784257b0184150e076044b36898",
+      "primary_code": "CHEM-CONCEPT-AMOUNT",
+      "status": "new"
+    }
+  ]
+}
