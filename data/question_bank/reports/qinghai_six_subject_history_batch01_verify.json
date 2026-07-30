@@ -1,0 +1,503 @@
+{
+  "command": "verify",
+  "schema_version": "question-bank-report-v1",
+  "mapping_version": "kp-mapping-v1.1",
+  "total": 60,
+  "passed": 60,
+  "errors": 0,
+  "warnings": 0,
+  "database_duplicates": 0,
+  "files": [
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "qinghai_six_subject_history_batch01_v1.json",
+      "total": 60,
+      "passed": 60,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "下列各句中，加点的成语使用不恰当的一项是（ ）",
+          "content_hash": "24a0f1ee494b29b6dfb4c5d335b5b2fc6c64259bd0c760ff904c1223b4da54eb",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHN-LANGUAGE-WORDS"
+        },
+        {
+          "index": 2,
+          "question": "下列各句中，没有语病的一句是（ ）",
+          "content_hash": "7afc83ffe10f4a7a2b27fb5ec5f23431b49693d7c438aebe09eb33455ddb2459",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHN-LANGUAGE-SENTENCE"
+        },
+        {
+          "index": 3,
+          "question": "依次填入下面一段文字横线处的语句，衔接最恰当的一组是（ ） 玉树藏族自治州 ， ， ， ， ， ， 玉树既是 “三江源头 ”，也是 “藏獒之乡 ”和“虫草之乡 ”。 ①东南与四川省甘孜藏族自治州毗连 ",
+          "content_hash": "0f357a59197aa0b8b3c2778785359c37d4a8d8eba326b27815794060ec11a408",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHN-LANGUAGE-EXPRESSION"
+        },
+        {
+          "index": 4,
+          "question": "下列各句中，没有病句的一句是（ ）",
+          "content_hash": "89f4b48f8a82dfce3aca69c950825cf285b68f398366d158f1f77cfd4fb0eea7",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHN-LANGUAGE-SENTENCE"
+        },
+        {
+          "index": 5,
+          "question": "依次填入下面一段文字横线处的语句，衔接最恰当的一组是（ ） 我国是食品生产和消费大国， ， ， ， ， ， 。这样才能有效解决食品安全领域损害群众利益的突 出问题，切实增强消费安全感。 ①强化执法措施",
+          "content_hash": "2ffe5eef9254d9f804af4ab65dce18c4ea659c3c2b95682ec67d0b63d17873c3",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHN-LANGUAGE-EXPRESSION"
+        },
+        {
+          "index": 6,
+          "question": "下列各句中，加横线的成语使用恰当的一项是（ ）",
+          "content_hash": "800132afdada2e243871ad01f95dbd3f613c42197e03926a0d6616a24f543ca7",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHN-LANGUAGE-WORDS"
+        },
+        {
+          "index": 7,
+          "question": "下列各句中，没有语病的一句是（ ）",
+          "content_hash": "7ab611858f22386a0828a04affa7dc7caa0d8211ba1db80cf76a1e0629e23233",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHN-LANGUAGE-SENTENCE"
+        },
+        {
+          "index": 8,
+          "question": "依次填入下面一段文字横线处的语句，衔接最恰当的一组是（ ） 在我国古代，人们盛物用的器皿除陶器等之外，还有一种容器，是葫芦。 ， 。 。 ， 。 。 ①最早的记载见于《诗经》，如《公刘》篇中 “酌之用",
+          "content_hash": "0adc2d9991ece4398e12beb953f5aa548b2918bec8fff92c3957e5c0896d03f0",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHN-LANGUAGE-EXPRESSION"
+        },
+        {
+          "index": 9,
+          "question": "下列各句中，表达得体的一句是〔3 分〕（ ）",
+          "content_hash": "7ae5baa384f440cddd9bbfacf86c4938231ef241be5391caea067d42c6b57b68",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHN-LANGUAGE-EXPRESSION"
+        },
+        {
+          "index": 10,
+          "question": "下列各句中，没有语病的一句是（ ）",
+          "content_hash": "951523be35ba24e5e1f0cd176d364908524e883f8cd1c4fa79fadd5847cdbd19",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHN-LANGUAGE-EXPRESSION"
+        },
+        {
+          "index": 11,
+          "question": "已知集合 $U=\\{-2,-1,0,1,2,3\\}, A=\\{-1,0,1\\}, B=\\{1,2\\}$, 则 $\\oint_{U}(A \\cup B)=()$",
+          "content_hash": "aa845a147eea4c568f9d256acbee04a844ac83de2795cef7191d5d3adcc1bd30",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "MATH-SET-OPERATIONS"
+        },
+        {
+          "index": 12,
+          "question": "若 $\\alpha$ 为第四象限角, 则（）",
+          "content_hash": "0174350df5b8a0c638f60503eb56e5d2b4bc8351afe7eaf0ff5db41b59c606bf",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "MATH-TRIG-FUNDAMENTAL-IDENTITY"
+        },
+        {
+          "index": 13,
+          "question": "若过点 $(2,1)$ 的圆与两坐标轴都相切, 则圆心到直线 $2 x-y-3=0$ 的距离为 $(\\quad)$",
+          "content_hash": "84a592db9fc32f426246cb5a74642e59afa8556501e5770712e4c1c941cb0fa5",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "MATH-ANALYTIC-CIRCLE-STANDARD"
+        },
+        {
+          "index": 14,
+          "question": "数列 $\\left\\{a_{n}\\right\\}$ 中, $a_{1}=2, a_{m+n}=a_{m} a_{n}$, 若 $a_{k+1}+a_{k+2}+\\cdots+a_{k+10}=2^{1",
+          "content_hash": "777f084b49865360a0dc048afe766f48827b8f2fb923949d5e194a8546d0b499",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "MATH-SEQUENCE-GEOMETRIC-GENERAL"
+        },
+        {
+          "index": 15,
+          "question": "设集合 $M=\\{x \\mid 0<x<4\\}, N=\\left\\{x \\mid \\frac{1}{3} \\leq x \\leq 5\\right\\}$, 则 $M \\cap N=($,",
+          "content_hash": "fc1aa1daffe53a6341dd5f2cdba5b3e2a0ea87b3582ed6179f73d8d8933f2b69",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "MATH-SET-OPERATIONS"
+        },
+        {
+          "index": 16,
+          "question": "已知 $(1-i)^{2} z=3+2 i$, 则 $z=(\\quad)$",
+          "content_hash": "f795985af1ecedb9759b68d66f52ac330ebff6f36498dca80e2b1c9050d4ed89",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "MATH-COMPLEX-ARITHMETIC"
+        },
+        {
+          "index": 17,
+          "question": "青少年视力是社会普遍关注的问题, 视力情况可借助视力表测量. 通常用五分记录法和小数记录法记录 视力数据, 五分记录法的数据 $L$ 和小数记录表的数据 $V$ 的满足 $L=5+\\lg V$. 已知",
+          "content_hash": "0981cb74ebc46d4359e8cd4b97c6762a82db6f1f421d907b87bcdf530129a891",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "MATH-LOGARITHM-OPERATION"
+        },
+        {
+          "index": 18,
+          "question": "等比数列 $\\left\\{a_{n}\\right\\}$ 的公比为 $q$, 前 $n$ 项和为 $S_{n}$, 设甲: $q>0$, 乙: $\\left\\{S_{n}\\right\\}$ 是递增数列,",
+          "content_hash": "d06ea5d342a7324ed27583fdc29b94003c809645e6116b9f4f960987de67ab73",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "MATH-SEQUENCE-GEOMETRIC-GENERAL"
+        },
+        {
+          "index": 19,
+          "question": "将 4 个 1 和 2 个 0 随机排成一行, 则 2 个 0 不相邻的概率为 $(\\quad)$",
+          "content_hash": "dbecb74a5e0294f700184fceb026231738b941e5066a54d57192daa31738e9d8",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "MATH-PROBABILITY-CLASSICAL"
+        },
+        {
+          "index": 20,
+          "question": "已知向量 $\\vec{a}, \\vec{b}$ 满足 $|\\vec{a}|=1,|\\vec{b}|=\\sqrt{3},|\\vec{a}-2 \\vec{b}|=3$, 则 $\\vec{a} \\cdot ",
+          "content_hash": "03b8ad189a25391c113ce6721b609a499b8715830f259987a28a3c77cf726bd3",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "MATH-VECTOR-DOT-PRODUCT"
+        },
+        {
+          "index": 21,
+          "question": "--- Can I help you? Are you looking for anything in particular today ? --- _____ , we’re just lookin",
+          "content_hash": "a1f34937713a49c7257540c749d830b54c26471d78a523c213225a6fbd7f3c40",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "ENG-VOCAB-SITUATIONAL-COMMUNICATION"
+        },
+        {
+          "index": 22,
+          "question": "Mr. Black is very happy because the clothes made in his factory have never been .",
+          "content_hash": "72a536cf053e81eb7b33b44c2df098b0d3b6dabb4baf8340fa5c5b27b751bd50",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "ENG-GRAMMAR-ADJECTIVE-COMPARATIVE"
+        },
+        {
+          "index": 23,
+          "question": "--- Did you forget about my birthday ? --- I’ve booked a table at Michel ’s restaurant for this even",
+          "content_hash": "f09797ec714637003e381c90b6c6054814c2bd920d619f04487be4747890bf38",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "ENG-VOCAB-SITUATIONAL-COMMUNICATION"
+        },
+        {
+          "index": 24,
+          "question": "If you_______smoke , please go outside .",
+          "content_hash": "166ba698c78043366ea0f6b51cad1904a25ba77f252cacf04ae5ecb0fe41e36d",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "ENG-GRAMMAR-MODAL-BASIC"
+        },
+        {
+          "index": 25,
+          "question": "Mary , I John of his promise to help you.",
+          "content_hash": "5b4a01191cecd8d996924adcdd40e92acc9afe84b97c8e12df1fba895b77769b",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "ENG-VOCAB-CONTEXT-VERB"
+        },
+        {
+          "index": 26,
+          "question": "This shop will be closed for repairs further notice .",
+          "content_hash": "d47568eb17e006510c68036da30b6b2a8a9e194044b0265d8be060fc9adbb269",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "ENG-VOCAB-COLLOCATION"
+        },
+        {
+          "index": 27,
+          "question": "Mr. Stevenson is great to work for --- I really couldn ’t ask for a_______ boss.",
+          "content_hash": "b19a1274511a383aeb4c051a42a97641f154f90baeb115ecb8a597b7531f2bbc",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "ENG-GRAMMAR-ADJECTIVE-COMPARATIVE"
+        },
+        {
+          "index": 28,
+          "question": "I can _______the house being untidy, but I hate it if it’s not clean.",
+          "content_hash": "abf31b8197744de4b4b60d1df35a51a6d365eabd82067fb667f4d5e106be1901",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "ENG-VOCAB-COLLOCATION"
+        },
+        {
+          "index": 29,
+          "question": "The prize will go to the writer _______story shows the most imagination.",
+          "content_hash": "50c96969630b6160015332a573f0eaded2a748db46f346ae6617aad74538f838",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "ENG-CLAUSE-RELATIVE-WORD-SELECTION"
+        },
+        {
+          "index": 30,
+          "question": "Mary is really good at taking notes in class. She can almost every word her teacher says.",
+          "content_hash": "65de6a76c3fd32a5f055a9d8d4321fd6c0bda0c2a233e159e27221a629a04961",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "ENG-VOCAB-CONTEXT-VERB"
+        },
+        {
+          "index": 31,
+          "question": "（6 分) 在法拉第时代, 下列验证“由磁产生电”设想的实验中, 能观察到感 应电流的是（ $)$",
+          "content_hash": "2a81982d8b8a64b7955b35aa3cba7c77bfdaac73b958cd3506ca1594fe372a12",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "PHY-INDUCTION-CURRENT-CONDITION"
+        },
+        {
+          "index": 32,
+          "question": "(6 分) 取水平地面为重力势能零点, 一物块从某一高度水平抛出, 在抛出 点其动能与重力势能恰好相等. 不计空气阻力, 该物块落地时的速度方向与 水平方向的夹角为 $(\\quad)$",
+          "content_hash": "400c123f97f43c52511fdf93ebe80986970a6b658e96abb911588f6fca3f0917",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "PHY-PROJECTILE-HORIZONTAL"
+        },
+        {
+          "index": 33,
+          "question": "（6 分) 指南针是我国古代四大发明之一. 关于指南针, 下列说明正确的是 (",
+          "content_hash": "63dc177a1e16936fce8d4e50b4cfdb71d46c2d1edfa93277b4418ca9edab35d2",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "PHY-MAGNETIC-FIELD-DIRECTION"
+        },
+        {
+          "index": 34,
+          "question": "(6 分) 一质点做速度逐渐增大的匀加速直线运动, 在时间间隔 $\\mathrm{t}$ 内位移为 $\\mathrm{s}$, 动能变为原来的 9 倍。该质点的加速度为 $(\\quad)$",
+          "content_hash": "a3e823b299407b103a80e6f523b035a865822232aed7b55c076dceabaeb2daaf",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "PHY-KINEMATICS-UNIFORM-ACCELERATION"
+        },
+        {
+          "index": 35,
+          "question": "发球机从同一高度向正前方依次水平射出两个速度不同的乒乓球（ 忽略空气的影响）。速度较大的球越过球网, 速度较小的球没有越过球网; 其原因是（ $）$",
+          "content_hash": "c55981f976069347579b80bed1822995452bcc41f734f34774b61c6f1ec6af01",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "PHY-PROJECTILE-HORIZONTAL"
+        },
+        {
+          "index": 36,
+          "question": "（6 分) 2017 年, 人类第一次直接探测到来自双中子星合并的引力波。根据 科学家们复原的过程, 在两颗中子星合并前约 $100 \\mathrm{~s}$ 时, 它们相距约 $400 \\mathr",
+          "content_hash": "707df1e9fea8b3d908b3a60b639cdfced3e747ea8528dfe4a42239561d0253eb",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "PHY-GRAVITY-UNIVERSAL-LAW"
+        },
+        {
+          "index": 37,
+          "question": "高空坠物极易对行人造成伤害。若一个 $50 \\mathrm{~g}$ 的鸡蛋从一居民楼的 25 层坠下, 与地面的碰撞时间约为 $2 \\mathrm{~ms}$, 则该鸡蛋对地面产生的冲击力约为（",
+          "content_hash": "f9935307ba02086cf5ca6f7df72d266b2c3e3733745462c8b0cd40e059aa2fff",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "PHY-MOMENTUM-BASIC"
+        },
+        {
+          "index": 38,
+          "question": "(6 分) 为了探测引力波, “天琴计划”预计发射地球卫星 $P$, 其轨道半径约为 地球半径的 16 倍; 另一地球卫星 $\\mathrm{Q}$ 的轨道半径约为地球半径的 4 倍。 $\\mathr",
+          "content_hash": "0d054b950682abc9acfa16b2cd66d3741786408099fb54e27b2180fe1a194d5a",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "PHY-GRAVITY-UNIVERSAL-LAW"
+        },
+        {
+          "index": 39,
+          "question": "(6 分) 若一均匀球形星体的密度为 $\\rho$, 引力常量为 $\\mathrm{G}$, 则在该星体表面附近沿圆轨道绕 其运动的卫星的周期是（）",
+          "content_hash": "7e8b7b5b2c9f04c0a842f79cdeb8aa3b8f74421e66e1bd8e5437cfe293dc74a1",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "PHY-GRAVITY-UNIVERSAL-LAW"
+        },
+        {
+          "index": 40,
+          "question": "(6 分) 特高压输电可使输送中的电能损耗和电压损失大幅降低。我国已成功掌握并实际 应用了特高压输电技术。假设从 $\\mathrm{A}$ 处采用 $550 \\mathrm{kV}$ 的超高压向 $\\",
+          "content_hash": "2ff721f19b8ad83bfb358b4f8449c82716ff5aff31b9b81ee05c7d0de2fb8387",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "PHY-CIRCUIT-ELECTRIC-POWER"
+        },
+        {
+          "index": 41,
+          "question": "(6 分) 陶瓷是火与土的结晶, 是中华文明的象征之一, 其形成、性质与化学有着密切的 关系。下列说法错误的是（）",
+          "content_hash": "cb8d3b73d74c59d5d26dc38b5a82463a60ee2825b7a2ca538c5f823bb4e9ec36",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-STRUCTURE-CRYSTAL"
+        },
+        {
+          "index": 42,
+          "question": "(6 分) “春蚕到死丝方尽, 蜡炬成灰泪始干” 是唐代诗人李商隐的著名诗句。下列关于 该诗句中所涉及物质的说法错误的是（）",
+          "content_hash": "89675f9bf9d8e42be6614637be0d32f7e386503830d98f5ae2d0c2154ec47cc4",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-ORGANIC-STRUCTURE"
+        },
+        {
+          "index": 43,
+          "question": "(6 分) 已知 $\\mathrm{N}_{\\mathrm{A}}$ 是阿伏加德罗常数的值，下列说法错误的是（）",
+          "content_hash": "9a26d508ef966b2a8e3f3296add0d2027ee8c3cc770bdd04b1165cee59502590",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-CONCEPT-AMOUNT"
+        },
+        {
+          "index": 44,
+          "question": "(6 分) 化学与生活密切相关。下列叙述错误的是（）",
+          "content_hash": "eb94ac827602758a1088a51ab12f8c91b87b7df80ddab8195bb7814f2005e77e",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-INORGANIC-NONMETAL"
+        },
+        {
+          "index": 45,
+          "question": "(6 分) 国家卫健委公布的新型冠状病毒肺炎诊疗方案指出, 乙醚、 $75 \\%$ 乙醇、含氯消毒 剂、过氧乙酸 $\\left(\\mathrm{CH}_{3} \\mathrm{COOOH}\\right",
+          "content_hash": "a2e4b6f15656a802e524030a7ed7cf499aab1b7c0f6c3b3239fe2364b070275e",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-ORGANIC-STRUCTURE"
+        },
+        {
+          "index": 46,
+          "question": "( 6 分) 北宋沈括《梦溪笔谈》中记载: “信州铅山有苦泉, 流以为涧。挹其水熬之则成 胆矾，享胆矾则成铜。熬胆矾铁釜, 久之亦化为铜”。下列有关叙述错误的是（）",
+          "content_hash": "72cd69e7a8436dde764f7da05702f4220b04ecc068e9854c5a3235ed71bee0b3",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-INORGANIC-METAL"
+        },
+        {
+          "index": 47,
+          "question": "(6 分) 某白色固体混合物由 $\\mathrm{NaCl} 、 \\mathrm{KCl} 、 \\mathrm{MgSO}_{4} 、 \\mathrm{CaCO}_{3}$ 中的两种组成, 进行如下实",
+          "content_hash": "ed320040e689d2097f1ff12df116a15551649f9dd3e82491948f4e6e5fa7681e",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-EXPERIMENT-ANALYSIS"
+        },
+        {
+          "index": 48,
+          "question": "我国提出争取在 2030 年前实现碳达峰, 2060 年实现碳中和, 这对于改善环境, 实现绿 色发展至关重要。碳中和是指 $\\mathrm{CO}_{2}$ 的排放总量和减少总量相当。下列措施中能促",
+          "content_hash": "f6ebb02521c5d8088468d56ea3c3edf6b4db3a1d86efe65b57646465e73efefd",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-REACTION-ENERGY"
+        },
+        {
+          "index": 49,
+          "question": "下列过程中的化学反应, 相应的离子方程式正确的是",
+          "content_hash": "21d9a360519176fd567617e4c07372945aa37b3ccedb675d3ce5d71b97795b5d",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-CONCEPT-ION"
+        },
+        {
+          "index": 50,
+          "question": "生活中处处有化学, 下列叙述正确的是",
+          "content_hash": "3cc03bbde54cd53d28c104b466aab2dc776067c318e7d018c3dfafa0cc2f07dd",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-CONCEPT-ION"
+        },
+        {
+          "index": 51,
+          "question": "细胞凋亡是细胞死亡的一种类型。下列关于人体中细胞凋亡的叙述，正确的是 （）",
+          "content_hash": "372b54badc3b62336533a0b0687efba4f501ed3afed4010affd51edda39891a8",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-CELL-LIFE-CYCLE"
+        },
+        {
+          "index": 52,
+          "question": "将一株质量为20g的黄瓜幼苗栽种在光照等适宜的环境中，一段时间后植株达到 40g，其增加的质量来自于（）",
+          "content_hash": "c68cde1fcd1d16d7752c2ab3ad0029f1f43ed25134e011d4a18283e1adbc7beb",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-METABOLISM-PHOTOSYNTHESIS"
+        },
+        {
+          "index": 53,
+          "question": "动物受到惊吓刺激时，兴奋经过反射弧中的传出神经作用于肾上腺髓质，使其分 泌肾上腺素；兴奋还通过传出神经作用于心脏。下列相关叙述错误的是（）",
+          "content_hash": "4922c8b7f1dc9eb90d8791eeca8731cfb91b371c431ed16c9ef0e3c4cbc80ac1",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-HOMEOSTASIS-NEURAL-HUMORAL"
+        },
+        {
+          "index": 54,
+          "question": "在真核细胞的内质网和细胞核中能够合成的物质分别是（）",
+          "content_hash": "04a1db3ae7e43129134b3aec151448aaa59d842a7ab9cb6e2e3edc910191d926",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-CELL-STRUCTURE"
+        },
+        {
+          "index": 55,
+          "question": "马铃薯块茎储藏不当会出现酸味，这种现象与马铃薯块茎细胞的无氧呼吸有关。 下列叙述正确的是（）",
+          "content_hash": "82f6975d836aaa8bca154ed9087279989413439a869084bf458bcd4bceec8285",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-METABOLISM-RESPIRATION"
+        },
+        {
+          "index": 56,
+          "question": "当人体失水过多时，不会发生的生理变化是（）",
+          "content_hash": "93ca3128cdc7229358927546d2b0d6e5cf7d4ecd3d7ea4145a7dd6d4b6861baf",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-HOMEOSTASIS-NEURAL-HUMORAL"
+        },
+        {
+          "index": 57,
+          "question": "某种植物的羽裂叶和全缘叶是一对相对性状。某同学用全缘叶植株（植株甲）进 行了下列四个实验。 ①让植株甲进行自花传粉，子代出现性状分离 ②用植株甲给另一全缘叶植株授粉，子代均为全缘叶 ③用植株甲给羽裂叶",
+          "content_hash": "010aa8a906e0e239a1a2dc28d4f6cdd32d59a58b879111e008a1fa4b0af3f1ee",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-GENETICS-LAWS"
+        },
+        {
+          "index": 58,
+          "question": "如果食物链上各营养级均以生物个体的数量来表示，并以食物链起点的生物个体 数作底层来绘制数量金字塔，则只有两个营养级的夏季草原生态系统（假设第一营养级 是牧草，第二营养级是羊）和森林生态系统（假设第一营",
+          "content_hash": "14710a11a317da18863e591a14fff07fca9b916db9c702ebd7bae91988003545",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-ECOLOGY-ECOSYSTEM"
+        },
+        {
+          "index": 59,
+          "question": "若将n粒玉米种子置于黑暗中使其萌发，得到n株黄化苗。那么，与萌发前的这 n粒干种子相比，这些黄化苗的有机物总量和呼吸强度表现为（）",
+          "content_hash": "fb21ead78a7c5fd5003b89c741642e1e1baa63e588da6db00f0b7f8cfe0e7952",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-METABOLISM-RESPIRATION"
+        },
+        {
+          "index": 60,
+          "question": "新冠肺炎疫情警示人们要养成良好的生活习惯，提高公共卫生安全意识。下列相 关叙述错误的是（）",
+          "content_hash": "03cdf1297ff0ab53c5e903c98d1d016adcda05876afca28e2496375e90e99a69",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-CELL-MOLECULE"
+        }
+      ]
+    }
+  ]
+}
