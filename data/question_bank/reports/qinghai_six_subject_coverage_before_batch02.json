@@ -1,0 +1,1730 @@
+{
+  "command": "coverage",
+  "mapping_version": "kp-mapping-v1.1",
+  "subject": null,
+  "knowledge_point_count": 114,
+  "covered_count": 60,
+  "question_count": 157,
+  "items": [
+    {
+      "code": "CHEM-CONCEPT-AMOUNT",
+      "name": "物质的量与化学计量",
+      "subject": "化学",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "CHEM-CONCEPT-ION",
+      "name": "离子反应与离子方程式",
+      "subject": "化学",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "CHEM-CONCEPT-REDOX",
+      "name": "氧化还原反应",
+      "subject": "化学",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "CHEM-EXPERIMENT-ANALYSIS",
+      "name": "实验现象与数据分析",
+      "subject": "化学",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "CHEM-EXPERIMENT-DESIGN",
+      "name": "实验方案设计与评价",
+      "subject": "化学",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "CHEM-EXPERIMENT-OPERATION",
+      "name": "实验基本操作与安全",
+      "subject": "化学",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "CHEM-INORGANIC-METAL",
+      "name": "金属及其化合物",
+      "subject": "化学",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "CHEM-INORGANIC-NONMETAL",
+      "name": "非金属及其化合物",
+      "subject": "化学",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "CHEM-INORGANIC-TRANSFORMATION",
+      "name": "无机物转化与推断",
+      "subject": "化学",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "CHEM-ORGANIC-REACTION",
+      "name": "有机反应类型",
+      "subject": "化学",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "CHEM-ORGANIC-STRUCTURE",
+      "name": "有机物结构与性质",
+      "subject": "化学",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "CHEM-ORGANIC-SYNTHESIS",
+      "name": "有机合成与推断",
+      "subject": "化学",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "CHEM-REACTION-AQUEOUS",
+      "name": "水溶液中的离子平衡",
+      "subject": "化学",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "CHEM-REACTION-ENERGY",
+      "name": "化学反应与能量",
+      "subject": "化学",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "CHEM-REACTION-RATE-EQUILIBRIUM",
+      "name": "反应速率与化学平衡",
+      "subject": "化学",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "CHEM-STRUCTURE-ATOM",
+      "name": "原子结构与元素周期律",
+      "subject": "化学",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "CHEM-STRUCTURE-BOND",
+      "name": "化学键与分子结构",
+      "subject": "化学",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "CHEM-STRUCTURE-CRYSTAL",
+      "name": "晶体结构与性质",
+      "subject": "化学",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "MATH-ANALYTIC-CIRCLE-STANDARD",
+      "name": "圆的标准方程",
+      "subject": "数学",
+      "question_count": 1,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 1
+      }
+    },
+    {
+      "code": "MATH-ANALYTIC-LINE-SLOPE",
+      "name": "直线的斜率",
+      "subject": "数学",
+      "question_count": 1,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 1
+      }
+    },
+    {
+      "code": "MATH-COMPLEX-ARITHMETIC",
+      "name": "复数的四则运算",
+      "subject": "数学",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 5,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "MATH-DERIVATIVE-ELEMENTARY",
+      "name": "基本初等函数的导数",
+      "subject": "数学",
+      "question_count": 6,
+      "difficulty_counts": {
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 6
+      }
+    },
+    {
+      "code": "MATH-EXPONENT-OPERATION",
+      "name": "指数运算",
+      "subject": "数学",
+      "question_count": 1,
+      "difficulty_counts": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "short_answer": 1
+      }
+    },
+    {
+      "code": "MATH-FUNCTION-DOMAIN",
+      "name": "函数的定义域",
+      "subject": "数学",
+      "question_count": 4,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 3,
+        "3": 1,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 4
+      }
+    },
+    {
+      "code": "MATH-FUNCTION-MONOTONICITY",
+      "name": "函数的单调性",
+      "subject": "数学",
+      "question_count": 4,
+      "difficulty_counts": {
+        "1": 1,
+        "2": 3,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 4
+      }
+    },
+    {
+      "code": "MATH-FUNCTION-PARITY",
+      "name": "函数的奇偶性",
+      "subject": "数学",
+      "question_count": 6,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 5,
+        "3": 1,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 6
+      }
+    },
+    {
+      "code": "MATH-INEQUALITY-QUADRATIC",
+      "name": "一元二次不等式的解法",
+      "subject": "数学",
+      "question_count": 1,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 1
+      }
+    },
+    {
+      "code": "MATH-LOGARITHM-OPERATION",
+      "name": "对数运算",
+      "subject": "数学",
+      "question_count": 1,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 1
+      }
+    },
+    {
+      "code": "MATH-LOGIC-SUFFICIENT-NECESSARY",
+      "name": "充分条件与必要条件",
+      "subject": "数学",
+      "question_count": 1,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 1
+      }
+    },
+    {
+      "code": "MATH-PROBABILITY-CLASSICAL",
+      "name": "古典概型",
+      "subject": "数学",
+      "question_count": 3,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 3,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 3
+      }
+    },
+    {
+      "code": "MATH-SEQUENCE-ARITHMETIC-GENERAL",
+      "name": "等差数列的通项公式",
+      "subject": "数学",
+      "question_count": 6,
+      "difficulty_counts": {
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 6
+      }
+    },
+    {
+      "code": "MATH-SEQUENCE-GEOMETRIC-GENERAL",
+      "name": "等比数列的通项公式",
+      "subject": "数学",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 2,
+        "3": 2,
+        "4": 1,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "MATH-SET-OPERATIONS",
+      "name": "集合的基本运算",
+      "subject": "数学",
+      "question_count": 2,
+      "difficulty_counts": {
+        "1": 1,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 2
+      }
+    },
+    {
+      "code": "MATH-SOLID-LINE-PLANE-PERPENDICULAR",
+      "name": "直线与平面垂直的判定",
+      "subject": "数学",
+      "question_count": 1,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "true_false": 1
+      }
+    },
+    {
+      "code": "MATH-STATISTICS-MEAN",
+      "name": "平均数",
+      "subject": "数学",
+      "question_count": 1,
+      "difficulty_counts": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "short_answer": 1
+      }
+    },
+    {
+      "code": "MATH-TRIG-FUNDAMENTAL-IDENTITY",
+      "name": "同角三角函数的基本关系",
+      "subject": "数学",
+      "question_count": 4,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 2,
+        "3": 2,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 3,
+        "true_false": 1
+      }
+    },
+    {
+      "code": "MATH-TRIG-SPECIAL-ANGLE",
+      "name": "特殊角的三角函数值",
+      "subject": "数学",
+      "question_count": 3,
+      "difficulty_counts": {
+        "1": 2,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 3
+      }
+    },
+    {
+      "code": "MATH-VECTOR-COORDINATE",
+      "name": "平面向量的坐标运算",
+      "subject": "数学",
+      "question_count": 1,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 1
+      }
+    },
+    {
+      "code": "MATH-VECTOR-DOT-PRODUCT",
+      "name": "平面向量数量积",
+      "subject": "数学",
+      "question_count": 1,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 1
+      }
+    },
+    {
+      "code": "PHY-CIRCUIT-ELECTRIC-POWER",
+      "name": "电功率的计算",
+      "subject": "物理",
+      "question_count": 1,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 1
+      }
+    },
+    {
+      "code": "PHY-CIRCUIT-OHM-LAW",
+      "name": "欧姆定律",
+      "subject": "物理",
+      "question_count": 1,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 1
+      }
+    },
+    {
+      "code": "PHY-CIRCULAR-CENTRIPETAL-ACCELERATION",
+      "name": "向心加速度",
+      "subject": "物理",
+      "question_count": 2,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 1,
+        "3": 1,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 2
+      }
+    },
+    {
+      "code": "PHY-ELECTROSTATICS-COULOMB-LAW",
+      "name": "库仑定律",
+      "subject": "物理",
+      "question_count": 1,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "true_false": 1
+      }
+    },
+    {
+      "code": "PHY-FORCE-COMPOSITION",
+      "name": "力的合成",
+      "subject": "物理",
+      "question_count": 4,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 4,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 4
+      }
+    },
+    {
+      "code": "PHY-GRAVITY-UNIVERSAL-LAW",
+      "name": "万有引力定律",
+      "subject": "物理",
+      "question_count": 7,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 5,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 6,
+        "true_false": 1
+      }
+    },
+    {
+      "code": "PHY-INDUCTION-CURRENT-CONDITION",
+      "name": "感应电流的产生条件",
+      "subject": "物理",
+      "question_count": 1,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 1
+      }
+    },
+    {
+      "code": "PHY-KINEMATICS-FREE-FALL",
+      "name": "自由落体运动",
+      "subject": "物理",
+      "question_count": 3,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 2,
+        "3": 1,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 2,
+        "true_false": 1
+      }
+    },
+    {
+      "code": "PHY-KINEMATICS-UNIFORM-ACCELERATION",
+      "name": "匀变速直线运动规律",
+      "subject": "物理",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 1,
+        "2": 3,
+        "3": 1,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "PHY-MAGNETIC-FIELD-DIRECTION",
+      "name": "磁场方向的判定",
+      "subject": "物理",
+      "question_count": 1,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 1
+      }
+    },
+    {
+      "code": "PHY-MOMENTUM-BASIC",
+      "name": "动量概念与计算",
+      "subject": "物理",
+      "question_count": 4,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 2,
+        "3": 2,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 4
+      }
+    },
+    {
+      "code": "PHY-MOTION-DISPLACEMENT-DISTANCE",
+      "name": "位移与路程",
+      "subject": "物理",
+      "question_count": 1,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "true_false": 1
+      }
+    },
+    {
+      "code": "PHY-MOTION-PARTICLE-MODEL",
+      "name": "质点模型",
+      "subject": "物理",
+      "question_count": 1,
+      "difficulty_counts": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 1
+      }
+    },
+    {
+      "code": "PHY-NEWTON-SECOND-LAW",
+      "name": "牛顿第二定律",
+      "subject": "物理",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 1,
+        "2": 1,
+        "3": 3,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "PHY-NEWTON-THIRD-LAW",
+      "name": "牛顿第三定律",
+      "subject": "物理",
+      "question_count": 1,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 1
+      }
+    },
+    {
+      "code": "PHY-OPTICS-REFRACTION",
+      "name": "光的折射规律",
+      "subject": "物理",
+      "question_count": 1,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "true_false": 1
+      }
+    },
+    {
+      "code": "PHY-PROJECTILE-HORIZONTAL",
+      "name": "平抛运动规律",
+      "subject": "物理",
+      "question_count": 2,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 2,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 2
+      }
+    },
+    {
+      "code": "PHY-WAVE-SPEED-FREQUENCY-WAVELENGTH",
+      "name": "波速、波长与频率的关系",
+      "subject": "物理",
+      "question_count": 1,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 1
+      }
+    },
+    {
+      "code": "PHY-WORK-ENERGY-KINETIC",
+      "name": "动能概念与计算",
+      "subject": "物理",
+      "question_count": 4,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 4,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 4
+      }
+    },
+    {
+      "code": "PHY-WORK-ENERGY-WORK-CALCULATION",
+      "name": "功的计算",
+      "subject": "物理",
+      "question_count": 4,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 3,
+        "3": 0,
+        "4": 1,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 4
+      }
+    },
+    {
+      "code": "BIO-CELL-LIFE-CYCLE",
+      "name": "细胞生命历程",
+      "subject": "生物",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "BIO-CELL-MOLECULE",
+      "name": "组成细胞的分子",
+      "subject": "生物",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "BIO-CELL-STRUCTURE",
+      "name": "细胞结构与功能",
+      "subject": "生物",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "BIO-ECOLOGY-ECOSYSTEM",
+      "name": "生态系统结构与功能",
+      "subject": "生物",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "BIO-ECOLOGY-ENVIRONMENT",
+      "name": "生态环境保护",
+      "subject": "生物",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "BIO-ECOLOGY-POPULATION-COMMUNITY",
+      "name": "种群与群落",
+      "subject": "生物",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "BIO-GENETICS-LAWS",
+      "name": "遗传基本规律",
+      "subject": "生物",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "BIO-GENETICS-MOLECULAR",
+      "name": "遗传的分子基础",
+      "subject": "生物",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "BIO-GENETICS-VARIATION-EVOLUTION",
+      "name": "变异、育种与进化",
+      "subject": "生物",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "BIO-HOMEOSTASIS-IMMUNE",
+      "name": "免疫调节",
+      "subject": "生物",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "BIO-HOMEOSTASIS-NEURAL-HUMORAL",
+      "name": "神经调节与体液调节",
+      "subject": "生物",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "BIO-HOMEOSTASIS-PLANT",
+      "name": "植物生命活动调节",
+      "subject": "生物",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "BIO-METABOLISM-ENZYME-ATP",
+      "name": "酶与ATP",
+      "subject": "生物",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "BIO-METABOLISM-PHOTOSYNTHESIS",
+      "name": "光合作用",
+      "subject": "生物",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "BIO-METABOLISM-RESPIRATION",
+      "name": "细胞呼吸",
+      "subject": "生物",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "BIO-TECHNOLOGY-CELL-GENE",
+      "name": "细胞工程与基因工程",
+      "subject": "生物",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "BIO-TECHNOLOGY-EXPERIMENT",
+      "name": "教材基础实验",
+      "subject": "生物",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "BIO-TECHNOLOGY-FERMENTATION",
+      "name": "发酵工程",
+      "subject": "生物",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "ENG-CLAUSE-ADVERBIAL-CONDITION",
+      "name": "条件状语从句",
+      "subject": "英语",
+      "question_count": 2,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 2
+      }
+    },
+    {
+      "code": "ENG-CLAUSE-OBJECT-WORD-ORDER",
+      "name": "宾语从句的语序",
+      "subject": "英语",
+      "question_count": 1,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 1
+      }
+    },
+    {
+      "code": "ENG-CLAUSE-RELATIVE-WORD-SELECTION",
+      "name": "定语从句关系词的选择",
+      "subject": "英语",
+      "question_count": 6,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 3,
+        "3": 3,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 6
+      }
+    },
+    {
+      "code": "ENG-GRAMMAR-ADJECTIVE-COMPARATIVE",
+      "name": "形容词比较级",
+      "subject": "英语",
+      "question_count": 1,
+      "difficulty_counts": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 1
+      }
+    },
+    {
+      "code": "ENG-GRAMMAR-AGREEMENT-PROXIMITY",
+      "name": "主谓一致的就近原则",
+      "subject": "英语",
+      "question_count": 1,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 1
+      }
+    },
+    {
+      "code": "ENG-GRAMMAR-MODAL-BASIC",
+      "name": "情态动词的基本用法",
+      "subject": "英语",
+      "question_count": 3,
+      "difficulty_counts": {
+        "1": 2,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 3
+      }
+    },
+    {
+      "code": "ENG-GRAMMAR-TENSE-PAST-CONTINUOUS",
+      "name": "过去进行时",
+      "subject": "英语",
+      "question_count": 2,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 2
+      }
+    },
+    {
+      "code": "ENG-GRAMMAR-TENSE-PRESENT-PERFECT",
+      "name": "现在完成时",
+      "subject": "英语",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 5,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "ENG-GRAMMAR-TENSE-PRESENT-SIMPLE",
+      "name": "一般现在时",
+      "subject": "英语",
+      "question_count": 2,
+      "difficulty_counts": {
+        "1": 1,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 2
+      }
+    },
+    {
+      "code": "ENG-GRAMMAR-THERE-BE",
+      "name": "There be 句型",
+      "subject": "英语",
+      "question_count": 1,
+      "difficulty_counts": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "true_false": 1
+      }
+    },
+    {
+      "code": "ENG-GRAMMAR-VOICE-PRESENT-PASSIVE",
+      "name": "一般现在时被动语态",
+      "subject": "英语",
+      "question_count": 2,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 2
+      }
+    },
+    {
+      "code": "ENG-NONFINITE-GERUND-SUBJECT",
+      "name": "动名词短语作主语",
+      "subject": "英语",
+      "question_count": 3,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 1,
+        "3": 2,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 2,
+        "short_answer": 1
+      }
+    },
+    {
+      "code": "ENG-NONFINITE-INFINITIVE",
+      "name": "动词不定式",
+      "subject": "英语",
+      "question_count": 6,
+      "difficulty_counts": {
+        "1": 1,
+        "2": 5,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 6
+      }
+    },
+    {
+      "code": "ENG-READING-DETAIL",
+      "name": "细节理解",
+      "subject": "英语",
+      "question_count": 3,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 2,
+        "3": 1,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 3
+      }
+    },
+    {
+      "code": "ENG-READING-MAIN-IDEA",
+      "name": "主旨大意",
+      "subject": "英语",
+      "question_count": 3,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 1,
+        "3": 2,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 3
+      }
+    },
+    {
+      "code": "ENG-VOCAB-COLLOCATION",
+      "name": "固定搭配",
+      "subject": "英语",
+      "question_count": 4,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 4,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 4
+      }
+    },
+    {
+      "code": "ENG-VOCAB-CONTEXT-ADVERB",
+      "name": "副词语境辨析",
+      "subject": "英语",
+      "question_count": 1,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 1
+      }
+    },
+    {
+      "code": "ENG-VOCAB-CONTEXT-VERB",
+      "name": "动词语境辨析",
+      "subject": "英语",
+      "question_count": 2,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 2
+      }
+    },
+    {
+      "code": "ENG-VOCAB-SITUATIONAL-COMMUNICATION",
+      "name": "情景交际",
+      "subject": "英语",
+      "question_count": 1,
+      "difficulty_counts": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 1
+      }
+    },
+    {
+      "code": "CHN-CLASSICAL-CONTENT",
+      "name": "文言文内容理解",
+      "subject": "语文",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "CHN-CLASSICAL-TRANSLATION",
+      "name": "文言文翻译",
+      "subject": "语文",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "CHN-CLASSICAL-WORDS",
+      "name": "文言实词与虚词",
+      "subject": "语文",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "CHN-LANGUAGE-EXPRESSION",
+      "name": "语言表达与衔接",
+      "subject": "语文",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "CHN-LANGUAGE-SENTENCE",
+      "name": "病句辨析与修改",
+      "subject": "语文",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "CHN-LANGUAGE-WORDS",
+      "name": "词语辨析与使用",
+      "subject": "语文",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "CHN-MEMORIZATION-AUTHOR",
+      "name": "篇目作者与语境",
+      "subject": "语文",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "CHN-MEMORIZATION-CONTEXT",
+      "name": "理解性默写",
+      "subject": "语文",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "CHN-MEMORIZATION-VARIANTS",
+      "name": "易错字与通假字",
+      "subject": "语文",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "CHN-MODERN-APPRECIATION",
+      "name": "表现手法与文本鉴赏",
+      "subject": "语文",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "CHN-MODERN-INFERENCE",
+      "name": "文意理解与推断",
+      "subject": "语文",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "CHN-MODERN-INFORMATION",
+      "name": "信息筛选与整合",
+      "subject": "语文",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "CHN-POETRY-EMOTION",
+      "name": "诗歌思想感情",
+      "subject": "语文",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "CHN-POETRY-IMAGE",
+      "name": "诗歌形象与意境",
+      "subject": "语文",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "CHN-POETRY-TECHNIQUE",
+      "name": "诗歌表达技巧",
+      "subject": "语文",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "CHN-WRITING-ARGUMENT",
+      "name": "议论文立意",
+      "subject": "语文",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "CHN-WRITING-MATERIAL",
+      "name": "材料分析与运用",
+      "subject": "语文",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    },
+    {
+      "code": "CHN-WRITING-STRUCTURE",
+      "name": "论证结构与方法",
+      "subject": "语文",
+      "question_count": 0,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {}
+    }
+  ]
+}

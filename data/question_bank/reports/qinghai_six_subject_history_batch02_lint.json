@@ -1,0 +1,440 @@
+{
+  "command": "lint",
+  "total": 60,
+  "passed": 60,
+  "errors": 0,
+  "warnings": 0,
+  "files": [
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "qinghai_six_subject_history_batch02_v1.json",
+      "total": 60,
+      "passed": 60,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "下列各句中，加点的成语使用恰当的一项是（ ）",
+          "content_hash": "cbc9f1340d76204853cd500e9a5f1de70f75cb567c3aef345c5bfe7bd6b2128b",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 2,
+          "question": "下列各句中，没有语病的一句是（ ）",
+          "content_hash": "dc63e2a85f1f433d16db701fa82c54ec0dad0c9cdc126a2dda19142c641dd670",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 3,
+          "question": "依次填入下面一段文字横线处的语句，衔接最恰当的一组是（ ） 当代艺术博物馆今日举办名为 “风物 ”的展览，展出了几位画家、摄影师的作 品， ， 。 ， ， ， ，能启发我们发现身边的奇景和诗意。 ①因",
+          "content_hash": "e2a10c7aed8a60c91e589749a5659d04ab3fb16a57cf8074433efc6c89f0f3f4",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 4,
+          "question": "依次填入下列各句横线处的成语，最恰当的一组是（ ） ①医疗质量是关系到病人生命安危的大事，救死扶伤是医务人员 的天职。 ②中国传统的严父慈母型的家庭关系，常令父亲们 地承担起教育子女的 义务。 ③在全",
+          "content_hash": "48d36ae02a26df45a37ad5e3c8a7e759d6d519ee503a173a540dc1e4126a0efa",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 5,
+          "question": "下列各句中，没有语病的一句是 （ ）",
+          "content_hash": "106508195c1884a020dbc42993ac01b111b09cbc787d5fdc087350c87fdc8def",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 6,
+          "question": "依次填入下面一段文字横线处的语句 ，衔接最恰当的一组是 （ ） 中国珠算是以算盘为工具进行数字计算的一种方法，借助算盘和口诀，通 过人手指拨动算珠，就可以完成高难度计算。 ， ， ， ， ， 。201",
+          "content_hash": "e877ecbdc6fca71097a03a40f9f71737cdc14677b1d036a012b6a04734dfbbff",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 7,
+          "question": "依次填入下列各句検线处的成语，最恰当的一组是（ ） ①消防工作必须立足于 _______，从提高公众的防火意识做起。 ②即使现有的产品杨销，也要 _______，抓紧技术储备与新产品开发。 ③如果我们",
+          "content_hash": "3313fe175080814855fca1f41e72adb68f47db65e5d2521b4f4d977c6af5a7a8",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 8,
+          "question": "下列各句中，没有语病的一句是（ ）",
+          "content_hash": "5f6266627fd418f4ccd771959b1a73569519bc55b86e72de3bd398318ca3707c",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 9,
+          "question": "依次填入下面一段文字横线处的语句，衔接最恰当的一组是（ ） 马是中国人喜爱的动物，是人类最早驯养的家畜之一，是极其温顺又充满野 性魅力的动物。 ， ， ， ， ， ， 马己经成为力量与神奇的代表。 ①",
+          "content_hash": "171b1279214d8d371535df7444eb9284b60e864d77566ebe8946501eed55cdb4",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 10,
+          "question": "填入下面一段文字横线处的语句，最恰当的一句是（ ） 随着雾霾频发，油品质量对环境的影响引起了人们越来越多的关注。有测试 表明。一些城市空气中 PM2. 5的20%左右来自机动车尾气，而只要使用符合 新",
+          "content_hash": "6cb55464dd68811f65272d0d0868efcca127e65aa25388fbd3c3b261133125e2",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 11,
+          "question": "（5 分) 已知集合 $A=\\{x \\in R|| x \\mid \\leqslant 2\\}\\}, B=\\{x \\in Z \\mid \\sqrt{x} \\leqslant 4\\}$, 则 $A \\ca",
+          "content_hash": "649b5825188e8dc8dc41333af502eaa84ad50ccee0a27647ae1838959858dc15",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 12,
+          "question": "(5 分) 已知复数 $z=\\frac{\\sqrt{3}+i}{(1-\\sqrt{3} i)^{2}}, \\bar{z}$ 是 $z$ 的共轭复数, 则 $z\\cdot\bar{z}=(\\quad)$",
+          "content_hash": "11a0c542d3993b9d26cf683c03b8717b229aa63329a088a7282691d0d247171e",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 13,
+          "question": "已知集合 $M=\\left\\{x \\mid(x-1)^{2}<4, x \\in R\\right\\}, N=\\{-1,0,1,2,3\\}$, 则 $M$ $\\cap N=(\\quad)$",
+          "content_hash": "30fb30d8cd28f347737053018ea36a68c48884010647f9ac8db0f2b3253b367c",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 14,
+          "question": "设偶函数 $f(x)$ 满足 $f(x)=2^{x}-4(x \\geqslant 0)$ ，则 $\\{x \\mid f(x-2)>0\\}=($ )",
+          "content_hash": "e0544fae20b029de6c6346fbcb6c7d146ac067f3c63d5020a1d7e8eb51dc3f71",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 15,
+          "question": "(5 分）若 $\\cos \\alpha=-\\frac{4}{5}, \\alpha$ 是第三象限的角, 则 $\\frac{1+\\tan \\frac{\\alpha}{2}}{1-\\tan \\frac{\\a",
+          "content_hash": "5bd6b5eca879e134e8b16895df9151ec08c1b5252d4f8dba22575add088df86e",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 16,
+          "question": "设复数 $z$ 满足 $(1-i) z=2 i$, 则 $z=(\\quad)$",
+          "content_hash": "9576535e5aa41db289afd75549f50681a00a9c916e000e61be9aa9abe16eefe6",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 17,
+          "question": "(5 分) 等比数列 $\\left\\{a_{n}\\right\\}$ 的前 $n$ 项和为 $S_{n}$, 已知 $S_{3}=a_{2}+10 a_{1}, a_{5}=9$, 则 $a_{1}=(",
+          "content_hash": "3fe29a2cffee95c17d2a1b39c2a6f671abafc9be5671502eb22880bb1be4934f",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 18,
+          "question": "（5 分) 已知函数 $f(x)=a x^{3}-3 x^{2}+1$, 若 $f(x)$ 存在唯一的零点 $x_{0}$, 且 $x_{0}>$ 0 , 则实数 a 的取值范围是（ $)$",
+          "content_hash": "950a0bd7dd725e6f45db3992aaca2e8ec4592fada1085e0d948ef93cbed04f44",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 19,
+          "question": "4 位同学各自在周六、周日两天中任选一天参加公益活动, 则周六、 周日都有同学参加公益活动的概率为（）",
+          "content_hash": "aacd825f1e5c84ef30386bd15cbaffd744f58e6d1a386c4585c5c1007756cc9b",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 20,
+          "question": "（5 分) 设 $\\alpha \\in\\left(0, \\frac{\\pi}{2}\\right), \\beta \\in\\left(0, \\frac{\\pi}{2}\\right)$, 且 $\\tan \\",
+          "content_hash": "efe786ab6284ca7f69b02746094b917a5313a63363379c3ff2cb5a6ced186b47",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 21,
+          "question": "--- Have you finished reading Jane Eyre ? --- No, I my homework all day yesterday .",
+          "content_hash": "b2d0abb7623eb0187fd016b363afd5209e3621d2e8e4500599b7f87cf6f55030",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 22,
+          "question": "As a child , Jack studied in a village school , is named after his grandfather .",
+          "content_hash": "918efc21087a789a19fb4e332872709b459ce73c919b1a45cf87927c326fd90b",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 23,
+          "question": "When you are home , give a call to let me know you safely .",
+          "content_hash": "63db9fcb94faee3d4be18657bf518b875bb1af718c95c8be48f4b72b66c56900",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 24,
+          "question": "Just be patient . You expect the world to change so soon .",
+          "content_hash": "dc3647a0bc4e4b136073ffb4ee9d0e150635b6292468a1950c50e5dc0ff7ee2a",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 25,
+          "question": "The little boy won’t go to sleep his mother tells him a story .",
+          "content_hash": "ab24f4b3133b837c307ecede23a5489f282a3c7f5891d4c7c904513a4aa8e307",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 26,
+          "question": "Planning so far ahead _______no sense --- so many things will have changed by next year.",
+          "content_hash": "a590216d66ba1c08d42b108c8a469c56c416005990c493320da61d22b68a0675",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 27,
+          "question": "Tom was about to close the windows_____his attention was caught by a bird.",
+          "content_hash": "8b9afabe37858341da3aa56110f31fd44248e5d670903849ffbd5f0933bbec41",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 28,
+          "question": "--- Have you finished the book？ --- No. I’ve read up to _____ the children discover the secret cave.",
+          "content_hash": "8bf57fe0cc6629ee56168745f55756cb19389326976908ac6fcf3891de9de4a7",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 29,
+          "question": "Linda , make sure the tables ____ before the guests arrive .",
+          "content_hash": "87e9bdd34084b45fc019b6617ca9123019813260229b4bf2308bbb945f3660aa",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 30,
+          "question": "I refuse to accept the blame for something _____ was someone else’s fault.",
+          "content_hash": "91c849afcc1b720be2130827668713f1567eb14c31c5571241d164e47b1e4994",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 31,
+          "question": "质点开始时做匀速直线运动, 从某时刻起受到一恒力作用. 此后, 该质点的动能可能 ( $)$",
+          "content_hash": "17fd1fa5cba92fc952e568577017ffe2f97ed2d05e9efbaa99d327f874026a14",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 32,
+          "question": "（6 分) 一蹦极运动员身系弹性蹦极绳从水面上方的高台下落, 到最低点时 距水面还有数米距离. 假定空气阻力可忽略, 运动员可视为质点, 下列说法 正确的是 $(\\quad)$",
+          "content_hash": "7914a4973d258f92c9457585d5d8ff88b52ccb95b06d7ec262a20985a981ddb3",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 33,
+          "question": "(6 分) 金星、地球和火星绕太阳的公转均可视为匀速圆周运动, 它们的向心加速度大小 分别为 $\\mathrm{a}_{\\text {金、 }} \\mathrm{a}_{\\text {地、 }} \\m",
+          "content_hash": "8bab6a32e5d0814f488ce686a9d2a3ee668ea7fdb7741326160621e8786cc38b",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 34,
+          "question": "(6 分) 公路急转弯处通常是交通事故多发地带. 某公路急转弯处是一圆弧, 当汽车行驶的速率为 $v_{c}$ 时, 汽车恰好没有向公路内外两侧滑动的趋势, 则在 该弯道处，（）",
+          "content_hash": "928fa47d2f3b5073ce69311fbad2ff63af64d996404cc84000a63d0d30526580",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 35,
+          "question": "（6 分) 关于通电直导线在匀强磁场中所受的安培力, 下列说法正确的是（",
+          "content_hash": "b4e3fdac334e91934cf7cd0ccd3d221c57259fc4f632566f8f389d56607df8e6",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 36,
+          "question": "(6 分) 一物体静止在粗䊁水平地面上, 现用一大小为 $\\mathrm{F}_{1}$ 的水平拉力拉动物 体, 经过一段时间后其速度为 $\\mathrm{v}$, 若将水平拉力的大小改为 $F_{2",
+          "content_hash": "d4dd681752a41e46a6338ad10ed295904436189cccff42a28d5401c9b450a939",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 37,
+          "question": "(6 分) 假设地球可视为质量均匀分布的球体, 已知地球表面重力加速度在 两极的大小为 $g_{0}$, 赤道的大小为 $g$; 地球自转的周期为 $\\mathrm{T}$, 引力常量为 $G$. 则",
+          "content_hash": "eee44cb0c04997d4db42f12f8bff1dda265c767b2a8e5bd19763e207548fe65b",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 38,
+          "question": "(6 分) 在一东西向的水平直铁轨上, 停放着一列已用挂钩连接好的车厢。 当机车在东边拉着这列车厢以大小为 $\\mathrm{a}$ 的加速度向东行驶时, 连接某两相邻 车厢的挂钧 $P$ 和 $Q$",
+          "content_hash": "0591f18f318f9577528bb7bff561c76541f9667497c12c9f4e116207b2240498",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 39,
+          "question": "(6 分) 一质点做匀速直线运动, 现对其施加一恒力, 且原来作用在质点上 的力不发生改变, 则（ )",
+          "content_hash": "15307f888bc7ba2bf4dbad1ad2b8f84ccb176e7fb38b4bee5b53e2d5db444061",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 40,
+          "question": "一质量为 $m$ 的物体自倾角为 $a$ 的固定斜面底端沿斜面向上滑动。该物体开始滑动时的动能为 $E_{\\mathrm{k}}$, 向上 滑动一段距离后速度减小为零, 此后物体向下滑动, 到达斜面底",
+          "content_hash": "7f53d56fbf6030199063cacdb95f62e0cced56f27dc342380e539d94eb84234b",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 41,
+          "question": "下列反应中, 可用离子方程式 $\\mathrm{H}^{+}+\\mathrm{OH}^{-}=\\mathrm{H}_{2} \\mathrm{O}$ 表示的是（ ）",
+          "content_hash": "3440e24f2edec9e5dd05d737189fd38cd2fb6ab8ee95a6699915287a8f742f00",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 42,
+          "question": "下面均是正丁烷与氧气反应的热化学方程式 $\\left(25^{\\circ}, 101 \\mathrm{kPa} ）:\\right.$ (1) $\\mathrm{C}_{4} \\mathrm{H}_{1",
+          "content_hash": "534c9ce63e912ec1da30127ecbda5870ac8de7b3dbb3a31832d34891dcbe3fe5",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 43,
+          "question": "下列叙述正确的是（）",
+          "content_hash": "35f9e060855989fe2437ceeda328d5c99c9a95d60134a4913dfceeb279c3eac5",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 44,
+          "question": "分子式为 $\\mathrm{C}_{5} \\mathrm{H}_{11} \\mathrm{Cl}$ 的同分异构体共有（不考虑立体异构）（）",
+          "content_hash": "b51e92094145d7a2c8eabeded68790ab0eed4ee43dab0ec216a5d31f7a254ea7",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 45,
+          "question": "下列反应中，属于取代反应的是（） (1) $\\mathrm{CH}_{3} \\mathrm{CH}=\\mathrm{CH}_{2}+\\mathrm{Br}_{2} \\stackrel{\\mathrm{",
+          "content_hash": "3a8b763cd0ffd81d32149d6d6ab36cd1ae2d28dcd3f1c43dd4186b39767ed475",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 46,
+          "question": "铁铂蓄电池又称爱迪生电池, 放电时的总反应为: $\\mathrm{Fe}^{+} \\mathrm{Ni}_{2} \\mathrm{O}_{3}+3 \\mathrm{H}_{2} \\mathrm{O}=",
+          "content_hash": "d8ab578f69c729c9c63596b0d7183f123d0b458f11bd39adfc82e879f0d65a46",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 47,
+          "question": "能正确表示下列反应的离子方程式为（ ）",
+          "content_hash": "3eacfb1449bc3253ecf11ee6310048184e373762c0b949092fee9ec21e8a4046",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 48,
+          "question": "下列叙述中正确的是（）",
+          "content_hash": "a0fd2aecb658be001b2e583ebe5b47b0ee63dda0396e5ebbbfdc1286d5a01f88",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 49,
+          "question": "下列说法正确的是（）",
+          "content_hash": "91e1b90053a5a65bb1a89598159ead89004342879cccfc453065bfb53ffe472c",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 50,
+          "question": "（6 分) 下列实验中, 所采取的分离方法与对应原理都正确的是（） \\begin{tabular}{|c|c|c|c|} \\hline 选项 & 目的 & 分离方法 & 原理 \\\\ \\hline $\\",
+          "content_hash": "acaef97c566aacd84ad367d9ef880e9d9c99c1a8cfbf1b8706c22ad97de64c5c",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 51,
+          "question": "种子贮藏中需要控制呼吸作用以减少有机物的消耗。若作物种子呼吸作用所利用 的物质是淀粉分解产生的葡萄糖，下列关于种子呼吸作用的叙述，错误的是（）",
+          "content_hash": "32ede7b1eacbc5293b841b0aae8405151197d6a9927e5da0093001f35912e83f",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 52,
+          "question": "某研究人员以小鼠为材料进行了与甲状腺相关的实验，下列叙述错误的是（）",
+          "content_hash": "90e8734e1126d91ba782249c7e3a329811005bba0fc5bc69dff7671304707601",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 53,
+          "question": "为达到实验目的，需要选用合适的实验材料进行实验。下列实验目的与实验材料 的对应，不合理的是（） 实验材料 实验目的 A大蒜根尖分生区细胞 观察细胞的质壁分离与复原 B蝗虫的精巢细胞 观察细胞的减数分裂",
+          "content_hash": "98cd435a17e5f4c27c3611b6a287560c5cb6d47c8a8255b6aa80cbe3f6e32bb0",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 54,
+          "question": "已知果蝇的长翅和截翅由一对等位基因控制。多只长翅果蝇进行单对交配（每个 瓶中有1只雌果蝇和1只雄果蝇），子代果蝇中长翅：截翅＝3：1．据此无法判断的是（）",
+          "content_hash": "e047ee2f4cdd7221f692cac504a63cdebf82b96ac73c2c6abe9ae238cf7d0542",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 55,
+          "question": "土壤小动物对动植物遗体的分解起着重要的作用。下列关于土壤小动物的叙述， 错误的是（）",
+          "content_hash": "434efcef491e078c0b2ff40189db4d52552b92ef2ebacd16b525433fca2053cb",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 56,
+          "question": "新冠病毒（SARS﹣CoV﹣2）和肺炎双球菌均可引发肺炎，但二者的结构不同， 新冠病毒是一种含有单链RNA的病毒。下列相关叙述正确的是（）",
+          "content_hash": "6578a32b013fee20e21d33c8d80cdccda180f1ea5375cd789d6d52b2932ca243",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 57,
+          "question": "当人体的免疫系统将自身物质当作外来异物进行攻击时，可引起自身免疫病。下 列属于自身免疫病的是（）",
+          "content_hash": "afeead86d5f1a6896b27275c9f1595814a25f600a29adfbcdd0118a9fb79985d",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 58,
+          "question": "关于高等植物细胞中染色体组的叙述，错误的是（）",
+          "content_hash": "2628f3b691d16e285b583ae96c72eced5e6943bd4b87b088f5556ffc195bcd44",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 59,
+          "question": "河水携带泥沙流入大海时，泥沙会在入海口淤积形成三角洲。在这个过程中，会 出现3种植物群落类型：①以芦苇为主的植物群落（生长在淡水环境中），②以赤碱蓬为 主的植物群落（生长在海水环境中），③草甸植物群落",
+          "content_hash": "babee7cbc8d9a89f85cffb10da815bc212c3bad1ee867c7caebdf469f9b20c8d",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 60,
+          "question": "关于真核生物的遗传信息及其传递的叙述，错误的是（）",
+          "content_hash": "ccbe2975a84772a95c425cb37fc23253eecfe35f8b57c799544a3ef82a911ce9",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    }
+  ]
+}
