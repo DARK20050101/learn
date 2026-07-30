@@ -1,0 +1,47 @@
+{
+  "command": "verify",
+  "schema_version": "question-bank-report-v1",
+  "mapping_version": "kp-mapping-v1.1",
+  "total": 3,
+  "passed": 3,
+  "errors": 0,
+  "warnings": 0,
+  "database_duplicates": 0,
+  "files": [
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "gaokao_biology_adapted_batch09_v1.json",
+      "total": 3,
+      "passed": 3,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "【2011高考真题材料改编】生活污水经过“厌氧沉淀池—曝气池—兼氧池—植物池”净化。生态工程的主要任务是（ ）",
+          "content_hash": "544744a470f186aa1ed48a837dab0a8e6762674869934485542909f9f6169b85",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-ECOLOGY-ENVIRONMENT"
+        },
+        {
+          "index": 2,
+          "question": "【2013高考真题材料改编】制作泡菜时，在冷却后的盐水中加入少量陈泡菜液，其主要目的是什么？",
+          "content_hash": "7eba4110f82d565bed4caf3326f4baa994ad2533d0bfa9ac64c7f32dc095a409",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-TECHNOLOGY-FERMENTATION"
+        },
+        {
+          "index": 3,
+          "question": "【2017高考真题材料改编】将几丁质酶目的基因与质粒载体连接时，DNA连接酶催化形成的化学键是（ ）",
+          "content_hash": "5ab0d574e537740dff6abf8ba81e7fe0e28ffc61699b483a4b854fd047f68481",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-TECHNOLOGY-CELL-GENE"
+        }
+      ]
+    }
+  ]
+}

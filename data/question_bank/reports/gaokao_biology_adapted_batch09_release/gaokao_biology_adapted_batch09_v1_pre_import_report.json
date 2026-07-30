@@ -1,0 +1,39 @@
+{
+  "report": "pre_import",
+  "filename": "gaokao_biology_adapted_batch09_v1.json",
+  "file_hash": "89cec2f99325f2334ba81ad0326d9c82c0ccbe530a64baf16e2875dfe64b15dc",
+  "mapping_version": "kp-mapping-v1.1",
+  "database": {
+    "questions": 372,
+    "primary_knowledge_point_links": 372,
+    "orphan_questions": 0,
+    "selected_question_count": 372,
+    "selected_questions_business_hash": "6117672ae6f2a9256b628a91b9481df9838a49662715ccd2a5f91cb330c47f7d"
+  },
+  "total": 3,
+  "new_questions": 3,
+  "matching_duplicates": 0,
+  "conflicts": 0,
+  "errors": [],
+  "ready": true,
+  "items": [
+    {
+      "index": 1,
+      "content_hash": "544744a470f186aa1ed48a837dab0a8e6762674869934485542909f9f6169b85",
+      "primary_code": "BIO-ECOLOGY-ENVIRONMENT",
+      "status": "new"
+    },
+    {
+      "index": 2,
+      "content_hash": "7eba4110f82d565bed4caf3326f4baa994ad2533d0bfa9ac64c7f32dc095a409",
+      "primary_code": "BIO-TECHNOLOGY-FERMENTATION",
+      "status": "new"
+    },
+    {
+      "index": 3,
+      "content_hash": "5ab0d574e537740dff6abf8ba81e7fe0e28ffc61699b483a4b854fd047f68481",
+      "primary_code": "BIO-TECHNOLOGY-CELL-GENE",
+      "status": "new"
+    }
+  ]
+}
