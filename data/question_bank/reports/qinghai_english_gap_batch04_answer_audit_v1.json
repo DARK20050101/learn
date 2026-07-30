@@ -1,0 +1,140 @@
+{
+  "schema_version": "shiguang-question-audit-v1",
+  "policy": {
+    "auto_pass": "格式、答案解析一致性和已知OCR风险检查均未发现异常",
+    "review": "不进入自动发布批次，需在审查页面确认",
+    "block": "禁止发布",
+    "accuracy_notice": "AUTO_PASS不是官方答案二次认证；答案继承自GAOKAO-Bench Standard Answer，按Apache-2.0 AS IS条款提供"
+  },
+  "inputs": [
+    "data\\question_bank\\candidates\\qinghai_english_gap_batch04_v1.json"
+  ],
+  "total": 12,
+  "auto_pass": 12,
+  "review": 0,
+  "block": 0,
+  "candidate_file": "data\\question_bank\\candidates\\qinghai_english_gap_batch04_audited_v1.json",
+  "review_file": "data\\question_bank\\review_queue\\qinghai_english_gap_batch04_exception_queue_v1.json",
+  "records": [
+    {
+      "file": "qinghai_english_gap_batch04_v1.json",
+      "index": 1,
+      "title": "高考真题候选04·英语·2010·10",
+      "subject": "英语",
+      "source": "GAOKAO-Bench|dataset:english-mcq|year:2010|index:10|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_english_gap_batch04_v1.json",
+      "index": 2,
+      "title": "高考真题候选04·英语·2010·22",
+      "subject": "英语",
+      "source": "GAOKAO-Bench|dataset:english-mcq|year:2010|index:22|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_english_gap_batch04_v1.json",
+      "index": 3,
+      "title": "高考真题候选04·英语·2011·47",
+      "subject": "英语",
+      "source": "GAOKAO-Bench|dataset:english-mcq|year:2011|index:47|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_english_gap_batch04_v1.json",
+      "index": 4,
+      "title": "高考真题候选04·英语·2011·58",
+      "subject": "英语",
+      "source": "GAOKAO-Bench|dataset:english-mcq|year:2011|index:58|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_english_gap_batch04_v1.json",
+      "index": 5,
+      "title": "高考真题候选04·英语·2012·60",
+      "subject": "英语",
+      "source": "GAOKAO-Bench|dataset:english-mcq|year:2012|index:60|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_english_gap_batch04_v1.json",
+      "index": 6,
+      "title": "高考真题候选04·英语·2012·62",
+      "subject": "英语",
+      "source": "GAOKAO-Bench|dataset:english-mcq|year:2012|index:62|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_english_gap_batch04_v1.json",
+      "index": 7,
+      "title": "高考真题候选04·英语·2012·74",
+      "subject": "英语",
+      "source": "GAOKAO-Bench|dataset:english-mcq|year:2012|index:74|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_english_gap_batch04_v1.json",
+      "index": 8,
+      "title": "高考真题候选04·英语·2013·75",
+      "subject": "英语",
+      "source": "GAOKAO-Bench|dataset:english-mcq|year:2013|index:75|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_english_gap_batch04_v1.json",
+      "index": 9,
+      "title": "高考真题候选04·英语·2013·82",
+      "subject": "英语",
+      "source": "GAOKAO-Bench|dataset:english-mcq|year:2013|index:82|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_english_gap_batch04_v1.json",
+      "index": 10,
+      "title": "高考真题候选04·英语·2013·89",
+      "subject": "英语",
+      "source": "GAOKAO-Bench|dataset:english-mcq|year:2013|index:89|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_english_gap_batch04_v1.json",
+      "index": 11,
+      "title": "高考真题候选04·英语·2013·92",
+      "subject": "英语",
+      "source": "GAOKAO-Bench|dataset:english-mcq|year:2013|index:92|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_english_gap_batch04_v1.json",
+      "index": 12,
+      "title": "高考真题候选04·英语·2013·99",
+      "subject": "英语",
+      "source": "GAOKAO-Bench|dataset:english-mcq|year:2013|index:99|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    }
+  ]
+}

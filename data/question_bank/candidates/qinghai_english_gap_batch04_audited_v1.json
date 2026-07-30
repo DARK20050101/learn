@@ -1,0 +1,340 @@
+{
+  "questions": [
+    {
+      "subject": "英语",
+      "chapter": "词汇",
+      "knowledge_points": [
+        "情景交际"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "--- Everybody is going to climb the mountain . Can I go too, mum ? --- Wait till you are old enough , dear.",
+      "options": [
+        "will you?",
+        "Why not?",
+        "I hope so.",
+        "I’m afraid not."
+      ],
+      "answer": "D",
+      "solution": "【解答】 答案 D．A项\"Will用于第二人称表示征求对方的意见 \"；B项\"为什么 不？ \"表示同意对方的观点； C项\"我希望如此 \"；D项\"我恐怕不行 \"；根据句意 \" 亲爱的，等到你年龄足够大的时候再去 \"可知，孩子的妈妈不让孩子去爬山．因 此D项符合语境， 故选 D． 【点评】",
+      "source": "GAOKAO-Bench|dataset:english-mcq|year:2010|index:10|commit:6dbb24f8d843",
+      "title": "高考真题候选04·英语·2010·10",
+      "tags": [
+        "kp:ENG-VOCAB-SITUATIONAL-COMMUNICATION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-gap-04",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "词汇",
+      "knowledge_points": [
+        "副词语境辨析"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "The island is ____ attractive in spring and autumn because of the pleasant weather in both seasons .",
+      "options": [
+        "partly",
+        "merely",
+        "nearly",
+        "equally"
+      ],
+      "answer": "D",
+      "solution": "【解答】 答案： D，本题考查副词辨析 . A. partly 部分的， B. merely 只是，仅仅 ，C. nearly 几乎的， D. equally 相等的，同样的 . 根据题干的意思：这个岛屿在 春天和秋天都同样的（ equally）迷人，因为这两季的惬意的天气 . 所以本题选择 D. 【点评】",
+      "source": "GAOKAO-Bench|dataset:english-mcq|year:2010|index:22|commit:6dbb24f8d843",
+      "title": "高考真题候选04·英语·2010·22",
+      "tags": [
+        "kp:ENG-VOCAB-CONTEXT-ADVERB",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-gap-04",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "非谓语动词",
+      "knowledge_points": [
+        "动名词短语作主语"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "Planning so far ahead _______no sense --- so many things will have changed by next year.",
+      "options": [
+        "made",
+        "is making",
+        "makes",
+        "has made"
+      ],
+      "answer": "C",
+      "solution": "【解答】答案： C．该句中没有明显的时间状语，根据句意，该句所表达的是一 般的道理，所以用一般现在时态．故选： C． 【点评】",
+      "source": "GAOKAO-Bench|dataset:english-mcq|year:2011|index:47|commit:6dbb24f8d843",
+      "title": "高考真题候选04·英语·2011·47",
+      "tags": [
+        "kp:ENG-NONFINITE-GERUND-SUBJECT",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-gap-04",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "词汇",
+      "knowledge_points": [
+        "动词语境辨析"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "William found it increasingly difficult to read, for his eyesight was beginning to _______.",
+      "options": [
+        "disappear",
+        "fall",
+        "fail",
+        "damage"
+      ],
+      "answer": "C",
+      "solution": "【解答】答案 C．A选项 \"消失 \"；B选项 \"落下；跌倒；陷入 \"；D选项 \"破坏 \"；C 选项 \"失败，不及格，（指健康）衰退；变弱；消失 \"；根据句意 \"他的视力开始 衰退 \"可知 C项符合语境， 故选 C． 【点评】",
+      "source": "GAOKAO-Bench|dataset:english-mcq|year:2011|index:58|commit:6dbb24f8d843",
+      "title": "高考真题候选04·英语·2011·58",
+      "tags": [
+        "kp:ENG-VOCAB-CONTEXT-VERB",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-gap-04",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "词汇",
+      "knowledge_points": [
+        "情景交际"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "— Which one of these do you want? — . Either will do.",
+      "options": [
+        "I don’t mind",
+        "I’m sure",
+        "No problem",
+        "Go ahead"
+      ],
+      "answer": "A",
+      "solution": "【解答】答案 A．B项\"我肯定 \"；C项\"没问题 \"；D项\"1．表示同意对方的请求 ， 根据情况可译为：说吧，做吧，开始吧，进行吧． 2．表示请对方继续说、继续 做等，通常可译为：继续 …吧． 3．表示请对方先走或先做某事，其意为：你先 走一步，你先请 \"．A项\"我不介意 \"；根据句意 \"（两个）随便哪一个都行 \"可知， 并不介意． 因此 A项符合语境， 故选 A． 【点评】",
+      "source": "GAOKAO-Bench|dataset:english-mcq|year:2012|index:60|commit:6dbb24f8d843",
+      "title": "高考真题候选04·英语·2012·60",
+      "tags": [
+        "kp:ENG-VOCAB-SITUATIONAL-COMMUNICATION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-gap-04",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "语法",
+      "knowledge_points": [
+        "一般现在时"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "“Life is like walking in the snow ”, Granny used to say, “because every step .",
+      "options": [
+        "has shown",
+        "is showing",
+        "shows",
+        "showed"
+      ],
+      "answer": "C",
+      "solution": "【解答】答案 C．这题是直接引用了过去奶奶常常说的一句话 ，句子的内容是生 活哲理．所以用一般现在时． 故答案选 C． 【点评】",
+      "source": "GAOKAO-Bench|dataset:english-mcq|year:2012|index:62|commit:6dbb24f8d843",
+      "title": "高考真题候选04·英语·2012·62",
+      "tags": [
+        "kp:ENG-GRAMMAR-TENSE-PRESENT-SIMPLE",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-gap-04",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "词汇",
+      "knowledge_points": [
+        "动词语境辨析"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "If she doesn ’t want to go, nothing you can say will her.",
+      "options": [
+        "persuade",
+        "promise",
+        "invite",
+        "support"
+      ],
+      "answer": "A",
+      "solution": "【解答】答案： A．A项\"说服 \"；B\"许诺 \"；C\"邀请 \"；D\"支持 \"．因为 \"she doesn't want to go\"，所以 \"persuade\" 是没有用的． 故选 A项． 【点评】",
+      "source": "GAOKAO-Bench|dataset:english-mcq|year:2012|index:74|commit:6dbb24f8d843",
+      "title": "高考真题候选04·英语·2012·74",
+      "tags": [
+        "kp:ENG-VOCAB-CONTEXT-VERB",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-gap-04",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "词汇",
+      "knowledge_points": [
+        "情景交际"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "--- I’m sorry I made a mistake! --- . Nobody is perfect.",
+      "options": [
+        "Take your time",
+        "You’re right",
+        "Whatever you say",
+        "Take it easy"
+      ],
+      "answer": "D",
+      "solution": "【解答】答案 D．A项\"不着急 \"；B项\"你是对的 \"；C项\"你说了算，你说什么都 行\"；D项\"放松点，别紧张 \"；根据句意 \"﹣﹣很抱歉，我犯了错 \"可知，说话者是 在劝告对方保持平静 ，别紧张．因此 D项符合语境 ，其它选项均不符合 ，故选 D ． 【点评】",
+      "source": "GAOKAO-Bench|dataset:english-mcq|year:2013|index:75|commit:6dbb24f8d843",
+      "title": "高考真题候选04·英语·2013·75",
+      "tags": [
+        "kp:ENG-VOCAB-SITUATIONAL-COMMUNICATION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-gap-04",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "词汇",
+      "knowledge_points": [
+        "动词语境辨析"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "The watch was very good, and he 20 percent down for it.",
+      "options": [
+        "paid",
+        "cost",
+        "bought",
+        "spent"
+      ],
+      "answer": "A",
+      "solution": "【解答】 答案： A. A. sb.+ pay some money for sth. \"某人花钱买某物 \"；B. cost 的 主语通常指物 ：sth. + cost sb. some money \"某物花费某人多少钱 \"，C. buy的主语 是人，其后跟双宾语 ：buy sth. for sb.或者 buy sb. sth \"某人为 …买某物 \"；D. spend 的主语是人， \"sb. spend time/money in/on doing sth. 某人在某事上花费时间或金 钱\"；根据句意可知， 此处的意思是 ：他花了低于原价 20%的价格买了这块手表 ； 故选 A. 【点评】",
+      "source": "GAOKAO-Bench|dataset:english-mcq|year:2013|index:82|commit:6dbb24f8d843",
+      "title": "高考真题候选04·英语·2013·82",
+      "tags": [
+        "kp:ENG-VOCAB-CONTEXT-VERB",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-gap-04",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "词汇",
+      "knowledge_points": [
+        "情景交际"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "--- Are you sure you won’t come for a drink with us? --- , if you insist .",
+      "options": [
+        "Not at all",
+        "It depends",
+        "All right then",
+        "I don’t care"
+      ],
+      "answer": "C",
+      "solution": "【解答】答案 C．A项1．用于回答感谢，意为 \"不用谢；不客气 \"2．用于回答带 有感谢性质的客套话，意为 \"没什么；哪里哪里 \"3．用于回答道歉，意为 \"没关系 \"4．用来表示否定（ 是No的加强说法 ），意为 \"一点也不；完全不 \"．B项\"视情 况而定 \"；D项\"我不在乎 \"；C项\"那好吧 \"；分析句意 \"﹣﹣﹣你确定不来和我们 一起喝饮料吗？ ﹣﹣﹣ 假如你坚持的话． \"可以判断所填部分应该是向对 方让步， 因此 C项符合语境，其它选项均不符合， 故选 C． 【点评】",
+      "source": "GAOKAO-Bench|dataset:english-mcq|year:2013|index:89|commit:6dbb24f8d843",
+      "title": "高考真题候选04·英语·2013·89",
+      "tags": [
+        "kp:ENG-VOCAB-SITUATIONAL-COMMUNICATION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-gap-04",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "词汇",
+      "knowledge_points": [
+        "动词语境辨析"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "Try not to cough more than you can since it may cause problems to your lungs.",
+      "options": [
+        "check",
+        "allow",
+        "stop",
+        "help"
+      ],
+      "answer": "C",
+      "solution": "【解答】 答案 C． check\"核实，抑制 \"；allow\"允许，许可 \"；stop\"停止 \"；help\" 帮助，促进，治疗，补救 \"．句意：尽量不要咳嗽，因为这会给你的肺带来问题 ． 考生需掌握短语 more than one can help的意思 \"尽量不，绝对不 \"，故正确答案是 C． 【点评】",
+      "source": "GAOKAO-Bench|dataset:english-mcq|year:2013|index:92|commit:6dbb24f8d843",
+      "title": "高考真题候选04·英语·2013·92",
+      "tags": [
+        "kp:ENG-VOCAB-CONTEXT-VERB",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-gap-04",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "词汇",
+      "knowledge_points": [
+        "动词语境辨析"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "At the last moment , Tom decided to a new character to make the story seem more likely.",
+      "options": [
+        "put up",
+        "put in",
+        "put on",
+        "put off"
+      ],
+      "answer": "B",
+      "solution": "【解答】 答案： B 本题考查动词短语辨析． put …up举起 …；张贴 …；put …in 使…加入；使 …进入； put …on 穿上 …；上演 …；put …off 推迟 …．句意：在 最后一刻， Tom决定添加一个新角色来使故事显得更加真实． 题干中的 more likely提示， Tom决定 \"添加 \"一个角色， 故B正确． 【点评】",
+      "source": "GAOKAO-Bench|dataset:english-mcq|year:2013|index:99|commit:6dbb24f8d843",
+      "title": "高考真题候选04·英语·2013·99",
+      "tags": [
+        "kp:ENG-VOCAB-CONTEXT-VERB",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-gap-04",
+        "review:semantic-passed"
+      ]
+    }
+  ]
+}

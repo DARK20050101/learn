@@ -1,0 +1,104 @@
+{
+  "command": "lint",
+  "total": 12,
+  "passed": 12,
+  "errors": 0,
+  "warnings": 0,
+  "files": [
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "qinghai_english_gap_batch04_v1.json",
+      "total": 12,
+      "passed": 12,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "--- Everybody is going to climb the mountain . Can I go too, mum ? --- Wait till you are old enough ",
+          "content_hash": "1689c13fcfdb4c38efe6c6c3d9375c93f71de25e01b1fe3925c4e6bcf2b957b9",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 2,
+          "question": "The island is ____ attractive in spring and autumn because of the pleasant weather in both seasons .",
+          "content_hash": "8f1451c2000dd284e64cbaac830668ab4747e061a757451263d9ed7ef4e5eee0",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 3,
+          "question": "Planning so far ahead _______no sense --- so many things will have changed by next year.",
+          "content_hash": "e35a8a33026627bf926977536aa12b8814e4d50e61f0ca16c9ee6818be1fc738",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 4,
+          "question": "William found it increasingly difficult to read, for his eyesight was beginning to _______.",
+          "content_hash": "35c4cdedc7a455e97b0e8700b6155f1504284e5fb67301f4154539f0a74ec3d8",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 5,
+          "question": "— Which one of these do you want? — . Either will do.",
+          "content_hash": "f52e28ebd9747bbca40fee863d503161f1050baf7134f2374126f03c313e8f93",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 6,
+          "question": "“Life is like walking in the snow ”, Granny used to say, “because every step .",
+          "content_hash": "7a453a2cecad64beff729ada0888287293691ed0b2d1b84cd31977f0cb6925d6",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 7,
+          "question": "If she doesn ’t want to go, nothing you can say will her.",
+          "content_hash": "f238e7c3a19c45eeec1e38ef3cdf175c826852bb2823203eb1331c5fead8bfc2",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 8,
+          "question": "--- I’m sorry I made a mistake! --- . Nobody is perfect.",
+          "content_hash": "8b165702436800fd1bb6cc61fa245f6ffab105e96af63214649c6ac7c72601ca",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 9,
+          "question": "The watch was very good, and he 20 percent down for it.",
+          "content_hash": "97ca2c7d5e6aa076e6528129063a901325b53198815d7876e6114351cb59761f",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 10,
+          "question": "--- Are you sure you won’t come for a drink with us? --- , if you insist .",
+          "content_hash": "3e9bb1e925f950a28c270c8b43ebacdc46bc1c3839c74e9a319ed63823b2e6d4",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 11,
+          "question": "Try not to cough more than you can since it may cause problems to your lungs.",
+          "content_hash": "8f0059d9d0b16ec163e09bbaea472d1117a9d6a3f9f3b66e966abbe8b117dcd2",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 12,
+          "question": "At the last moment , Tom decided to a new character to make the story seem more likely.",
+          "content_hash": "81fce080980e28937027e1fa8e1f27f3f552c315ae9524959b7e9fbce0639105",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    }
+  ]
+}

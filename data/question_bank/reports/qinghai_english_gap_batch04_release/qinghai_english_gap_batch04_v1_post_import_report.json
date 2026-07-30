@@ -1,0 +1,64 @@
+{
+  "report": "post_import",
+  "filename": "qinghai_english_gap_batch04_v1.json",
+  "mapping_version": "kp-mapping-v1.1",
+  "import_result": {
+    "batch_id": 10,
+    "filename": "qinghai_english_gap_batch04_v1.json",
+    "status": "completed",
+    "total_count": 12,
+    "imported_count": 12,
+    "duplicate_count": 0,
+    "failed_count": 0,
+    "imported_question_ids": [
+      325,
+      326,
+      327,
+      328,
+      329,
+      330,
+      331,
+      332,
+      333,
+      334,
+      335,
+      336
+    ],
+    "duplicate_question_ids": [],
+    "mapping_version": "kp-mapping-v1.1"
+  },
+  "database": {
+    "questions": 336,
+    "primary_knowledge_point_links": 336,
+    "orphan_questions": 0,
+    "selected_question_count": 336,
+    "selected_questions_business_hash": "56de81a9f888236fcfd29192dcb48a07b9302073762af1057ea1212bcc8980dc"
+  },
+  "original_questions": {
+    "questions": 336,
+    "primary_knowledge_point_links": 336,
+    "orphan_questions": 0,
+    "selected_question_count": 324,
+    "selected_questions_business_hash": "c1743ba8f64cd0a755ef634c907284b8f75fef4ad52dd3f824b620adbe3d2607"
+  },
+  "new_questions": {
+    "questions": 336,
+    "primary_knowledge_point_links": 336,
+    "orphan_questions": 0,
+    "selected_question_count": 12,
+    "selected_questions_business_hash": "23352b39f7ac62d714f11cb068d110d56fa5a5180f701b5082cf478dd30deded"
+  },
+  "checks": {
+    "question_count_expected": true,
+    "primary_count_matches_questions": true,
+    "no_orphan_questions": true,
+    "new_questions_have_primary": true,
+    "original_questions_unchanged": true
+  },
+  "passed": true,
+  "recovery": {
+    "strategy": "restore_pre_import_pg_dump; or, only when imported questions have no dependent records, remove their links and questions in one audited transaction",
+    "batch_id": 10,
+    "warning": "deleting the import batch record alone does not restore question data"
+  }
+}
