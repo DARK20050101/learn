@@ -1,0 +1,39 @@
+{
+  "report": "pre_import",
+  "filename": "gaokao_biology_breeding_group_batch14_v1.json",
+  "file_hash": "7c64c8985549f0ac7d4f8bf69457c6c67104efaaea5ad745f8a7a2f020e196f0",
+  "mapping_version": "kp-mapping-v1.1",
+  "database": {
+    "questions": 383,
+    "primary_knowledge_point_links": 383,
+    "orphan_questions": 0,
+    "selected_question_count": 383,
+    "selected_questions_business_hash": "af3856c40743031594523e4321cc11cc4759804ce6c88c3127eff7344aeff3b0"
+  },
+  "total": 3,
+  "new_questions": 3,
+  "matching_duplicates": 0,
+  "conflicts": 0,
+  "errors": [],
+  "ready": true,
+  "items": [
+    {
+      "index": 1,
+      "content_hash": "20be77e3b342dffc6d324375dde319d961b25b1c4889a04358ebc6fa15fa95d4",
+      "primary_code": "BIO-GENETICS-VARIATION-EVOLUTION",
+      "status": "new"
+    },
+    {
+      "index": 2,
+      "content_hash": "42df719f9399163103bafacb14265283b3fce13e9bed555427f560821c555bd7",
+      "primary_code": "BIO-GENETICS-VARIATION-EVOLUTION",
+      "status": "new"
+    },
+    {
+      "index": 3,
+      "content_hash": "76903e7820dbc39abe657830f672daf3ab07d80f9252b8cdbb1c68f6ae676eef",
+      "primary_code": "BIO-GENETICS-VARIATION-EVOLUTION",
+      "status": "new"
+    }
+  ]
+}

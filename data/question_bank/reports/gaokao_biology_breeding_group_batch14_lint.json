@@ -1,0 +1,41 @@
+{
+  "command": "lint",
+  "total": 3,
+  "passed": 3,
+  "errors": 0,
+  "warnings": 0,
+  "files": [
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "gaokao_biology_breeding_group_batch14_v1.json",
+      "total": 3,
+      "passed": 3,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "【共同材料】遗传学理论可用于指导农业生产。某育种小组先通过有性生殖获得基因重组材料，再采用诱变处理获得新性状。\n\n在不发生染色体结构变异的情况下，有性生殖过程中产生基因重组的两条主要途径是（ ）",
+          "content_hash": "20be77e3b342dffc6d324375dde319d961b25b1c4889a04358ebc6fa15fa95d4",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 2,
+          "question": "【共同材料】遗传学理论可用于指导农业生产。某育种小组先通过有性生殖获得基因重组材料，再采用诱变处理获得新性状。\n\n通过诱变获得的某个新性状在后代中发生性状分离，不能稳定遗传。最可能的原因是（ ）",
+          "content_hash": "42df719f9399163103bafacb14265283b3fce13e9bed555427f560821c555bd7",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 3,
+          "question": "【共同材料】遗传学理论可用于指导农业生产。某育种小组先通过有性生殖获得基因重组材料，再采用诱变处理获得新性状。\n\n若新性状由核基因控制，且入选植株为该性状的杂合体，为获得能稳定遗传的品系，下一步最合理",
+          "content_hash": "76903e7820dbc39abe657830f672daf3ab07d80f9252b8cdbb1c68f6ae676eef",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    }
+  ]
+}

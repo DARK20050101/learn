@@ -1,0 +1,90 @@
+{
+  "schema_version": "shiguang-question-candidate-v1",
+  "batch": "gaokao-biology-breeding-group-14",
+  "questions": [
+    {
+      "subject": "生物",
+      "chapter": "变异与育种",
+      "knowledge_points": ["变异、育种与进化"],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "【共同材料】遗传学理论可用于指导农业生产。某育种小组先通过有性生殖获得基因重组材料，再采用诱变处理获得新性状。\n\n在不发生染色体结构变异的情况下，有性生殖过程中产生基因重组的两条主要途径是（ ）",
+      "options": [
+        "DNA复制和转录",
+        "非同源染色体自由组合，以及同源染色体非姐妹染色单体之间的互换",
+        "有丝分裂和细胞分化",
+        "基因突变和染色体数目变异"
+      ],
+      "answer": "B",
+      "solution": "减数分裂形成配子时，一方面非同源染色体自由组合，使非等位基因重新组合；另一方面同源染色体的非姐妹染色单体可发生互换，使同一染色体上的基因重新组合。因此答案为 B。",
+      "source": "GAOKAO-Bench|adapted:true|biology-subjective|year:2020|index:91|subquestion:1|commit:6dbb24f8d843",
+      "title": "2020高考生物大题拆分·遗传育种·1",
+      "tags": [
+        "kp:BIO-GENETICS-VARIATION-EVOLUTION",
+        "origin:external-adapted",
+        "material-group:bio-2020-genetics-breeding",
+        "material-order:1",
+        "large-question-split",
+        "region-fit:qinghai-curriculum",
+        "batch:gaokao-biology-breeding-group-14",
+        "review:independent-answer-passed"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "变异与育种",
+      "knowledge_points": ["变异、育种与进化"],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "【共同材料】遗传学理论可用于指导农业生产。某育种小组先通过有性生殖获得基因重组材料，再采用诱变处理获得新性状。\n\n通过诱变获得的某个新性状在后代中发生性状分离，不能稳定遗传。最可能的原因是（ ）",
+      "options": [
+        "控制该新性状的基因在入选个体中仍处于杂合状态",
+        "诱变处理使所有基因都停止表达",
+        "该性状一定由细胞质基因控制",
+        "入选个体不具有任何遗传物质"
+      ],
+      "answer": "A",
+      "solution": "若控制新性状的基因仍处于杂合状态，后续有性生殖时等位基因会发生分离，子代便可能出现性状分离，因此新性状暂时不能稳定遗传。答案为 A。",
+      "source": "GAOKAO-Bench|adapted:true|biology-subjective|year:2020|index:91|subquestion:2a|commit:6dbb24f8d843",
+      "title": "2020高考生物大题拆分·遗传育种·2",
+      "tags": [
+        "kp:BIO-GENETICS-VARIATION-EVOLUTION",
+        "origin:external-adapted",
+        "material-group:bio-2020-genetics-breeding",
+        "material-order:2",
+        "large-question-split",
+        "region-fit:qinghai-curriculum",
+        "batch:gaokao-biology-breeding-group-14",
+        "review:independent-answer-passed"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "变异与育种",
+      "knowledge_points": ["变异、育种与进化"],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "【共同材料】遗传学理论可用于指导农业生产。某育种小组先通过有性生殖获得基因重组材料，再采用诱变处理获得新性状。\n\n若新性状由核基因控制，且入选植株为该性状的杂合体，为获得能稳定遗传的品系，下一步最合理的是（ ）",
+      "options": [
+        "只观察该植株一次，不再繁殖",
+        "让其与任意其他品种杂交一次后保留全部后代",
+        "连续自交并在后代中筛选性状稳定的个体",
+        "停止所有选择，使后代随机繁殖"
+      ],
+      "answer": "C",
+      "solution": "杂合植株自交后，后代会发生性状分离。连续自交并结合目标性状筛选，可以逐步获得相应基因纯合、性状能够稳定遗传的品系。因此答案为 C。",
+      "source": "GAOKAO-Bench|adapted:true|biology-subjective|year:2020|index:91|subquestion:2b|commit:6dbb24f8d843",
+      "title": "2020高考生物大题拆分·遗传育种·3",
+      "tags": [
+        "kp:BIO-GENETICS-VARIATION-EVOLUTION",
+        "origin:external-adapted",
+        "material-group:bio-2020-genetics-breeding",
+        "material-order:3",
+        "large-question-split",
+        "region-fit:qinghai-curriculum",
+        "batch:gaokao-biology-breeding-group-14",
+        "review:independent-answer-passed"
+      ]
+    }
+  ]
+}

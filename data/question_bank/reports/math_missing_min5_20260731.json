@@ -1,0 +1,128 @@
+{
+  "command": "missing",
+  "mapping_version": "kp-mapping-v1.1",
+  "subject": "数学",
+  "minimum": 5,
+  "missing_count": 13,
+  "empty_count": 0,
+  "insufficient_count": 13,
+  "items": [
+    {
+      "code": "MATH-ANALYTIC-CIRCLE-STANDARD",
+      "name": "圆的标准方程",
+      "subject": "数学",
+      "question_count": 2,
+      "status": "insufficient",
+      "gap_to_minimum": 3,
+      "gap_to_10": 8
+    },
+    {
+      "code": "MATH-ANALYTIC-LINE-SLOPE",
+      "name": "直线的斜率",
+      "subject": "数学",
+      "question_count": 1,
+      "status": "insufficient",
+      "gap_to_minimum": 4,
+      "gap_to_10": 9
+    },
+    {
+      "code": "MATH-EXPONENT-OPERATION",
+      "name": "指数运算",
+      "subject": "数学",
+      "question_count": 1,
+      "status": "insufficient",
+      "gap_to_minimum": 4,
+      "gap_to_10": 9
+    },
+    {
+      "code": "MATH-FUNCTION-DOMAIN",
+      "name": "函数的定义域",
+      "subject": "数学",
+      "question_count": 4,
+      "status": "insufficient",
+      "gap_to_minimum": 1,
+      "gap_to_10": 6
+    },
+    {
+      "code": "MATH-FUNCTION-MONOTONICITY",
+      "name": "函数的单调性",
+      "subject": "数学",
+      "question_count": 4,
+      "status": "insufficient",
+      "gap_to_minimum": 1,
+      "gap_to_10": 6
+    },
+    {
+      "code": "MATH-INEQUALITY-QUADRATIC",
+      "name": "一元二次不等式的解法",
+      "subject": "数学",
+      "question_count": 1,
+      "status": "insufficient",
+      "gap_to_minimum": 4,
+      "gap_to_10": 9
+    },
+    {
+      "code": "MATH-LOGARITHM-OPERATION",
+      "name": "对数运算",
+      "subject": "数学",
+      "question_count": 2,
+      "status": "insufficient",
+      "gap_to_minimum": 3,
+      "gap_to_10": 8
+    },
+    {
+      "code": "MATH-LOGIC-SUFFICIENT-NECESSARY",
+      "name": "充分条件与必要条件",
+      "subject": "数学",
+      "question_count": 1,
+      "status": "insufficient",
+      "gap_to_minimum": 4,
+      "gap_to_10": 9
+    },
+    {
+      "code": "MATH-SOLID-LINE-PLANE-PERPENDICULAR",
+      "name": "直线与平面垂直的判定",
+      "subject": "数学",
+      "question_count": 1,
+      "status": "insufficient",
+      "gap_to_minimum": 4,
+      "gap_to_10": 9
+    },
+    {
+      "code": "MATH-STATISTICS-MEAN",
+      "name": "平均数",
+      "subject": "数学",
+      "question_count": 1,
+      "status": "insufficient",
+      "gap_to_minimum": 4,
+      "gap_to_10": 9
+    },
+    {
+      "code": "MATH-TRIG-SPECIAL-ANGLE",
+      "name": "特殊角的三角函数值",
+      "subject": "数学",
+      "question_count": 3,
+      "status": "insufficient",
+      "gap_to_minimum": 2,
+      "gap_to_10": 7
+    },
+    {
+      "code": "MATH-VECTOR-COORDINATE",
+      "name": "平面向量的坐标运算",
+      "subject": "数学",
+      "question_count": 1,
+      "status": "insufficient",
+      "gap_to_minimum": 4,
+      "gap_to_10": 9
+    },
+    {
+      "code": "MATH-VECTOR-DOT-PRODUCT",
+      "name": "平面向量数量积",
+      "subject": "数学",
+      "question_count": 2,
+      "status": "insufficient",
+      "gap_to_minimum": 3,
+      "gap_to_10": 8
+    }
+  ]
+}

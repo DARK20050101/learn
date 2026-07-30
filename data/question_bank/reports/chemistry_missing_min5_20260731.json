@@ -1,0 +1,137 @@
+{
+  "command": "missing",
+  "mapping_version": "kp-mapping-v1.1",
+  "subject": "化学",
+  "minimum": 5,
+  "missing_count": 14,
+  "empty_count": 1,
+  "insufficient_count": 13,
+  "items": [
+    {
+      "code": "CHEM-CONCEPT-REDOX",
+      "name": "氧化还原反应",
+      "subject": "化学",
+      "question_count": 4,
+      "status": "insufficient",
+      "gap_to_minimum": 1,
+      "gap_to_10": 6
+    },
+    {
+      "code": "CHEM-EXPERIMENT-ANALYSIS",
+      "name": "实验现象与数据分析",
+      "subject": "化学",
+      "question_count": 1,
+      "status": "insufficient",
+      "gap_to_minimum": 4,
+      "gap_to_10": 9
+    },
+    {
+      "code": "CHEM-EXPERIMENT-DESIGN",
+      "name": "实验方案设计与评价",
+      "subject": "化学",
+      "question_count": 2,
+      "status": "insufficient",
+      "gap_to_minimum": 3,
+      "gap_to_10": 8
+    },
+    {
+      "code": "CHEM-INORGANIC-METAL",
+      "name": "金属及其化合物",
+      "subject": "化学",
+      "question_count": 2,
+      "status": "insufficient",
+      "gap_to_minimum": 3,
+      "gap_to_10": 8
+    },
+    {
+      "code": "CHEM-INORGANIC-NONMETAL",
+      "name": "非金属及其化合物",
+      "subject": "化学",
+      "question_count": 3,
+      "status": "insufficient",
+      "gap_to_minimum": 2,
+      "gap_to_10": 7
+    },
+    {
+      "code": "CHEM-INORGANIC-TRANSFORMATION",
+      "name": "无机物转化与推断",
+      "subject": "化学",
+      "question_count": 4,
+      "status": "insufficient",
+      "gap_to_minimum": 1,
+      "gap_to_10": 6
+    },
+    {
+      "code": "CHEM-ORGANIC-REACTION",
+      "name": "有机反应类型",
+      "subject": "化学",
+      "question_count": 3,
+      "status": "insufficient",
+      "gap_to_minimum": 2,
+      "gap_to_10": 7
+    },
+    {
+      "code": "CHEM-ORGANIC-STRUCTURE",
+      "name": "有机物结构与性质",
+      "subject": "化学",
+      "question_count": 4,
+      "status": "insufficient",
+      "gap_to_minimum": 1,
+      "gap_to_10": 6
+    },
+    {
+      "code": "CHEM-ORGANIC-SYNTHESIS",
+      "name": "有机合成与推断",
+      "subject": "化学",
+      "question_count": 0,
+      "status": "empty",
+      "gap_to_minimum": 5,
+      "gap_to_10": 10
+    },
+    {
+      "code": "CHEM-REACTION-AQUEOUS",
+      "name": "水溶液中的离子平衡",
+      "subject": "化学",
+      "question_count": 4,
+      "status": "insufficient",
+      "gap_to_minimum": 1,
+      "gap_to_10": 6
+    },
+    {
+      "code": "CHEM-REACTION-ENERGY",
+      "name": "化学反应与能量",
+      "subject": "化学",
+      "question_count": 4,
+      "status": "insufficient",
+      "gap_to_minimum": 1,
+      "gap_to_10": 6
+    },
+    {
+      "code": "CHEM-REACTION-RATE-EQUILIBRIUM",
+      "name": "反应速率与化学平衡",
+      "subject": "化学",
+      "question_count": 3,
+      "status": "insufficient",
+      "gap_to_minimum": 2,
+      "gap_to_10": 7
+    },
+    {
+      "code": "CHEM-STRUCTURE-BOND",
+      "name": "化学键与分子结构",
+      "subject": "化学",
+      "question_count": 1,
+      "status": "insufficient",
+      "gap_to_minimum": 4,
+      "gap_to_10": 9
+    },
+    {
+      "code": "CHEM-STRUCTURE-CRYSTAL",
+      "name": "晶体结构与性质",
+      "subject": "化学",
+      "question_count": 1,
+      "status": "insufficient",
+      "gap_to_minimum": 4,
+      "gap_to_10": 9
+    }
+  ]
+}
