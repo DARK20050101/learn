@@ -1,0 +1,90 @@
+{
+  "schema_version": "shiguang-question-candidate-v1",
+  "batch": "gaokao-biology-atp-group-15",
+  "questions": [
+    {
+      "subject": "生物",
+      "chapter": "细胞代谢",
+      "knowledge_points": ["酶与ATP"],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "【共同材料】真核细胞可通过无氧呼吸、光合作用的光反应和有氧呼吸等过程合成 ATP。不同过程的场所、能量来源和终产物不同。\n\n酵母菌进行产生酒精和 CO₂ 的无氧呼吸时，合成 ATP 的场所是（ ）",
+      "options": [
+        "细胞质基质",
+        "线粒体内膜",
+        "叶绿体类囊体膜",
+        "细胞核"
+      ],
+      "answer": "A",
+      "solution": "酵母菌产生酒精和 CO₂ 的无氧呼吸全过程均在细胞质基质中进行，并在第一阶段产生少量 ATP。因此答案为 A。",
+      "source": "GAOKAO-Bench|adapted:true|biology-subjective|year:2020|index:97|subquestion:1-2|commit:6dbb24f8d843",
+      "title": "2020高考生物大题拆分·ATP合成·1",
+      "tags": [
+        "kp:BIO-METABOLISM-ENZYME-ATP",
+        "origin:external-adapted",
+        "material-group:bio-2020-atp-synthesis",
+        "material-order:1",
+        "large-question-split",
+        "region-fit:qinghai-curriculum",
+        "batch:gaokao-biology-atp-group-15",
+        "review:independent-answer-passed"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "细胞代谢",
+      "knowledge_points": ["酶与ATP"],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "【共同材料】真核细胞可通过无氧呼吸、光合作用的光反应和有氧呼吸等过程合成 ATP。不同过程的场所、能量来源和终产物不同。\n\n绿色植物叶肉细胞在类囊体膜上合成 ATP 时，所需能量的直接来源是（ ）",
+      "options": [
+        "葡萄糖中的化学能",
+        "光能",
+        "丙酮酸中的化学能",
+        "ATP 水解释放的能量"
+      ],
+      "answer": "B",
+      "solution": "光合作用的光反应发生在叶绿体类囊体膜上，光合色素吸收的光能驱动电子传递和光合磷酸化，从而合成 ATP。因此答案为 B。",
+      "source": "GAOKAO-Bench|adapted:true|biology-subjective|year:2020|index:97|subquestion:3|commit:6dbb24f8d843",
+      "title": "2020高考生物大题拆分·ATP合成·2",
+      "tags": [
+        "kp:BIO-METABOLISM-ENZYME-ATP",
+        "origin:external-adapted",
+        "material-group:bio-2020-atp-synthesis",
+        "material-order:2",
+        "large-question-split",
+        "region-fit:qinghai-curriculum",
+        "batch:gaokao-biology-atp-group-15",
+        "review:independent-answer-passed"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "细胞代谢",
+      "knowledge_points": ["酶与ATP"],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "【共同材料】真核细胞可通过无氧呼吸、光合作用的光反应和有氧呼吸等过程合成 ATP。不同过程的场所、能量来源和终产物不同。\n\n在线粒体中完成的有氧呼吸阶段，除 ATP 外产生的终产物组合是（ ）",
+      "options": [
+        "酒精和 CO₂",
+        "乳酸和 H₂O",
+        "CO₂ 和 H₂O",
+        "O₂ 和葡萄糖"
+      ],
+      "answer": "C",
+      "solution": "有氧呼吸第二阶段在线粒体基质中产生 CO₂，第三阶段在线粒体内膜上生成 H₂O；两个阶段均可合成 ATP。因此线粒体内有氧呼吸阶段除 ATP 外的终产物包括 CO₂ 和 H₂O，答案为 C。",
+      "source": "GAOKAO-Bench|adapted:true|biology-subjective|year:2020|index:97|subquestion:5|commit:6dbb24f8d843",
+      "title": "2020高考生物大题拆分·ATP合成·3",
+      "tags": [
+        "kp:BIO-METABOLISM-ENZYME-ATP",
+        "origin:external-adapted",
+        "material-group:bio-2020-atp-synthesis",
+        "material-order:3",
+        "large-question-split",
+        "region-fit:qinghai-curriculum",
+        "batch:gaokao-biology-atp-group-15",
+        "review:independent-answer-passed"
+      ]
+    }
+  ]
+}
