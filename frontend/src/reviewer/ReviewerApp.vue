@@ -28,6 +28,11 @@ interface ReviewRecord {
   updated_at: string;
 }
 
+interface ServerBatch {
+  name: string;
+  updated_at: string;
+}
+
 const questions = ref<Question[]>([]);
 const records = ref<Record<string, ReviewRecord>>({});
 const currentIndex = ref(0);
@@ -40,7 +45,11 @@ const autoAdvancePass = ref(
 const loadingError = ref("");
 const batchId = ref("");
 const batchName = ref("");
+const serverBatches = ref<ServerBatch[]>([]);
+const selectedServerBatch = ref("");
+const serverSaveState = ref<"idle" | "saving" | "saved" | "error">("idle");
 const fileInput = ref<HTMLInputElement | null>(null);
+let saveTimer: ReturnType<typeof setTimeout> | undefined;
 
 const subjects = computed(() => [
   "全部",
@@ -177,6 +186,7 @@ async function loadFiles(event: Event) {
     }
     batchId.value = (await digest(identityParts.join("|"))).slice(0, 20);
     batchName.value = files.map((file) => file.name).join(" + ");
+    selectedServerBatch.value = "";
     questions.value = loaded;
     restoreRecords();
     currentIndex.value = 0;
@@ -206,6 +216,57 @@ function saveRecords() {
   localStorage.setItem(storageKey(), JSON.stringify(records.value));
 }
 
+function reviewPayload() {
+  return {
+    schema_version: "shiguang-question-review-v1",
+    batch_id: batchId.value,
+    batch_name: batchName.value,
+    exported_at: new Date().toISOString(),
+    summary: summary.value,
+    reviews: questions.value.map((question, index) => ({
+      index: index + 1,
+      file: question._file,
+      source: question.source ?? "",
+      title: question.title ?? "",
+      subject: question.subject,
+      question: question.question,
+      decision: records.value[question._key]?.decision ?? "",
+      note: records.value[question._key]?.note ?? "",
+      updated_at: records.value[question._key]?.updated_at ?? "",
+    })),
+  };
+}
+
+async function saveServerResult() {
+  if (!selectedServerBatch.value) return;
+  serverSaveState.value = "saving";
+  try {
+    const response = await fetch(
+      `/review-api/result?name=${encodeURIComponent(selectedServerBatch.value)}`,
+      {
+        method: "PUT",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(reviewPayload()),
+      },
+    );
+    if (!response.ok) throw new Error("保存失败");
+    serverSaveState.value = "saved";
+  } catch {
+    serverSaveState.value = "error";
+  }
+}
+
+function scheduleServerSave(immediate = false) {
+  if (!selectedServerBatch.value) return;
+  if (saveTimer) clearTimeout(saveTimer);
+  if (immediate) {
+    void saveServerResult();
+    return;
+  }
+  serverSaveState.value = "saving";
+  saveTimer = setTimeout(() => void saveServerResult(), 500);
+}
+
 async function setDecision(decision: Exclude<ReviewDecision, "">) {
   const question = currentQuestion.value;
   if (!question) return;
@@ -218,6 +279,7 @@ async function setDecision(decision: Exclude<ReviewDecision, "">) {
     },
   };
   saveRecords();
+  scheduleServerSave(true);
   if (decision === "PASS" && autoAdvancePass.value) {
     await nextTick();
     if (decisionFilter.value !== "未审核") move(1);
@@ -236,6 +298,7 @@ function updateNote(event: Event) {
     },
   };
   saveRecords();
+  scheduleServerSave();
 }
 
 function move(offset: number) {
@@ -270,24 +333,7 @@ function questionDecision(question: Question) {
 }
 
 function exportReviews() {
-  const payload = {
-    schema_version: "shiguang-question-review-v1",
-    batch_id: batchId.value,
-    batch_name: batchName.value,
-    exported_at: new Date().toISOString(),
-    summary: summary.value,
-    reviews: questions.value.map((question, index) => ({
-      index: index + 1,
-      file: question._file,
-      source: question.source ?? "",
-      title: question.title ?? "",
-      subject: question.subject,
-      question: question.question,
-      decision: records.value[question._key]?.decision ?? "",
-      note: records.value[question._key]?.note ?? "",
-      updated_at: records.value[question._key]?.updated_at ?? "",
-    })),
-  };
+  const payload = reviewPayload();
   const blob = new Blob([`${JSON.stringify(payload, null, 2)}\n`], {
     type: "application/json;charset=utf-8",
   });
@@ -296,6 +342,81 @@ function exportReviews() {
   link.download = `question_review_${batchId.value}.json`;
   link.click();
   URL.revokeObjectURL(link.href);
+}
+
+async function loadServerBatch(name: string) {
+  if (!name) return;
+  loadingError.value = "";
+  try {
+    const response = await fetch(`/review-api/batch?name=${encodeURIComponent(name)}`);
+    if (!response.ok) throw new Error("项目审查批次加载失败");
+    const data = (await response.json()) as {
+      name: string;
+      payload: { questions?: unknown[] } | unknown[];
+      result?: {
+        reviews?: Array<{
+          source?: string;
+          decision?: ReviewDecision;
+          note?: string;
+          updated_at?: string;
+        }>;
+      } | null;
+    };
+    const rawQuestions = Array.isArray(data.payload)
+      ? data.payload
+      : data.payload.questions;
+    if (!Array.isArray(rawQuestions)) throw new Error("批次中缺少 questions 数组");
+    const loaded = rawQuestions.map((item, index) =>
+      validateQuestion(item, data.name, index),
+    );
+    batchId.value = (await digest(`${data.name}:${JSON.stringify(data.payload)}`)).slice(
+      0,
+      20,
+    );
+    batchName.value = data.name;
+    selectedServerBatch.value = data.name;
+    questions.value = loaded;
+    const savedReviews = new Map(
+      (data.result?.reviews ?? []).map((review) => [review.source ?? "", review]),
+    );
+    records.value = Object.fromEntries(
+      loaded.flatMap((question) => {
+        const saved = savedReviews.get(question.source ?? "");
+        return saved
+          ? [
+              [
+                question._key,
+                {
+                  decision: saved.decision ?? "",
+                  note: saved.note ?? "",
+                  updated_at: saved.updated_at ?? "",
+                },
+              ],
+            ]
+          : [];
+      }),
+    );
+    saveRecords();
+    currentIndex.value = 0;
+    answerVisible.value = false;
+    serverSaveState.value = "idle";
+  } catch (error) {
+    loadingError.value = error instanceof Error ? error.message : "项目批次加载失败";
+  }
+}
+
+async function discoverServerBatches() {
+  try {
+    const response = await fetch("/review-api/batches");
+    if (!response.ok) return;
+    const data = (await response.json()) as { batches: ServerBatch[] };
+    serverBatches.value = data.batches;
+    if (data.batches.length) {
+      await loadServerBatch(data.batches[0].name);
+    }
+  } catch {
+    // Production builds can still use manual local-file loading.
+  }
 }
 
 function clearBatchProgress() {
@@ -340,6 +461,7 @@ watch(currentQuestion, async () => {
 });
 
 onMounted(() => {
+  void discoverServerBatches();
   window.addEventListener("keydown", (event) => {
     if ((event.target as HTMLElement)?.tagName === "TEXTAREA") return;
     if (event.key === "ArrowLeft") move(-1);
@@ -368,6 +490,32 @@ onMounted(() => {
         @change="loadFiles"
       />
     </header>
+
+    <section v-if="serverBatches.length" class="batch-loader">
+      <label>
+        项目待审批次
+        <select
+          v-model="selectedServerBatch"
+          @change="loadServerBatch(selectedServerBatch)"
+        >
+          <option v-for="batch in serverBatches" :key="batch.name" :value="batch.name">
+            {{ batch.name }}
+          </option>
+        </select>
+      </label>
+      <span v-if="selectedServerBatch" :class="['save-state', serverSaveState]">
+        {{
+          serverSaveState === "saving"
+            ? "正在写入项目…"
+            : serverSaveState === "error"
+              ? "自动保存失败"
+              : serverSaveState === "saved"
+                ? "已自动保存到项目"
+                : "选择结论后自动保存"
+        }}
+      </span>
+      <button class="secondary" @click="fileInput?.click()">手动载入其他文件</button>
+    </section>
 
     <section v-if="!questions.length" class="empty-card">
       <div class="empty-icon">审</div>
@@ -514,7 +662,13 @@ onMounted(() => {
               @input="updateNote"
             ></textarea>
           </label>
-          <p class="autosave">审核进度自动保存在当前浏览器</p>
+          <p class="autosave">
+            {{
+              selectedServerBatch
+                ? "审核结果实时写入项目，无需导出"
+                : "审核进度自动保存在当前浏览器"
+            }}
+          </p>
           <div class="question-navigator">
             <div class="navigator-title">
               <strong>题号跳转</strong>
