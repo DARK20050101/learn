@@ -1,0 +1,146 @@
+{
+  "schema_version": "shiguang-question-candidate-v1",
+  "batch": "gaokao-biology-fermentation-group-17",
+  "questions": [
+    {
+      "subject": "生物",
+      "chapter": "生物技术实践",
+      "knowledge_points": ["教材基础实验"],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "【共同材料】水果可加工成果汁、果酒和果醋。制作果汁时可使用果胶酶、纤维素酶提高出汁率和澄清度；果汁还可在微生物作用下继续发酵。\n\n纤维素酶能够提高水果出汁率，主要是因为它可以分解植物细胞的（ ）",
+      "options": [
+        "细胞膜中的磷脂",
+        "细胞壁中的纤维素",
+        "细胞核中的 DNA",
+        "液泡中的色素"
+      ],
+      "answer": "B",
+      "solution": "纤维素是植物细胞壁的重要成分。纤维素酶水解细胞壁中的纤维素，有助于破坏组织结构并释放更多汁液。因此答案为 B。",
+      "source": "GAOKAO-Bench|adapted:true|biology-subjective|year:2020|index:99|subquestion:1|commit:6dbb24f8d843",
+      "title": "2020高考生物大题拆分·果汁果酒果醋·1",
+      "tags": [
+        "kp:BIO-TECHNOLOGY-EXPERIMENT",
+        "origin:external-adapted",
+        "material-group:bio-2020-fruit-fermentation",
+        "material-order:1",
+        "large-question-split",
+        "region-fit:qinghai-curriculum",
+        "batch:gaokao-biology-fermentation-group-17",
+        "review:independent-answer-passed"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "生物技术实践",
+      "knowledge_points": ["教材基础实验"],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "【共同材料】水果可加工成果汁、果酒和果醋。制作果汁时可使用果胶酶、纤维素酶提高出汁率和澄清度；果汁还可在微生物作用下继续发酵。\n\n用果胶酶处理等量果泥时需要控制温度。下列解释最合理的是（ ）",
+      "options": [
+        "温度只影响果泥的颜色，不影响酶活性",
+        "温度越高酶活性一定越强",
+        "果胶酶在适宜温度范围内活性较高，温度过高可能使酶失活",
+        "低温能够永久提高所有酶的催化效率"
+      ],
+      "answer": "C",
+      "solution": "酶活性受温度影响，适宜温度下催化效率较高；温度过低时反应较慢，温度过高可能破坏酶的空间结构并导致失活。因此答案为 C。",
+      "source": "GAOKAO-Bench|adapted:true|biology-subjective|year:2020|index:99|subquestion:2|commit:6dbb24f8d843",
+      "title": "2020高考生物大题拆分·果汁果酒果醋·2",
+      "tags": [
+        "kp:BIO-TECHNOLOGY-EXPERIMENT",
+        "origin:external-adapted",
+        "material-group:bio-2020-fruit-fermentation",
+        "material-order:2",
+        "large-question-split",
+        "region-fit:qinghai-curriculum",
+        "batch:gaokao-biology-fermentation-group-17",
+        "review:independent-answer-passed"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "生物技术实践",
+      "knowledge_points": ["教材基础实验"],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "【共同材料】水果可加工成果汁、果酒和果醋。制作果汁时可使用果胶酶、纤维素酶提高出汁率和澄清度；果汁还可在微生物作用下继续发酵。\n\n在果泥用量、温度、pH 等条件相同的情况下，比较甲、乙、丙三种果胶酶活性，最合适的指标是（ ）",
+      "options": [
+        "三种酶溶液的颜色",
+        "单位时间内单位体积反应体系中产物增加量或反应物减少量",
+        "加入酶以后果泥的总质量",
+        "三种酶制剂包装的大小"
+      ],
+      "answer": "B",
+      "solution": "酶活性体现催化反应的速率。在其他条件一致时，可用单位时间、单位体积内反应物的减少量或产物的增加量进行比较。因此答案为 B。",
+      "source": "GAOKAO-Bench|adapted:true|biology-subjective|year:2020|index:99|subquestion:3|commit:6dbb24f8d843",
+      "title": "2020高考生物大题拆分·果汁果酒果醋·3",
+      "tags": [
+        "kp:BIO-TECHNOLOGY-EXPERIMENT",
+        "origin:external-adapted",
+        "material-group:bio-2020-fruit-fermentation",
+        "material-order:3",
+        "large-question-split",
+        "region-fit:qinghai-curriculum",
+        "batch:gaokao-biology-fermentation-group-17",
+        "review:independent-answer-passed"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "发酵工程",
+      "knowledge_points": ["发酵工程"],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "【共同材料】水果可加工成果汁、果酒和果醋。制作果汁时可使用果胶酶、纤维素酶提高出汁率和澄清度；果汁还可在微生物作用下继续发酵。\n\n利用酵母菌制作果酒时，发酵初期通常通入少量无菌空气，其主要目的是（ ）",
+      "options": [
+        "使酵母菌进行有氧呼吸并大量繁殖",
+        "使酒精立即被氧化成醋酸",
+        "完全抑制酵母菌的代谢",
+        "使葡萄糖在无酶条件下自动分解"
+      ],
+      "answer": "A",
+      "solution": "果酒发酵初期提供少量氧气，可使酵母菌进行有氧呼吸并快速繁殖，增加种群数量；随后控制无氧条件，酵母菌进行酒精发酵。因此答案为 A。",
+      "source": "GAOKAO-Bench|adapted:true|biology-subjective|year:2020|index:99|subquestion:4a|commit:6dbb24f8d843",
+      "title": "2020高考生物大题拆分·果汁果酒果醋·4",
+      "tags": [
+        "kp:BIO-TECHNOLOGY-FERMENTATION",
+        "origin:external-adapted",
+        "material-group:bio-2020-fruit-fermentation",
+        "material-order:4",
+        "large-question-split",
+        "region-fit:qinghai-curriculum",
+        "batch:gaokao-biology-fermentation-group-17",
+        "review:independent-answer-passed"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "发酵工程",
+      "knowledge_points": ["发酵工程"],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "【共同材料】水果可加工成果汁、果酒和果醋。制作果汁时可使用果胶酶、纤维素酶提高出汁率和澄清度；果汁还可在微生物作用下继续发酵。\n\n与酵母菌进行酒精发酵相比，利用醋酸菌制作果醋时需要持续供氧，原因是醋酸菌属于（ ）",
+      "options": [
+        "严格厌氧型细菌",
+        "兼性厌氧型真菌",
+        "好氧型细菌",
+        "只能进行光合作用的细菌"
+      ],
+      "answer": "C",
+      "solution": "醋酸菌是好氧细菌，其生长和将乙醇转化为醋酸的过程需要氧气，因此果醋发酵阶段应持续供氧。答案为 C。",
+      "source": "GAOKAO-Bench|adapted:true|biology-subjective|year:2020|index:99|subquestion:4b|commit:6dbb24f8d843",
+      "title": "2020高考生物大题拆分·果汁果酒果醋·5",
+      "tags": [
+        "kp:BIO-TECHNOLOGY-FERMENTATION",
+        "origin:external-adapted",
+        "material-group:bio-2020-fruit-fermentation",
+        "material-order:5",
+        "large-question-split",
+        "region-fit:qinghai-curriculum",
+        "batch:gaokao-biology-fermentation-group-17",
+        "review:independent-answer-passed"
+      ]
+    }
+  ]
+}

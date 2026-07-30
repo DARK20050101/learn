@@ -1,0 +1,51 @@
+{
+  "report": "pre_import",
+  "filename": "gaokao_biology_fermentation_group_batch17_v1.json",
+  "file_hash": "77b579bb3cf0ab07015a69e988e0d0373cda3e7f0efe6c09eb7d5d3768bb98f6",
+  "mapping_version": "kp-mapping-v1.1",
+  "database": {
+    "questions": 393,
+    "primary_knowledge_point_links": 393,
+    "orphan_questions": 0,
+    "selected_question_count": 393,
+    "selected_questions_business_hash": "ac827b50c43143942a321977ed6e4537ee35889d517c5688bccda9476716924b"
+  },
+  "total": 5,
+  "new_questions": 5,
+  "matching_duplicates": 0,
+  "conflicts": 0,
+  "errors": [],
+  "ready": true,
+  "items": [
+    {
+      "index": 1,
+      "content_hash": "236cc95c151d14f28597222a139809ea515fc0438ed2c01f9fd4be8bdbb73ae5",
+      "primary_code": "BIO-TECHNOLOGY-EXPERIMENT",
+      "status": "new"
+    },
+    {
+      "index": 2,
+      "content_hash": "f11733479c662077fa5cb318097acfddfd8ea06767462b11d581c128879b60dc",
+      "primary_code": "BIO-TECHNOLOGY-EXPERIMENT",
+      "status": "new"
+    },
+    {
+      "index": 3,
+      "content_hash": "fb219b644473eca5a47c60f045aea3cd133e6d0f8b78025aac71e4b3ce1c7a0a",
+      "primary_code": "BIO-TECHNOLOGY-EXPERIMENT",
+      "status": "new"
+    },
+    {
+      "index": 4,
+      "content_hash": "530bac7e12b277ab31409bec061a8b5fdbf2bc3ef83950b896c28e0b822afc65",
+      "primary_code": "BIO-TECHNOLOGY-FERMENTATION",
+      "status": "new"
+    },
+    {
+      "index": 5,
+      "content_hash": "9b1a60a98114c7a404ea2fe0c51f129569f46a34992b0027e95a85a514ebabbd",
+      "primary_code": "BIO-TECHNOLOGY-FERMENTATION",
+      "status": "new"
+    }
+  ]
+}

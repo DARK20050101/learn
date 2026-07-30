@@ -1,0 +1,63 @@
+{
+  "command": "verify",
+  "schema_version": "question-bank-report-v1",
+  "mapping_version": "kp-mapping-v1.1",
+  "total": 5,
+  "passed": 5,
+  "errors": 0,
+  "warnings": 0,
+  "database_duplicates": 0,
+  "files": [
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "gaokao_biology_fermentation_group_batch17_v1.json",
+      "total": 5,
+      "passed": 5,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "【共同材料】水果可加工成果汁、果酒和果醋。制作果汁时可使用果胶酶、纤维素酶提高出汁率和澄清度；果汁还可在微生物作用下继续发酵。\n\n纤维素酶能够提高水果出汁率，主要是因为它可以分解植物细胞的（ ）",
+          "content_hash": "236cc95c151d14f28597222a139809ea515fc0438ed2c01f9fd4be8bdbb73ae5",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-TECHNOLOGY-EXPERIMENT"
+        },
+        {
+          "index": 2,
+          "question": "【共同材料】水果可加工成果汁、果酒和果醋。制作果汁时可使用果胶酶、纤维素酶提高出汁率和澄清度；果汁还可在微生物作用下继续发酵。\n\n用果胶酶处理等量果泥时需要控制温度。下列解释最合理的是（ ）",
+          "content_hash": "f11733479c662077fa5cb318097acfddfd8ea06767462b11d581c128879b60dc",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-TECHNOLOGY-EXPERIMENT"
+        },
+        {
+          "index": 3,
+          "question": "【共同材料】水果可加工成果汁、果酒和果醋。制作果汁时可使用果胶酶、纤维素酶提高出汁率和澄清度；果汁还可在微生物作用下继续发酵。\n\n在果泥用量、温度、pH 等条件相同的情况下，比较甲、乙、丙三种果胶酶活",
+          "content_hash": "fb219b644473eca5a47c60f045aea3cd133e6d0f8b78025aac71e4b3ce1c7a0a",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-TECHNOLOGY-EXPERIMENT"
+        },
+        {
+          "index": 4,
+          "question": "【共同材料】水果可加工成果汁、果酒和果醋。制作果汁时可使用果胶酶、纤维素酶提高出汁率和澄清度；果汁还可在微生物作用下继续发酵。\n\n利用酵母菌制作果酒时，发酵初期通常通入少量无菌空气，其主要目的是（ ）",
+          "content_hash": "530bac7e12b277ab31409bec061a8b5fdbf2bc3ef83950b896c28e0b822afc65",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-TECHNOLOGY-FERMENTATION"
+        },
+        {
+          "index": 5,
+          "question": "【共同材料】水果可加工成果汁、果酒和果醋。制作果汁时可使用果胶酶、纤维素酶提高出汁率和澄清度；果汁还可在微生物作用下继续发酵。\n\n与酵母菌进行酒精发酵相比，利用醋酸菌制作果醋时需要持续供氧，原因是醋酸",
+          "content_hash": "9b1a60a98114c7a404ea2fe0c51f129569f46a34992b0027e95a85a514ebabbd",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-TECHNOLOGY-FERMENTATION"
+        }
+      ]
+    }
+  ]
+}
