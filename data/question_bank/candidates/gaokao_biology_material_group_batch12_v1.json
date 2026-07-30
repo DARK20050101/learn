@@ -1,0 +1,90 @@
+{
+  "schema_version": "shiguang-question-candidate-v1",
+  "batch": "gaokao-biology-material-group-12",
+  "questions": [
+    {
+      "subject": "生物",
+      "chapter": "生物技术与工程",
+      "knowledge_points": ["细胞工程与基因工程"],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "【共同材料】几丁质是真菌细胞壁的重要成分，几丁质酶可催化几丁质水解。研究人员通过基因工程将几丁质酶基因转入植物，以增强植物的抗真菌病能力。\n\n以几丁质酶的 $mRNA$ 为材料获得 $cDNA$，所依据的原理是（ ）",
+      "options": [
+        "在DNA聚合酶作用下，以DNA为模板进行半保留复制",
+        "在逆转录酶作用下，以mRNA为模板按碱基互补配对合成DNA",
+        "在RNA聚合酶作用下，以DNA为模板合成mRNA",
+        "在DNA连接酶作用下，将两个mRNA片段直接连接"
+      ],
+      "answer": "B",
+      "solution": "以 $mRNA$ 为模板合成 $cDNA$ 的过程是逆转录，需要逆转录酶，并遵循碱基互补配对原则。因此答案为 B。",
+      "source": "GAOKAO-Bench|adapted:true|biology-subjective|year:2017|index:57|subquestion:2|commit:6dbb24f8d843",
+      "title": "2017高考生物大题拆分·几丁质酶基因工程·1",
+      "tags": [
+        "kp:BIO-TECHNOLOGY-CELL-GENE",
+        "origin:external-adapted",
+        "material-group:bio-2017-chitinase-gene",
+        "material-order:1",
+        "large-question-split",
+        "region-fit:qinghai-curriculum",
+        "batch:gaokao-biology-material-group-12",
+        "review:independent-answer-passed"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "生物技术与工程",
+      "knowledge_points": ["细胞工程与基因工程"],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "【共同材料】几丁质是真菌细胞壁的重要成分，几丁质酶可催化几丁质水解。研究人员通过基因工程将几丁质酶基因转入植物，以增强植物的抗真菌病能力。\n\n为使目的基因在受体细胞中稳定维持并表达，通常要先构建基因表达载体。下列解释最合理的是（ ）",
+      "options": [
+        "载体能够替代受体细胞中的全部染色体",
+        "目的基因本身通常缺少复制和表达所需的载体元件",
+        "载体可以使所有目的基因都不经过转录直接翻译",
+        "只有载体DNA能够遵循碱基互补配对原则"
+      ],
+      "answer": "B",
+      "solution": "孤立的目的基因通常缺少复制原点、启动子和终止子等维持与表达所需元件。表达载体提供这些功能元件，便于目的基因在受体细胞中维持和表达。因此答案为 B。",
+      "source": "GAOKAO-Bench|adapted:true|biology-subjective|year:2017|index:57|subquestion:3|commit:6dbb24f8d843",
+      "title": "2017高考生物大题拆分·几丁质酶基因工程·2",
+      "tags": [
+        "kp:BIO-TECHNOLOGY-CELL-GENE",
+        "origin:external-adapted",
+        "material-group:bio-2017-chitinase-gene",
+        "material-order:2",
+        "large-question-split",
+        "region-fit:qinghai-curriculum",
+        "batch:gaokao-biology-material-group-12",
+        "review:independent-answer-passed"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "生物技术与工程",
+      "knowledge_points": ["细胞工程与基因工程"],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "【共同材料】几丁质是真菌细胞壁的重要成分，几丁质酶可催化几丁质水解。研究人员通过基因工程将几丁质酶基因转入植物，以增强植物的抗真菌病能力。\n\n若确认几丁质酶基因已经整合到植物基因组，但植株抗真菌病能力没有提高，根据中心法则，最直接的可能原因是（ ）",
+      "options": [
+        "目的基因没有正常转录或翻译",
+        "植物细胞中不存在任何核糖核苷酸",
+        "目的基因一定在复制时发生了完全丢失",
+        "植物细胞不能进行DNA复制"
+      ],
+      "answer": "A",
+      "solution": "基因整合只说明目的DNA已经进入基因组，并不保证其能够正常表达。如果转录受阻或翻译异常，就不能形成有活性的几丁质酶，抗病能力不会提高。因此答案为 A。",
+      "source": "GAOKAO-Bench|adapted:true|biology-subjective|year:2017|index:57|subquestion:5|commit:6dbb24f8d843",
+      "title": "2017高考生物大题拆分·几丁质酶基因工程·3",
+      "tags": [
+        "kp:BIO-TECHNOLOGY-CELL-GENE",
+        "origin:external-adapted",
+        "material-group:bio-2017-chitinase-gene",
+        "material-order:3",
+        "large-question-split",
+        "region-fit:qinghai-curriculum",
+        "batch:gaokao-biology-material-group-12",
+        "review:independent-answer-passed"
+      ]
+    }
+  ]
+}

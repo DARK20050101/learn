@@ -1,0 +1,41 @@
+{
+  "command": "lint",
+  "total": 3,
+  "passed": 3,
+  "errors": 0,
+  "warnings": 0,
+  "files": [
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "gaokao_biology_material_group_batch12_v1.json",
+      "total": 3,
+      "passed": 3,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "【共同材料】几丁质是真菌细胞壁的重要成分，几丁质酶可催化几丁质水解。研究人员通过基因工程将几丁质酶基因转入植物，以增强植物的抗真菌病能力。\n\n以几丁质酶的 $mRNA$ 为材料获得 $cDNA$，所依",
+          "content_hash": "aaf21c3986eb27bd5f155c465e62831863a1c18add424547d78a7575bdb5cc71",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 2,
+          "question": "【共同材料】几丁质是真菌细胞壁的重要成分，几丁质酶可催化几丁质水解。研究人员通过基因工程将几丁质酶基因转入植物，以增强植物的抗真菌病能力。\n\n为使目的基因在受体细胞中稳定维持并表达，通常要先构建基因表",
+          "content_hash": "5ed8adedce6947a2a39437f15a1ccbd8cd99ac28494ea66fbb43f5665c29cd8f",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 3,
+          "question": "【共同材料】几丁质是真菌细胞壁的重要成分，几丁质酶可催化几丁质水解。研究人员通过基因工程将几丁质酶基因转入植物，以增强植物的抗真菌病能力。\n\n若确认几丁质酶基因已经整合到植物基因组，但植株抗真菌病能力",
+          "content_hash": "ad9f208fad4c4c11ba8dec8d887e7b22c676bafec626f30d40c5bb88fe36b695",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    }
+  ]
+}
