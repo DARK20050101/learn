@@ -1,0 +1,50 @@
+{
+  "schema_version": "shiguang-question-audit-v1",
+  "policy": {
+    "auto_pass": "格式、答案解析一致性和已知OCR风险检查均未发现异常",
+    "review": "不进入自动发布批次，需在审查页面确认",
+    "block": "禁止发布",
+    "accuracy_notice": "AUTO_PASS不是官方答案二次认证；答案继承自GAOKAO-Bench Standard Answer，按Apache-2.0 AS IS条款提供"
+  },
+  "inputs": [
+    "data\\question_bank\\candidates\\qinghai_physics_gap_batch05_v1.json"
+  ],
+  "total": 3,
+  "auto_pass": 3,
+  "review": 0,
+  "block": 0,
+  "candidate_file": "data\\question_bank\\candidates\\qinghai_physics_gap_batch05_audited_v1.json",
+  "review_file": "data\\question_bank\\review_queue\\qinghai_physics_gap_batch05_exception_queue_v1.json",
+  "records": [
+    {
+      "file": "qinghai_physics_gap_batch05_v1.json",
+      "index": 1,
+      "title": "高考真题候选05·物理·2013·13",
+      "subject": "物理",
+      "source": "GAOKAO-Bench|dataset:physics|year:2013|index:13|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_physics_gap_batch05_v1.json",
+      "index": 2,
+      "title": "高考真题候选05·物理·2016·26",
+      "subject": "物理",
+      "source": "GAOKAO-Bench|dataset:physics|year:2016|index:26|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_physics_gap_batch05_v1.json",
+      "index": 3,
+      "title": "高考真题候选05·物理·2021·59",
+      "subject": "物理",
+      "source": "GAOKAO-Bench|dataset:physics|year:2021|index:59|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    }
+  ]
+}

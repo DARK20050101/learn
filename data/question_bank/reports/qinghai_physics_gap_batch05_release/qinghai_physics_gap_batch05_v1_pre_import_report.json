@@ -1,0 +1,39 @@
+{
+  "report": "pre_import",
+  "filename": "qinghai_physics_gap_batch05_v1.json",
+  "file_hash": "a20fd20719294c93ae1ffd60fd961180f85304a705b0db6b704362aafd472cd6",
+  "mapping_version": "kp-mapping-v1.1",
+  "database": {
+    "questions": 336,
+    "primary_knowledge_point_links": 336,
+    "orphan_questions": 0,
+    "selected_question_count": 336,
+    "selected_questions_business_hash": "56de81a9f888236fcfd29192dcb48a07b9302073762af1057ea1212bcc8980dc"
+  },
+  "total": 3,
+  "new_questions": 3,
+  "matching_duplicates": 0,
+  "conflicts": 0,
+  "errors": [],
+  "ready": true,
+  "items": [
+    {
+      "index": 1,
+      "content_hash": "6ede270f19f53d2981e35d61620b3c140a629215c82a6ad107c83d456f60e867",
+      "primary_code": "PHY-CIRCULAR-CENTRIPETAL-ACCELERATION",
+      "status": "new"
+    },
+    {
+      "index": 2,
+      "content_hash": "e5535f73aa6e49f12672c884de103efcb8f15432ee42505f556e65f46431f582",
+      "primary_code": "PHY-NEWTON-SECOND-LAW",
+      "status": "new"
+    },
+    {
+      "index": 3,
+      "content_hash": "6a6f408b1a05c5f7756e0038cd31b4c3de96ec19c94ff14c1dcbd50adbebc6ec",
+      "primary_code": "PHY-WORK-ENERGY-KINETIC",
+      "status": "new"
+    }
+  ]
+}

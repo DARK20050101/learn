@@ -1,0 +1,55 @@
+{
+  "report": "post_import",
+  "filename": "qinghai_physics_gap_batch05_v1.json",
+  "mapping_version": "kp-mapping-v1.1",
+  "import_result": {
+    "batch_id": 11,
+    "filename": "qinghai_physics_gap_batch05_v1.json",
+    "status": "completed",
+    "total_count": 3,
+    "imported_count": 3,
+    "duplicate_count": 0,
+    "failed_count": 0,
+    "imported_question_ids": [
+      337,
+      338,
+      339
+    ],
+    "duplicate_question_ids": [],
+    "mapping_version": "kp-mapping-v1.1"
+  },
+  "database": {
+    "questions": 339,
+    "primary_knowledge_point_links": 339,
+    "orphan_questions": 0,
+    "selected_question_count": 339,
+    "selected_questions_business_hash": "773732fc7ace1f2cdd9dcbd99934890c0f4292f012099ed431488758d63e0e1b"
+  },
+  "original_questions": {
+    "questions": 339,
+    "primary_knowledge_point_links": 339,
+    "orphan_questions": 0,
+    "selected_question_count": 336,
+    "selected_questions_business_hash": "56de81a9f888236fcfd29192dcb48a07b9302073762af1057ea1212bcc8980dc"
+  },
+  "new_questions": {
+    "questions": 339,
+    "primary_knowledge_point_links": 339,
+    "orphan_questions": 0,
+    "selected_question_count": 3,
+    "selected_questions_business_hash": "d734b033aaedb258c45385628ab34834a9787692028020b4b29ad90f15b64101"
+  },
+  "checks": {
+    "question_count_expected": true,
+    "primary_count_matches_questions": true,
+    "no_orphan_questions": true,
+    "new_questions_have_primary": true,
+    "original_questions_unchanged": true
+  },
+  "passed": true,
+  "recovery": {
+    "strategy": "restore_pre_import_pg_dump; or, only when imported questions have no dependent records, remove their links and questions in one audited transaction",
+    "batch_id": 11,
+    "warning": "deleting the import batch record alone does not restore question data"
+  }
+}

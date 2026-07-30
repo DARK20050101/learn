@@ -1,0 +1,97 @@
+{
+  "questions": [
+    {
+      "subject": "物理",
+      "chapter": "曲线运动",
+      "knowledge_points": [
+        "向心加速度"
+      ],
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "question": "(6 分) 公路急转弯处通常是交通事故多发地带. 某公路急转弯处是一圆弧, 当汽车行驶的速率为 $v_{c}$ 时, 汽车恰好没有向公路内外两侧滑动的趋势, 则在 该弯道处，（）",
+      "options": [
+        "路面外侧高内侧低",
+        "车速只要低于 $v_{c}$ ， 车辆便会向内侧滑动",
+        "车速虽然高于 $v_{c}$, 但只要不超出某一高度限度, 车辆便不会向外侧滑动",
+        "当路面结冰时, 与末结冰时相比, $v_{c}$ 的值变小"
+      ],
+      "answer": [
+        "A",
+        "C"
+      ],
+      "solution": "解： A、路面应建成外高内低, 此时重力和支持力的合力指向内侧, 可 以提供圆周运动向心力。故 $A$ 正确。 $B$ 、车速低于 $v_{0}$, 所需的向心力减小, 此时摩擦力可以指向外侧, 合力依然提供 向心力，车辆不会向内侧滑动，故 B 错误; C、车速若高于 $v_{0}$, 所需的向心力增大, 此时摩擦力可以指向内侧, 增大提供的 力, 所以只要不超出某一最高限度, 车辆也不会向外侧滑动, 故 C 正确; D、当路面结冰时与末结冰时相比, 由于支持力和重力不变, 则 $\\mathrm{v}_{\\mathrm{c}}$ 的值不变。故 D 错误。 故选: $\\mathrm{AC}$ 。",
+      "source": "GAOKAO-Bench|dataset:physics|year:2013|index:13|commit:6dbb24f8d843",
+      "title": "高考真题候选05·物理·2013·13",
+      "tags": [
+        "kp:PHY-CIRCULAR-CENTRIPETAL-ACCELERATION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-gap-05",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "物理",
+      "chapter": "牛顿运动定律",
+      "knowledge_points": [
+        "牛顿第二定律"
+      ],
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "question": "（6 分) 两实心小球甲和乙由同一种材质制成, 甲球质量大于乙球质量。两 球在空气中由静止下落, 假设它们运动时受到的阻力与球的半径成正比, 与 球的速率无关。若它们下落相同的距离, 则（）",
+      "options": [
+        "甲球用的时间比乙球长",
+        "甲球末速度的大小大于乙球末速度的大小",
+        "甲球加速度的大小小于乙球加速度的大小",
+        "甲球克服阻力做的功大于乙球克服阻力做的功"
+      ],
+      "answer": [
+        "B",
+        "D"
+      ],
+      "solution": "解: 设小球的密度为 $\\rho$, 半径为 $r$, 则小球的质量为: $m=\\rho v=\\rho \\cdot \\frac{4}{3} \\pi r^{3}$ 重力: $\\mathrm{G}=\\mathrm{mg}=\\frac{4}{3} \\pi g \\rho \\mathrm{r}^{3}$ 小球的加速度: $a=\\frac{G-f}{m}=g \\frac{k r}{\\rho \\cdot \\frac{4}{3} \\pi r^{3}}=g \\frac{3 k}{4 \\pi \\rho r^{2}}$ 可知, 小球的质量越大, 半径越大, 则下降的加速度越大。所以甲的加速度比较 大。 A、两个小球下降的距离是相等的, 根据: $x=\\frac{1}{2} a t^{2}$ 可知, 加速度比较大的甲运 动的时间短。故 $A$ 错误; B、根据: $2 a x=\\mathrm{v}^{2}-\\mathrm{v}_{0}^{2}$ 可知, 加速度比较大的甲球末速度的大小大于乙球末速度 的大小。故 B 正确; C、小球的质量越大, 半径越大, 则下降的加速度越大。所以甲的加速度比较大。 故 C 错误; D、由题可知, 它们运动时受到的阻力与球的半径成正比, 即: $f=k r$, 所以甲的 阻力大, 根据 $\\mathrm{W}=\\mathrm{FS}$ 可知, 甲球克服阻力做的功大于乙球克服阻力做的功。 故 D 正确。 故选：BD。",
+      "source": "GAOKAO-Bench|dataset:physics|year:2016|index:26|commit:6dbb24f8d843",
+      "title": "高考真题候选05·物理·2016·26",
+      "tags": [
+        "kp:PHY-NEWTON-SECOND-LAW",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-gap-05",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "物理",
+      "chapter": "功和能",
+      "knowledge_points": [
+        "动能概念与计算"
+      ],
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "question": "水平桌面上, 一质量为 $m$ 的物体在水平恒力 $F$ 拉动下从静止开始运动, 物体通过的路程等 于 $s_{0}$ 时, 速度的大小为 $v_{0}$, 此时撤去 $F$, 物体继续滑行 $2 s_{0}$ 的路程后停止运动, 重力加速度大 小为 $g$, 则 $(\\quad)$",
+      "options": [
+        "在此过程中 $F$ 所做的功为 $\\frac{1}{2} m v_{0}^{2}$",
+        "在此过中 $F$ 的冲量大小等于 $\\frac{3}{2} m v_{0}$",
+        "物体与桌面间的动摩擦因数等于 $\\frac{v_{0}^{2}}{4 s_{0} g}$",
+        "$F$ 的大小等于物体所受滑动摩擦力大小的 2 倍"
+      ],
+      "answer": [
+        "B",
+        "C"
+      ],
+      "solution": "【详解】CD. 外力撤去前, 由牛顿第二定律可知 $$ F-\\mu m g=m a_{1} \\text { (1) } $$ 由速度位移公式有 $$ v_{0}^{2}=2 a_{1} s_{0}(2 $$ 外力撤去后, 由牛顿第二定律可知 $$ -\\mu m g=m a_{2} $$ 由速度位移公式有 $$ -v_{0}^{2}=2 a_{2}\\left(2 s_{0}\\right) $$ 由(1)(2)(3)(4)可得, 水平恒力 $$ F=\\frac{3 m v_{0}^{2}}{4 s_{0}} $$ 动摩擦因数 $$ \\mu=\\frac{v_{0}^{2}}{4 g s_{0}} $$ 滑动摩擦力 $$ F_{\\mathrm{f}}=\\mu m g=\\frac{m v_{0}^{2}}{4 s_{0}} $$ 可知 $F$ 的大小等于物体所受滑动摩擦力大小的 3 倍, 故 C 正确，D 错误; A. 在此过程中, 外力 $F$ 做功为 $$ W=F s_{0}=\\frac{3}{4} m v_{0}^{2} $$ 故 A 错误; B. 由平均速度公式可知，外力 $F$ 作用时间 $$ t_{1}=\\frac{s_{0}}{\\frac{0+v_{0}}{2}}=\\frac{2 s_{0}}{v_{0}} $$ 在此过程中, $F$ 的冲量大小是 $$ I=F t_{1}=\\frac{3}{2} m v_{0} $$ 故 B 正确。 故选 BC。",
+      "source": "GAOKAO-Bench|dataset:physics|year:2021|index:59|commit:6dbb24f8d843",
+      "title": "高考真题候选05·物理·2021·59",
+      "tags": [
+        "kp:PHY-WORK-ENERGY-KINETIC",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-gap-05",
+        "review:semantic-passed"
+      ]
+    }
+  ]
+}
