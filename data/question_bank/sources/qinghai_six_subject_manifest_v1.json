@@ -1,0 +1,74 @@
+{
+  "manifest_version": "qinghai-six-subject-v1",
+  "created_at": "2026-07-30",
+  "target_region": "青海",
+  "target_track": "物理+化学+生物",
+  "subjects": [
+    "语文",
+    "数学",
+    "英语",
+    "物理",
+    "化学",
+    "生物"
+  ],
+  "paper_rules": {
+    "2025_and_later": {
+      "语文": "青海适用全国二卷",
+      "数学": "青海适用全国二卷",
+      "英语": "青海适用全国二卷",
+      "物理": "陕晋宁青西北卷",
+      "化学": "陕晋宁青西北卷",
+      "生物": "陕晋宁青西北卷"
+    },
+    "2024_and_earlier": "仅作为历史知识点训练候选，保留原卷型，不标记为当前青海同卷"
+  },
+  "sources": [
+    {
+      "id": "qinghai-policy-2025",
+      "kind": "policy",
+      "url": "https://gaokao.chsi.com.cn/gkxx/zc/ss/202501/20250123/2293353735.html",
+      "status": "verified",
+      "use": "确认青海3+1+2考试科目"
+    },
+    {
+      "id": "qinghai-policy-2026",
+      "kind": "policy",
+      "url": "https://gaokao.chsi.com.cn/gkxx/zc/ss/202606/20260602/2293526139.html",
+      "status": "verified",
+      "use": "确认当前考试模式延续"
+    },
+    {
+      "id": "eol-2025-index",
+      "kind": "paper_index",
+      "url": "https://gaokao.eol.cn/e_html/gk/gkst/2025st.shtml",
+      "status": "candidate",
+      "use": "定位2025年全国卷试题"
+    },
+    {
+      "id": "qinghai-paper-index",
+      "kind": "paper_index",
+      "url": "https://www.51jiaoxi.com/gaokao/qinghai/zhenti/",
+      "status": "cross_check_only",
+      "use": "交叉核验2025西北卷适用地区与科目",
+      "warning": "聚合站资料需逐份确认内容完整性和使用范围"
+    },
+    {
+      "id": "gaokao-bench-6dbb24f8d843",
+      "kind": "structured_dataset",
+      "url": "https://github.com/OpenLMLab/GAOKAO-Bench",
+      "local_path": ".tmp/external-sources/GAOKAO-Bench",
+      "commit": "6dbb24f8d8439041e5431c4c184a582182a6ce9c",
+      "license": "Apache-2.0",
+      "status": "collected_candidate_pool",
+      "records": 1140,
+      "use": "2010—2022六科历史真题候选"
+    }
+  ],
+  "release_status": "not_ready",
+  "blockers": [
+    "语文、化学、生物尚无标准知识点目录",
+    "题库CLI当前只接受数学、物理、英语",
+    "材料题和图片题需要完整资源处理",
+    "2025青海适用卷需要逐题内容与版权审核"
+  ]
+}
