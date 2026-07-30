@@ -1,0 +1,27 @@
+{
+  "command": "lint",
+  "total": 1,
+  "passed": 1,
+  "errors": 0,
+  "warnings": 0,
+  "files": [
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "gaokao_chemistry_image_options_batch11_v1.json",
+      "total": 1,
+      "passed": 1,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "在制备和纯化乙酸乙酯的实验过程中，下列操作未涉及的是（ ）",
+          "content_hash": "cc408ed067148c816937ec7c6db93d3e9600450b169bee035fae29b4fc7e1553",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    }
+  ]
+}

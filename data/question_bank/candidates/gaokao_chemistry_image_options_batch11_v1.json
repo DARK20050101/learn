@@ -1,0 +1,32 @@
+{
+  "schema_version": "shiguang-question-candidate-v1",
+  "batch": "gaokao-chemistry-image-options-11",
+  "questions": [
+    {
+      "subject": "化学",
+      "chapter": "化学实验",
+      "knowledge_points": ["实验基本操作与安全"],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "在制备和纯化乙酸乙酯的实验过程中，下列操作未涉及的是（ ）",
+      "options": [
+        "![试管加热制备乙酸乙酯](/question-assets/chemistry/gaokao-2018-ethyl-acetate-a.jpg)",
+        "![导气并用饱和碳酸钠溶液收集](/question-assets/chemistry/gaokao-2018-ethyl-acetate-b.jpg)",
+        "![分液操作](/question-assets/chemistry/gaokao-2018-ethyl-acetate-c.jpg)",
+        "![蒸发皿加热蒸发](/question-assets/chemistry/gaokao-2018-ethyl-acetate-d.jpg)"
+      ],
+      "answer": "D",
+      "solution": "制备乙酸乙酯需要将乙醇、浓硫酸和乙酸混合加热；产物用饱和碳酸钠溶液吸收，以除去乙酸、溶解乙醇并降低乙酸乙酯的溶解度；静置后用分液操作分离。实验不需要使用蒸发皿加热蒸发，因此答案为 D。",
+      "source": "GAOKAO-Bench|chemistry-mcq|year:2018|index:78|commit:6dbb24f8d843",
+      "title": "2018高考化学真题·乙酸乙酯实验操作",
+      "tags": [
+        "kp:CHEM-EXPERIMENT-OPERATION",
+        "origin:external",
+        "has-option-images",
+        "region-fit:qinghai-curriculum",
+        "batch:gaokao-chemistry-image-options-11",
+        "review:independent-answer-passed"
+      ]
+    }
+  ]
+}

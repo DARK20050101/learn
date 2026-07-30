@@ -1,0 +1,27 @@
+{
+  "report": "pre_import",
+  "filename": "gaokao_chemistry_image_options_batch11_v1.json",
+  "file_hash": "0fce0385b9221590b9cdd049bd693159cb314c9d2b1c91161be5e8f70a78e817",
+  "mapping_version": "kp-mapping-v1.1",
+  "database": {
+    "questions": 376,
+    "primary_knowledge_point_links": 376,
+    "orphan_questions": 0,
+    "selected_question_count": 376,
+    "selected_questions_business_hash": "faf8b34958e1df6bdc9ea6cbf9cf5fc6d39ef7b9196214964be8157d0ecca0ef"
+  },
+  "total": 1,
+  "new_questions": 1,
+  "matching_duplicates": 0,
+  "conflicts": 0,
+  "errors": [],
+  "ready": true,
+  "items": [
+    {
+      "index": 1,
+      "content_hash": "cc408ed067148c816937ec7c6db93d3e9600450b169bee035fae29b4fc7e1553",
+      "primary_code": "CHEM-EXPERIMENT-OPERATION",
+      "status": "new"
+    }
+  ]
+}
