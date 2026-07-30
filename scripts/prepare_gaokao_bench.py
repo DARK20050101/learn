@@ -6,7 +6,6 @@ import re
 import subprocess
 from pathlib import Path
 
-
 SELECTIONS = {
     "math": {
         "file": "Data/Objective_Questions/2010-2022_Math_I_MCQs.json",

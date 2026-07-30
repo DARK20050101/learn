@@ -74,7 +74,7 @@ async def apply(old_path: Path, new_path: Path, dry_run: bool) -> dict[str, Any]
                 raise RuntimeError(f"知识点不能作为primary: {invalid}")
 
             rows = []
-            for number, (old_item, new_item, old_hash, new_hash) in enumerate(
+            for number, (_old_item, new_item, old_hash, new_hash) in enumerate(
                 zip(old_items, new_items, old_hashes, new_hashes, strict=True),
                 1,
             ):

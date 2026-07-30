@@ -1,7 +1,7 @@
 import json
 from types import SimpleNamespace
 
-from app.cli.question_bank import build_parser
+from app.cli.question_bank import SUPPORTED_SUBJECTS, build_parser
 from app.models.question import QuestionType
 from app.schemas.question_import import QuestionImportItem
 from app.services.question_bank_quality import (
@@ -220,3 +220,11 @@ def test_cli_exposes_all_phase_10_1_commands() -> None:
     assert parser.parse_args(["difficulty"]).command == "difficulty"
     assert parser.parse_args(["missing"]).command == "missing"
     assert parser.parse_args(["verify"]).command == "verify"
+
+
+def test_cli_accepts_qinghai_six_subjects() -> None:
+    assert SUPPORTED_SUBJECTS == ["语文", "数学", "英语", "物理", "化学", "生物"]
+    parser = build_parser()
+    for subject in SUPPORTED_SUBJECTS:
+        args = parser.parse_args(["coverage", "--subject", subject])
+        assert args.subject == subject

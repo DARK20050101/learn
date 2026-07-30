@@ -13,7 +13,6 @@ from app.models.question import Question
 from app.schemas.question_import import QuestionImportItem
 from app.services.question_importer import question_fingerprint
 
-
 REVISE_ITEMS = {2, 13, 17, 18, 23, 24, 31, 34, 35, 39, 43, 46, 47}
 DIFFICULTIES = {
     1: 3, 2: 3, 3: 2, 4: 2, 5: 2, 6: 3, 7: 2, 8: 4, 9: 2, 10: 3,

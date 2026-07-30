@@ -64,11 +64,13 @@
       "use": "2010—2022六科历史真题候选"
     }
   ],
-  "release_status": "not_ready",
+  "release_status": "catalog_ready_collection_pending",
   "blockers": [
-    "语文、化学、生物尚无标准知识点目录",
-    "题库CLI当前只接受数学、物理、英语",
     "材料题和图片题需要完整资源处理",
     "2025青海适用卷需要逐题内容与版权审核"
+  ],
+  "completed_prerequisites": [
+    "语文、化学、生物MVP三级知识点目录",
+    "题库质量CLI六科学科筛选"
   ]
 }

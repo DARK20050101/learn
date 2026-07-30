@@ -16,6 +16,8 @@ from app.services.question_bank_quality import (
     verify_files,
 )
 
+SUPPORTED_SUBJECTS = ["语文", "数学", "英语", "物理", "化学", "生物"]
+
 
 def _write_report(report: dict[str, Any], output: Path | None) -> None:
     serialized = json.dumps(report, ensure_ascii=False, indent=2)
@@ -62,7 +64,7 @@ def build_parser() -> argparse.ArgumentParser:
         ("missing", "输出题量不足的标准知识点"),
     ):
         child = subparsers.add_parser(command, help=help_text)
-        child.add_argument("--subject", choices=["数学", "物理", "英语"])
+        child.add_argument("--subject", choices=SUPPORTED_SUBJECTS)
         child.add_argument("--report", type=Path, help="输出 JSON 或 Markdown 报告")
         if command == "missing":
             child.add_argument("--minimum", type=int, default=5)
