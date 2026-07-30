@@ -1,0 +1,87 @@
+{
+  "report": "pre_import",
+  "filename": "agieval_qinghai_2023_batch06_v1.json",
+  "file_hash": "185d0b751b94164477913ed1667fd5fcef5a75198406bf7fcaf52a3c5dff6564",
+  "mapping_version": "kp-mapping-v1.1",
+  "database": {
+    "questions": 339,
+    "primary_knowledge_point_links": 339,
+    "orphan_questions": 0,
+    "selected_question_count": 339,
+    "selected_questions_business_hash": "773732fc7ace1f2cdd9dcbd99934890c0f4292f012099ed431488758d63e0e1b"
+  },
+  "total": 11,
+  "new_questions": 11,
+  "matching_duplicates": 0,
+  "conflicts": 0,
+  "errors": [],
+  "ready": true,
+  "items": [
+    {
+      "index": 1,
+      "content_hash": "8da0ab3919abe67724ed5d5a46e02dcd15b9090b9eab82fc217a0407fc2f96a7",
+      "primary_code": "PHY-PROJECTILE-HORIZONTAL",
+      "status": "new"
+    },
+    {
+      "index": 2,
+      "content_hash": "0e0889ca93f2174ae056074378023b3799b3de61783dbb0c1ba244dd2980c7f4",
+      "primary_code": "PHY-CIRCULAR-CENTRIPETAL-ACCELERATION",
+      "status": "new"
+    },
+    {
+      "index": 3,
+      "content_hash": "b10f4e9f5a9d5fff5e093b7757a43bf681bb749427c027647aaf45d5d2991625",
+      "primary_code": "PHY-WAVE-SPEED-FREQUENCY-WAVELENGTH",
+      "status": "new"
+    },
+    {
+      "index": 4,
+      "content_hash": "afb8a7bb818475f8b07ffbbf51f0b769cc1b49f085f3ad32fb35e9b4164e0752",
+      "primary_code": "PHY-WORK-ENERGY-KINETIC",
+      "status": "new"
+    },
+    {
+      "index": 5,
+      "content_hash": "5473efa09a9079bed009bd2c37625ff3c6b1d77456127b703694a9c39ba51e0e",
+      "primary_code": "PHY-GRAVITY-UNIVERSAL-LAW",
+      "status": "new"
+    },
+    {
+      "index": 6,
+      "content_hash": "0640f1a87438df8022340df027dac0f17b2a12fd5b100948c08237b1862878f8",
+      "primary_code": "CHEM-CONCEPT-REDOX",
+      "status": "new"
+    },
+    {
+      "index": 7,
+      "content_hash": "f22ddec2d7535365959dba45dba202da97d2d9eea7f5d2fa3146c1903568b4d5",
+      "primary_code": "CHEM-STRUCTURE-ATOM",
+      "status": "new"
+    },
+    {
+      "index": 8,
+      "content_hash": "5ada639f1dd4edd4d40bc620e80679eac681565b9121851c1bc38dbc8d566e74",
+      "primary_code": "CHEM-INORGANIC-TRANSFORMATION",
+      "status": "new"
+    },
+    {
+      "index": 9,
+      "content_hash": "0a72823b5b1ca96a02d7b6ef0689d4715e25b4bd3c48ff47701011eed82c3edb",
+      "primary_code": "BIO-METABOLISM-PHOTOSYNTHESIS",
+      "status": "new"
+    },
+    {
+      "index": 10,
+      "content_hash": "b8d899f9f686c75ebd9e69d38d39aa91b38eb6249bc636b0879ba353d568323b",
+      "primary_code": "BIO-HOMEOSTASIS-NEURAL-HUMORAL",
+      "status": "new"
+    },
+    {
+      "index": 11,
+      "content_hash": "7c7647a4ef6a246a460b860f6958d1510948e2a8a2e1f4d30eaff81e27297610",
+      "primary_code": "BIO-GENETICS-LAWS",
+      "status": "new"
+    }
+  ]
+}

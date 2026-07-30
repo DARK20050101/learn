@@ -1,0 +1,111 @@
+{
+  "command": "verify",
+  "schema_version": "question-bank-report-v1",
+  "mapping_version": "kp-mapping-v1.1",
+  "total": 11,
+  "passed": 11,
+  "errors": 0,
+  "warnings": 0,
+  "database_duplicates": 0,
+  "files": [
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "agieval_qinghai_2023_batch06_v1.json",
+      "total": 11,
+      "passed": 11,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "一同学将铅球水平推出，不计空气阻力和转动的影响，铅球在平抛运动过程中（ ）",
+          "content_hash": "8da0ab3919abe67724ed5d5a46e02dcd15b9090b9eab82fc217a0407fc2f96a7",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "PHY-PROJECTILE-HORIZONTAL"
+        },
+        {
+          "index": 2,
+          "question": "一质点做匀速圆周运动，若其所受合力的大小与轨道半径的n次方成正比，运动周期与轨道半径成反比，则n等于（ ）",
+          "content_hash": "0e0889ca93f2174ae056074378023b3799b3de61783dbb0c1ba244dd2980c7f4",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "PHY-CIRCULAR-CENTRIPETAL-ACCELERATION"
+        },
+        {
+          "index": 3,
+          "question": "船上的人和水下的潜水员都能听见轮船的鸣笛声。声波在空气中和在水中传播时的（　）",
+          "content_hash": "b10f4e9f5a9d5fff5e093b7757a43bf681bb749427c027647aaf45d5d2991625",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "PHY-WAVE-SPEED-FREQUENCY-WAVELENGTH"
+        },
+        {
+          "index": 4,
+          "question": "无风时，雨滴受空气阻力的作用在地面附近会以恒定的速率竖直下落。一质量为 $m$ 的雨滴在地面附近以速率 $v$ 下落高度 $h$ 的过程中，克服空气阻力做的功为（重力加速度大小为 $g$） （ ）",
+          "content_hash": "afb8a7bb818475f8b07ffbbf51f0b769cc1b49f085f3ad32fb35e9b4164e0752",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "PHY-WORK-ENERGY-KINETIC"
+        },
+        {
+          "index": 5,
+          "question": "2023年5月，世界现役运输能力最大的货运飞船天舟六号，携带约5800kg的物资进入距离地面约400km（小于地球同步卫星与地面的距离）的轨道，顺利对接中国空间站后近似做匀速圆周运动。对接后，这批物资",
+          "content_hash": "5473efa09a9079bed009bd2c37625ff3c6b1d77456127b703694a9c39ba51e0e",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "PHY-GRAVITY-UNIVERSAL-LAW"
+        },
+        {
+          "index": 6,
+          "question": "下列应用中涉及到氧化还原反应的是",
+          "content_hash": "0640f1a87438df8022340df027dac0f17b2a12fd5b100948c08237b1862878f8",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-CONCEPT-REDOX"
+        },
+        {
+          "index": 7,
+          "question": "一种矿物由短周期元素 $\\mathrm{W} 、 \\mathrm{X} 、 \\mathrm{Y}$ 组成, 溶于稀盐酸有无色无味气体生成。 $\\mathrm{W} 、 \\mathrm{X} 、 \\ma",
+          "content_hash": "f22ddec2d7535365959dba45dba202da97d2d9eea7f5d2fa3146c1903568b4d5",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-STRUCTURE-ATOM"
+        },
+        {
+          "index": 8,
+          "question": "一些化学试剂久置后易发生化学变化。下列化学方程式可正确解释相应变化的是",
+          "content_hash": "5ada639f1dd4edd4d40bc620e80679eac681565b9121851c1bc38dbc8d566e74",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-INORGANIC-TRANSFORMATION"
+        },
+        {
+          "index": 9,
+          "question": "植物叶片中的色素对植物的生长发育有重要作用。下列有关叶绿体中色素的叙述，错误的是（    ）",
+          "content_hash": "0a72823b5b1ca96a02d7b6ef0689d4715e25b4bd3c48ff47701011eed82c3edb",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-METABOLISM-PHOTOSYNTHESIS"
+        },
+        {
+          "index": 10,
+          "question": "激素调节是哺乳动物维持正常生命活动的重要调节方式。下列叙述错误的是（    ）",
+          "content_hash": "b8d899f9f686c75ebd9e69d38d39aa91b38eb6249bc636b0879ba353d568323b",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-HOMEOSTASIS-NEURAL-HUMORAL"
+        },
+        {
+          "index": 11,
+          "question": "某种植物的宽叶/窄叶由等位基因A/a控制，A基因控制宽叶性状：高茎/矮茎由等位基因B/b控制，B基因控制高茎性状。这2对等位基因独立遗传。为研究该种植物的基因致死情况，某研究小组进行了两个实验，实验①",
+          "content_hash": "7c7647a4ef6a246a460b860f6958d1510948e2a8a2e1f4d30eaff81e27297610",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-GENETICS-LAWS"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "schema_version": "shiguang-question-candidate-v1",
+  "batch": "agieval-qinghai-2023-06",
+  "source_commit": "84ab72d94318290aad2e4ec820d535a95a1f7552",
+  "questions": [
+    {
+      "subject": "物理",
+      "chapter": "曲线运动",
+      "knowledge_points": [
+        "平抛运动规律"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "一同学将铅球水平推出，不计空气阻力和转动的影响，铅球在平抛运动过程中（ ）",
+      "options": [
+        "机械能一直增加",
+        "加速度保持不变",
+        "速度大小保持不变",
+        "被推出后瞬间动能最大"
+      ],
+      "answer": "B",
+      "solution": "铅球离手后只受重力，机械能守恒；加速度始终为竖直向下的重力加速度 $g$。下落过程中竖直分速度增大，速度和动能也增大。因此正确答案为 B。",
+      "source": "AGIEval-v1.1|dataset:gaokao-physics|row:155|original:2023年 全国甲卷物理|commit:84ab72d94318",
+      "title": "2023高考真题·物理·AGIEval-155",
+      "tags": [
+        "kp:PHY-PROJECTILE-HORIZONTAL",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai",
+        "source-year:2023",
+        "batch:agieval-qinghai-2023-06",
+        "review:independent-answer-passed",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "物理",
+      "chapter": "曲线运动",
+      "knowledge_points": [
+        "向心加速度"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "一质点做匀速圆周运动，若其所受合力的大小与轨道半径的n次方成正比，运动周期与轨道半径成反比，则n等于（ ）",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "C",
+      "solution": "匀速圆周运动的合力 $F=m\\frac{4\\pi^2r}{T^2}$。由 $T\\propto r^{-1}$，可得 $T^2\\propto r^{-2}$，所以 $F\\propto r^3$，即 $n=3$。正确答案为 C。",
+      "source": "AGIEval-v1.1|dataset:gaokao-physics|row:157|original:2023年 全国甲卷物理|commit:84ab72d94318",
+      "title": "2023高考真题·物理·AGIEval-157",
+      "tags": [
+        "kp:PHY-CIRCULAR-CENTRIPETAL-ACCELERATION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai",
+        "source-year:2023",
+        "batch:agieval-qinghai-2023-06",
+        "review:independent-answer-passed",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "物理",
+      "chapter": "机械振动与机械波",
+      "knowledge_points": [
+        "波速、波长与频率的关系"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "船上的人和水下的潜水员都能听见轮船的鸣笛声。声波在空气中和在水中传播时的（　）",
+      "options": [
+        "波速和波长均不同",
+        "频率和波速均不同",
+        "波长和周期均不同",
+        "周期和频率均不同"
+      ],
+      "answer": "A",
+      "solution": "同一声源发出的声波进入不同介质后，频率由声源决定，周期也不变；波速由介质决定而改变。由 $v=f\\lambda$，频率不变而波速改变，波长也改变。因此正确答案为 A。",
+      "source": "AGIEval-v1.1|dataset:gaokao-physics|row:160|original:2023年新课标卷物理|commit:84ab72d94318",
+      "title": "2023高考真题·物理·AGIEval-160",
+      "tags": [
+        "kp:PHY-WAVE-SPEED-FREQUENCY-WAVELENGTH",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai",
+        "source-year:2023",
+        "batch:agieval-qinghai-2023-06",
+        "review:independent-answer-passed",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "物理",
+      "chapter": "功和能",
+      "knowledge_points": [
+        "动能概念与计算"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "无风时，雨滴受空气阻力的作用在地面附近会以恒定的速率竖直下落。一质量为 $m$ 的雨滴在地面附近以速率 $v$ 下落高度 $h$ 的过程中，克服空气阻力做的功为（重力加速度大小为 $g$） （ ）",
+      "options": [
+        "0",
+        "$mgh$",
+        "$\\frac{1}{2}mv^2 - mgh$",
+        "$\\frac{1}{2}mv^2 + mgh$"
+      ],
+      "answer": "B",
+      "solution": "雨滴做匀速直线运动，动能不变，合力做功为零。重力做正功 $mgh$，空气阻力做功为 $-mgh$，所以克服空气阻力做功为 $mgh$。正确答案为 B。",
+      "source": "AGIEval-v1.1|dataset:gaokao-physics|row:161|original:2023年新课标卷物理|commit:84ab72d94318",
+      "title": "2023高考真题·物理·AGIEval-161",
+      "tags": [
+        "kp:PHY-WORK-ENERGY-KINETIC",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai",
+        "source-year:2023",
+        "batch:agieval-qinghai-2023-06",
+        "review:independent-answer-passed",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "物理",
+      "chapter": "万有引力",
+      "knowledge_points": [
+        "万有引力定律"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "2023年5月，世界现役运输能力最大的货运飞船天舟六号，携带约5800kg的物资进入距离地面约400km（小于地球同步卫星与地面的距离）的轨道，顺利对接中国空间站后近似做匀速圆周运动。对接后，这批物资（ ）",
+      "options": [
+        "质量比静止在地面上时小",
+        "所受合力比静止在地面上时小",
+        "所受地球引力比静止在地面上时大",
+        "做圆周运动的角速度大小比地球自转角速度大"
+      ],
+      "answer": "D",
+      "solution": "物资质量不随位置改变；轨道半径大于地球半径，所受地球引力小于同一物体在地面所受引力。空间站轨道低于同步轨道，由 $\\omega=\\sqrt{GM/r^3}$ 可知其角速度大于地球自转角速度。因此正确答案为 D。",
+      "source": "AGIEval-v1.1|dataset:gaokao-physics|row:163|original:2023年新课标卷物理|commit:84ab72d94318",
+      "title": "2023高考真题·物理·AGIEval-163",
+      "tags": [
+        "kp:PHY-GRAVITY-UNIVERSAL-LAW",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai",
+        "source-year:2023",
+        "batch:agieval-qinghai-2023-06",
+        "review:independent-answer-passed",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "化学",
+      "chapter": "化学基本概念",
+      "knowledge_points": [
+        "氧化还原反应"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "下列应用中涉及到氧化还原反应的是",
+      "options": [
+        "使用明矾对水进行净化",
+        "雪天道路上撒盐融雪",
+        "暖贴中的铁粉遇空气放热",
+        "荧光指示牌被照发光"
+      ],
+      "answer": "C",
+      "solution": "暖贴中铁粉与空气中的氧气反应，铁元素和氧元素的化合价发生变化，属于氧化还原反应。明矾净水、撒盐融雪和受激发光均不以元素化合价变化为特征。因此正确答案为 C。",
+      "source": "AGIEval-v1.1|dataset:gaokao-chemistry|row:188|original:2023年理科综合能力测试化学部分(全国乙卷)|commit:84ab72d94318",
+      "title": "2023高考真题·化学·AGIEval-188",
+      "tags": [
+        "kp:CHEM-CONCEPT-REDOX",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai",
+        "source-year:2023",
+        "batch:agieval-qinghai-2023-06",
+        "review:independent-answer-passed",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "化学",
+      "chapter": "物质结构与性质",
+      "knowledge_points": [
+        "原子结构与元素周期律"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "一种矿物由短周期元素 $\\mathrm{W} 、 \\mathrm{X} 、 \\mathrm{Y}$ 组成, 溶于稀盐酸有无色无味气体生成。 $\\mathrm{W} 、 \\mathrm{X} 、 \\mathrm{Y}$ 原子序数依次增大。简单离子 $\\mathrm{X}^{2-}$ 与 $\\mathrm{Y}^{2+}$ 具有相同的电子结构。下列叙述正确的是",
+      "options": [
+        "X的常见化合价有-1, -2",
+        "原子半径大小为Y>X>W",
+        "YX的水合物具有两性",
+        "W单质只有4种同素异形体"
+      ],
+      "answer": "A",
+      "solution": "矿物遇盐酸产生无色无味气体，可判断含碳酸根；结合短周期元素及 $X^{2-}$、$Y^{2+}$ 等电子，可确定 $W$、$X$、$Y$ 分别为 C、O、Mg。氧常见化合价有 $-1$ 和 $-2$；原子半径应为 Mg>C>O，$Mg(OH)_2$ 不具有两性，碳的同素异形体也不只四种。因此正确答案为 A。",
+      "source": "AGIEval-v1.1|dataset:gaokao-chemistry|row:189|original:2023年理科综合能力测试化学部分(全国乙卷)|commit:84ab72d94318",
+      "title": "2023高考真题·化学·AGIEval-189",
+      "tags": [
+        "kp:CHEM-STRUCTURE-ATOM",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai",
+        "source-year:2023",
+        "batch:agieval-qinghai-2023-06",
+        "review:independent-answer-passed",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "化学",
+      "chapter": "无机元素及其化合物",
+      "knowledge_points": [
+        "无机物转化与推断"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "一些化学试剂久置后易发生化学变化。下列化学方程式可正确解释相应变化的是",
+      "options": [
+        "硫酸亚铁溶液出现棕黄色沉淀: $6 \\mathrm{FeSO}_4 + \\mathrm{O}_2 + 2 \\mathrm{H}_2\\mathrm{O} \\rightarrow 2 \\mathrm{Fe}_2(\\mathrm{SO}_4)_3 + 2 \\mathrm{Fe}(\\mathrm{OH})_2 \\downarrow$",
+        "硫化钠溶液出现浑浊颜色变深: $\\mathrm{Na}_2\\mathrm{S} + 2\\mathrm{O}_2 \\rightarrow \\mathrm{Na}_2\\mathrm{SO}_4$",
+        "溴水颜色逐渐褪去: $4\\mathrm{Br}_2 + 4\\mathrm{H}_2\\mathrm{O} \\rightarrow \\mathrm{HBrO}_4 + 7\\mathrm{HBr}$",
+        "胆矾表面出现白色粉末: $\\mathrm{CuSO}_4 \\cdot 5\\mathrm{H}_2\\mathrm{O} \\rightarrow \\mathrm{CuSO}_4 + 5\\mathrm{H}_2\\mathrm{O}$"
+      ],
+      "answer": "D",
+      "solution": "胆矾久置发生风化，结晶水逐渐失去，表面形成白色无水硫酸铜，D 可解释现象。A 中所列产物不能正确解释棕黄色沉淀；B 把硫化物完全氧化为无色硫酸盐，不能解释浑浊变深；C 所列溴的歧化方程式不正确。因此正确答案为 D。",
+      "source": "AGIEval-v1.1|dataset:gaokao-chemistry|row:190|original:2023年理科综合能力测试化学部分(全国乙卷)|commit:84ab72d94318",
+      "title": "2023高考真题·化学·AGIEval-190",
+      "tags": [
+        "kp:CHEM-INORGANIC-TRANSFORMATION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai",
+        "source-year:2023",
+        "batch:agieval-qinghai-2023-06",
+        "review:independent-answer-passed",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "细胞代谢",
+      "knowledge_points": [
+        "光合作用"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "植物叶片中的色素对植物的生长发育有重要作用。下列有关叶绿体中色素的叙述，错误的是（    ）",
+      "options": [
+        "氮元素和镁元素是构成叶绿素分子的重要元素",
+        "叶绿素和类胡萝卜素存在于叶绿体中类囊体的薄膜上",
+        "用不同波长的光照射类胡萝卜素溶液，其吸收光谱在蓝紫光区有吸收峰",
+        "叶绿体中的色素在层析液中的溶解度越高，随层析液在滤纸上扩散得越慢"
+      ],
+      "answer": "D",
+      "solution": "叶绿素含氮和镁，叶绿素与类胡萝卜素均位于类囊体薄膜，类胡萝卜素主要吸收蓝紫光。色素在层析液中的溶解度越高，随层析液扩散越快，而不是越慢。因此错误叙述为 D。",
+      "source": "AGIEval-v1.1|dataset:gaokao-biology|row:216|original:2023年全国乙卷理科综合生物部分|commit:84ab72d94318",
+      "title": "2023高考真题·生物·AGIEval-216",
+      "tags": [
+        "kp:BIO-METABOLISM-PHOTOSYNTHESIS",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai",
+        "source-year:2023",
+        "batch:agieval-qinghai-2023-06",
+        "review:independent-answer-passed",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "稳态与调节",
+      "knowledge_points": [
+        "神经调节与体液调节"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "激素调节是哺乳动物维持正常生命活动的重要调节方式。下列叙述错误的是（    ）",
+      "options": [
+        "甲状腺分泌甲状腺激素受垂体和下丘脑调节",
+        "细胞外液渗透压下降可促进抗利尿激素的释放",
+        "胸腺可分泌胸腺激素，也是T细胞成熟的场所",
+        "促甲状腺激素可经血液运输到靶细胞发挥作用"
+      ],
+      "answer": "B",
+      "solution": "细胞外液渗透压下降时，机体应减少抗利尿激素释放，降低肾小管和集合管对水的重吸收。B 把调节方向说反。其余三项符合甲状腺轴、胸腺功能和激素运输特点。因此错误叙述为 B。",
+      "source": "AGIEval-v1.1|dataset:gaokao-biology|row:217|original:2023年全国乙卷理科综合生物部分|commit:84ab72d94318",
+      "title": "2023高考真题·生物·AGIEval-217",
+      "tags": [
+        "kp:BIO-HOMEOSTASIS-NEURAL-HUMORAL",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai",
+        "source-year:2023",
+        "batch:agieval-qinghai-2023-06",
+        "review:independent-answer-passed",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "遗传与进化",
+      "knowledge_points": [
+        "遗传基本规律"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "某种植物的宽叶/窄叶由等位基因A/a控制，A基因控制宽叶性状：高茎/矮茎由等位基因B/b控制，B基因控制高茎性状。这2对等位基因独立遗传。为研究该种植物的基因致死情况，某研究小组进行了两个实验，实验①：宽叶矮茎植株自交，子代中宽叶矮茎∶窄叶矮茎＝2∶1；实验②：窄叶高茎植株自交，子代中窄叶高茎∶窄叶矮茎＝2∶1。下列分析及推理中错误的是（    ）",
+      "options": [
+        "从实验①可判断A基因纯合致死，从实验②可判断B基因纯合致死",
+        "实验①中亲本的基因型为Aabb，子代中宽叶矮茎的基因型也为Aabb",
+        "若发现该种植物中的某个植株表现为宽叶高茎，则其基因型为AaBb",
+        "将宽叶高茎植株进行自交，所获得子代植株中纯合子所占比例为1/4"
+      ],
+      "answer": "D",
+      "solution": "两个自交实验的 2∶1 分离比分别说明 $AA$ 和 $BB$ 致死，因此宽叶高茎只能是 $AaBb$。其自交后，在存活子代中每个基因座的纯合隐性个体均占 $1/3$，两对独立时纯合子 $aabb$ 占 $1/9$，不是 $1/4$。因此错误叙述为 D。",
+      "source": "AGIEval-v1.1|dataset:gaokao-biology|row:218|original:2023年全国乙卷理科综合生物部分|commit:84ab72d94318",
+      "title": "2023高考真题·生物·AGIEval-218",
+      "tags": [
+        "kp:BIO-GENETICS-LAWS",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai",
+        "source-year:2023",
+        "batch:agieval-qinghai-2023-06",
+        "review:independent-answer-passed",
+        "review:semantic-passed"
+      ]
+    }
+  ]
+}
