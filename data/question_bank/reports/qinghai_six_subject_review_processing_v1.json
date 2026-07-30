@@ -1,0 +1,34 @@
+{
+  "schema_version": "shiguang-review-processing-v1",
+  "queue": "data\\question_bank\\review_queue\\qinghai_six_subject_manual_review_v1.json",
+  "review_result": "data\\question_bank\\review_results\\qinghai_six_subject_manual_review_v1.json",
+  "revision_manifest": "data\\question_bank\\revisions\\qinghai_six_subject_manual_review_v1_revisions.json",
+  "input_questions": 3,
+  "release_questions": 3,
+  "pass": 1,
+  "revised": 2,
+  "rejected": 0,
+  "records": [
+    {
+      "source": "GAOKAO-Bench|year:2020|index:173|commit:6dbb24f8d843",
+      "decision": "PASS",
+      "action": "copied",
+      "review_note": "人工确认：无需修改",
+      "revision_reason": ""
+    },
+    {
+      "source": "GAOKAO-Bench|year:2010|index:1|commit:6dbb24f8d843",
+      "decision": "REVISE",
+      "action": "revised",
+      "review_note": "z\\cdot\\\\bar{z}=(\\quad)   这是什么，显示不完整",
+      "revision_reason": "移除OCR污染的备用推导，保留可独立验证的模长解法，并明确题目表达。"
+    },
+    {
+      "source": "GAOKAO-Bench|year:2013|index:22|commit:6dbb24f8d843",
+      "decision": "REVISE",
+      "action": "revised",
+      "review_note": "公式OCR错误",
+      "revision_reason": "将移动端无法可靠渲染的LaTeX表格改为完整文字选项，不改变考查内容和答案。"
+    }
+  ]
+}

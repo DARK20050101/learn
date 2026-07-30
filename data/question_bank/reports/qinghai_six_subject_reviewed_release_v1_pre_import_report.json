@@ -1,0 +1,39 @@
+{
+  "report": "pre_import",
+  "filename": "qinghai_six_subject_reviewed_release_v1.json",
+  "file_hash": "7e798525298dc1bff9d3262e03f3f761843403d1a584bbd7659633f7ecf5a54a",
+  "mapping_version": "kp-mapping-v1.1",
+  "database": {
+    "questions": 277,
+    "primary_knowledge_point_links": 277,
+    "orphan_questions": 0,
+    "selected_question_count": 277,
+    "selected_questions_business_hash": "782b07fc5cbfa1757e2401d009abc7cf6db58818773da67a71312b973646d4ac"
+  },
+  "total": 3,
+  "new_questions": 3,
+  "matching_duplicates": 0,
+  "conflicts": 0,
+  "errors": [],
+  "ready": true,
+  "items": [
+    {
+      "index": 1,
+      "content_hash": "aa845a147eea4c568f9d256acbee04a844ac83de2795cef7191d5d3adcc1bd30",
+      "primary_code": "MATH-SET-OPERATIONS",
+      "status": "new"
+    },
+    {
+      "index": 2,
+      "content_hash": "d62cea2c75ef390c72617d73c82ea0a4e127885d03ffa076fd37c09b8d28ba01",
+      "primary_code": "MATH-COMPLEX-ARITHMETIC",
+      "status": "new"
+    },
+    {
+      "index": 3,
+      "content_hash": "33c5ee25648989cac71b6cc1f6c179770cd8409a9dbd9d70db1c4675dfeeaaa1",
+      "primary_code": "CHEM-EXPERIMENT-DESIGN",
+      "status": "new"
+    }
+  ]
+}

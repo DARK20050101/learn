@@ -1,0 +1,41 @@
+{
+  "command": "lint",
+  "total": 3,
+  "passed": 3,
+  "errors": 0,
+  "warnings": 0,
+  "files": [
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "qinghai_six_subject_reviewed_release_v1.json",
+      "total": 3,
+      "passed": 3,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "已知集合 $U=\\{-2,-1,0,1,2,3\\}, A=\\{-1,0,1\\}, B=\\{1,2\\}$, 则 $\\oint_{U}(A \\cup B)=()$",
+          "content_hash": "aa845a147eea4c568f9d256acbee04a844ac83de2795cef7191d5d3adcc1bd30",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 2,
+          "question": "已知复数 $z=\\frac{\\sqrt{3}+i}{(1-\\sqrt{3}i)^2}$，$\\bar z$ 是 $z$ 的共轭复数，则 $z\\bar z=$（　　）",
+          "content_hash": "d62cea2c75ef390c72617d73c82ea0a4e127885d03ffa076fd37c09b8d28ba01",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 3,
+          "question": "下列实验中，所采取的分离方法与对应原理都正确的是（　　）",
+          "content_hash": "33c5ee25648989cac71b6cc1f6c179770cd8409a9dbd9d70db1c4675dfeeaaa1",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    }
+  ]
+}

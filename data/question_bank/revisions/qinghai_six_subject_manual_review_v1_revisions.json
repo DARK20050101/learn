@@ -1,0 +1,25 @@
+{
+  "schema_version": "shiguang-question-revisions-v1",
+  "revisions": {
+    "GAOKAO-Bench|year:2010|index:1|commit:6dbb24f8d843": {
+      "reason": "移除OCR污染的备用推导，保留可独立验证的模长解法，并明确题目表达。",
+      "updates": {
+        "question": "已知复数 $z=\\frac{\\sqrt{3}+i}{(1-\\sqrt{3}i)^2}$，$\\bar z$ 是 $z$ 的共轭复数，则 $z\\bar z=$（　　）",
+        "solution": "因为 $z\\bar z=|z|^2$，且 $|z|=\\frac{|\\sqrt{3}+i|}{|1-\\sqrt{3}i|^2}=\\frac{2}{2^2}=\\frac{1}{2}$，所以 $z\\bar z=\\left(\\frac{1}{2}\\right)^2=\\frac{1}{4}$。故选 A。"
+      }
+    },
+    "GAOKAO-Bench|year:2013|index:22|commit:6dbb24f8d843": {
+      "reason": "将移动端无法可靠渲染的LaTeX表格改为完整文字选项，不改变考查内容和答案。",
+      "updates": {
+        "question": "下列实验中，所采取的分离方法与对应原理都正确的是（　　）",
+        "options": [
+          "分离溶于水中的碘：用乙醇萃取，因为碘在乙醇中的溶解度较大",
+          "分离乙酸乙酯和乙醇：用分液法，因为两者密度不同",
+          "除去 $\\mathrm{KNO}_3$ 固体中混杂的 $\\mathrm{NaCl}$：用重结晶法，因为 $\\mathrm{NaCl}$ 在水中的溶解度很大",
+          "除去丁醇中的乙醚：用蒸馏法，因为丁醇与乙醚的沸点相差较大"
+        ],
+        "solution": "A项，乙醇与水互溶，不能作为该萃取操作的萃取剂，错误。B项，乙酸乙酯和乙醇互溶，不能用分液法分离，错误。C项，重结晶利用的是两种物质的溶解度随温度变化程度不同，而不是因为 $\\mathrm{NaCl}$ 在水中的溶解度很大，原理表述错误。D项，丁醇和乙醚互溶但沸点相差较大，可以用蒸馏法分离，正确。故选 D。"
+      }
+    }
+  }
+}

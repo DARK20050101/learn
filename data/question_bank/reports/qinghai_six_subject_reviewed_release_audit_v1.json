@@ -1,0 +1,52 @@
+{
+  "schema_version": "shiguang-question-audit-v1",
+  "policy": {
+    "auto_pass": "格式、答案解析一致性和已知OCR风险检查均未发现异常",
+    "review": "不进入自动发布批次，需在审查页面确认",
+    "block": "禁止发布",
+    "accuracy_notice": "AUTO_PASS不是官方答案二次认证；答案继承自GAOKAO-Bench Standard Answer，按Apache-2.0 AS IS条款提供"
+  },
+  "inputs": [
+    "data\\question_bank\\candidates\\qinghai_six_subject_reviewed_release_v1.json"
+  ],
+  "total": 3,
+  "auto_pass": 2,
+  "review": 1,
+  "block": 0,
+  "candidate_file": "data\\question_bank\\candidates\\qinghai_six_subject_reviewed_release_auto_pass_v1.json",
+  "review_file": "data\\question_bank\\review_queue\\qinghai_six_subject_reviewed_release_followup_v1.json",
+  "records": [
+    {
+      "file": "qinghai_six_subject_reviewed_release_v1.json",
+      "index": 1,
+      "title": "高考真题候选·数学·2020·173",
+      "subject": "数学",
+      "source": "GAOKAO-Bench|year:2020|index:173|commit:6dbb24f8d843",
+      "status": "REVIEW",
+      "blockers": [],
+      "review_reasons": [
+        "存在已知OCR异常符号"
+      ]
+    },
+    {
+      "file": "qinghai_six_subject_reviewed_release_v1.json",
+      "index": 2,
+      "title": "高考真题候选02·数学·2010·1",
+      "subject": "数学",
+      "source": "GAOKAO-Bench|year:2010|index:1|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_reviewed_release_v1.json",
+      "index": 3,
+      "title": "高考真题候选02·化学·2013·22",
+      "subject": "化学",
+      "source": "GAOKAO-Bench|year:2013|index:22|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    }
+  ]
+}
