@@ -5,7 +5,9 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "dev:reviewer": "vite --config vite.reviewer.config.ts",
     "build": "vue-tsc -b && vite build",
+    "build:reviewer": "vite build --config vite.reviewer.config.ts",
     "typecheck": "vue-tsc -b"
   },
   "dependencies": {
