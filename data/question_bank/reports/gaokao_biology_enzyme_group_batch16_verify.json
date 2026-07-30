@@ -1,0 +1,55 @@
+{
+  "command": "verify",
+  "schema_version": "question-bank-report-v1",
+  "mapping_version": "kp-mapping-v1.1",
+  "total": 4,
+  "passed": 4,
+  "errors": 0,
+  "warnings": 0,
+  "database_duplicates": 0,
+  "files": [
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "gaokao_biology_enzyme_group_batch16_v1.json",
+      "total": 4,
+      "passed": 4,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "【共同材料】某同学比较三种加酶洗衣粉与无酶洗衣粉的去渍效果，“+”越多表示效果越好：A 对血渍为“+++”、对油渍为“+”；B 对血渍为“+”、对油渍为“+++”；C 对血渍和油渍均为“+++”；无酶",
+          "content_hash": "e91a6ee7d023c99098bd1ed1416f4ff1ae4c31d44b4dffb90b9ee6b2ee6d4e06",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-METABOLISM-ENZYME-ATP"
+        },
+        {
+          "index": 2,
+          "question": "【共同材料】某同学比较三种加酶洗衣粉与无酶洗衣粉的去渍效果，“+”越多表示效果越好：A 对血渍为“+++”、对油渍为“+”；B 对血渍为“+”、对油渍为“+++”；C 对血渍和油渍均为“+++”；无酶",
+          "content_hash": "06efcaec1966f897c90ef9e396ec7e658fb702762b966604982b9a1c888b6d30",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-METABOLISM-ENZYME-ATP"
+        },
+        {
+          "index": 3,
+          "question": "【共同材料】某同学比较三种加酶洗衣粉与无酶洗衣粉的去渍效果，“+”越多表示效果越好：A 对血渍为“+++”、对油渍为“+”；B 对血渍为“+”、对油渍为“+++”；C 对血渍和油渍均为“+++”；无酶",
+          "content_hash": "e2b63acc6e65852eef8526c9bdecc6c33279325d15fe22768b1170742baa6d8c",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-METABOLISM-ENZYME-ATP"
+        },
+        {
+          "index": 4,
+          "question": "【共同材料】某同学比较三种加酶洗衣粉与无酶洗衣粉的去渍效果，“+”越多表示效果越好：A 对血渍为“+++”、对油渍为“+”；B 对血渍为“+”、对油渍为“+++”；C 对血渍和油渍均为“+++”；无酶",
+          "content_hash": "c4a7f8e04470be3364f889e147d4e67bb8644ee22253b707aa540511061e91ad",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-TECHNOLOGY-EXPERIMENT"
+        }
+      ]
+    }
+  ]
+}

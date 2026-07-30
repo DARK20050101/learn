@@ -1,0 +1,118 @@
+{
+  "schema_version": "shiguang-question-candidate-v1",
+  "batch": "gaokao-biology-enzyme-group-16",
+  "questions": [
+    {
+      "subject": "生物",
+      "chapter": "细胞代谢",
+      "knowledge_points": ["酶与ATP"],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "【共同材料】某同学比较三种加酶洗衣粉与无酶洗衣粉的去渍效果，“+”越多表示效果越好：A 对血渍为“+++”、对油渍为“+”；B 对血渍为“+”、对油渍为“+++”；C 对血渍和油渍均为“+++”；无酶洗衣粉对两种污渍均为“+”。\n\n根据实验结果，A、B、C 中添加的酶依次最可能是（ ）",
+      "options": [
+        "蛋白酶；脂肪酶；蛋白酶和脂肪酶",
+        "脂肪酶；蛋白酶；淀粉酶",
+        "淀粉酶；纤维素酶；蛋白酶",
+        "蛋白酶；淀粉酶；纤维素酶"
+      ],
+      "answer": "A",
+      "solution": "血渍含较多蛋白质，油渍含较多脂肪。A 主要提高血渍去除效果，说明含蛋白酶；B 主要提高油渍去除效果，说明含脂肪酶；C 对两者均有效，说明同时含蛋白酶和脂肪酶。因此答案为 A。",
+      "source": "GAOKAO-Bench|adapted:true|biology-subjective|year:2021|index:103|subquestion:1|commit:6dbb24f8d843",
+      "title": "2021高考生物大题拆分·加酶洗衣粉·1",
+      "tags": [
+        "kp:BIO-METABOLISM-ENZYME-ATP",
+        "origin:external-adapted",
+        "material-group:bio-2021-enzyme-detergent",
+        "material-order:1",
+        "large-question-split",
+        "region-fit:qinghai-curriculum",
+        "batch:gaokao-biology-enzyme-group-16",
+        "review:independent-answer-passed"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "细胞代谢",
+      "knowledge_points": ["酶与ATP"],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "【共同材料】某同学比较三种加酶洗衣粉与无酶洗衣粉的去渍效果，“+”越多表示效果越好：A 对血渍为“+++”、对油渍为“+”；B 对血渍为“+”、对油渍为“+++”；C 对血渍和油渍均为“+++”；无酶洗衣粉对两种污渍均为“+”。\n\n若 A 含蛋白酶、B 含脂肪酶、C 同时含两种酶，清洗蚕丝织物时应避免使用（ ）",
+      "options": [
+        "仅 B",
+        "A 和 C",
+        "B 和无酶洗衣粉",
+        "仅无酶洗衣粉"
+      ],
+      "answer": "B",
+      "solution": "蚕丝的主要成分是蛋白质。A 和 C 含蛋白酶，可能催化蚕丝蛋白水解并损伤织物；B 只含脂肪酶，不会直接水解蛋白质。因此答案为 B。",
+      "source": "GAOKAO-Bench|adapted:true|biology-subjective|year:2021|index:103|subquestion:2|commit:6dbb24f8d843",
+      "title": "2021高考生物大题拆分·加酶洗衣粉·2",
+      "tags": [
+        "kp:BIO-METABOLISM-ENZYME-ATP",
+        "origin:external-adapted",
+        "material-group:bio-2021-enzyme-detergent",
+        "material-order:2",
+        "large-question-split",
+        "region-fit:qinghai-curriculum",
+        "batch:gaokao-biology-enzyme-group-16",
+        "review:independent-answer-passed"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "细胞代谢",
+      "knowledge_points": ["酶与ATP"],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "【共同材料】某同学比较三种加酶洗衣粉与无酶洗衣粉的去渍效果，“+”越多表示效果越好：A 对血渍为“+++”、对油渍为“+”；B 对血渍为“+”、对油渍为“+++”；C 对血渍和油渍均为“+++”；无酶洗衣粉对两种污渍均为“+”。\n\n加酶洗衣粉通常比无酶洗衣粉更容易去除相应污渍，主要是因为酶能够（ ）",
+      "options": [
+        "为污渍分解直接提供大量能量",
+        "降低相应反应的活化能，使大分子污物更快水解为易清除的小分子",
+        "升高水温，使污渍自动挥发",
+        "改变反应平衡，使所有反应物完全消失"
+      ],
+      "answer": "B",
+      "solution": "酶通过降低化学反应的活化能提高反应速率，使蛋白质、脂肪等大分子污物更快水解成较小、较易从织物上清除的分子。酶不直接供能，也不改变反应平衡。因此答案为 B。",
+      "source": "GAOKAO-Bench|adapted:true|biology-subjective|year:2021|index:103|subquestion:3|commit:6dbb24f8d843",
+      "title": "2021高考生物大题拆分·加酶洗衣粉·3",
+      "tags": [
+        "kp:BIO-METABOLISM-ENZYME-ATP",
+        "origin:external-adapted",
+        "material-group:bio-2021-enzyme-detergent",
+        "material-order:3",
+        "large-question-split",
+        "region-fit:qinghai-curriculum",
+        "batch:gaokao-biology-enzyme-group-16",
+        "review:independent-answer-passed"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "生物技术实践",
+      "knowledge_points": ["教材基础实验"],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "【共同材料】某同学比较三种加酶洗衣粉与无酶洗衣粉的去渍效果，“+”越多表示效果越好：A 对血渍为“+++”、对油渍为“+”；B 对血渍为“+”、对油渍为“+++”；C 对血渍和油渍均为“+++”；无酶洗衣粉对两种污渍均为“+”。工业生产中还可将酶固定在一定空间内使用。\n\n与直接使用游离酶相比，固定化酶技术的主要优势之一是（ ）",
+      "options": [
+        "固定后酶不再受温度和 pH 影响",
+        "固定后酶可以催化任何化学反应",
+        "酶与产物较易分离，并可重复利用",
+        "固定化过程能够永久提高酶的最适温度"
+      ],
+      "answer": "C",
+      "solution": "固定化酶被限制在载体或一定空间内，反应后更容易与产物分离，并可在适宜条件下重复使用，从而降低成本。固定化并不意味着酶完全不受温度、pH 影响，也不会改变其专一性。因此答案为 C。",
+      "source": "GAOKAO-Bench|adapted:true|biology-subjective|year:2021|index:103|subquestion:4|commit:6dbb24f8d843",
+      "title": "2021高考生物大题拆分·加酶洗衣粉·4",
+      "tags": [
+        "kp:BIO-TECHNOLOGY-EXPERIMENT",
+        "origin:external-adapted",
+        "material-group:bio-2021-enzyme-detergent",
+        "material-order:4",
+        "large-question-split",
+        "region-fit:qinghai-curriculum",
+        "batch:gaokao-biology-enzyme-group-16",
+        "review:independent-answer-passed"
+      ]
+    }
+  ]
+}

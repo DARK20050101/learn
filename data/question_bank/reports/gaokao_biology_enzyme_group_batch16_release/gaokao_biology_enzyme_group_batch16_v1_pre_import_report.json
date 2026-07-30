@@ -1,0 +1,45 @@
+{
+  "report": "pre_import",
+  "filename": "gaokao_biology_enzyme_group_batch16_v1.json",
+  "file_hash": "6a041c4adbbc8237ebfda18e2631caecdb0639b1d182970b32a94ba977dcd2c8",
+  "mapping_version": "kp-mapping-v1.1",
+  "database": {
+    "questions": 389,
+    "primary_knowledge_point_links": 389,
+    "orphan_questions": 0,
+    "selected_question_count": 389,
+    "selected_questions_business_hash": "ce5442e5ecc5041dd0aafa37b9ba9a8b46fa97643472c066fa3ea55aae4f9321"
+  },
+  "total": 4,
+  "new_questions": 4,
+  "matching_duplicates": 0,
+  "conflicts": 0,
+  "errors": [],
+  "ready": true,
+  "items": [
+    {
+      "index": 1,
+      "content_hash": "e91a6ee7d023c99098bd1ed1416f4ff1ae4c31d44b4dffb90b9ee6b2ee6d4e06",
+      "primary_code": "BIO-METABOLISM-ENZYME-ATP",
+      "status": "new"
+    },
+    {
+      "index": 2,
+      "content_hash": "06efcaec1966f897c90ef9e396ec7e658fb702762b966604982b9a1c888b6d30",
+      "primary_code": "BIO-METABOLISM-ENZYME-ATP",
+      "status": "new"
+    },
+    {
+      "index": 3,
+      "content_hash": "e2b63acc6e65852eef8526c9bdecc6c33279325d15fe22768b1170742baa6d8c",
+      "primary_code": "BIO-METABOLISM-ENZYME-ATP",
+      "status": "new"
+    },
+    {
+      "index": 4,
+      "content_hash": "c4a7f8e04470be3364f889e147d4e67bb8644ee22253b707aa540511061e91ad",
+      "primary_code": "BIO-TECHNOLOGY-EXPERIMENT",
+      "status": "new"
+    }
+  ]
+}
