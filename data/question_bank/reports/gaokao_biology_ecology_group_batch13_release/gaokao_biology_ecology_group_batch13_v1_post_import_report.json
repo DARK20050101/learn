@@ -1,0 +1,55 @@
+{
+  "report": "post_import",
+  "filename": "gaokao_biology_ecology_group_batch13_v1.json",
+  "mapping_version": "kp-mapping-v1.1",
+  "import_result": {
+    "batch_id": 19,
+    "filename": "gaokao_biology_ecology_group_batch13_v1.json",
+    "status": "completed",
+    "total_count": 3,
+    "imported_count": 3,
+    "duplicate_count": 0,
+    "failed_count": 0,
+    "imported_question_ids": [
+      381,
+      382,
+      383
+    ],
+    "duplicate_question_ids": [],
+    "mapping_version": "kp-mapping-v1.1"
+  },
+  "database": {
+    "questions": 383,
+    "primary_knowledge_point_links": 383,
+    "orphan_questions": 0,
+    "selected_question_count": 383,
+    "selected_questions_business_hash": "af3856c40743031594523e4321cc11cc4759804ce6c88c3127eff7344aeff3b0"
+  },
+  "original_questions": {
+    "questions": 383,
+    "primary_knowledge_point_links": 383,
+    "orphan_questions": 0,
+    "selected_question_count": 380,
+    "selected_questions_business_hash": "5eb542c854408fb0ed1db2bdff2c3d589537bbeb013ec1745dc0511c17671630"
+  },
+  "new_questions": {
+    "questions": 383,
+    "primary_knowledge_point_links": 383,
+    "orphan_questions": 0,
+    "selected_question_count": 3,
+    "selected_questions_business_hash": "7361cb74b3560f3dcba71d226b3e3ecf585aed0b7acd2125d68cb21f7400b1eb"
+  },
+  "checks": {
+    "question_count_expected": true,
+    "primary_count_matches_questions": true,
+    "no_orphan_questions": true,
+    "new_questions_have_primary": true,
+    "original_questions_unchanged": true
+  },
+  "passed": true,
+  "recovery": {
+    "strategy": "restore_pre_import_pg_dump; or, only when imported questions have no dependent records, remove their links and questions in one audited transaction",
+    "batch_id": 19,
+    "warning": "deleting the import batch record alone does not restore question data"
+  }
+}

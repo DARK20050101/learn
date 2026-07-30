@@ -1,0 +1,90 @@
+{
+  "schema_version": "shiguang-question-candidate-v1",
+  "batch": "gaokao-biology-ecology-group-13",
+  "questions": [
+    {
+      "subject": "生物",
+      "chapter": "生态系统",
+      "knowledge_points": ["生态环境保护"],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "【共同材料】植树造林、“无废弃物农业”和污水净化都是生态工程在建设美丽中国中的具体应用。\n\n植树造林时，全部种植同一种植物通常不如多物种混合种植。主要原因是单一物种构成的生态系统（ ）",
+      "options": [
+        "营养结构更复杂，抵抗力稳定性更高",
+        "营养结构较简单，抵抗外界干扰的能力较弱",
+        "不存在消费者和分解者",
+        "不能进行任何物质循环"
+      ],
+      "answer": "B",
+      "solution": "物种单一的生态系统营养结构较简单，自我调节能力通常较弱，受到外界干扰时更容易发生较大变化，因此抵抗力稳定性较低。答案为 B。",
+      "source": "GAOKAO-Bench|adapted:true|biology-subjective|year:2020|index:96|subquestion:1|commit:6dbb24f8d843",
+      "title": "2020高考生物大题拆分·生态工程·1",
+      "tags": [
+        "kp:BIO-ECOLOGY-ENVIRONMENT",
+        "origin:external-adapted",
+        "material-group:bio-2020-ecological-engineering",
+        "material-order:1",
+        "large-question-split",
+        "region-fit:qinghai-curriculum",
+        "batch:gaokao-biology-ecology-group-13",
+        "review:independent-answer-passed"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "生态系统",
+      "knowledge_points": ["生态环境保护"],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "【共同材料】植树造林、“无废弃物农业”和污水净化都是生态工程在建设美丽中国中的具体应用。\n\n“无废弃物农业”把人畜粪便、枯枝落叶等转化为有机肥后还田。下列分析正确的是（ ）",
+      "options": [
+        "有机物主要由生产者分解，且会永久离开生态系统",
+        "该过程只增加土壤含水量，与物质循环无关",
+        "分解者参与有机肥形成，有助于改善土壤并促进养分循环利用",
+        "施用有机肥会使土壤微生物全部死亡"
+      ],
+      "answer": "C",
+      "solution": "有机肥形成过程中，微生物作为分解者分解有机物。还田可改善土壤结构、培育土壤微生物，并促进养分循环利用。因此答案为 C。",
+      "source": "GAOKAO-Bench|adapted:true|biology-subjective|year:2020|index:96|subquestion:2|commit:6dbb24f8d843",
+      "title": "2020高考生物大题拆分·生态工程·2",
+      "tags": [
+        "kp:BIO-ECOLOGY-ENVIRONMENT",
+        "origin:external-adapted",
+        "material-group:bio-2020-ecological-engineering",
+        "material-order:2",
+        "large-question-split",
+        "region-fit:qinghai-curriculum",
+        "batch:gaokao-biology-ecology-group-13",
+        "review:independent-answer-passed"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "生态系统",
+      "knowledge_points": ["生态环境保护"],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "【共同材料】植树造林、“无废弃物农业”和污水净化都是生态工程在建设美丽中国中的具体应用。\n\n若要利用生物从污水中回收铜、镉等金属元素，下列方案最合理的是（ ）",
+      "options": [
+        "种植能富集这些金属的水生植物，收获后再从植物体中回收",
+        "投放大量肉食性鱼类，使金属元素凭空消失",
+        "彻底杀死污水中的所有生物后直接排放",
+        "只向污水中持续补充葡萄糖"
+      ],
+      "answer": "A",
+      "solution": "可利用某些水生植物对金属元素的吸收和富集能力净化污水，再收获植物并回收其中的金属，实现污染治理与资源回收。因此答案为 A。",
+      "source": "GAOKAO-Bench|adapted:true|biology-subjective|year:2020|index:96|subquestion:3|commit:6dbb24f8d843",
+      "title": "2020高考生物大题拆分·生态工程·3",
+      "tags": [
+        "kp:BIO-ECOLOGY-ENVIRONMENT",
+        "origin:external-adapted",
+        "material-group:bio-2020-ecological-engineering",
+        "material-order:3",
+        "large-question-split",
+        "region-fit:qinghai-curriculum",
+        "batch:gaokao-biology-ecology-group-13",
+        "review:independent-answer-passed"
+      ]
+    }
+  ]
+}

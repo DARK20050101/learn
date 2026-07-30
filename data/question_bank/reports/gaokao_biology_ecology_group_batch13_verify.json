@@ -1,0 +1,47 @@
+{
+  "command": "verify",
+  "schema_version": "question-bank-report-v1",
+  "mapping_version": "kp-mapping-v1.1",
+  "total": 3,
+  "passed": 3,
+  "errors": 0,
+  "warnings": 0,
+  "database_duplicates": 0,
+  "files": [
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "gaokao_biology_ecology_group_batch13_v1.json",
+      "total": 3,
+      "passed": 3,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "【共同材料】植树造林、“无废弃物农业”和污水净化都是生态工程在建设美丽中国中的具体应用。\n\n植树造林时，全部种植同一种植物通常不如多物种混合种植。主要原因是单一物种构成的生态系统（ ）",
+          "content_hash": "ccb2e70cd3626e17c51ae8ec21f5e9aefc4a078977987b7993f52e4a4f76801e",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-ECOLOGY-ENVIRONMENT"
+        },
+        {
+          "index": 2,
+          "question": "【共同材料】植树造林、“无废弃物农业”和污水净化都是生态工程在建设美丽中国中的具体应用。\n\n“无废弃物农业”把人畜粪便、枯枝落叶等转化为有机肥后还田。下列分析正确的是（ ）",
+          "content_hash": "a5f3715b9119f2f14c0c1ae92f343cd47adf589fa02c711a3817543c9e3aa0a8",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-ECOLOGY-ENVIRONMENT"
+        },
+        {
+          "index": 3,
+          "question": "【共同材料】植树造林、“无废弃物农业”和污水净化都是生态工程在建设美丽中国中的具体应用。\n\n若要利用生物从污水中回收铜、镉等金属元素，下列方案最合理的是（ ）",
+          "content_hash": "18b2d2d9d4f3df59601d0d3708acf1fbbdc3f645074fba1489513077af43bdf2",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-ECOLOGY-ENVIRONMENT"
+        }
+      ]
+    }
+  ]
+}

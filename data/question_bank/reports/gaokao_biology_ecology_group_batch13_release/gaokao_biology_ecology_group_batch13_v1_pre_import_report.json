@@ -1,0 +1,39 @@
+{
+  "report": "pre_import",
+  "filename": "gaokao_biology_ecology_group_batch13_v1.json",
+  "file_hash": "372d1c8c96cf4f7a033e44464c72a057067cda136e7dbef0a447d9cd9cba5b29",
+  "mapping_version": "kp-mapping-v1.1",
+  "database": {
+    "questions": 380,
+    "primary_knowledge_point_links": 380,
+    "orphan_questions": 0,
+    "selected_question_count": 380,
+    "selected_questions_business_hash": "5eb542c854408fb0ed1db2bdff2c3d589537bbeb013ec1745dc0511c17671630"
+  },
+  "total": 3,
+  "new_questions": 3,
+  "matching_duplicates": 0,
+  "conflicts": 0,
+  "errors": [],
+  "ready": true,
+  "items": [
+    {
+      "index": 1,
+      "content_hash": "ccb2e70cd3626e17c51ae8ec21f5e9aefc4a078977987b7993f52e4a4f76801e",
+      "primary_code": "BIO-ECOLOGY-ENVIRONMENT",
+      "status": "new"
+    },
+    {
+      "index": 2,
+      "content_hash": "a5f3715b9119f2f14c0c1ae92f343cd47adf589fa02c711a3817543c9e3aa0a8",
+      "primary_code": "BIO-ECOLOGY-ENVIRONMENT",
+      "status": "new"
+    },
+    {
+      "index": 3,
+      "content_hash": "18b2d2d9d4f3df59601d0d3708acf1fbbdc3f645074fba1489513077af43bdf2",
+      "primary_code": "BIO-ECOLOGY-ENVIRONMENT",
+      "status": "new"
+    }
+  ]
+}
