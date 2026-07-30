@@ -5,8 +5,8 @@
   "exported_at": "2026-07-30T17:47:40.682Z",
   "summary": {
     "total": 3,
-    "reviewed": 2,
-    "pass": 0,
+    "reviewed": 3,
+    "pass": 1,
     "revise": 2,
     "reject": 0
   },
@@ -18,9 +18,9 @@
       "title": "高考真题候选·数学·2020·173",
       "subject": "数学",
       "question": "已知集合 $U=\\{-2,-1,0,1,2,3\\}, A=\\{-1,0,1\\}, B=\\{1,2\\}$, 则 $\\oint_{U}(A \\cup B)=()$",
-      "decision": "",
-      "note": "",
-      "updated_at": ""
+      "decision": "PASS",
+      "note": "人工确认：无需修改",
+      "updated_at": "2026-07-30T18:04:09.186081+00:00"
     },
     {
       "index": 2,
