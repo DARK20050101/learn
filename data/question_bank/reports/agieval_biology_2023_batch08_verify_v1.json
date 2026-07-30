@@ -1,0 +1,103 @@
+{
+  "command": "verify",
+  "schema_version": "question-bank-report-v1",
+  "mapping_version": "kp-mapping-v1.1",
+  "total": 10,
+  "passed": 10,
+  "errors": 0,
+  "warnings": 0,
+  "database_duplicates": 0,
+  "files": [
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "agieval_biology_2023_batch08_v1.json",
+      "total": 10,
+      "passed": 10,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "物质输入和输出细胞都需要经过细胞膜。下列有关人体内物质跨膜运输的叙述，正确的是（    ）",
+          "content_hash": "c267426121cd3a450506d29e53bc21168dd9ecd8182d8477a03ce7741786ee58",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-CELL-STRUCTURE"
+        },
+        {
+          "index": 2,
+          "question": "植物激素是一类由植物体产生的，对植物的生长发育有显著影响的微量有机物，下列关于植物激素的叙述，错误的是（    ）",
+          "content_hash": "21637f5adabf752aa3fab52717e0bfd048688f16e47010db3687eb72e43e8892",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-HOMEOSTASIS-PLANT"
+        },
+        {
+          "index": 3,
+          "question": "中枢神经系统对维持人体内环境的稳态具有重要作用。下列关于人体中枢的叙述，错误的是（    ）",
+          "content_hash": "582b92c42030b3c6d6f6d04715f064fd68c232178d0f772f52e5c84ec3845399",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-HOMEOSTASIS-NEURAL-HUMORAL"
+        },
+        {
+          "index": 4,
+          "question": "在生态系统中，生产者所固定的能量可以沿着食物链传递，食物链中的每个环节即为一个营养级。下列关于营养级的叙述，错误的是（    ）",
+          "content_hash": "aa33972fa7dc9f4d50a09c49e2af2270047c7362d60fa7063d8f8dc57bc26b9b",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-ECOLOGY-ECOSYSTEM"
+        },
+        {
+          "index": 5,
+          "question": "水稻的某病害是由某种真菌（有多个不同菌株）感染引起的。水稻中与该病害抗性有关的基因有3个（A1、A2、a）；基因A1控制全抗性状（抗所有菌株），基因A2控制抗性性状（抗部分菌株），基因a控制易感性状（",
+          "content_hash": "9f634837dbad6cb323a84ede243b1fc6b5bf4f2ddb00064392ef520161fdf79a",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-GENETICS-LAWS"
+        },
+        {
+          "index": 6,
+          "question": "葡萄糖是人体所需的一种单糖。下列关于人体内葡萄糖的叙述，错误的是（    ）",
+          "content_hash": "10927c4c382905f17dcac8558a7aad52ec983d5b4f17ae4be1f78dedb34a7b99",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-CELL-STRUCTURE"
+        },
+        {
+          "index": 7,
+          "question": "我国劳动人民在漫长的历史进程中，积累了丰富的生产、生活经验，并在实践中应用。生产和生活中常采取的一些措施如下。①低温储存，即果实、蔬菜等收获后在低温条件下存放 ②春化处理，即对某些作物萌发的种子或幼苗",
+          "content_hash": "ac1ffe25d030e29d1ea0d6f1dbe135e6374ee06820231a5bc0bfc1199739949b",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-HOMEOSTASIS-PLANT"
+        },
+        {
+          "index": 8,
+          "question": "人体内的免疫细胞是体液免疫和细胞免疫过程的重要参与者。下列叙述正确的是（    ）①免疫细胞表面的受体可识别细菌、病毒等入侵机体的病原体 ②树突状细胞能够处理和呈递抗原，淋巴细胞不能呈递抗原 ③辅助性",
+          "content_hash": "ec5d33e68a7f10d3aecb965e87e8ba3202bb325a33ab3c4b9ead6fe93ba50ec1",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-HOMEOSTASIS-IMMUNE"
+        },
+        {
+          "index": 9,
+          "question": "为了研究和保护我国东北地区某自然保护区内的野生哺乳动物资源，研究人员采用红外触发相机自动拍摄技术获得了该保护区内某些野生哺乳动物资源的相应数据，为生态学研究提供了相关依据。下列叙述错误的是（    ）",
+          "content_hash": "c50c0e9c5c94c66132f691d05236c0b47a60ae7299b9aebb14656268377382eb",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-ECOLOGY-POPULATION-COMMUNITY"
+        },
+        {
+          "index": 10,
+          "question": "某研究小组从野生型高秆（显性）玉米中获得了2个矮秆突变体，为了研究这2个突变体的基因型，该小组让这2个矮秆突变体（亲本）杂交得F1，F1自交得F2，发现F2中表型及其比例是高秆:矮秆:极矮秆=9:6:",
+          "content_hash": "02991705edee029c36b560b63bb852625883b6c529441f028993df85d7f86d00",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-GENETICS-LAWS"
+        }
+      ]
+    }
+  ]
+}

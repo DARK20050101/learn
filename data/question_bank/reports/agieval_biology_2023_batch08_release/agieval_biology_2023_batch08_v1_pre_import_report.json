@@ -1,0 +1,81 @@
+{
+  "report": "pre_import",
+  "filename": "agieval_biology_2023_batch08_v1.json",
+  "file_hash": "fd2185eeb0cd11aeeb5c007e54e62016fd935267be5fa826461469b815c7f851",
+  "mapping_version": "kp-mapping-v1.1",
+  "database": {
+    "questions": 362,
+    "primary_knowledge_point_links": 362,
+    "orphan_questions": 0,
+    "selected_question_count": 362,
+    "selected_questions_business_hash": "8ac3c4cd8b5b411e2fca3bbc1c3dcf0625750b0a714c4c69b7f0473470301814"
+  },
+  "total": 10,
+  "new_questions": 10,
+  "matching_duplicates": 0,
+  "conflicts": 0,
+  "errors": [],
+  "ready": true,
+  "items": [
+    {
+      "index": 1,
+      "content_hash": "c267426121cd3a450506d29e53bc21168dd9ecd8182d8477a03ce7741786ee58",
+      "primary_code": "BIO-CELL-STRUCTURE",
+      "status": "new"
+    },
+    {
+      "index": 2,
+      "content_hash": "21637f5adabf752aa3fab52717e0bfd048688f16e47010db3687eb72e43e8892",
+      "primary_code": "BIO-HOMEOSTASIS-PLANT",
+      "status": "new"
+    },
+    {
+      "index": 3,
+      "content_hash": "582b92c42030b3c6d6f6d04715f064fd68c232178d0f772f52e5c84ec3845399",
+      "primary_code": "BIO-HOMEOSTASIS-NEURAL-HUMORAL",
+      "status": "new"
+    },
+    {
+      "index": 4,
+      "content_hash": "aa33972fa7dc9f4d50a09c49e2af2270047c7362d60fa7063d8f8dc57bc26b9b",
+      "primary_code": "BIO-ECOLOGY-ECOSYSTEM",
+      "status": "new"
+    },
+    {
+      "index": 5,
+      "content_hash": "9f634837dbad6cb323a84ede243b1fc6b5bf4f2ddb00064392ef520161fdf79a",
+      "primary_code": "BIO-GENETICS-LAWS",
+      "status": "new"
+    },
+    {
+      "index": 6,
+      "content_hash": "10927c4c382905f17dcac8558a7aad52ec983d5b4f17ae4be1f78dedb34a7b99",
+      "primary_code": "BIO-CELL-STRUCTURE",
+      "status": "new"
+    },
+    {
+      "index": 7,
+      "content_hash": "ac1ffe25d030e29d1ea0d6f1dbe135e6374ee06820231a5bc0bfc1199739949b",
+      "primary_code": "BIO-HOMEOSTASIS-PLANT",
+      "status": "new"
+    },
+    {
+      "index": 8,
+      "content_hash": "ec5d33e68a7f10d3aecb965e87e8ba3202bb325a33ab3c4b9ead6fe93ba50ec1",
+      "primary_code": "BIO-HOMEOSTASIS-IMMUNE",
+      "status": "new"
+    },
+    {
+      "index": 9,
+      "content_hash": "c50c0e9c5c94c66132f691d05236c0b47a60ae7299b9aebb14656268377382eb",
+      "primary_code": "BIO-ECOLOGY-POPULATION-COMMUNITY",
+      "status": "new"
+    },
+    {
+      "index": 10,
+      "content_hash": "02991705edee029c36b560b63bb852625883b6c529441f028993df85d7f86d00",
+      "primary_code": "BIO-GENETICS-LAWS",
+      "status": "new"
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "schema_version": "shiguang-question-candidate-v1",
+  "batch": "agieval-biology-2023-08",
+  "source_commit": "84ab72d94318290aad2e4ec820d535a95a1f7552",
+  "questions": [
+    {
+      "subject": "生物",
+      "chapter": "细胞的结构与功能",
+      "knowledge_points": [
+        "细胞结构与功能"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "物质输入和输出细胞都需要经过细胞膜。下列有关人体内物质跨膜运输的叙述，正确的是（    ）",
+      "options": [
+        "乙醇是有机物，不能通过自由扩散方式跨膜进入细胞",
+        "血浆中的K+进入红细胞时需要载体蛋白并消耗ATP",
+        "抗体在浆细胞内合成时消耗能量，其分泌过程不耗能",
+        "葡萄糖可通过主动运输但不能通过协助扩散进入细胞"
+      ],
+      "answer": "B",
+      "solution": "乙醇可通过自由扩散跨膜；抗体分泌的胞吐过程需要能量；葡萄糖既可能协助扩散，也可能主动运输。红细胞维持较高的胞内钾浓度需要载体并消耗 ATP，B 正确。",
+      "source": "AGIEval-v1.1|dataset:gaokao-biology|row:211|original:2023年全国甲卷理科综合生物部分|commit:84ab72d94318",
+      "title": "2023高考真题·生物·AGIEval-211",
+      "tags": [
+        "kp:BIO-CELL-STRUCTURE",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "source-year:2023",
+        "batch:agieval-biology-2023-08",
+        "review:independent-answer-passed",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "稳态与调节",
+      "knowledge_points": [
+        "植物生命活动调节"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "植物激素是一类由植物体产生的，对植物的生长发育有显著影响的微量有机物，下列关于植物激素的叙述，错误的是（    ）",
+      "options": [
+        "在植物幼嫩的芽中色氨酸可以转变成生长素",
+        "生长素可以从产生部位运输到其他部位发挥作用",
+        "生长素和乙烯可通过相互作用共同调节植物的生长发育",
+        "植物体内生长素可以作为催化剂直接参与细胞代谢过程"
+      ],
+      "answer": "D",
+      "solution": "色氨酸可转变为生长素，生长素能运输到其他部位，并可与乙烯等激素共同调节生长发育。激素是信息分子，不是催化细胞代谢的酶，因此错误叙述为 D。",
+      "source": "AGIEval-v1.1|dataset:gaokao-biology|row:212|original:2023年全国甲卷理科综合生物部分|commit:84ab72d94318",
+      "title": "2023高考真题·生物·AGIEval-212",
+      "tags": [
+        "kp:BIO-HOMEOSTASIS-PLANT",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "source-year:2023",
+        "batch:agieval-biology-2023-08",
+        "review:independent-answer-passed",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "稳态与调节",
+      "knowledge_points": [
+        "神经调节与体液调节"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "中枢神经系统对维持人体内环境的稳态具有重要作用。下列关于人体中枢的叙述，错误的是（    ）",
+      "options": [
+        "大脑皮层是调节机体活动的最高级中枢",
+        "中枢神经系统的脑和脊髓中含有大量的神经元",
+        "位于脊髓的低级中枢通常受脑中相应的高级中枢调控",
+        "人体脊髓完整而脑部受到损伤时，不能完成膝跳反射"
+      ],
+      "answer": "D",
+      "solution": "膝跳反射的神经中枢位于脊髓，只要反射弧和脊髓相应部位完整，即使脑部受损仍可完成反射。大脑皮层的高级调节、脑和脊髓中的神经元以及高级中枢对低级中枢的调控均正确，因此错误叙述为 D。",
+      "source": "AGIEval-v1.1|dataset:gaokao-biology|row:213|original:2023年全国甲卷理科综合生物部分|commit:84ab72d94318",
+      "title": "2023高考真题·生物·AGIEval-213",
+      "tags": [
+        "kp:BIO-HOMEOSTASIS-NEURAL-HUMORAL",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "source-year:2023",
+        "batch:agieval-biology-2023-08",
+        "review:independent-answer-passed",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "生态系统",
+      "knowledge_points": [
+        "生态系统的结构与能量流动"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "在生态系统中，生产者所固定的能量可以沿着食物链传递，食物链中的每个环节即为一个营养级。下列关于营养级的叙述，错误的是（    ）",
+      "options": [
+        "同种动物在不同食物链中可能属于不同营养级",
+        "作为生产者的绿色植物所固定的能量来源于太阳",
+        "作为次级消费者的肉食性动物属于食物链的第二营养级",
+        "能量从食物链第一营养级向第二营养级只能单向流动"
+      ],
+      "answer": "C",
+      "solution": "生产者是第一营养级，初级消费者是第二营养级，次级消费者应属于第三营养级，所以 C 错误。同种动物可因食性不同处于不同营养级，生态系统能量沿营养级单向流动，其源头通常是太阳能。",
+      "source": "AGIEval-v1.1|dataset:gaokao-biology|row:214|original:2023年全国甲卷理科综合生物部分|commit:84ab72d94318",
+      "title": "2023高考真题·生物·AGIEval-214",
+      "tags": [
+        "kp:BIO-ECOLOGY-ECOSYSTEM",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "source-year:2023",
+        "batch:agieval-biology-2023-08",
+        "review:independent-answer-passed",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "遗传与进化",
+      "knowledge_points": [
+        "遗传基本规律"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "水稻的某病害是由某种真菌（有多个不同菌株）感染引起的。水稻中与该病害抗性有关的基因有3个（A1、A2、a）；基因A1控制全抗性状（抗所有菌株），基因A2控制抗性性状（抗部分菌株），基因a控制易感性状（不抗任何菌株），且A1对A2为显性，A1对a为显性、A2对a为显性。现将不同表现型的水稻植株进行杂交，子代可能会出现不同的表现型及其分离比。下列叙述错误的是（    ）",
+      "options": [
+        "全抗植株与抗性植株杂交，子代可能出现全抗：抗性=3：1",
+        "抗性植株与易感植株杂交，子代可能出现抗性：易感=1：1",
+        "全抗植株与易感植株杂交，子代可能出现全抗：抗性=1：1",
+        "全抗植株与抗性植株杂交，子代可能出现全抗：抗性：易感=2：1：1"
+      ],
+      "answer": "A",
+      "solution": "全抗与抗性植株杂交时，全抗亲本至少含 $A_1$，抗性亲本不含 $A_1$，不能得到全抗∶抗性为 3∶1。$A_2a\\times aa$ 可得 1∶1；$A_1A_2\\times aa$ 可得全抗∶抗性 1∶1；$A_1a\\times A_2a$ 可得2∶1∶1。因此错误叙述为 A。",
+      "source": "AGIEval-v1.1|dataset:gaokao-biology|row:215|original:2023年全国甲卷理科综合生物部分|commit:84ab72d94318",
+      "title": "2023高考真题·生物·AGIEval-215",
+      "tags": [
+        "kp:BIO-GENETICS-LAWS",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "source-year:2023",
+        "batch:agieval-biology-2023-08",
+        "review:independent-answer-passed",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "细胞的结构与功能",
+      "knowledge_points": [
+        "细胞结构与功能"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "葡萄糖是人体所需的一种单糖。下列关于人体内葡萄糖的叙述，错误的是（    ）",
+      "options": [
+        "葡萄糖是人体血浆的重要组成成分，其含量受激素的调节",
+        "葡萄糖是机体能量的重要来源，能经自由扩散通过细胞膜",
+        "血液中的葡萄糖进入肝细胞可被氧化分解或转化为肝糖原",
+        "血液中的葡萄糖进入人体脂肪组织细胞可转变为甘油三酯"
+      ],
+      "answer": "B",
+      "solution": "葡萄糖是极性较强的分子，通常需要膜上转运蛋白协助，不能直接通过脂双层自由扩散。血糖受激素调节，进入肝细胞后可氧化或合成肝糖原，进入脂肪细胞后也可转化为甘油三酯。因此错误叙述为 B。",
+      "source": "AGIEval-v1.1|dataset:gaokao-biology|row:219|original:2023年普通高等学校招生全国统一考试（新课标卷） 理科综合生物学科|commit:84ab72d94318",
+      "title": "2023高考真题·生物·AGIEval-219",
+      "tags": [
+        "kp:BIO-CELL-STRUCTURE",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "source-year:2023",
+        "batch:agieval-biology-2023-08",
+        "review:independent-answer-passed",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "稳态与调节",
+      "knowledge_points": [
+        "植物生命活动调节"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "我国劳动人民在漫长的历史进程中，积累了丰富的生产、生活经验，并在实践中应用。生产和生活中常采取的一些措施如下。①低温储存，即果实、蔬菜等收获后在低温条件下存放 ②春化处理，即对某些作物萌发的种子或幼苗进行适度低温处理 ③风干储藏，即小麦、玉米等种子收获后经适当风干处理后储藏 ④光周期处理，即在作物生长的某一时期控制每天光照和黑暗的相对时长 ⑤合理密植，即裁种作物时做到密度适当，行距、株距合理 ⑥间作种植，即同一生长期内，在同一块土地上隔行种植两种高矮不同的作物 关于这些措施，下列说法合理的是（    ）",
+      "options": [
+        "措施②④分别反映了低温和昼夜长短与作物开花的关系",
+        "措施③⑤的主要目的是降低有机物的消耗",
+        "措施②⑤⑥的主要目的是促进作物的光合作用",
+        "措施①③④的主要目的是降低作物或种子的呼吸作用强度"
+      ],
+      "answer": "A",
+      "solution": "春化处理说明一定低温可促进某些植物开花，光周期处理说明昼夜长短影响开花，A 合理。风干主要抑制种子呼吸而合理密植主要提高光能利用；春化并非促进光合作用；光周期处理也不是以降低呼吸为主要目的。",
+      "source": "AGIEval-v1.1|dataset:gaokao-biology|row:220|original:2023年普通高等学校招生全国统一考试（新课标卷） 理科综合生物学科|commit:84ab72d94318",
+      "title": "2023高考真题·生物·AGIEval-220",
+      "tags": [
+        "kp:BIO-HOMEOSTASIS-PLANT",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "source-year:2023",
+        "batch:agieval-biology-2023-08",
+        "review:independent-answer-passed",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "稳态与调节",
+      "knowledge_points": [
+        "免疫调节"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "人体内的免疫细胞是体液免疫和细胞免疫过程的重要参与者。下列叙述正确的是（    ）①免疫细胞表面的受体可识别细菌、病毒等入侵机体的病原体 ②树突状细胞能够处理和呈递抗原，淋巴细胞不能呈递抗原 ③辅助性T细胞参与体液免疫过程而不参与细胞免疫过程 ④体液免疫可产生记忆B细胞，细胞免疫可产生记忆T细胞 ⑤某些致病细菌感染人体既可引发体液免疫又可引发细胞免疫",
+      "options": [
+        "①②④",
+        "①④⑤",
+        "②③⑤",
+        "③④⑤"
+      ],
+      "answer": "B",
+      "solution": "①免疫细胞受体能识别相应抗原；④两类特异性免疫均能形成相应记忆细胞；⑤某些细菌既可引发体液免疫也可引发细胞免疫。B 细胞也能呈递抗原，辅助性T 细胞也参与细胞免疫，所以②③错误。正确组合为①④⑤，即 B。",
+      "source": "AGIEval-v1.1|dataset:gaokao-biology|row:221|original:2023年普通高等学校招生全国统一考试（新课标卷） 理科综合生物学科|commit:84ab72d94318",
+      "title": "2023高考真题·生物·AGIEval-221",
+      "tags": [
+        "kp:BIO-HOMEOSTASIS-IMMUNE",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "source-year:2023",
+        "batch:agieval-biology-2023-08",
+        "review:independent-answer-passed",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "生态系统",
+      "knowledge_points": [
+        "种群与群落"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "为了研究和保护我国东北地区某自然保护区内的野生哺乳动物资源，研究人员采用红外触发相机自动拍摄技术获得了该保护区内某些野生哺乳动物资源的相应数据，为生态学研究提供了相关依据。下列叙述错误的是（    ）",
+      "options": [
+        "通过对数据的分析和处理，可以了解保护区内大型野生哺乳动物的物种丰富度",
+        "与标记重捕法相比，采用该技术进行调查对野生哺乳动物的生活干扰相对较小",
+        "采用红外触发相机拍摄技术可调查生活在该自然保护区内东北豹的种群密度",
+        "该技术能调查保护区内东北豹种群中成年个体数量，不能调查幼年个体数量"
+      ],
+      "answer": "D",
+      "solution": "红外相机能在干扰较小的情况下记录不同物种和个体，可据此估计物种丰富度及东北豹种群密度；影像也可记录幼年个体，并非只能调查成年个体。因此错误叙述为 D。",
+      "source": "AGIEval-v1.1|dataset:gaokao-biology|row:222|original:2023年普通高等学校招生全国统一考试（新课标卷） 理科综合生物学科|commit:84ab72d94318",
+      "title": "2023高考真题·生物·AGIEval-222",
+      "tags": [
+        "kp:BIO-ECOLOGY-POPULATION-COMMUNITY",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "source-year:2023",
+        "batch:agieval-biology-2023-08",
+        "review:independent-answer-passed",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "遗传与进化",
+      "knowledge_points": [
+        "遗传基本规律"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "某研究小组从野生型高秆（显性）玉米中获得了2个矮秆突变体，为了研究这2个突变体的基因型，该小组让这2个矮秆突变体（亲本）杂交得F1，F1自交得F2，发现F2中表型及其比例是高秆:矮秆:极矮秆=9:6:1。若用A、B表示显性基因，则下列相关推测错误的是（    ）",
+      "options": [
+        "亲本的基因型为aaBB和AAbb，F1的基因型为AaBb",
+        "F2矮秆的基因型有aaBB、AAbb、aaBb、Aabb，共4种",
+        "基因型是AABB个体为高秆，基因型是aabb的个体为极矮秆",
+        "F2矮秆中纯合子所占比例为1/2，F2高秆中纯合子所占比例为1/16"
+      ],
+      "answer": "D",
+      "solution": "$AaBb$ 自交时，$A_B_、aaB_或A_bb、aabb$ 分别表现为高秆、矮秆、极矮秆，比例为 9∶6∶1。矮秆中的纯合子 $aaBB$ 和 $AAbb$ 占 $2/6=1/3$，而非 $1/2$；高秆中的纯合子 $AABB$ 占 $1/9$。因此错误叙述为 D。",
+      "source": "AGIEval-v1.1|dataset:gaokao-biology|row:223|original:2023年普通高等学校招生全国统一考试（新课标卷） 理科综合生物学科|commit:84ab72d94318",
+      "title": "2023高考真题·生物·AGIEval-223",
+      "tags": [
+        "kp:BIO-GENETICS-LAWS",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "source-year:2023",
+        "batch:agieval-biology-2023-08",
+        "review:independent-answer-passed",
+        "review:semantic-passed"
+      ]
+    }
+  ]
+}

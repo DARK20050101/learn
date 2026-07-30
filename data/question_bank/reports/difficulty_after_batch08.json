@@ -1,10 +1,15 @@
 {
-  "command": "coverage",
-  "mapping_version": "kp-mapping-v1.1",
+  "command": "difficulty",
   "subject": null,
-  "knowledge_point_count": 114,
-  "covered_count": 95,
   "question_count": 369,
+  "average_difficulty": 2.29,
+  "difficulty_counts": {
+    "1": 24,
+    "2": 220,
+    "3": 118,
+    "4": 7,
+    "5": 0
+  },
   "items": [
     {
       "code": "CHEM-CONCEPT-AMOUNT",

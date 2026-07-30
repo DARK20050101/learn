@@ -1,0 +1,64 @@
+{
+  "report": "post_import",
+  "filename": "agieval_chemistry_2023_batch07_v1.json",
+  "mapping_version": "kp-mapping-v1.1",
+  "import_result": {
+    "batch_id": 13,
+    "filename": "agieval_chemistry_2023_batch07_v1.json",
+    "status": "completed",
+    "total_count": 12,
+    "imported_count": 12,
+    "duplicate_count": 0,
+    "failed_count": 0,
+    "imported_question_ids": [
+      351,
+      352,
+      353,
+      354,
+      355,
+      356,
+      357,
+      358,
+      359,
+      360,
+      361,
+      362
+    ],
+    "duplicate_question_ids": [],
+    "mapping_version": "kp-mapping-v1.1"
+  },
+  "database": {
+    "questions": 362,
+    "primary_knowledge_point_links": 362,
+    "orphan_questions": 0,
+    "selected_question_count": 362,
+    "selected_questions_business_hash": "8ac3c4cd8b5b411e2fca3bbc1c3dcf0625750b0a714c4c69b7f0473470301814"
+  },
+  "original_questions": {
+    "questions": 362,
+    "primary_knowledge_point_links": 362,
+    "orphan_questions": 0,
+    "selected_question_count": 350,
+    "selected_questions_business_hash": "ac3f62934f3d7021f5560abe56ab49dd5eaa09d226fe71d66b09dfdc663a61f6"
+  },
+  "new_questions": {
+    "questions": 362,
+    "primary_knowledge_point_links": 362,
+    "orphan_questions": 0,
+    "selected_question_count": 12,
+    "selected_questions_business_hash": "3dce59358eb3ee25d0d550192297cfd973d4cbac7e4549f48691ef9fbe9e4a4d"
+  },
+  "checks": {
+    "question_count_expected": true,
+    "primary_count_matches_questions": true,
+    "no_orphan_questions": true,
+    "new_questions_have_primary": true,
+    "original_questions_unchanged": true
+  },
+  "passed": true,
+  "recovery": {
+    "strategy": "restore_pre_import_pg_dump; or, only when imported questions have no dependent records, remove their links and questions in one audited transaction",
+    "batch_id": 13,
+    "warning": "deleting the import batch record alone does not restore question data"
+  }
+}

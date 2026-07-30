@@ -1,0 +1,93 @@
+{
+  "report": "pre_import",
+  "filename": "agieval_chemistry_2023_batch07_v1.json",
+  "file_hash": "25e11f9b811ad276d9df9a32e4c355b8c9771c614e37a458f2e84ac4274f515c",
+  "mapping_version": "kp-mapping-v1.1",
+  "database": {
+    "questions": 350,
+    "primary_knowledge_point_links": 350,
+    "orphan_questions": 0,
+    "selected_question_count": 350,
+    "selected_questions_business_hash": "ac3f62934f3d7021f5560abe56ab49dd5eaa09d226fe71d66b09dfdc663a61f6"
+  },
+  "total": 12,
+  "new_questions": 12,
+  "matching_duplicates": 0,
+  "conflicts": 0,
+  "errors": [],
+  "ready": true,
+  "items": [
+    {
+      "index": 1,
+      "content_hash": "e64ec936bd3cb2dd49985970e07dc211aee83105f6a7785b50fee4d82d430858",
+      "primary_code": "CHEM-EXPERIMENT-OPERATION",
+      "status": "new"
+    },
+    {
+      "index": 2,
+      "content_hash": "1dbde071f42488456fc11a06c7037f56f6a43497a3673cd10911451f4b2799a3",
+      "primary_code": "CHEM-INORGANIC-NONMETAL",
+      "status": "new"
+    },
+    {
+      "index": 3,
+      "content_hash": "77ea4fbc809b63928fdc85cd3eb7be6502be3d095817ce395e6b90fdf7163f98",
+      "primary_code": "CHEM-STRUCTURE-ATOM",
+      "status": "new"
+    },
+    {
+      "index": 4,
+      "content_hash": "7ee4bee8955e5e17d4167de6b0c98ee80a76ddb9a77104458de3fa4312b2ac35",
+      "primary_code": "CHEM-INORGANIC-TRANSFORMATION",
+      "status": "new"
+    },
+    {
+      "index": 5,
+      "content_hash": "fa0509281cfc09bf8efbc1097ebe2a7b9e7bbe27d266b7f73e2d1893d28de1ee",
+      "primary_code": "CHEM-INORGANIC-METAL",
+      "status": "new"
+    },
+    {
+      "index": 6,
+      "content_hash": "e743ef7d33ff064076f67a76942e9102b82c33968cfe6ce452677ee8a9936571",
+      "primary_code": "CHEM-CONCEPT-REDOX",
+      "status": "new"
+    },
+    {
+      "index": 7,
+      "content_hash": "ad8ce9e294fa32a349cc6c301ffc7177ad122725dd62fcb23fdcf315a47f9731",
+      "primary_code": "CHEM-CONCEPT-ION",
+      "status": "new"
+    },
+    {
+      "index": 8,
+      "content_hash": "047f0cd060c4f1efcfc2ec375151020c8594c7c8ff496a6acf6689a70e54f7da",
+      "primary_code": "CHEM-ORGANIC-STRUCTURE",
+      "status": "new"
+    },
+    {
+      "index": 9,
+      "content_hash": "29f5edeab776f5787a5db1b7889a635af1d6d782fa4df76824a5af2828f755a6",
+      "primary_code": "CHEM-STRUCTURE-ATOM",
+      "status": "new"
+    },
+    {
+      "index": 10,
+      "content_hash": "c343f8921d397414c982db83ff4d08a9c005c73cd6445fb2f35308f0ce6f1e32",
+      "primary_code": "CHEM-REACTION-AQUEOUS",
+      "status": "new"
+    },
+    {
+      "index": 11,
+      "content_hash": "f868194fcba3cd1f52bcea23a6e1cf38f6602a7fc61b19b11e7cc6035149c03c",
+      "primary_code": "CHEM-REACTION-RATE-EQUILIBRIUM",
+      "status": "new"
+    },
+    {
+      "index": 12,
+      "content_hash": "4c525fe1eb200aa225c87fe92dea4420b6487d1e93a8691f99d6e9f86237e24d",
+      "primary_code": "CHEM-CONCEPT-ION",
+      "status": "new"
+    }
+  ]
+}

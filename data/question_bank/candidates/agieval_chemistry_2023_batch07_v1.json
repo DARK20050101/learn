@@ -1,0 +1,367 @@
+{
+  "schema_version": "shiguang-question-candidate-v1",
+  "batch": "agieval-chemistry-2023-07",
+  "source_commit": "84ab72d94318290aad2e4ec820d535a95a1f7552",
+  "questions": [
+    {
+      "subject": "化学",
+      "chapter": "化学实验",
+      "knowledge_points": [
+        "实验基本操作与安全"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "实验室将粗盐提纯并配制 $0.1000 \\mathrm{~mol} \\cdot \\mathrm{L}^{-1}$ 的 $\\mathrm{NaCl}$ 溶液。下列仪器中, 本实验必须用到的有①天平  ②温度计  ③坩埚  ④分液漏斗  ⑤容量瓶  ⑥烧杯  ⑦滴定管  ⑧酒精灯",
+      "options": [
+        "①②④⑥",
+        "①④⑤⑥",
+        "②③⑦⑧",
+        "①⑤⑥⑧"
+      ],
+      "answer": "D",
+      "solution": "粗盐提纯要称量、溶解、过滤和蒸发，需要天平、烧杯和酒精灯；配制一定物质的量浓度的溶液必须使用容量瓶。因此必需仪器组合为①⑤⑥⑧，正确答案为 D。",
+      "source": "AGIEval-v1.1|dataset:gaokao-chemistry|row:187|original:2023年理科综合能力测试化学部分(全国甲卷)|commit:84ab72d94318",
+      "title": "2023高考真题·化学·AGIEval-187",
+      "tags": [
+        "kp:CHEM-EXPERIMENT-OPERATION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "source-year:2023",
+        "batch:agieval-chemistry-2023-07",
+        "review:independent-answer-passed",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "化学",
+      "chapter": "无机元素及其化合物",
+      "knowledge_points": [
+        "非金属及其化合物"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "下列物质中属于耐高温酸性氧化物的是",
+      "options": [
+        "$\\mathrm{CO}_2$",
+        "$\\mathrm{SiO}_2$",
+        "$\\mathrm{MgO}$",
+        "$\\mathrm{Na}_2\\mathrm{O}$"
+      ],
+      "answer": "B",
+      "solution": "$SiO_2$ 能与碱反应生成盐和水，属于酸性氧化物，且熔点很高、耐高温。$CO_2$不耐高温，$MgO$ 和 $Na_2O$ 均为碱性氧化物。因此正确答案为 B。",
+      "source": "AGIEval-v1.1|dataset:gaokao-chemistry|row:193|original:2023年1月浙江省普通高校招生选考化学试题化学试题|commit:84ab72d94318",
+      "title": "2023高考真题·化学·AGIEval-193",
+      "tags": [
+        "kp:CHEM-INORGANIC-NONMETAL",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "source-year:2023",
+        "batch:agieval-chemistry-2023-07",
+        "review:independent-answer-passed",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "化学",
+      "chapter": "物质结构与性质",
+      "knowledge_points": [
+        "原子结构与元素周期律"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "硫酸铜应用广泛，下列说法不正确的是",
+      "options": [
+        "$\\mathrm{Cu}$元素位于周期表p区",
+        "硫酸铜属于强电解质",
+        "硫酸铜溶液呈酸性",
+        "硫酸铜能使蛋白质变性"
+      ],
+      "answer": "A",
+      "solution": "铜是 d 区元素，不位于 p 区，A 错误。硫酸铜是可溶性盐，属于强电解质；其溶液因铜离子水解呈酸性，重金属盐还能使蛋白质变性。因此正确答案为 A。",
+      "source": "AGIEval-v1.1|dataset:gaokao-chemistry|row:194|original:2023年1月浙江省普通高校招生选考化学试题化学试题|commit:84ab72d94318",
+      "title": "2023高考真题·化学·AGIEval-194",
+      "tags": [
+        "kp:CHEM-STRUCTURE-ATOM",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "source-year:2023",
+        "batch:agieval-chemistry-2023-07",
+        "review:independent-answer-passed",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "化学",
+      "chapter": "无机元素及其化合物",
+      "knowledge_points": [
+        "无机物转化与推断"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "物质的性质决定用途，下列两者对应关系不正确的是",
+      "options": [
+        "$\\mathrm{SO}_2$能使某些色素褪色，可用作漂白剂",
+        "金属钠导热性好，可用作传热介质",
+        "$\\mathrm{NaClO}$溶液呈碱性，可用作消毒剂",
+        "$\\mathrm{Fe}_2\\mathrm{O}_3$呈红色，可用作颜料"
+      ],
+      "answer": "C",
+      "solution": "$NaClO$ 用于消毒是因为 $ClO^-$ 具有氧化性，而不是因为溶液呈碱性。其余三项所列性质与用途之间存在直接对应关系。因此不正确的是 C。",
+      "source": "AGIEval-v1.1|dataset:gaokao-chemistry|row:195|original:2023年1月浙江省普通高校招生选考化学试题化学试题|commit:84ab72d94318",
+      "title": "2023高考真题·化学·AGIEval-195",
+      "tags": [
+        "kp:CHEM-INORGANIC-TRANSFORMATION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "source-year:2023",
+        "batch:agieval-chemistry-2023-07",
+        "review:independent-answer-passed",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "化学",
+      "chapter": "无机元素及其化合物",
+      "knowledge_points": [
+        "金属及其化合物"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "下列关于元素及其化合物的性质说法不正确的是",
+      "options": [
+        "$\\mathrm{Na}$ 和乙醇反应可生成 $\\mathrm{H}_2$",
+        "工业上煅烧黄铁矿 ($\\mathrm{FeS}_2$) 生产 $\\mathrm{SO}_2$",
+        "工业上用氨的催化氧化制备 $\\mathrm{NO}$",
+        "常温下铁与浓硝酸反应可制备 $\\mathrm{NO}_2$"
+      ],
+      "answer": "D",
+      "solution": "常温下铁在浓硝酸中发生钝化，不能用该反应制备 $NO_2$，D 错误。钠可置换乙醇羟基中的氢；黄铁矿焙烧可制 $SO_2$；氨催化氧化可制 $NO$。正确答案为 D。",
+      "source": "AGIEval-v1.1|dataset:gaokao-chemistry|row:196|original:2023年1月浙江省普通高校招生选考化学试题化学试题|commit:84ab72d94318",
+      "title": "2023高考真题·化学·AGIEval-196",
+      "tags": [
+        "kp:CHEM-INORGANIC-METAL",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "source-year:2023",
+        "batch:agieval-chemistry-2023-07",
+        "review:independent-answer-passed",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "化学",
+      "chapter": "化学基本概念",
+      "knowledge_points": [
+        "氧化还原反应"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "关于反应 $2\\mathrm{NH}_2\\mathrm{OH} + 4\\mathrm{Fe}^{3+} = \\mathrm{N}_2\\mathrm{O} \\uparrow + 4\\mathrm{Fe}^{2+} + 4\\mathrm{H}^+ + \\mathrm{H}_2\\mathrm{O}$，下列说法正确的是",
+      "options": [
+        "生成 $1 \\mathrm{mol} \\ \\mathrm{N}_2\\mathrm{O}$，转移 $4 \\mathrm{mol}$ 电子",
+        "$\\mathrm{NH}_2\\mathrm{OH}$ 是还原产物",
+        "$\\mathrm{NH}_2\\mathrm{OH}$ 既是氧化剂又是还原剂",
+        "若设计成原电池，$\\mathrm{Fe}^{2+}$ 为负极产物"
+      ],
+      "answer": "A",
+      "solution": "$NH_2OH$ 中氮为 $-1$ 价，$N_2O$ 中氮的平均价为 $+1$。生成 1 mol $N_2O$ 含 2 mol 氮，共失去 4 mol 电子，A 正确；$NH_2OH$ 是还原剂，$Fe^{2+}$ 是正极还原产物。因此正确答案为 A。",
+      "source": "AGIEval-v1.1|dataset:gaokao-chemistry|row:197|original:2023年1月浙江省普通高校招生选考化学试题化学试题|commit:84ab72d94318",
+      "title": "2023高考真题·化学·AGIEval-197",
+      "tags": [
+        "kp:CHEM-CONCEPT-REDOX",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "source-year:2023",
+        "batch:agieval-chemistry-2023-07",
+        "review:independent-answer-passed",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "化学",
+      "chapter": "化学基本概念",
+      "knowledge_points": [
+        "离子反应与离子方程式"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "下列反应的离子方程式不正确的是",
+      "options": [
+        "$\\mathrm{Cl}_2$ 通入氢氧化钠溶液：$\\mathrm{Cl}_2 + 2\\mathrm{OH}^- = \\mathrm{Cl}^- + \\mathrm{ClO}^- + \\mathrm{H}_2\\mathrm{O}$",
+        "氧化铝溶于氢氧化钠溶液：$\\mathrm{Al}_2\\mathrm{O}_3 + 2\\mathrm{OH}^- = 2\\mathrm{AlO}_2^- + \\mathrm{H}_2\\mathrm{O}$",
+        "过量 $\\mathrm{CO}_2$ 通入饱和碳酸钠溶液：$2\\mathrm{Na}^+ + \\mathrm{CO}_3^{2-} + \\mathrm{CO}_2 + \\mathrm{H}_2\\mathrm{O} = 2\\mathrm{NaHCO}_3 \\downarrow$",
+        "$\\mathrm{H}_2\\mathrm{SO}_3$ 溶液中滴入氯化钙溶液：$\\mathrm{SO}_3^{2-} + \\mathrm{Ca}^{2+} = \\mathrm{CaSO}_3 \\downarrow$"
+      ],
+      "answer": "D",
+      "solution": "$H_2SO_3$ 是弱酸，在离子方程式中不能拆写为大量 $SO_3^{2-}$，所以 D 不能正确表示反应。其余三项的物质拆分、原子和电荷守恒均符合相应条件。正确答案为 D。",
+      "source": "AGIEval-v1.1|dataset:gaokao-chemistry|row:198|original:2023年1月浙江省普通高校招生选考化学试题化学试题|commit:84ab72d94318",
+      "title": "2023高考真题·化学·AGIEval-198",
+      "tags": [
+        "kp:CHEM-CONCEPT-ION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "source-year:2023",
+        "batch:agieval-chemistry-2023-07",
+        "review:independent-answer-passed",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "化学",
+      "chapter": "有机化学基础",
+      "knowledge_points": [
+        "有机物结构与性质"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "下列说法不正确的是",
+      "options": [
+        "从分子结构上看糖类都是多羟基醛及其缩合产物",
+        "蛋白质溶液与浓硝酸作用产生白色沉淀，加热后沉淀变黄色",
+        "水果中因含有低级酯类物质而具有特殊香味",
+        "聚乙烯、聚氯乙烯是热塑性塑料"
+      ],
+      "answer": "A",
+      "solution": "糖类通常定义为多羟基醛、多羟基酮以及能水解生成它们的物质，不能说都是多羟基醛及其缩合产物，A 错误。蛋白质的颜色反应、低级酯的香味以及两种聚合物的热塑性说法均正确。因此正确答案为 A。",
+      "source": "AGIEval-v1.1|dataset:gaokao-chemistry|row:199|original:2023年1月浙江省普通高校招生选考化学试题化学试题|commit:84ab72d94318",
+      "title": "2023高考真题·化学·AGIEval-199",
+      "tags": [
+        "kp:CHEM-ORGANIC-STRUCTURE",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "source-year:2023",
+        "batch:agieval-chemistry-2023-07",
+        "review:independent-answer-passed",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "化学",
+      "chapter": "物质结构与性质",
+      "knowledge_points": [
+        "原子结构与元素周期律"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "X、Y、Z、M、Q 五种短周期元素，原子序数依次增大。X 的 2s 轨道全充满，Y 的 s 能级电子数量是 p 能级的两倍，M 是地壳中含量最多的元素，Q 是纯碱中的一种元素。下列说法不正确的是",
+      "options": [
+        "电负性：$Z > X$",
+        "最高正价：$Z < M$",
+        "Q 与 M 的化合物中可能含有非极性共价键",
+        "最高价氧化物对应水化物的酸性：$Z > Y$"
+      ],
+      "answer": "B",
+      "solution": "由电子排布和题设可确定 $X、Y、Z、M、Q$ 依次为 Be、C、N、O、Na。氧通常不讨论最高正价，故“Z 的最高正价小于 M”不正确；$Na_2O_2$ 含非极性 O—O 键，且硝酸酸性强于碳酸。因此正确答案为 B。",
+      "source": "AGIEval-v1.1|dataset:gaokao-chemistry|row:200|original:2023年1月浙江省普通高校招生选考化学试题化学试题|commit:84ab72d94318",
+      "title": "2023高考真题·化学·AGIEval-200",
+      "tags": [
+        "kp:CHEM-STRUCTURE-ATOM",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "source-year:2023",
+        "batch:agieval-chemistry-2023-07",
+        "review:independent-answer-passed",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "化学",
+      "chapter": "化学反应原理",
+      "knowledge_points": [
+        "水溶液中的离子平衡"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "下列过程与水解反应无关的是",
+      "options": [
+        "热的纯碱溶液去除油脂",
+        "重油在高温、高压和催化剂作用下转化为小分子烃",
+        "蛋白质在酶的作用下转化为氨基酸",
+        "向沸水中滴入饱和 $ \\mathrm{FeCl}_3 $ 溶液制备 $ \\mathrm{Fe}(\\mathrm{OH})_3 $ 胶体"
+      ],
+      "answer": "B",
+      "solution": "重油转化为小分子烃属于裂化或裂解，不消耗水，与水解无关。纯碱去油脂涉及油脂水解；蛋白质生成氨基酸是水解；制备氢氧化铁胶体涉及铁离子水解。正确答案为 B。",
+      "source": "AGIEval-v1.1|dataset:gaokao-chemistry|row:201|original:2023年普通高中学业水平等级性考试(北京卷)|commit:84ab72d94318",
+      "title": "2023高考真题·化学·AGIEval-201",
+      "tags": [
+        "kp:CHEM-REACTION-AQUEOUS",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "source-year:2023",
+        "batch:agieval-chemistry-2023-07",
+        "review:independent-answer-passed",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "化学",
+      "chapter": "化学反应原理",
+      "knowledge_points": [
+        "反应速率与化学平衡"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "下列事实能用平衡移动原理解释的是",
+      "options": [
+        "$ \\mathrm{H_2O_2} $ 溶液中加入少量 $ \\mathrm{MnO_2} $ 固体，促进 $ \\mathrm{H_2O_2} $ 分解",
+        "密闭烧瓶内的 $ \\mathrm{NO_2} $ 和 $ \\mathrm{N_2O_4} $ 的混合气体，受热后颜色加深",
+        "铁钉放入浓 $ \\mathrm{HNO_3} $ 中，待不再变化后，加热能产生大量红棕色气体",
+        "锌片与稀 $ \\mathrm{H_2SO_4} $ 反应过程中，加入少量 $ \\mathrm{CuSO_4} $ 固体，促进 $ \\mathrm{H_2} $ 的产生"
+      ],
+      "answer": "B",
+      "solution": "$2NO_2\\rightleftharpoons N_2O_4$ 的正反应放热，升温使平衡向 $NO_2$方向移动，气体颜色加深，可用平衡移动解释。A、D 是反应速率或原电池效应，C 涉及钝化被破坏。因此正确答案为 B。",
+      "source": "AGIEval-v1.1|dataset:gaokao-chemistry|row:202|original:2023年普通高中学业水平等级性考试(北京卷)|commit:84ab72d94318",
+      "title": "2023高考真题·化学·AGIEval-202",
+      "tags": [
+        "kp:CHEM-REACTION-RATE-EQUILIBRIUM",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "source-year:2023",
+        "batch:agieval-chemistry-2023-07",
+        "review:independent-answer-passed",
+        "review:semantic-passed"
+      ]
+    },
+    {
+      "subject": "化学",
+      "chapter": "化学基本概念",
+      "knowledge_points": [
+        "离子反应与离子方程式"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "下列离子方程式与所给事实不相符的是",
+      "options": [
+        "$\\mathrm{Cl}_2$ 制备 84 消毒液 (主要成分是 $\\mathrm{NaClO}$)：$\\mathrm{Cl}_2 + 2\\mathrm{OH}^- = \\mathrm{Cl}^- + \\mathrm{ClO}^- + \\mathrm{H_2O}$",
+        "食醋去除水垢中的 $\\mathrm{CaCO}_3$：$\\mathrm{CaCO}_3 + 2\\mathrm{H}^+ = \\mathrm{Ca}^{2+} + \\mathrm{H_2O} + \\mathrm{CO}_2 \\uparrow$",
+        "利用碳钢板制作印刷电路板：$2\\mathrm{Fe}^{3+} + \\mathrm{Cu} = 2\\mathrm{Fe}^{2+} + \\mathrm{Cu}^{2+}$",
+        "$\\mathrm{Na_2S}$ 去除废水中的 $\\mathrm{Hg}^{2+}$：$\\mathrm{Hg}^{2+} + \\mathrm{S}^{2-} = \\mathrm{HgS} \\downarrow$"
+      ],
+      "answer": "B",
+      "solution": "食醋中的醋酸是弱电解质，在离子方程式中应保留分子形式，不能写成 $H^+$，所以 B 与事实不相符。其余方程式均符合物质状态、反应条件及守恒要求。正确答案为 B。",
+      "source": "AGIEval-v1.1|dataset:gaokao-chemistry|row:203|original:2023年普通高中学业水平等级性考试(北京卷)|commit:84ab72d94318",
+      "title": "2023高考真题·化学·AGIEval-203",
+      "tags": [
+        "kp:CHEM-CONCEPT-ION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "source-year:2023",
+        "batch:agieval-chemistry-2023-07",
+        "review:independent-answer-passed",
+        "review:semantic-passed"
+      ]
+    }
+  ]
+}
