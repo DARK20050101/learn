@@ -1,0 +1,460 @@
+{
+  "schema_version": "shiguang-question-audit-v1",
+  "policy": {
+    "auto_pass": "格式、答案解析一致性和已知OCR风险检查均未发现异常",
+    "review": "不进入自动发布批次，需在审查页面确认",
+    "block": "禁止发布",
+    "accuracy_notice": "AUTO_PASS不是官方答案二次认证；答案继承自GAOKAO-Bench Standard Answer，按Apache-2.0 AS IS条款提供"
+  },
+  "inputs": [
+    "data\\question_bank\\candidates\\qinghai_gap_batch03_semantic_reviewed_v1.json"
+  ],
+  "total": 44,
+  "auto_pass": 44,
+  "review": 0,
+  "block": 0,
+  "candidate_file": "data\\question_bank\\candidates\\qinghai_gap_batch03_audited_v1.json",
+  "review_file": "data\\question_bank\\review_queue\\qinghai_gap_batch03_exception_queue_v1.json",
+  "records": [
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 1,
+      "title": "高考真题候选03·化学·2010·2",
+      "subject": "化学",
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2010|index:2|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 2,
+      "title": "高考真题候选03·化学·2010·3",
+      "subject": "化学",
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2010|index:3|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 3,
+      "title": "高考真题候选03·化学·2011·9",
+      "subject": "化学",
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2011|index:9|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 4,
+      "title": "高考真题候选03·化学·2012·16",
+      "subject": "化学",
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2012|index:16|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 5,
+      "title": "高考真题候选03·化学·2013·20",
+      "subject": "化学",
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2013|index:20|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 6,
+      "title": "高考真题候选03·化学·2013·23",
+      "subject": "化学",
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2013|index:23|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 7,
+      "title": "高考真题候选03·化学·2013·24",
+      "subject": "化学",
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2013|index:24|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 8,
+      "title": "高考真题候选03·化学·2013·25",
+      "subject": "化学",
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2013|index:25|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 9,
+      "title": "高考真题候选03·化学·2013·26",
+      "subject": "化学",
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2013|index:26|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 10,
+      "title": "高考真题候选03·化学·2014·29",
+      "subject": "化学",
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2014|index:29|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 11,
+      "title": "高考真题候选03·化学·2014·31",
+      "subject": "化学",
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2014|index:31|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 12,
+      "title": "高考真题候选03·化学·2015·43",
+      "subject": "化学",
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2015|index:43|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 13,
+      "title": "高考真题候选03·化学·2016·47",
+      "subject": "化学",
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2016|index:47|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 14,
+      "title": "高考真题候选03·化学·2016·49",
+      "subject": "化学",
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2016|index:49|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 15,
+      "title": "高考真题候选03·化学·2016·51",
+      "subject": "化学",
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2016|index:51|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 16,
+      "title": "高考真题候选03·化学·2016·52",
+      "subject": "化学",
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2016|index:52|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 17,
+      "title": "高考真题候选03·化学·2016·55",
+      "subject": "化学",
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2016|index:55|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 18,
+      "title": "高考真题候选03·化学·2018·86",
+      "subject": "化学",
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2018|index:86|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 19,
+      "title": "高考真题候选03·化学·2018·87",
+      "subject": "化学",
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2018|index:87|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 20,
+      "title": "高考真题候选03·化学·2021·112",
+      "subject": "化学",
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2021|index:112|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 21,
+      "title": "高考真题候选03·生物·2010·0",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|dataset:biology|year:2010|index:0|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 22,
+      "title": "高考真题候选03·生物·2010·1",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|dataset:biology|year:2010|index:1|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 23,
+      "title": "高考真题候选03·生物·2010·2",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|dataset:biology|year:2010|index:2|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 24,
+      "title": "高考真题候选03·生物·2010·4",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|dataset:biology|year:2010|index:4|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 25,
+      "title": "高考真题候选03·生物·2011·6",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|dataset:biology|year:2011|index:6|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 26,
+      "title": "高考真题候选03·生物·2012·10",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|dataset:biology|year:2012|index:10|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 27,
+      "title": "高考真题候选03·生物·2013·14",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|dataset:biology|year:2013|index:14|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 28,
+      "title": "高考真题候选03·生物·2013·15",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|dataset:biology|year:2013|index:15|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 29,
+      "title": "高考真题候选03·生物·2013·17",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|dataset:biology|year:2013|index:17|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 30,
+      "title": "高考真题候选03·生物·2013·18",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|dataset:biology|year:2013|index:18|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 31,
+      "title": "高考真题候选03·生物·2013·19",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|dataset:biology|year:2013|index:19|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 32,
+      "title": "高考真题候选03·生物·2013·20",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|dataset:biology|year:2013|index:20|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 33,
+      "title": "高考真题候选03·生物·2013·21",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|dataset:biology|year:2013|index:21|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 34,
+      "title": "高考真题候选03·生物·2013·22",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|dataset:biology|year:2013|index:22|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 35,
+      "title": "高考真题候选03·生物·2013·23",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|dataset:biology|year:2013|index:23|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 36,
+      "title": "高考真题候选03·生物·2013·24",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|dataset:biology|year:2013|index:24|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 37,
+      "title": "高考真题候选03·生物·2014·27",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|dataset:biology|year:2014|index:27|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 38,
+      "title": "高考真题候选03·生物·2014·28",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|dataset:biology|year:2014|index:28|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 39,
+      "title": "高考真题候选03·生物·2015·36",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|dataset:biology|year:2015|index:36|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 40,
+      "title": "高考真题候选03·生物·2015·38",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|dataset:biology|year:2015|index:38|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 41,
+      "title": "高考真题候选03·生物·2015·39",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|dataset:biology|year:2015|index:39|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 42,
+      "title": "高考真题候选03·生物·2015·43",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|dataset:biology|year:2015|index:43|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 43,
+      "title": "高考真题候选03·生物·2015·44",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|dataset:biology|year:2015|index:44|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "index": 44,
+      "title": "高考真题候选03·生物·2016·51",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|dataset:biology|year:2016|index:51|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    }
+  ]
+}

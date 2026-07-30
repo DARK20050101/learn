@@ -1,0 +1,285 @@
+{
+  "report": "pre_import",
+  "filename": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+  "file_hash": "79a5dfe8c44945cd5d750e6d270428b23784ee0cf931bd17e400594d756e66ee",
+  "mapping_version": "kp-mapping-v1.1",
+  "database": {
+    "questions": 280,
+    "primary_knowledge_point_links": 280,
+    "orphan_questions": 0,
+    "selected_question_count": 280,
+    "selected_questions_business_hash": "3c8b41f16d006ddd54e9928f5562827fd157b623ac8fe812c168392682fca622"
+  },
+  "total": 44,
+  "new_questions": 44,
+  "matching_duplicates": 0,
+  "conflicts": 0,
+  "errors": [],
+  "ready": true,
+  "items": [
+    {
+      "index": 1,
+      "content_hash": "5e10f8dcf25861a7f4f999b9118855454e556d3df87f8283ccb842d5213ebb76",
+      "primary_code": "CHEM-REACTION-RATE-EQUILIBRIUM",
+      "status": "new"
+    },
+    {
+      "index": 2,
+      "content_hash": "6dee49180aabff20cde9a71b173daa60e92ff6d070c4db41aceb2561a9a00092",
+      "primary_code": "CHEM-CONCEPT-REDOX",
+      "status": "new"
+    },
+    {
+      "index": 3,
+      "content_hash": "e78709bb8618e0fb1c89954d9fbd08aabf5d682102ab219dc7c3a0bc960bed57",
+      "primary_code": "CHEM-CONCEPT-REDOX",
+      "status": "new"
+    },
+    {
+      "index": 4,
+      "content_hash": "b759a63f6abcab418d3ee37717f78433c2db826ec4fa2856b9835adb483bb819",
+      "primary_code": "CHEM-REACTION-AQUEOUS",
+      "status": "new"
+    },
+    {
+      "index": 5,
+      "content_hash": "7aa48dfa8a2e96352573e9ecfa1e35bf864fe6eb69b3e5ae2fe9231f7687c8d6",
+      "primary_code": "CHEM-REACTION-AQUEOUS",
+      "status": "new"
+    },
+    {
+      "index": 6,
+      "content_hash": "579e159c99caba2e3b54260ea4b251dcf84474e09f330db6985a6cd59ef56ec8",
+      "primary_code": "CHEM-ORGANIC-REACTION",
+      "status": "new"
+    },
+    {
+      "index": 7,
+      "content_hash": "cbc6f95d0017911a4ecb8431126395ba01f5670018cce86710ccf30aefa88a76",
+      "primary_code": "CHEM-CONCEPT-AMOUNT",
+      "status": "new"
+    },
+    {
+      "index": 8,
+      "content_hash": "4439a5473c27ea38d06a22457c51c7ae694bdfd07703120e4c819d9916ef4244",
+      "primary_code": "CHEM-REACTION-ENERGY",
+      "status": "new"
+    },
+    {
+      "index": 9,
+      "content_hash": "4b079c15cc8f97c4934aa9ec8525738943d470d6aa6cb52c38c7b6dc4359d012",
+      "primary_code": "CHEM-REACTION-AQUEOUS",
+      "status": "new"
+    },
+    {
+      "index": 10,
+      "content_hash": "e11dc9e5a31e293deb0d14131541a2d2c73b8c32cd7b3772b0a36b31d3616b0e",
+      "primary_code": "CHEM-REACTION-RATE-EQUILIBRIUM",
+      "status": "new"
+    },
+    {
+      "index": 11,
+      "content_hash": "a266c6b49c325707b6ec01796c1a82bff835007c1d625ad4d08b3d503ec4dfc6",
+      "primary_code": "CHEM-EXPERIMENT-OPERATION",
+      "status": "new"
+    },
+    {
+      "index": 12,
+      "content_hash": "f2ca364cab44ef51d2ed9ae8fd6054371999fde7907b3efb124802028953e9de",
+      "primary_code": "CHEM-STRUCTURE-ATOM",
+      "status": "new"
+    },
+    {
+      "index": 13,
+      "content_hash": "bc65aeedbea4389c26a1c265fe8383fa272810bcb655e6e34e4f05b1c7cd0271",
+      "primary_code": "CHEM-CONCEPT-AMOUNT",
+      "status": "new"
+    },
+    {
+      "index": 14,
+      "content_hash": "4b7fc8645b026c336a829b1dda76aa5044b416b39ef1801e32aa1063d73c3fd8",
+      "primary_code": "CHEM-EXPERIMENT-DESIGN",
+      "status": "new"
+    },
+    {
+      "index": 15,
+      "content_hash": "2a1230c32a39392fb984b863bd6d1116089a765eb50c39ca24beed3eaed7b32a",
+      "primary_code": "CHEM-ORGANIC-REACTION",
+      "status": "new"
+    },
+    {
+      "index": 16,
+      "content_hash": "4afed763eaff76614866cae1c958a38612f1b055f770ca05156bf72ee86b611a",
+      "primary_code": "CHEM-STRUCTURE-ATOM",
+      "status": "new"
+    },
+    {
+      "index": 17,
+      "content_hash": "4cfd53fe756c4f5b5aa064add2540923a10566a150f5ab41c31bba9fb0ca0ffb",
+      "primary_code": "CHEM-INORGANIC-TRANSFORMATION",
+      "status": "new"
+    },
+    {
+      "index": 18,
+      "content_hash": "ac523f2a3655c75c122a4edfa82ed34a6aa4fe61e92b53c089da29db42a5f69a",
+      "primary_code": "CHEM-CONCEPT-AMOUNT",
+      "status": "new"
+    },
+    {
+      "index": 19,
+      "content_hash": "79b2ee9de2375c61ce7973b9c13e6b15f6bd539884968831a003e61c6540fc4e",
+      "primary_code": "CHEM-EXPERIMENT-OPERATION",
+      "status": "new"
+    },
+    {
+      "index": 20,
+      "content_hash": "50435359f61bca23a8952a099a5eed5c90921e14786b1912b9167f2a68829526",
+      "primary_code": "CHEM-STRUCTURE-BOND",
+      "status": "new"
+    },
+    {
+      "index": 21,
+      "content_hash": "b7784024e4a38a8116a5baa514ceb61ae64385e0ed4fbbac34fb3fa84965ef39",
+      "primary_code": "BIO-CELL-STRUCTURE",
+      "status": "new"
+    },
+    {
+      "index": 22,
+      "content_hash": "8a07d2bb2ac5b0c4ed770cd842395129befba91f08d5b672023c14aa24982d2f",
+      "primary_code": "BIO-METABOLISM-RESPIRATION",
+      "status": "new"
+    },
+    {
+      "index": 23,
+      "content_hash": "ab7d2eee413751ba9f4c6174b9b53d5873c9b59ce78c832fccfbac235cab1ea0",
+      "primary_code": "BIO-CELL-STRUCTURE",
+      "status": "new"
+    },
+    {
+      "index": 24,
+      "content_hash": "bd40c1b003d3f5f8e478b373fc4fd27f76a8026fbc3de814c01ab4aa3da354b0",
+      "primary_code": "BIO-GENETICS-MOLECULAR",
+      "status": "new"
+    },
+    {
+      "index": 25,
+      "content_hash": "860f0065eb387c7bd80eb166d7eae3a4f69928883d4456dbf6975cdee2a92e7d",
+      "primary_code": "BIO-METABOLISM-PHOTOSYNTHESIS",
+      "status": "new"
+    },
+    {
+      "index": 26,
+      "content_hash": "04cf1282e2bfbba07201fccd6a1f943eeaa02f8b24f5236762198add3aff90d1",
+      "primary_code": "BIO-GENETICS-MOLECULAR",
+      "status": "new"
+    },
+    {
+      "index": 27,
+      "content_hash": "fad1c9c25afe6af430036adaac3397b3e1fb45bfb6fea2e75335f7ae74790e00",
+      "primary_code": "BIO-GENETICS-MOLECULAR",
+      "status": "new"
+    },
+    {
+      "index": 28,
+      "content_hash": "8d667d0a1f2b2545073538718aaa2dd0b8ae3bf7d57a52e71e98bb47ef8244e9",
+      "primary_code": "BIO-CELL-LIFE-CYCLE",
+      "status": "new"
+    },
+    {
+      "index": 29,
+      "content_hash": "50c1ae21ccf6eeec3b0fa853a3b7f050f593a1c36a1ae07c9bc6724ab9a265de",
+      "primary_code": "BIO-ECOLOGY-POPULATION-COMMUNITY",
+      "status": "new"
+    },
+    {
+      "index": 30,
+      "content_hash": "cbe9ab825842c37f27fe6bc3b1b262c6592fe5bcc0d2c245a1d489987edf4155",
+      "primary_code": "BIO-GENETICS-LAWS",
+      "status": "new"
+    },
+    {
+      "index": 31,
+      "content_hash": "b125db8d449f0db01a64e959fcd15f744d89dd0e45aca78a473dba3d34ffa852",
+      "primary_code": "BIO-CELL-MOLECULE",
+      "status": "new"
+    },
+    {
+      "index": 32,
+      "content_hash": "992b84ba0524324dea2502e9597a0ae09a9501271d2df16a2c0a19886e4ae0f2",
+      "primary_code": "BIO-METABOLISM-PHOTOSYNTHESIS",
+      "status": "new"
+    },
+    {
+      "index": 33,
+      "content_hash": "7bcd4c7b9c017498e05b98a0b8bfb5cbce6f5f092c6ba56a22ef292cd034f275",
+      "primary_code": "BIO-METABOLISM-RESPIRATION",
+      "status": "new"
+    },
+    {
+      "index": 34,
+      "content_hash": "606bebf99a8d53c1fae58140bf554daaa640f9c22d291fc60825ef6257760db4",
+      "primary_code": "BIO-HOMEOSTASIS-IMMUNE",
+      "status": "new"
+    },
+    {
+      "index": 35,
+      "content_hash": "48ea649dd813e089ef8e42118fb771d442772848d2152f854a261c05107ac9a1",
+      "primary_code": "BIO-GENETICS-MOLECULAR",
+      "status": "new"
+    },
+    {
+      "index": 36,
+      "content_hash": "699ac76a229a8d2fd8417f4a5fae606c14710b791e07784a6566c61624e0c670",
+      "primary_code": "BIO-METABOLISM-ENZYME-ATP",
+      "status": "new"
+    },
+    {
+      "index": 37,
+      "content_hash": "bb8d3297e408e22962ef460eb53deb34b093d0dbe624eed39ca2619c06101ed8",
+      "primary_code": "BIO-HOMEOSTASIS-NEURAL-HUMORAL",
+      "status": "new"
+    },
+    {
+      "index": 38,
+      "content_hash": "7489838da81acd17c0b80668fa39653be4d7eb52b2660bb9bc2e7321b12167da",
+      "primary_code": "BIO-CELL-STRUCTURE",
+      "status": "new"
+    },
+    {
+      "index": 39,
+      "content_hash": "c18f0def525e0665159009878aa3460bf5a68cdde333b2aa3d090f50e533b367",
+      "primary_code": "BIO-HOMEOSTASIS-PLANT",
+      "status": "new"
+    },
+    {
+      "index": 40,
+      "content_hash": "c001ff84764f2ad99f700a702c893086bb5fa6969414b31c03d5a3dcbd0b8e33",
+      "primary_code": "BIO-ECOLOGY-POPULATION-COMMUNITY",
+      "status": "new"
+    },
+    {
+      "index": 41,
+      "content_hash": "b32a6d737f89faf1d58f799fa360799c1faa6ae390d543f206ee2e324be3709e",
+      "primary_code": "BIO-CELL-MOLECULE",
+      "status": "new"
+    },
+    {
+      "index": 42,
+      "content_hash": "6313f1940a5023202b7f3d3708ec39ec7e2ae7418eff257c037a85557e2202d5",
+      "primary_code": "BIO-CELL-STRUCTURE",
+      "status": "new"
+    },
+    {
+      "index": 43,
+      "content_hash": "fbf953c402e9625f1292ee4e4dc554c4484313d265e06839e701e44e12825ce0",
+      "primary_code": "BIO-ECOLOGY-ECOSYSTEM",
+      "status": "new"
+    },
+    {
+      "index": 44,
+      "content_hash": "63f8b96352f3cad62b3fc3ec8dd17e763b2cb88b3c1fce6c948cea7d358118a6",
+      "primary_code": "BIO-ECOLOGY-ECOSYSTEM",
+      "status": "new"
+    }
+  ]
+}

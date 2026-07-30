@@ -1,0 +1,392 @@
+{
+  "schema_version": "shiguang-semantic-review-v1",
+  "input_questions": 49,
+  "release_questions": 44,
+  "passed": 18,
+  "revised": 26,
+  "rejected": 5,
+  "records": [
+    {
+      "ordinal": 1,
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2010|index:2|commit:6dbb24f8d843",
+      "decision": "REVISE",
+      "reason": "考查平衡移动",
+      "knowledge_point_code": "CHEM-REACTION-RATE-EQUILIBRIUM",
+      "difficulty": 3
+    },
+    {
+      "ordinal": 2,
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2010|index:3|commit:6dbb24f8d843",
+      "decision": "PASS",
+      "reason": "氧化数与电子守恒",
+      "knowledge_point_code": "CHEM-CONCEPT-REDOX",
+      "difficulty": 3
+    },
+    {
+      "ordinal": 3,
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2011|index:6|commit:6dbb24f8d843",
+      "decision": "REJECT",
+      "reason": "正式题库已存在相同题目"
+    },
+    {
+      "ordinal": 4,
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2011|index:9|commit:6dbb24f8d843",
+      "decision": "REVISE",
+      "reason": "电化学本质为氧化还原",
+      "knowledge_point_code": "CHEM-CONCEPT-REDOX",
+      "difficulty": 3
+    },
+    {
+      "ordinal": 5,
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2011|index:10|commit:6dbb24f8d843",
+      "decision": "REJECT",
+      "reason": "正式题库已存在相同题目"
+    },
+    {
+      "ordinal": 6,
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2012|index:16|commit:6dbb24f8d843",
+      "decision": "PASS",
+      "reason": "溶液中性判据",
+      "knowledge_point_code": "CHEM-REACTION-AQUEOUS",
+      "difficulty": 2
+    },
+    {
+      "ordinal": 7,
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2013|index:19|commit:6dbb24f8d843",
+      "decision": "REJECT",
+      "reason": "跨多个无关考点，无法诊断单一薄弱点"
+    },
+    {
+      "ordinal": 8,
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2013|index:20|commit:6dbb24f8d843",
+      "decision": "PASS",
+      "reason": "盐类水解",
+      "knowledge_point_code": "CHEM-REACTION-AQUEOUS",
+      "difficulty": 2
+    },
+    {
+      "ordinal": 9,
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2013|index:23|commit:6dbb24f8d843",
+      "decision": "REVISE",
+      "reason": "有机加成反应",
+      "knowledge_point_code": "CHEM-ORGANIC-REACTION",
+      "difficulty": 2
+    },
+    {
+      "ordinal": 10,
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2013|index:24|commit:6dbb24f8d843",
+      "decision": "REVISE",
+      "reason": "阿伏加德罗常数",
+      "knowledge_point_code": "CHEM-CONCEPT-AMOUNT",
+      "difficulty": 2
+    },
+    {
+      "ordinal": 11,
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2013|index:25|commit:6dbb24f8d843",
+      "decision": "REVISE",
+      "reason": "盖斯定律",
+      "knowledge_point_code": "CHEM-REACTION-ENERGY",
+      "difficulty": 3
+    },
+    {
+      "ordinal": 12,
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2013|index:26|commit:6dbb24f8d843",
+      "decision": "PASS",
+      "reason": "溶度积计算",
+      "knowledge_point_code": "CHEM-REACTION-AQUEOUS",
+      "difficulty": 3
+    },
+    {
+      "ordinal": 13,
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2014|index:29|commit:6dbb24f8d843",
+      "decision": "PASS",
+      "reason": "反应机理与速率",
+      "knowledge_point_code": "CHEM-REACTION-RATE-EQUILIBRIUM",
+      "difficulty": 3
+    },
+    {
+      "ordinal": 14,
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2014|index:31|commit:6dbb24f8d843",
+      "decision": "REVISE",
+      "reason": "实验仪器与基本操作",
+      "knowledge_point_code": "CHEM-EXPERIMENT-OPERATION",
+      "difficulty": 2
+    },
+    {
+      "ordinal": 15,
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2015|index:41|commit:6dbb24f8d843",
+      "decision": "REJECT",
+      "reason": "关键化学品名称OCR损坏，无法可靠恢复"
+    },
+    {
+      "ordinal": 16,
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2015|index:43|commit:6dbb24f8d843",
+      "decision": "REVISE",
+      "reason": "元素推断与周期律",
+      "knowledge_point_code": "CHEM-STRUCTURE-ATOM",
+      "difficulty": 3
+    },
+    {
+      "ordinal": 17,
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2016|index:47|commit:6dbb24f8d843",
+      "decision": "REVISE",
+      "reason": "微粒数计算",
+      "knowledge_point_code": "CHEM-CONCEPT-AMOUNT",
+      "difficulty": 2
+    },
+    {
+      "ordinal": 18,
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2016|index:49|commit:6dbb24f8d843",
+      "decision": "REVISE",
+      "reason": "实验方案可行性评价",
+      "knowledge_point_code": "CHEM-EXPERIMENT-DESIGN",
+      "difficulty": 3
+    },
+    {
+      "ordinal": 19,
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2016|index:51|commit:6dbb24f8d843",
+      "decision": "REVISE",
+      "reason": "加成反应判断",
+      "knowledge_point_code": "CHEM-ORGANIC-REACTION",
+      "difficulty": 2
+    },
+    {
+      "ordinal": 20,
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2016|index:52|commit:6dbb24f8d843",
+      "decision": "REVISE",
+      "reason": "元素推断与周期律",
+      "knowledge_point_code": "CHEM-STRUCTURE-ATOM",
+      "difficulty": 3
+    },
+    {
+      "ordinal": 21,
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2016|index:55|commit:6dbb24f8d843",
+      "decision": "REVISE",
+      "reason": "混合物性质推断",
+      "knowledge_point_code": "CHEM-INORGANIC-TRANSFORMATION",
+      "difficulty": 3
+    },
+    {
+      "ordinal": 22,
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2018|index:86|commit:6dbb24f8d843",
+      "decision": "REVISE",
+      "reason": "微粒组成与计量",
+      "knowledge_point_code": "CHEM-CONCEPT-AMOUNT",
+      "difficulty": 2
+    },
+    {
+      "ordinal": 23,
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2018|index:87|commit:6dbb24f8d843",
+      "decision": "REVISE",
+      "reason": "实验操作与滴定指示剂",
+      "knowledge_point_code": "CHEM-EXPERIMENT-OPERATION",
+      "difficulty": 3
+    },
+    {
+      "ordinal": 24,
+      "source": "GAOKAO-Bench|dataset:chemistry|year:2021|index:112|commit:6dbb24f8d843",
+      "decision": "PASS",
+      "reason": "元素推断与化学键",
+      "knowledge_point_code": "CHEM-STRUCTURE-BOND",
+      "difficulty": 3
+    },
+    {
+      "ordinal": 25,
+      "source": "GAOKAO-Bench|dataset:biology|year:2010|index:0|commit:6dbb24f8d843",
+      "decision": "REVISE",
+      "reason": "细胞结构与生物膜",
+      "knowledge_point_code": "BIO-CELL-STRUCTURE",
+      "difficulty": 1
+    },
+    {
+      "ordinal": 26,
+      "source": "GAOKAO-Bench|dataset:biology|year:2010|index:1|commit:6dbb24f8d843",
+      "decision": "PASS",
+      "reason": "细胞呼吸过程",
+      "knowledge_point_code": "BIO-METABOLISM-RESPIRATION",
+      "difficulty": 2
+    },
+    {
+      "ordinal": 27,
+      "source": "GAOKAO-Bench|dataset:biology|year:2010|index:2|commit:6dbb24f8d843",
+      "decision": "REVISE",
+      "reason": "显微观察与细胞材料选择",
+      "knowledge_point_code": "BIO-CELL-STRUCTURE",
+      "difficulty": 2
+    },
+    {
+      "ordinal": 28,
+      "source": "GAOKAO-Bench|dataset:biology|year:2010|index:4|commit:6dbb24f8d843",
+      "decision": "REVISE",
+      "reason": "基因突变的分子本质",
+      "knowledge_point_code": "BIO-GENETICS-MOLECULAR",
+      "difficulty": 2
+    },
+    {
+      "ordinal": 29,
+      "source": "GAOKAO-Bench|dataset:biology|year:2011|index:6|commit:6dbb24f8d843",
+      "decision": "PASS",
+      "reason": "镁对光合作用的影响",
+      "knowledge_point_code": "BIO-METABOLISM-PHOTOSYNTHESIS",
+      "difficulty": 2
+    },
+    {
+      "ordinal": 30,
+      "source": "GAOKAO-Bench|dataset:biology|year:2011|index:9|commit:6dbb24f8d843",
+      "decision": "REJECT",
+      "reason": "原答案B与解析结论BD冲突，存在多答案风险"
+    },
+    {
+      "ordinal": 31,
+      "source": "GAOKAO-Bench|dataset:biology|year:2012|index:10|commit:6dbb24f8d843",
+      "decision": "PASS",
+      "reason": "翻译模板与蛋白质序列",
+      "knowledge_point_code": "BIO-GENETICS-MOLECULAR",
+      "difficulty": 2
+    },
+    {
+      "ordinal": 32,
+      "source": "GAOKAO-Bench|dataset:biology|year:2013|index:14|commit:6dbb24f8d843",
+      "decision": "REVISE",
+      "reason": "遗传信息表达",
+      "knowledge_point_code": "BIO-GENETICS-MOLECULAR",
+      "difficulty": 2
+    },
+    {
+      "ordinal": 33,
+      "source": "GAOKAO-Bench|dataset:biology|year:2013|index:15|commit:6dbb24f8d843",
+      "decision": "REVISE",
+      "reason": "有丝分裂与减数分裂比较",
+      "knowledge_point_code": "BIO-CELL-LIFE-CYCLE",
+      "difficulty": 3
+    },
+    {
+      "ordinal": 34,
+      "source": "GAOKAO-Bench|dataset:biology|year:2013|index:17|commit:6dbb24f8d843",
+      "decision": "PASS",
+      "reason": "种群密度调查",
+      "knowledge_point_code": "BIO-ECOLOGY-POPULATION-COMMUNITY",
+      "difficulty": 3
+    },
+    {
+      "ordinal": 35,
+      "source": "GAOKAO-Bench|dataset:biology|year:2013|index:18|commit:6dbb24f8d843",
+      "decision": "PASS",
+      "reason": "分离定律实验设计",
+      "knowledge_point_code": "BIO-GENETICS-LAWS",
+      "difficulty": 3
+    },
+    {
+      "ordinal": 36,
+      "source": "GAOKAO-Bench|dataset:biology|year:2013|index:19|commit:6dbb24f8d843",
+      "decision": "REVISE",
+      "reason": "核酸分布与结构",
+      "knowledge_point_code": "BIO-CELL-MOLECULE",
+      "difficulty": 2
+    },
+    {
+      "ordinal": 37,
+      "source": "GAOKAO-Bench|dataset:biology|year:2013|index:20|commit:6dbb24f8d843",
+      "decision": "PASS",
+      "reason": "叶绿素吸收光谱",
+      "knowledge_point_code": "BIO-METABOLISM-PHOTOSYNTHESIS",
+      "difficulty": 1
+    },
+    {
+      "ordinal": 38,
+      "source": "GAOKAO-Bench|dataset:biology|year:2013|index:21|commit:6dbb24f8d843",
+      "decision": "REVISE",
+      "reason": "微生物呼吸",
+      "knowledge_point_code": "BIO-METABOLISM-RESPIRATION",
+      "difficulty": 2
+    },
+    {
+      "ordinal": 39,
+      "source": "GAOKAO-Bench|dataset:biology|year:2013|index:22|commit:6dbb24f8d843",
+      "decision": "PASS",
+      "reason": "免疫细胞分类",
+      "knowledge_point_code": "BIO-HOMEOSTASIS-IMMUNE",
+      "difficulty": 1
+    },
+    {
+      "ordinal": 40,
+      "source": "GAOKAO-Bench|dataset:biology|year:2013|index:23|commit:6dbb24f8d843",
+      "decision": "REVISE",
+      "reason": "DNA是遗传物质的证据",
+      "knowledge_point_code": "BIO-GENETICS-MOLECULAR",
+      "difficulty": 2
+    },
+    {
+      "ordinal": 41,
+      "source": "GAOKAO-Bench|dataset:biology|year:2013|index:24|commit:6dbb24f8d843",
+      "decision": "PASS",
+      "reason": "酶的特性",
+      "knowledge_point_code": "BIO-METABOLISM-ENZYME-ATP",
+      "difficulty": 2
+    },
+    {
+      "ordinal": 42,
+      "source": "GAOKAO-Bench|dataset:biology|year:2014|index:27|commit:6dbb24f8d843",
+      "decision": "REVISE",
+      "reason": "内环境稳态",
+      "knowledge_point_code": "BIO-HOMEOSTASIS-NEURAL-HUMORAL",
+      "difficulty": 2
+    },
+    {
+      "ordinal": 43,
+      "source": "GAOKAO-Bench|dataset:biology|year:2014|index:28|commit:6dbb24f8d843",
+      "decision": "REVISE",
+      "reason": "质壁分离实验",
+      "knowledge_point_code": "BIO-CELL-STRUCTURE",
+      "difficulty": 2
+    },
+    {
+      "ordinal": 44,
+      "source": "GAOKAO-Bench|dataset:biology|year:2015|index:36|commit:6dbb24f8d843",
+      "decision": "PASS",
+      "reason": "生长素",
+      "knowledge_point_code": "BIO-HOMEOSTASIS-PLANT",
+      "difficulty": 2
+    },
+    {
+      "ordinal": 45,
+      "source": "GAOKAO-Bench|dataset:biology|year:2015|index:38|commit:6dbb24f8d843",
+      "decision": "PASS",
+      "reason": "群落演替",
+      "knowledge_point_code": "BIO-ECOLOGY-POPULATION-COMMUNITY",
+      "difficulty": 2
+    },
+    {
+      "ordinal": 46,
+      "source": "GAOKAO-Bench|dataset:biology|year:2015|index:39|commit:6dbb24f8d843",
+      "decision": "REVISE",
+      "reason": "蛋白质结构与功能",
+      "knowledge_point_code": "BIO-CELL-MOLECULE",
+      "difficulty": 2
+    },
+    {
+      "ordinal": 47,
+      "source": "GAOKAO-Bench|dataset:biology|year:2015|index:43|commit:6dbb24f8d843",
+      "decision": "REVISE",
+      "reason": "胞吐与跨核孔运输",
+      "knowledge_point_code": "BIO-CELL-STRUCTURE",
+      "difficulty": 1
+    },
+    {
+      "ordinal": 48,
+      "source": "GAOKAO-Bench|dataset:biology|year:2015|index:44|commit:6dbb24f8d843",
+      "decision": "PASS",
+      "reason": "生态系统稳定性",
+      "knowledge_point_code": "BIO-ECOLOGY-ECOSYSTEM",
+      "difficulty": 1
+    },
+    {
+      "ordinal": 49,
+      "source": "GAOKAO-Bench|dataset:biology|year:2016|index:51|commit:6dbb24f8d843",
+      "decision": "PASS",
+      "reason": "能量流动",
+      "knowledge_point_code": "BIO-ECOLOGY-ECOSYSTEM",
+      "difficulty": 1
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "command": "verify",
+  "schema_version": "question-bank-report-v1",
+  "mapping_version": "kp-mapping-v1.1",
+  "total": 44,
+  "passed": 44,
+  "errors": 0,
+  "warnings": 0,
+  "database_duplicates": 0,
+  "files": [
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "qinghai_gap_batch03_semantic_reviewed_v1.json",
+      "total": 44,
+      "passed": 44,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "在相同条件下, 下列说法错误的是（）",
+          "content_hash": "5e10f8dcf25861a7f4f999b9118855454e556d3df87f8283ccb842d5213ebb76",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-REACTION-RATE-EQUILIBRIUM"
+        },
+        {
+          "index": 2,
+          "question": "（3 分) 若 $\\left(\\mathrm{NH}_{4}\\right){ }_{2} \\mathrm{SO}_{4}$ 在强热时分解的产物是 $\\mathrm{SO}_{2} 、 \\mathrm{",
+          "content_hash": "6dee49180aabff20cde9a71b173daa60e92ff6d070c4db41aceb2561a9a00092",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-CONCEPT-REDOX"
+        },
+        {
+          "index": 3,
+          "question": "铁铂蓄电池又称爱迪生电池, 放电时的总反应为: $\\mathrm{Fe}+\\mathrm{Ni}_{2} \\mathrm{O}_{3}+3 \\mathrm{H}_{2} \\mathrm{O}=\\mat",
+          "content_hash": "e78709bb8618e0fb1c89954d9fbd08aabf5d682102ab219dc7c3a0bc960bed57",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-CONCEPT-REDOX"
+        },
+        {
+          "index": 4,
+          "question": "(6 分) 已知温度 $\\mathrm{T}$ 时水的离子积常数为 $\\mathrm{K}_{\\mathrm{W}}$, 该温度下, 将浓度为 $\\mathrm{a} m o l \\cdot \\mat",
+          "content_hash": "b759a63f6abcab418d3ee37717f78433c2db826ec4fa2856b9835adb483bb819",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-REACTION-AQUEOUS"
+        },
+        {
+          "index": 5,
+          "question": "（6 分) 短周期元素 $\\mathrm{W} 、 \\mathrm{X} 、 \\mathrm{Y} 、 \\mathrm{Z}$ 的原子序数依次增大, 其简单离子都能破 坏水的电离平衡的是（）",
+          "content_hash": "7aa48dfa8a2e96352573e9ecfa1e35bf864fe6eb69b3e5ae2fe9231f7687c8d6",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-REACTION-AQUEOUS"
+        },
+        {
+          "index": 6,
+          "question": "下列叙述中, 错误的是（）",
+          "content_hash": "579e159c99caba2e3b54260ea4b251dcf84474e09f330db6985a6cd59ef56ec8",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-ORGANIC-REACTION"
+        },
+        {
+          "index": 7,
+          "question": "(6 分) $\\mathrm{N}_{\\mathrm{A}}$ 为阿伏加德罗常数的值。下列叙述正确的是（）",
+          "content_hash": "cbc6f95d0017911a4ecb8431126395ba01f5670018cce86710ccf30aefa88a76",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-CONCEPT-AMOUNT"
+        },
+        {
+          "index": 8,
+          "question": "（6 分) 在 $1200^{\\circ} \\mathrm{C}$ 时, 天然气脱硫工艺中会发生下列反应: $\\mathrm{H}_{2} \\mathrm{~S}(\\mathrm{~g})+\\frac",
+          "content_hash": "4439a5473c27ea38d06a22457c51c7ae694bdfd07703120e4c819d9916ef4244",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-REACTION-ENERGY"
+        },
+        {
+          "index": 9,
+          "question": "（6 分) 室温时, $\\mathrm{M}(\\mathrm{OH})_{2}(\\mathrm{~s}) \\rightleftharpoons \\mathrm{M}^{2+}(\\mathrm{aq})",
+          "content_hash": "4b079c15cc8f97c4934aa9ec8525738943d470d6aa6cb52c38c7b6dc4359d012",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-REACTION-AQUEOUS"
+        },
+        {
+          "index": 10,
+          "question": "(6 分) 已知分解 $1 \\mathrm{~mol} \\mathrm{H}_{2} \\mathrm{O}_{2}$ 放出热量 $98 \\mathrm{~kJ}$, 在含少量 $\\mathrm{I}^",
+          "content_hash": "e11dc9e5a31e293deb0d14131541a2d2c73b8c32cd7b3772b0a36b31d3616b0e",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-REACTION-RATE-EQUILIBRIUM"
+        },
+        {
+          "index": 11,
+          "question": "下列有关仪器使用方法或实验操作正确的是（ ）",
+          "content_hash": "a266c6b49c325707b6ec01796c1a82bff835007c1d625ad4d08b3d503ec4dfc6",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-EXPERIMENT-OPERATION"
+        },
+        {
+          "index": 12,
+          "question": "（6 分) 原子序数依次增大的元素 $a 、 b 、 c 、 d$, 它们的最外层电子数分别为 1 、6、7、1. $\\mathrm{a}^{-}$的电子层结构与氦相同, $\\mathrm{b}$ 和",
+          "content_hash": "f2ca364cab44ef51d2ed9ae8fd6054371999fde7907b3efb124802028953e9de",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-STRUCTURE-ATOM"
+        },
+        {
+          "index": 13,
+          "question": "(6 分) 设 $\\mathrm{N}_{\\mathrm{A}}$ 为阿伏加德罗常数值. 下列有关叙述正确的是（）",
+          "content_hash": "bc65aeedbea4389c26a1c265fe8383fa272810bcb655e6e34e4f05b1c7cd0271",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-CONCEPT-AMOUNT"
+        },
+        {
+          "index": 14,
+          "question": "下列实验操作能达到实验目的是（）",
+          "content_hash": "4b7fc8645b026c336a829b1dda76aa5044b416b39ef1801e32aa1063d73c3fd8",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-EXPERIMENT-DESIGN"
+        },
+        {
+          "index": 15,
+          "question": "下列各组中的物质均能发生加成反应的是（）",
+          "content_hash": "2a1230c32a39392fb984b863bd6d1116089a765eb50c39ca24beed3eaed7b32a",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-ORGANIC-REACTION"
+        },
+        {
+          "index": 16,
+          "question": "(6 分) $a 、 b 、 c 、 d$ 为短周期元素, $a$ 的原子中只有 1 个电子, $b^{2-}$ 和 $c^{+}$的电 子层结构相同， $\\mathrm{d}$ 与 $\\mathrm",
+          "content_hash": "4afed763eaff76614866cae1c958a38612f1b055f770ca05156bf72ee86b611a",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-STRUCTURE-ATOM"
+        },
+        {
+          "index": 17,
+          "question": "（6 分) 某白色粉末由两种物质组成, 为鉴别其成分进行如下实验: (1)取少量样品加入足量水仍有部分固体末溶解: 再加入足量稀盐酸, 有气泡产生 ，固体全部溶解; (2)取少量样品加入足量稀硫酸有气",
+          "content_hash": "4cfd53fe756c4f5b5aa064add2540923a10566a150f5ab41c31bba9fb0ca0ffb",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-INORGANIC-TRANSFORMATION"
+        },
+        {
+          "index": 18,
+          "question": "(6 分) 下列叙述正确的是 ( )",
+          "content_hash": "ac523f2a3655c75c122a4edfa82ed34a6aa4fe61e92b53c089da29db42a5f69a",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-CONCEPT-AMOUNT"
+        },
+        {
+          "index": 19,
+          "question": "(6 分) 下列实验操作不当的是 ( )",
+          "content_hash": "79b2ee9de2375c61ce7973b9c13e6b15f6bd539884968831a003e61c6540fc4e",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-EXPERIMENT-OPERATION"
+        },
+        {
+          "index": 20,
+          "question": "我国嫦娥五号探测器带回 $1.731 \\mathrm{~kg}$ 的月球土壤, 经分析发现其构成与地球士壤类似土壤 中含有的短周期元素 $W 、 X 、 Y 、 Z$, 原子序数依次增大, 最外层电子",
+          "content_hash": "50435359f61bca23a8952a099a5eed5c90921e14786b1912b9167f2a68829526",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-STRUCTURE-BOND"
+        },
+        {
+          "index": 21,
+          "question": "下列有关细胞的叙述，正确的是（ ）",
+          "content_hash": "b7784024e4a38a8116a5baa514ceb61ae64385e0ed4fbbac34fb3fa84965ef39",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-CELL-STRUCTURE"
+        },
+        {
+          "index": 22,
+          "question": "下列关于呼吸作用的叙述，正确的是（ ）",
+          "content_hash": "8a07d2bb2ac5b0c4ed770cd842395129befba91f08d5b672023c14aa24982d2f",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-METABOLISM-RESPIRATION"
+        },
+        {
+          "index": 23,
+          "question": "若要在普通显微镜下观察到质壁分离、 RNA和脂肪，下列四组材料 中应选择的一组是（ ）",
+          "content_hash": "ab7d2eee413751ba9f4c6174b9b53d5873c9b59ce78c832fccfbac235cab1ea0",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-CELL-STRUCTURE"
+        },
+        {
+          "index": 24,
+          "question": "在白花豌豆品种栽培园中，偶然发现了一株开红花的豌豆植株，推 测该红花表现型的出现是花色基因突变的结果．为了确定该推测是否正确， 应检测和比较红花植株与白花植株中（ ）",
+          "content_hash": "bd40c1b003d3f5f8e478b373fc4fd27f76a8026fbc3de814c01ab4aa3da354b0",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-GENETICS-MOLECULAR"
+        },
+        {
+          "index": 25,
+          "question": "番茄幼苗在缺镁的培养液中培养一段时间后，与对照组相比，其叶 片光合作用强度下降，原因是（ ）",
+          "content_hash": "860f0065eb387c7bd80eb166d7eae3a4f69928883d4456dbf6975cdee2a92e7d",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-METABOLISM-PHOTOSYNTHESIS"
+        },
+        {
+          "index": 26,
+          "question": "同一物种的两类细胞各产生一种分泌蛋白，组成这两种蛋白质的各 种氨基酸含量相同，但排列顺序不同。其原因是参与这两种蛋白质合成的（ ）",
+          "content_hash": "04cf1282e2bfbba07201fccd6a1f943eeaa02f8b24f5236762198add3aff90d1",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-GENETICS-MOLECULAR"
+        },
+        {
+          "index": 27,
+          "question": "关于蛋白质生物合成的叙述，正确的是（ ）",
+          "content_hash": "fad1c9c25afe6af430036adaac3397b3e1fb45bfb6fea2e75335f7ae74790e00",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-GENETICS-MOLECULAR"
+        },
+        {
+          "index": 28,
+          "question": "关于同一个体中细胞有丝分裂和减数第一次分裂的叙述 ，正确的是 （ ）",
+          "content_hash": "8d667d0a1f2b2545073538718aaa2dd0b8ae3bf7d57a52e71e98bb47ef8244e9",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-CELL-LIFE-CYCLE"
+        },
+        {
+          "index": 29,
+          "question": "某农场面积为 140hm2，农场丰富的植物资源为黑线姬鼠提供了良好 的生存条件，鼠大量繁殖吸引鹰前来捕食，某研究小组采用标志重捕法调查 该农场黑线姬鼠的种群密度， 第一次捕获 100只，标记后全部放掉",
+          "content_hash": "50c1ae21ccf6eeec3b0fa853a3b7f050f593a1c36a1ae07c9bc6724ab9a265de",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-ECOLOGY-POPULATION-COMMUNITY"
+        },
+        {
+          "index": 30,
+          "question": "若用玉米为实验材料验证孟德尔分离定律，下列因素对得出正确实 验结论影响最小的是（ ）",
+          "content_hash": "cbe9ab825842c37f27fe6bc3b1b262c6592fe5bcc0d2c245a1d489987edf4155",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-GENETICS-LAWS"
+        },
+        {
+          "index": 31,
+          "question": "关于 DNA和RNA的叙述，正确的是（ ）",
+          "content_hash": "b125db8d449f0db01a64e959fcd15f744d89dd0e45aca78a473dba3d34ffa852",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-CELL-MOLECULE"
+        },
+        {
+          "index": 32,
+          "question": "关于叶绿素的叙述，错误的是（ ）",
+          "content_hash": "992b84ba0524324dea2502e9597a0ae09a9501271d2df16a2c0a19886e4ae0f2",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-METABOLISM-PHOTOSYNTHESIS"
+        },
+        {
+          "index": 33,
+          "question": "下列与微生物呼吸有关的叙述，错误的是（ ）",
+          "content_hash": "7bcd4c7b9c017498e05b98a0b8bfb5cbce6f5f092c6ba56a22ef292cd034f275",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-METABOLISM-RESPIRATION"
+        },
+        {
+          "index": 34,
+          "question": "关于免疫细胞的叙述，错误的是（ ）",
+          "content_hash": "606bebf99a8d53c1fae58140bf554daaa640f9c22d291fc60825ef6257760db4",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-HOMEOSTASIS-IMMUNE"
+        },
+        {
+          "index": 35,
+          "question": "在生命科学发展过程中， 证明 DNA是遗传物质的实验是（ ） ①孟德尔的豌豆杂交实验 ②摩尔根的果蝇杂交实验 ③肺炎双球菌 转化实验 ④T2噬菌体侵染大肠杆菌实验 ⑤DNA的X光衍射实验。",
+          "content_hash": "48ea649dd813e089ef8e42118fb771d442772848d2152f854a261c05107ac9a1",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-GENETICS-MOLECULAR"
+        },
+        {
+          "index": 36,
+          "question": "关于酶的叙述，错误的是（ ）",
+          "content_hash": "699ac76a229a8d2fd8417f4a5fae606c14710b791e07784a6566c61624e0c670",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-METABOLISM-ENZYME-ATP"
+        },
+        {
+          "index": 37,
+          "question": "内环境稳定是维持机体正常生命活动的必要条件，下列叙述错误的 是（ ）",
+          "content_hash": "bb8d3297e408e22962ef460eb53deb34b093d0dbe624eed39ca2619c06101ed8",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-HOMEOSTASIS-NEURAL-HUMORAL"
+        },
+        {
+          "index": 38,
+          "question": "下列关于植物细胞质壁分离实验的叙述，错误的是（ ）",
+          "content_hash": "7489838da81acd17c0b80668fa39653be4d7eb52b2660bb9bc2e7321b12167da",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-CELL-STRUCTURE"
+        },
+        {
+          "index": 39,
+          "question": "下列关于植物生长素的叙述，错误的是（ ）",
+          "content_hash": "c18f0def525e0665159009878aa3460bf5a68cdde333b2aa3d090f50e533b367",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-HOMEOSTASIS-PLANT"
+        },
+        {
+          "index": 40,
+          "question": "下列关于初生演替中草本阶段和灌木阶段的叙述，正确的是（ ）",
+          "content_hash": "c001ff84764f2ad99f700a702c893086bb5fa6969414b31c03d5a3dcbd0b8e33",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-ECOLOGY-POPULATION-COMMUNITY"
+        },
+        {
+          "index": 41,
+          "question": "人或动物 PrP基因编码一种蛋白（ PrPc），该蛋白无致病性． PrPc的 空间结构改变后成为 PrPsc（朊粒），就具有了致病性， PrPsc可以诱导更多的 PrPc转变为 PrPsc，实现朊粒的",
+          "content_hash": "b32a6d737f89faf1d58f799fa360799c1faa6ae390d543f206ee2e324be3709e",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-CELL-MOLECULE"
+        },
+        {
+          "index": 42,
+          "question": "下列过程中不属于胞吐作用的是（ ）",
+          "content_hash": "6313f1940a5023202b7f3d3708ec39ec7e2ae7418eff257c037a85557e2202d5",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-CELL-STRUCTURE"
+        },
+        {
+          "index": 43,
+          "question": "下列有关生态系统的叙述，错误的是（ ）",
+          "content_hash": "fbf953c402e9625f1292ee4e4dc554c4484313d265e06839e701e44e12825ce0",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-ECOLOGY-ECOSYSTEM"
+        },
+        {
+          "index": 44,
+          "question": "在漫长的历史时期内，我们的祖先通过自身的生产和生活实践，积 累了对生态方面的感性认识和经验，并形成了一些生态学思想，如：自然与 人和谐统一的思想 ．根据这一思想和生态学知识 ，下列说法错误的是 （ ）",
+          "content_hash": "63f8b96352f3cad62b3fc3ec8dd17e763b2cb88b3c1fce6c948cea7d358118a6",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-ECOLOGY-ECOSYSTEM"
+        }
+      ]
+    }
+  ]
+}
