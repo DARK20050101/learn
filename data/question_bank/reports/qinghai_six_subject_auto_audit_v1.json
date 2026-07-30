@@ -1,0 +1,1227 @@
+{
+  "schema_version": "shiguang-question-audit-v1",
+  "policy": {
+    "auto_pass": "格式、答案解析一致性和已知OCR风险检查均未发现异常",
+    "review": "不进入自动发布批次，需在审查页面确认",
+    "block": "禁止发布",
+    "accuracy_notice": "AUTO_PASS不是官方答案二次认证；答案继承自GAOKAO-Bench Standard Answer，按Apache-2.0 AS IS条款提供"
+  },
+  "inputs": [
+    "data\\question_bank\\drafts\\qinghai_six_subject_history_batch01_v1.json",
+    "data\\question_bank\\drafts\\qinghai_six_subject_history_batch02_v1.json"
+  ],
+  "total": 120,
+  "auto_pass": 117,
+  "review": 3,
+  "block": 0,
+  "candidate_file": "data\\question_bank\\candidates\\qinghai_six_subject_auto_pass_batch01_v1.json",
+  "review_file": "data\\question_bank\\review_queue\\qinghai_six_subject_manual_review_v1.json",
+  "records": [
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 1,
+      "title": "高考真题候选·语文·2010·0",
+      "subject": "语文",
+      "source": "GAOKAO-Bench|year:2010|index:0|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 2,
+      "title": "高考真题候选·语文·2010·1",
+      "subject": "语文",
+      "source": "GAOKAO-Bench|year:2010|index:1|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 3,
+      "title": "高考真题候选·语文·2010·2",
+      "subject": "语文",
+      "source": "GAOKAO-Bench|year:2010|index:2|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 4,
+      "title": "高考真题候选·语文·2011·4",
+      "subject": "语文",
+      "source": "GAOKAO-Bench|year:2011|index:4|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 5,
+      "title": "高考真题候选·语文·2011·5",
+      "subject": "语文",
+      "source": "GAOKAO-Bench|year:2011|index:5|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 6,
+      "title": "高考真题候选·语文·2012·6",
+      "subject": "语文",
+      "source": "GAOKAO-Bench|year:2012|index:6|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 7,
+      "title": "高考真题候选·语文·2012·7",
+      "subject": "语文",
+      "source": "GAOKAO-Bench|year:2012|index:7|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 8,
+      "title": "高考真题候选·语文·2012·8",
+      "subject": "语文",
+      "source": "GAOKAO-Bench|year:2012|index:8|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 9,
+      "title": "高考真题候选·语文·2017·37",
+      "subject": "语文",
+      "source": "GAOKAO-Bench|year:2017|index:37|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 10,
+      "title": "高考真题候选·语文·2017·39",
+      "subject": "语文",
+      "source": "GAOKAO-Bench|year:2017|index:39|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 11,
+      "title": "高考真题候选·数学·2020·173",
+      "subject": "数学",
+      "source": "GAOKAO-Bench|year:2020|index:173|commit:6dbb24f8d843",
+      "status": "REVIEW",
+      "blockers": [],
+      "review_reasons": [
+        "存在已知OCR异常符号"
+      ]
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 12,
+      "title": "高考真题候选·数学·2020·174",
+      "subject": "数学",
+      "source": "GAOKAO-Bench|year:2020|index:174|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 13,
+      "title": "高考真题候选·数学·2020·176",
+      "subject": "数学",
+      "source": "GAOKAO-Bench|year:2020|index:176|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 14,
+      "title": "高考真题候选·数学·2020·177",
+      "subject": "数学",
+      "source": "GAOKAO-Bench|year:2020|index:177|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 15,
+      "title": "高考真题候选·数学·2021·183",
+      "subject": "数学",
+      "source": "GAOKAO-Bench|year:2021|index:183|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 16,
+      "title": "高考真题候选·数学·2021·184",
+      "subject": "数学",
+      "source": "GAOKAO-Bench|year:2021|index:184|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 17,
+      "title": "高考真题候选·数学·2021·185",
+      "subject": "数学",
+      "source": "GAOKAO-Bench|year:2021|index:185|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 18,
+      "title": "高考真题候选·数学·2021·187",
+      "subject": "数学",
+      "source": "GAOKAO-Bench|year:2021|index:187|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 19,
+      "title": "高考真题候选·数学·2021·189",
+      "subject": "数学",
+      "source": "GAOKAO-Bench|year:2021|index:189|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 20,
+      "title": "高考真题候选·数学·2022·202",
+      "subject": "数学",
+      "source": "GAOKAO-Bench|year:2022|index:202|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 21,
+      "title": "高考真题候选·英语·2010·27",
+      "subject": "英语",
+      "source": "GAOKAO-Bench|year:2010|index:27|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 22,
+      "title": "高考真题候选·英语·2010·29",
+      "subject": "英语",
+      "source": "GAOKAO-Bench|year:2010|index:29|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 23,
+      "title": "高考真题候选·英语·2011·30",
+      "subject": "英语",
+      "source": "GAOKAO-Bench|year:2011|index:30|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 24,
+      "title": "高考真题候选·英语·2011·32",
+      "subject": "英语",
+      "source": "GAOKAO-Bench|year:2011|index:32|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 25,
+      "title": "高考真题候选·英语·2011·34",
+      "subject": "英语",
+      "source": "GAOKAO-Bench|year:2011|index:34|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 26,
+      "title": "高考真题候选·英语·2011·38",
+      "subject": "英语",
+      "source": "GAOKAO-Bench|year:2011|index:38|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 27,
+      "title": "高考真题候选·英语·2011·41",
+      "subject": "英语",
+      "source": "GAOKAO-Bench|year:2011|index:41|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 28,
+      "title": "高考真题候选·英语·2011·50",
+      "subject": "英语",
+      "source": "GAOKAO-Bench|year:2011|index:50|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 29,
+      "title": "高考真题候选·英语·2011·55",
+      "subject": "英语",
+      "source": "GAOKAO-Bench|year:2011|index:55|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 30,
+      "title": "高考真题候选·英语·2012·66",
+      "subject": "英语",
+      "source": "GAOKAO-Bench|year:2012|index:66|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 31,
+      "title": "高考真题候选·物理·2014·14",
+      "subject": "物理",
+      "source": "GAOKAO-Bench|year:2014|index:14|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 32,
+      "title": "高考真题候选·物理·2014·16",
+      "subject": "物理",
+      "source": "GAOKAO-Bench|year:2014|index:16|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 33,
+      "title": "高考真题候选·物理·2015·22",
+      "subject": "物理",
+      "source": "GAOKAO-Bench|year:2015|index:22|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 34,
+      "title": "高考真题候选·物理·2016·29",
+      "subject": "物理",
+      "source": "GAOKAO-Bench|year:2016|index:29|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 35,
+      "title": "高考真题候选·物理·2017·31",
+      "subject": "物理",
+      "source": "GAOKAO-Bench|year:2017|index:31|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 36,
+      "title": "高考真题候选·物理·2018·38",
+      "subject": "物理",
+      "source": "GAOKAO-Bench|year:2018|index:38|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 37,
+      "title": "高考真题候选·物理·2018·39",
+      "subject": "物理",
+      "source": "GAOKAO-Bench|year:2018|index:39|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 38,
+      "title": "高考真题候选·物理·2018·42",
+      "subject": "物理",
+      "source": "GAOKAO-Bench|year:2018|index:42|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 39,
+      "title": "高考真题候选·物理·2020·51",
+      "subject": "物理",
+      "source": "GAOKAO-Bench|year:2020|index:51|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 40,
+      "title": "高考真题候选·物理·2020·53",
+      "subject": "物理",
+      "source": "GAOKAO-Bench|year:2020|index:53|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 41,
+      "title": "高考真题候选·化学·2019·89",
+      "subject": "化学",
+      "source": "GAOKAO-Bench|year:2019|index:89|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 42,
+      "title": "高考真题候选·化学·2019·91",
+      "subject": "化学",
+      "source": "GAOKAO-Bench|year:2019|index:91|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 43,
+      "title": "高考真题候选·化学·2019·92",
+      "subject": "化学",
+      "source": "GAOKAO-Bench|year:2019|index:92|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 44,
+      "title": "高考真题候选·化学·2019·95",
+      "subject": "化学",
+      "source": "GAOKAO-Bench|year:2019|index:95|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 45,
+      "title": "高考真题候选·化学·2020·100",
+      "subject": "化学",
+      "source": "GAOKAO-Bench|year:2020|index:100|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 46,
+      "title": "高考真题候选·化学·2020·104",
+      "subject": "化学",
+      "source": "GAOKAO-Bench|year:2020|index:104|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 47,
+      "title": "高考真题候选·化学·2020·105",
+      "subject": "化学",
+      "source": "GAOKAO-Bench|year:2020|index:105|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 48,
+      "title": "高考真题候选·化学·2021·110",
+      "subject": "化学",
+      "source": "GAOKAO-Bench|year:2021|index:110|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 49,
+      "title": "高考真题候选·化学·2021·111",
+      "subject": "化学",
+      "source": "GAOKAO-Bench|year:2021|index:111|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 50,
+      "title": "高考真题候选·化学·2022·116",
+      "subject": "化学",
+      "source": "GAOKAO-Bench|year:2022|index:116|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 51,
+      "title": "高考真题候选·生物·2019·95",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|year:2019|index:95|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 52,
+      "title": "高考真题候选·生物·2019·97",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|year:2019|index:97|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 53,
+      "title": "高考真题候选·生物·2019·98",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|year:2019|index:98|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 54,
+      "title": "高考真题候选·生物·2019·100",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|year:2019|index:100|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 55,
+      "title": "高考真题候选·生物·2019·101",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|year:2019|index:101|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 56,
+      "title": "高考真题候选·生物·2019·103",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|year:2019|index:103|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 57,
+      "title": "高考真题候选·生物·2019·104",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|year:2019|index:104|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 58,
+      "title": "高考真题候选·生物·2019·105",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|year:2019|index:105|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 59,
+      "title": "高考真题候选·生物·2019·109",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|year:2019|index:109|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch01_v1.json",
+      "index": 60,
+      "title": "高考真题候选·生物·2020·112",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|year:2020|index:112|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 1,
+      "title": "高考真题候选02·语文·2013·9",
+      "subject": "语文",
+      "source": "GAOKAO-Bench|year:2013|index:9|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 2,
+      "title": "高考真题候选02·语文·2013·10",
+      "subject": "语文",
+      "source": "GAOKAO-Bench|year:2013|index:10|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 3,
+      "title": "高考真题候选02·语文·2013·11",
+      "subject": "语文",
+      "source": "GAOKAO-Bench|year:2013|index:11|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 4,
+      "title": "高考真题候选02·语文·2014·15",
+      "subject": "语文",
+      "source": "GAOKAO-Bench|year:2014|index:15|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 5,
+      "title": "高考真题候选02·语文·2014·16",
+      "subject": "语文",
+      "source": "GAOKAO-Bench|year:2014|index:16|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 6,
+      "title": "高考真题候选02·语文·2014·17",
+      "subject": "语文",
+      "source": "GAOKAO-Bench|year:2014|index:17|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 7,
+      "title": "高考真题候选02·语文·2014·18",
+      "subject": "语文",
+      "source": "GAOKAO-Bench|year:2014|index:18|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 8,
+      "title": "高考真题候选02·语文·2014·19",
+      "subject": "语文",
+      "source": "GAOKAO-Bench|year:2014|index:19|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 9,
+      "title": "高考真题候选02·语文·2014·20",
+      "subject": "语文",
+      "source": "GAOKAO-Bench|year:2014|index:20|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 10,
+      "title": "高考真题候选02·语文·2015·23",
+      "subject": "语文",
+      "source": "GAOKAO-Bench|year:2015|index:23|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 11,
+      "title": "高考真题候选02·数学·2010·0",
+      "subject": "数学",
+      "source": "GAOKAO-Bench|year:2010|index:0|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 12,
+      "title": "高考真题候选02·数学·2010·1",
+      "subject": "数学",
+      "source": "GAOKAO-Bench|year:2010|index:1|commit:6dbb24f8d843",
+      "status": "REVIEW",
+      "blockers": [],
+      "review_reasons": [
+        "存在不可见控制字符"
+      ]
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 13,
+      "title": "高考真题候选02·数学·2013·31",
+      "subject": "数学",
+      "source": "GAOKAO-Bench|year:2013|index:31|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 14,
+      "title": "高考真题候选02·数学·2010·5",
+      "subject": "数学",
+      "source": "GAOKAO-Bench|year:2010|index:5|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 15,
+      "title": "高考真题候选02·数学·2010·6",
+      "subject": "数学",
+      "source": "GAOKAO-Bench|year:2010|index:6|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 16,
+      "title": "高考真题候选02·数学·2013·32",
+      "subject": "数学",
+      "source": "GAOKAO-Bench|year:2013|index:32|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 17,
+      "title": "高考真题候选02·数学·2013·33",
+      "subject": "数学",
+      "source": "GAOKAO-Bench|year:2013|index:33|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 18,
+      "title": "高考真题候选02·数学·2014·44",
+      "subject": "数学",
+      "source": "GAOKAO-Bench|year:2014|index:44|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 19,
+      "title": "高考真题候选02·数学·2014·41",
+      "subject": "数学",
+      "source": "GAOKAO-Bench|year:2014|index:41|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 20,
+      "title": "高考真题候选02·数学·2014·42",
+      "subject": "数学",
+      "source": "GAOKAO-Bench|year:2014|index:42|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 21,
+      "title": "高考真题候选02·英语·2010·0",
+      "subject": "英语",
+      "source": "GAOKAO-Bench|year:2010|index:0|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 22,
+      "title": "高考真题候选02·英语·2010·3",
+      "subject": "英语",
+      "source": "GAOKAO-Bench|year:2010|index:3|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 23,
+      "title": "高考真题候选02·英语·2010·7",
+      "subject": "英语",
+      "source": "GAOKAO-Bench|year:2010|index:7|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 24,
+      "title": "高考真题候选02·英语·2010·8",
+      "subject": "英语",
+      "source": "GAOKAO-Bench|year:2010|index:8|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 25,
+      "title": "高考真题候选02·英语·2010·9",
+      "subject": "英语",
+      "source": "GAOKAO-Bench|year:2010|index:9|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 26,
+      "title": "高考真题候选02·英语·2011·47",
+      "subject": "英语",
+      "source": "GAOKAO-Bench|year:2011|index:47|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 27,
+      "title": "高考真题候选02·英语·2010·16",
+      "subject": "英语",
+      "source": "GAOKAO-Bench|year:2010|index:16|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 28,
+      "title": "高考真题候选02·英语·2010·19",
+      "subject": "英语",
+      "source": "GAOKAO-Bench|year:2010|index:19|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 29,
+      "title": "高考真题候选02·英语·2010·24",
+      "subject": "英语",
+      "source": "GAOKAO-Bench|year:2010|index:24|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 30,
+      "title": "高考真题候选02·英语·2010·25",
+      "subject": "英语",
+      "source": "GAOKAO-Bench|year:2010|index:25|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 31,
+      "title": "高考真题候选02·物理·2011·5",
+      "subject": "物理",
+      "source": "GAOKAO-Bench|year:2011|index:5|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 32,
+      "title": "高考真题候选02·物理·2011·6",
+      "subject": "物理",
+      "source": "GAOKAO-Bench|year:2011|index:6|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 33,
+      "title": "高考真题候选02·物理·2019·48",
+      "subject": "物理",
+      "source": "GAOKAO-Bench|year:2019|index:48|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 34,
+      "title": "高考真题候选02·物理·2013·13",
+      "subject": "物理",
+      "source": "GAOKAO-Bench|year:2013|index:13|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 35,
+      "title": "高考真题候选02·物理·2014·15",
+      "subject": "物理",
+      "source": "GAOKAO-Bench|year:2014|index:15|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 36,
+      "title": "高考真题候选02·物理·2014·17",
+      "subject": "物理",
+      "source": "GAOKAO-Bench|year:2014|index:17|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 37,
+      "title": "高考真题候选02·物理·2014·18",
+      "subject": "物理",
+      "source": "GAOKAO-Bench|year:2014|index:18|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 38,
+      "title": "高考真题候选02·物理·2015·23",
+      "subject": "物理",
+      "source": "GAOKAO-Bench|year:2015|index:23|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 39,
+      "title": "高考真题候选02·物理·2016·25",
+      "subject": "物理",
+      "source": "GAOKAO-Bench|year:2016|index:25|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 40,
+      "title": "高考真题候选02·物理·2021·58",
+      "subject": "物理",
+      "source": "GAOKAO-Bench|year:2021|index:58|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 41,
+      "title": "高考真题候选02·化学·2010·0",
+      "subject": "化学",
+      "source": "GAOKAO-Bench|year:2010|index:0|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 42,
+      "title": "高考真题候选02·化学·2010·1",
+      "subject": "化学",
+      "source": "GAOKAO-Bench|year:2010|index:1|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 43,
+      "title": "高考真题候选02·化学·2011·6",
+      "subject": "化学",
+      "source": "GAOKAO-Bench|year:2011|index:6|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 44,
+      "title": "高考真题候选02·化学·2011·7",
+      "subject": "化学",
+      "source": "GAOKAO-Bench|year:2011|index:7|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 45,
+      "title": "高考真题候选02·化学·2011·8",
+      "subject": "化学",
+      "source": "GAOKAO-Bench|year:2011|index:8|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 46,
+      "title": "高考真题候选02·化学·2011·9",
+      "subject": "化学",
+      "source": "GAOKAO-Bench|year:2011|index:9|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 47,
+      "title": "高考真题候选02·化学·2011·10",
+      "subject": "化学",
+      "source": "GAOKAO-Bench|year:2011|index:10|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 48,
+      "title": "高考真题候选02·化学·2012·12",
+      "subject": "化学",
+      "source": "GAOKAO-Bench|year:2012|index:12|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 49,
+      "title": "高考真题候选02·化学·2012·13",
+      "subject": "化学",
+      "source": "GAOKAO-Bench|year:2012|index:13|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 50,
+      "title": "高考真题候选02·化学·2013·22",
+      "subject": "化学",
+      "source": "GAOKAO-Bench|year:2013|index:22|commit:6dbb24f8d843",
+      "status": "REVIEW",
+      "blockers": [],
+      "review_reasons": [
+        "包含复杂LaTeX表格，移动端展示需确认"
+      ]
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 51,
+      "title": "高考真题候选02·生物·2020·113",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|year:2020|index:113|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 52,
+      "title": "高考真题候选02·生物·2020·114",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|year:2020|index:114|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 53,
+      "title": "高考真题候选02·生物·2020·115",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|year:2020|index:115|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 54,
+      "title": "高考真题候选02·生物·2020·116",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|year:2020|index:116|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 55,
+      "title": "高考真题候选02·生物·2020·117",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|year:2020|index:117|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 56,
+      "title": "高考真题候选02·生物·2020·118",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|year:2020|index:118|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 57,
+      "title": "高考真题候选02·生物·2020·119",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|year:2020|index:119|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 58,
+      "title": "高考真题候选02·生物·2020·121",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|year:2020|index:121|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 59,
+      "title": "高考真题候选02·生物·2020·123",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|year:2020|index:123|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    },
+    {
+      "file": "qinghai_six_subject_history_batch02_v1.json",
+      "index": 60,
+      "title": "高考真题候选02·生物·2020·124",
+      "subject": "生物",
+      "source": "GAOKAO-Bench|year:2020|index:124|commit:6dbb24f8d843",
+      "status": "AUTO_PASS",
+      "blockers": [],
+      "review_reasons": []
+    }
+  ]
+}

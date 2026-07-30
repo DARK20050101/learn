@@ -228,10 +228,22 @@ select {
   background: white;
 }
 
+.jump-control input {
+  width: 88px;
+  height: 40px;
+  border: 1px solid #d8dfdc;
+  border-radius: 10px;
+  padding: 0 10px;
+}
+
 .filtered-count {
-  margin: 0 0 10px auto;
+  margin: 0 0 10px;
   color: #7c8783;
   font-size: 13px;
+}
+
+.filters .jump-control {
+  margin-left: auto;
 }
 
 .question-layout {
@@ -368,7 +380,22 @@ select {
 }
 
 .review-panel h3 {
-  margin-bottom: 16px;
+  margin-bottom: 10px;
+}
+
+.auto-advance {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 14px;
+  color: #5f6d67;
+  font-size: 13px;
+}
+
+.auto-advance input {
+  width: 17px;
+  height: 17px;
+  accent-color: #168061;
 }
 
 .decision-grid {
@@ -443,6 +470,63 @@ select:focus {
   color: #8a9490;
   font-size: 11px;
   text-align: center;
+}
+
+.question-navigator {
+  margin-top: 20px;
+  border-top: 1px solid #e5e9e7;
+  padding-top: 18px;
+}
+
+.navigator-title {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  color: #65726d;
+  font-size: 12px;
+}
+
+.number-grid {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 6px;
+  max-height: 230px;
+  overflow-y: auto;
+  padding-right: 3px;
+}
+
+.number-grid button {
+  min-width: 0;
+  height: 34px;
+  border: 1px solid #dfe5e2;
+  border-radius: 8px;
+  color: #596760;
+  background: #f7f9f8;
+  font-size: 12px;
+}
+
+.number-grid button.pass {
+  border-color: #9bcfbb;
+  color: #0e6d50;
+  background: #eaf8f2;
+}
+
+.number-grid button.revise {
+  border-color: #e6bd7f;
+  color: #965900;
+  background: #fff6e8;
+}
+
+.number-grid button.reject {
+  border-color: #e2a3a3;
+  color: #ad2929;
+  background: #fff0f0;
+}
+
+.number-grid button.current {
+  outline: 2px solid #172033;
+  outline-offset: 1px;
+  font-weight: 800;
 }
 
 .bottom-nav {
@@ -525,8 +609,13 @@ footer {
   }
 
   .filtered-count {
-    grid-column: 1 / -1;
+    grid-column: 1 / 2;
     margin: 2px 0 0;
+  }
+
+  .filters .jump-control {
+    grid-column: 2 / 3;
+    margin-left: 0;
   }
 
   .stats {

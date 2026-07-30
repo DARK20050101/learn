@@ -1,0 +1,108 @@
+{
+  "questions": [
+    {
+      "subject": "数学",
+      "chapter": "集合与逻辑",
+      "knowledge_points": [
+        "集合的基本运算"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "已知集合 $U=\\{-2,-1,0,1,2,3\\}, A=\\{-1,0,1\\}, B=\\{1,2\\}$, 则 $\\oint_{U}(A \\cup B)=()$",
+      "options": [
+        "$\\{-2,3\\}$",
+        "$\\{-2,2,3\\}$",
+        "$\\{-2,-1,0,3\\}$",
+        "$\\{-2,-1,0,2,3\\}$"
+      ],
+      "answer": "A",
+      "solution": "【详解】由题意可得： $A \\cup B=\\{-1,0,1,2\\}$ ，则 $ð_{U}(A \\cup B)=\\{-2,3\\}$. 故选: A.",
+      "source": "GAOKAO-Bench|year:2020|index:173|commit:6dbb24f8d843",
+      "title": "高考真题候选·数学·2020·173",
+      "tags": [
+        "kp:MATH-SET-OPERATIONS",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ],
+      "_audit": {
+        "reasons": [
+          "存在已知OCR异常符号"
+        ],
+        "source_file": "qinghai_six_subject_history_batch01_v1.json",
+        "source_index": 11
+      }
+    },
+    {
+      "subject": "数学",
+      "chapter": "复数",
+      "knowledge_points": [
+        "复数的四则运算"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "(5 分) 已知复数 $z=\\frac{\\sqrt{3}+i}{(1-\\sqrt{3} i)^{2}}, \\bar{z}$ 是 $z$ 的共轭复数, 则 $z\\cdot\bar{z}=(\\quad)$",
+      "options": [
+        "$\\frac{1}{4}$",
+        "$\\frac{1}{2}$",
+        "1",
+        "2"
+      ],
+      "answer": "A",
+      "solution": "解: 由 $|z|=\\left|\\frac{\\sqrt{3}+i}{(1-\\sqrt{3} i)^{2}}\\right|=\\frac{|\\sqrt{3}+i|}{|1-\\sqrt{3} i|^{2}}=\\frac{2}{2^{2}}=\\frac{1}{2}$ 可得 $z \\cdot \\bar{z}=|z|^{2}=\\frac{1}{4}$. 另 解 $$ \\begin{aligned} & z=\\frac{\\sqrt{3}+i}{(1-\\sqrt{3} i)^{2}}=\\frac{\\sqrt{3}+i}{-2-2 \\sqrt{3} i}=-\\frac{1 \\sqrt{3}+i}{21+\\sqrt{3} i}=-\\frac{1}{8}(\\sqrt{3}+i)(1-\\sqrt{3} i)=\\frac{1}{4}(\\sqrt{3}-i) \\\\ & z \\cdot \\bar{z}=\\frac{1}{4}(\\sqrt{3}-i) \\cdot \\frac{1}{4}(\\sqrt{3}+i)=\\frac{1}{4} \\end{aligned} $$ 故选: A.",
+      "source": "GAOKAO-Bench|year:2010|index:1|commit:6dbb24f8d843",
+      "title": "高考真题候选02·数学·2010·1",
+      "tags": [
+        "kp:MATH-COMPLEX-ARITHMETIC",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ],
+      "_audit": {
+        "reasons": [
+          "存在不可见控制字符"
+        ],
+        "source_file": "qinghai_six_subject_history_batch02_v1.json",
+        "source_index": 12
+      }
+    },
+    {
+      "subject": "化学",
+      "chapter": "化学实验",
+      "knowledge_points": [
+        "实验方案设计与评价"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "（6 分) 下列实验中, 所采取的分离方法与对应原理都正确的是（） \\begin{tabular}{|c|c|c|c|} \\hline 选项 & 目的 & 分离方法 & 原理 \\\\ \\hline $\\mathrm{A}$ & 分离溶于水中的碘 & 乙醇萃取 & 碘在乙醇中的溶解度较大 \\\\ \\hline $\\mathrm{B}$ & 分离乙酸乙酯和乙醇 & 分液 & 乙酸乙酯和乙醇的密度不同 \\\\ \\hline $\\mathrm{C}$ & 除去 $\\mathrm{KNO}_{3}$ 固体中混杂的 $\\mathrm{NaCl}$ & 重结晶 & $\\mathrm{NaCl}$ 在水中的溶解度很大 \\\\ \\hline $\\mathrm{D}$ & 除去丁醇中的乙醚 & 蒸馏 & 丁醇与乙醚的沸点相差较大 \\\\ \\hline \\end{tabular}",
+      "options": [
+        "$\\mathrm{A}$",
+        "$B$",
+        "$\\mathrm{C}$",
+        "D"
+      ],
+      "answer": "D",
+      "solution": "解: A. 乙醇和水混溶, 不能用作萃取剂, 应用四氯化碳或苯萃取, 故 A 错误; B. 乙酸乙酯和乙醇混溶, 不能用分液的方法分离, 应用蒸馏的方法分离, 故 B 错误; C. 根据二者在水中随温度升高而溶解度不同, 利用重结晶法。 $\\mathrm{NaCl}$ 随温度升高 溶解度变化不大, $\\mathrm{KNO}_{3}$ 随温度升高溶解度变化大, 经冷却过滤, 故 C 错误; D. 丁醇和乙醚混溶, 但二者的沸点不同, 且相差较大, 可用蒸馏的方法分离, 故 D 正确。 故选: D。",
+      "source": "GAOKAO-Bench|year:2013|index:22|commit:6dbb24f8d843",
+      "title": "高考真题候选02·化学·2013·22",
+      "tags": [
+        "kp:CHEM-EXPERIMENT-DESIGN",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ],
+      "_audit": {
+        "reasons": [
+          "包含复杂LaTeX表格，移动端展示需确认"
+        ],
+        "source_file": "qinghai_six_subject_history_batch02_v1.json",
+        "source_index": 50
+      }
+    }
+  ]
+}

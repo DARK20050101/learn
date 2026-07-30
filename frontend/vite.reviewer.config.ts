@@ -19,7 +19,7 @@ export default defineConfig({
     outDir: "dist-reviewer",
     emptyOutDir: true,
     rollupOptions: {
-      input: fileURLToPath(new URL("./reviewer.html", import.meta.url)),
+      input: "reviewer.html",
     },
   },
 });

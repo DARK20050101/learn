@@ -34,6 +34,9 @@ const currentIndex = ref(0);
 const subjectFilter = ref("全部");
 const decisionFilter = ref("全部");
 const answerVisible = ref(false);
+const autoAdvancePass = ref(
+  localStorage.getItem("shiguang-question-review:auto-advance-pass") !== "false",
+);
 const loadingError = ref("");
 const batchId = ref("");
 const batchName = ref("");
@@ -52,6 +55,8 @@ const filteredQuestions = computed(() =>
     const decisionMatched =
       decisionFilter.value === "全部" ||
       (decisionFilter.value === "未审核" && !record?.decision) ||
+      (decisionFilter.value === "需处理" &&
+        ["REVISE", "REJECT"].includes(record?.decision ?? "")) ||
       record?.decision === decisionFilter.value;
     return subjectMatched && decisionMatched;
   }),
@@ -201,7 +206,7 @@ function saveRecords() {
   localStorage.setItem(storageKey(), JSON.stringify(records.value));
 }
 
-function setDecision(decision: Exclude<ReviewDecision, "">) {
+async function setDecision(decision: Exclude<ReviewDecision, "">) {
   const question = currentQuestion.value;
   if (!question) return;
   records.value = {
@@ -213,6 +218,10 @@ function setDecision(decision: Exclude<ReviewDecision, "">) {
     },
   };
   saveRecords();
+  if (decision === "PASS" && autoAdvancePass.value) {
+    await nextTick();
+    if (decisionFilter.value !== "未审核") move(1);
+  }
 }
 
 function updateNote(event: Event) {
@@ -237,6 +246,27 @@ function move(offset: number) {
   );
   answerVisible.value = false;
   window.scrollTo({ top: 0, behavior: "smooth" });
+}
+
+function jumpTo(position: number) {
+  if (!Number.isFinite(position) || !filteredQuestions.value.length) return;
+  currentIndex.value = Math.min(
+    Math.max(Math.trunc(position) - 1, 0),
+    filteredQuestions.value.length - 1,
+  );
+  answerVisible.value = false;
+  window.scrollTo({ top: 0, behavior: "smooth" });
+}
+
+function toggleAutoAdvance() {
+  localStorage.setItem(
+    "shiguang-question-review:auto-advance-pass",
+    String(autoAdvancePass.value),
+  );
+}
+
+function questionDecision(question: Question) {
+  return records.value[question._key]?.decision ?? "";
 }
 
 function exportReviews() {
@@ -294,6 +324,12 @@ function renderMath(text: string) {
 watch([subjectFilter, decisionFilter], () => {
   currentIndex.value = 0;
   answerVisible.value = false;
+});
+
+watch(filteredQuestions, (items) => {
+  if (currentIndex.value >= items.length) {
+    currentIndex.value = Math.max(items.length - 1, 0);
+  }
 });
 
 watch(currentQuestion, async () => {
@@ -374,12 +410,23 @@ onMounted(() => {
           <select v-model="decisionFilter">
             <option>全部</option>
             <option>未审核</option>
+            <option>需处理</option>
             <option>PASS</option>
             <option>REVISE</option>
             <option>REJECT</option>
           </select>
         </label>
         <span class="filtered-count">筛选后 {{ filteredQuestions.length }} 题</span>
+        <label class="jump-control">
+          跳到题号
+          <input
+            :value="currentIndex + 1"
+            type="number"
+            min="1"
+            :max="filteredQuestions.length"
+            @change="jumpTo(Number(($event.target as HTMLInputElement).value))"
+          />
+        </label>
       </section>
 
       <section v-if="currentQuestion" class="question-layout">
@@ -429,6 +476,10 @@ onMounted(() => {
 
         <aside class="review-panel">
           <h3>审核结论</h3>
+          <label class="auto-advance">
+            <input v-model="autoAdvancePass" type="checkbox" @change="toggleAutoAdvance" />
+            PASS 后自动下一题
+          </label>
           <div class="decision-grid">
             <button
               :class="{ selected: currentRecord.decision === 'PASS' }"
@@ -464,6 +515,26 @@ onMounted(() => {
             ></textarea>
           </label>
           <p class="autosave">审核进度自动保存在当前浏览器</p>
+          <div class="question-navigator">
+            <div class="navigator-title">
+              <strong>题号跳转</strong>
+              <span>{{ filteredQuestions.length }}题</span>
+            </div>
+            <div class="number-grid">
+              <button
+                v-for="(question, index) in filteredQuestions"
+                :key="question._key"
+                :class="[
+                  questionDecision(question).toLowerCase(),
+                  { current: index === currentIndex },
+                ]"
+                :title="`${question.subject}｜${questionDecision(question) || '未审核'}`"
+                @click="jumpTo(index + 1)"
+              >
+                {{ index + 1 }}
+              </button>
+            </div>
+          </div>
         </aside>
       </section>
 

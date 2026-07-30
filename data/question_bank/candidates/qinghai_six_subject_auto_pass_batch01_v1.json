@@ -1,0 +1,3250 @@
+{
+  "questions": [
+    {
+      "subject": "语文",
+      "chapter": "语言文字运用",
+      "knowledge_points": [
+        "词语辨析与使用"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "下列各句中，加点的成语使用不恰当的一项是（ ）",
+      "options": [
+        "有些人取得一点成绩 ，便自命不凡 ，洋洋自得 ，尾巴都翘到天上去了 ，这 样的人终究不会有大的作为．",
+        "看到果农家里汗牛充栋的黄灿灿的橙子 ，我深感欣慰 ，因为这说明我们开 发的新品种产量高，品质好．",
+        "对那些少不更事的年轻人 ，我们不仅要多加指导 ，还要给他们更多的锻炼 机会，使他们尽快地成熟起来．",
+        "开发商们对商品房面积的计算方式一直讳莫如深 ，由此导致的开发商与业 主之间的经济纠纷经常发生．"
+      ],
+      "answer": "B",
+      "solution": "A．自命不凡：自以为不平凡，比别人高明。符合语境。 B．汗牛充栋：书运输时牛累得出汗，存放时可堆至屋顶。形容藏书非常多。此 处形容 “橙子 ”，修饰对象错。可改为 “堆积如山 ”。 C．少不更事 ：年纪轻，没有经历过什么事情。指经验不多。符合语境 “年轻人 ”、 “使他们尽快地成熟起来 ”； D．讳莫如深 ：原意为事件重大，讳而不言。后指把事情隐瞒得很紧。符合语境 。",
+      "source": "GAOKAO-Bench|year:2010|index:0|commit:6dbb24f8d843",
+      "title": "高考真题候选·语文·2010·0",
+      "tags": [
+        "kp:CHN-LANGUAGE-WORDS",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "语文",
+      "chapter": "语言文字运用",
+      "knowledge_points": [
+        "病句辨析与修改"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "下列各句中，没有语病的一句是（ ）",
+      "options": [
+        "最近相关部门对两个小区的住房进行空气质量检测 ，结果有一半住房甲醛 超标，而引发甲醛超标最主要的原因是居民不合适的装修造成的．",
+        "李先生认为服饰公司侵犯了自己的权利，将之诉至法院，要求停止伤害 ， 并提出 30000元人民币的经济索赔和 2000元人民币的精神损害抚慰金．",
+        "长沙、株洲、湘潭城市群建设的启动 ，对道路、交通、媒体、通讯等行业 提出了新的要求，与此相关，长沙商业圈无疑也将面对重新洗牌的机会．",
+        "国家质检总局提出， “十一五 ”期间要形成 10个左右拥有自主知识产权、 国际竞争力较强、知名度较高、在国际市场占有一定份额的世界级品牌．"
+      ],
+      "answer": "D",
+      "solution": "A．句式杂糅， “原因是 ”和“造成的 ”杂糅，删去 “造成的 ”； B．成分残缺， “提出 ”缺少宾语，在句末加上 “的要求 ”； C．并列不当， “道路 ”包含于 “交通 ” D．表述正确",
+      "source": "GAOKAO-Bench|year:2010|index:1|commit:6dbb24f8d843",
+      "title": "高考真题候选·语文·2010·1",
+      "tags": [
+        "kp:CHN-LANGUAGE-SENTENCE",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "语文",
+      "chapter": "语言文字运用",
+      "knowledge_points": [
+        "语言表达与衔接"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "依次填入下面一段文字横线处的语句，衔接最恰当的一组是（ ） 玉树藏族自治州 ， ， ， ， ， ， 玉树既是 “三江源头 ”，也是 “藏獒之乡 ”和“虫草之乡 ”。 ①东南与四川省甘孜藏族自治州毗连 ②是长江落差最大的标志点 ③与海西蒙古族藏族自治州、果洛藏族自治州等地相通 ④平均海拔 4000米以上， 最高点 6621米 ⑤位于青藏高原腹地，青海省南部 ⑥气候高寒。",
+      "options": [
+        "②④⑥⑤①③",
+        "③①②⑤⑥④",
+        "⑤③①④②⑥",
+        "④⑥⑤①③②"
+      ],
+      "answer": "C",
+      "solution": "通读语段， 要排序的六个句子讲了三个方面的内容 ：①、③、⑤句说的 是玉树的地理位置，②、④句说的是这里落差大的特点，⑥句说的是这里的 气候特点 ，这三部分内容应各自成体系 ，据此排除 B、D项。再依据通常的叙 述习惯，介绍一个地方一般先介绍其地理位置，然后才是其他特点，故⑤应 排首句，排除 A，本题选 C．通读排列后的句子符合语感和句子的内部逻辑关 系。",
+      "source": "GAOKAO-Bench|year:2010|index:2|commit:6dbb24f8d843",
+      "title": "高考真题候选·语文·2010·2",
+      "tags": [
+        "kp:CHN-LANGUAGE-EXPRESSION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "语文",
+      "chapter": "语言文字运用",
+      "knowledge_points": [
+        "病句辨析与修改"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "下列各句中，没有病句的一句是（ ）",
+      "options": [
+        "人才培养的质量是衡量一所大学办得好不好的重要因素 ，大力提升人才培 养水平是高等教育改革发展的战略课题．",
+        "为了更好地提高服务质量 ，我们必须坚持以人为本 ，最大限度地为旅客创 造和谐的候车环境、快乐的人性化服务．",
+        "这种感冒新药经过在北京 、上海、南京、杭州、开封等地医院的 400多个 病例中临床试用， 80%反映确实有疗效．",
+        "校庆在即 ，学校要求全体师生注重礼仪 ，热情待客 ，以带给从全国各地回 母校参加庆祝活动的校友感到宾至如归．"
+      ],
+      "answer": "A",
+      "solution": "A．表述正确； B．搭配不当，应在 “快乐的人性化服务 ”前补出谓语 “并提供 ”； C．成分赘余，去掉 “在…中”；80%指的是病例 D．结构混乱 ，改为 “以带给从全国各地回母校参加庆祝活动的校友宾至如归的感 觉”或者 “让从全国各地回母校参加庆祝活动的校友感到宾至如归 ”。",
+      "source": "GAOKAO-Bench|year:2011|index:4|commit:6dbb24f8d843",
+      "title": "高考真题候选·语文·2011·4",
+      "tags": [
+        "kp:CHN-LANGUAGE-SENTENCE",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "语文",
+      "chapter": "语言文字运用",
+      "knowledge_points": [
+        "语言表达与衔接"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "依次填入下面一段文字横线处的语句，衔接最恰当的一组是（ ） 我国是食品生产和消费大国， ， ， ， ， ， 。这样才能有效解决食品安全领域损害群众利益的突 出问题，切实增强消费安全感。 ①强化执法措施，严惩违法犯罪分子 ②食品产业涉及环节多，哪一环出现漏洞都会给食品安全带来严重威胁 ③创新食品安全监管机制 ④坚决淘汰劣质企业，以震慑所有企业使之不敢越雷池半步 ⑤保障食品安全需要生产经营者诚信自律 ，更需要严格的法律制度约束和有效监 管 ⑥因此，必须保持严厉打击违法违规行为的态势，及时消除各环节的隐患。",
+      "options": [
+        "②⑥①③④⑤",
+        "②⑤⑥①④③",
+        "⑤②⑥③①④",
+        "⑤⑥②④③①"
+      ],
+      "answer": "C",
+      "solution": "通读语段，整个语段主要是讲对食品生产要进行法律制度约束和监管 ， 因此⑤句具有领起作用，所以应在句首；②句是因，⑥句则是其果，二者之 间用 “因此 ”连结；③①④是具体措施，应先有体制，再执法；之后是④ “淘汰 ”“震慑 ”，是后文 “这样 ”所指代的对象 ，故在最后 。所以排列的顺序为⑤②⑥③① ④，通读排列后的语段符合语感和句子的内部逻辑关系。",
+      "source": "GAOKAO-Bench|year:2011|index:5|commit:6dbb24f8d843",
+      "title": "高考真题候选·语文·2011·5",
+      "tags": [
+        "kp:CHN-LANGUAGE-EXPRESSION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "语文",
+      "chapter": "语言文字运用",
+      "knowledge_points": [
+        "词语辨析与使用"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "下列各句中，加横线的成语使用恰当的一项是（ ）",
+      "options": [
+        "这位姑娘天生就眼睛深凹 ，鼻梁挺直 ，头发卷曲 ，身材苗条 ，好似芝兰玉 树，在黄皮肤黑眼睛的国度里，很容易被人认出．",
+        "为化解部分旅客的不满情绪 ，他们设立了 “旅客投诉中心 ”，此举说明他们 不光有良好的服务意识，还有 闻过则喜 的雅量．",
+        "一名惯偷在车站行窃后正要逃跑 ，两位守候多时的反扒队员突然拦住他的 去路，二人 上下其手 地将他摁倒，结果人赃俱获．",
+        "旧的梦想总是被新的梦想代替 ，很少有人能 从一而终 地记住自己做过的华 丽缥缈的梦，因为现实需要人们不断调整梦想．"
+      ],
+      "answer": "B",
+      "solution": "A．芝兰玉树：比喻有出息的子弟。形容对象错了。 B．闻过则喜：听到别人批评自己的缺点或错误，表示欢迎和高兴。指虚心接受 意见。 C．上下其手：比喻玩弄手法，串通做弊。褒贬不当。 D．从一而终 ：丈夫死了不再嫁人，这时旧时束缚妇女的封建礼教。形容对象错 了。",
+      "source": "GAOKAO-Bench|year:2012|index:6|commit:6dbb24f8d843",
+      "title": "高考真题候选·语文·2012·6",
+      "tags": [
+        "kp:CHN-LANGUAGE-WORDS",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "语文",
+      "chapter": "语言文字运用",
+      "knowledge_points": [
+        "病句辨析与修改"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "下列各句中，没有语病的一句是（ ）",
+      "options": [
+        "凡事若不问青红皂白 ，把自己心中的愤怒发泄到臆想对象身上 ，很可能造 成对毫不知情的或有恩于己的善良的人遭到伤害．",
+        "她的创新设计投入生产仅三个月 ，就为公司带来了丰厚的利润 ，为这项设 计付出的所有努力和取得的成绩终于得到了回报．",
+        "哈佛燕京图书馆每年都有一次卖旧书的盛会 ，每次我都能在一堆堆五花八 门的书里淘到如金子般珍贵的书，并因此而兴奋．",
+        "欧债危机爆发之后 ，欧洲现在面临的最大困境是如何解决失业问题 ，严峻 的形势将巨大的挑战带给了欧洲各国的经济复苏．"
+      ],
+      "answer": "C",
+      "solution": "A．句式杂糅， “造成伤害 ”与“遭到伤害 ”杂糅，将 “遭到 ”改成 “的”。 B．搭配不当， “取得的成绩 ”与“得到了回报 ”不搭配。 C．表述正确 D．语序不当 ，“严峻的形势将巨大的挑战带给了欧洲各国的经济复苏 ”改为 “严峻 的形势给欧洲各国的经济复苏带来了巨大的挑战 ”。",
+      "source": "GAOKAO-Bench|year:2012|index:7|commit:6dbb24f8d843",
+      "title": "高考真题候选·语文·2012·7",
+      "tags": [
+        "kp:CHN-LANGUAGE-SENTENCE",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "语文",
+      "chapter": "语言文字运用",
+      "knowledge_points": [
+        "语言表达与衔接"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "依次填入下面一段文字横线处的语句，衔接最恰当的一组是（ ） 在我国古代，人们盛物用的器皿除陶器等之外，还有一种容器，是葫芦。 ， 。 。 ， 。 。 ①最早的记载见于《诗经》，如《公刘》篇中 “酌之用匏 ”的“匏”就是指葫芦 ②用葫芦作容器是先民们认识自然、利用自然的结果 ③葫芦是一种葫芦科爬藤植物的果实 ④葫芦成熟后，掏空里面的籽瓤，即可当容器使用 ⑤它大多呈哑铃状，上面小下面大 ⑥我国劳动人民使用葫芦盛物的历史非常悠久。",
+      "options": [
+        "⑥②③⑤④①",
+        "⑥①④②③⑤",
+        "⑤③④①⑥②",
+        "③⑤④⑥①②"
+      ],
+      "answer": "D",
+      "solution": "通读语段，排列的六句讲了四方面的内容：葫芦制作容器的历史①⑥ ； 总结②；介绍葫芦有关知识③⑤；制作过程④．按照一般的介绍顺序，先讲 有关葫芦的知识特点③⑤，由语段上半句 “葫芦 ”可以判断出紧跟下句为③， 后面为⑤ ，所以选 D．排列后的句子先介绍葫芦的知识 ，然后介绍制作过程 ， 接着介绍历史，最后总结。通读排列后的句子符合语感和句子的内部逻辑关 系。",
+      "source": "GAOKAO-Bench|year:2012|index:8|commit:6dbb24f8d843",
+      "title": "高考真题候选·语文·2012·8",
+      "tags": [
+        "kp:CHN-LANGUAGE-EXPRESSION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "语文",
+      "chapter": "语言文字运用",
+      "knowledge_points": [
+        "语言表达与衔接"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "下列各句中，表达得体的一句是〔3 分〕（ ）",
+      "options": [
+        "他是个可怜的孤儿，小时候承蒙我父母照顾，所以现在经常来看望他 们．",
+        "杨老师年过七旬仍然笔耕不辍，作为他的高足，我们感到既自豪又惭愧．",
+        "这篇文章是我刚完成的，无论观点还是文字都不够成熟，请您不吝赐 教．",
+        "由于路上堵车非常严重，我赶到约定地点的时候，对方早已恭候多 时．"
+      ],
+      "answer": "C",
+      "solution": "【解答】A、“承蒙”敬辞，表示心怀感激地接受。“承蒙”用于自己，使用错误； B、“高足”是指良马； 骏马。犹言高才。句子说的是作为杨老师的学生，用“高 足”不准确，应该使用一个谦辞； C、得体； D、“恭候”敬辞，恭敬地等候，句子说的是等自己，使用错误。 故选：C。",
+      "source": "GAOKAO-Bench|year:2017|index:37|commit:6dbb24f8d843",
+      "title": "高考真题候选·语文·2017·37",
+      "tags": [
+        "kp:CHN-LANGUAGE-EXPRESSION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "语文",
+      "chapter": "语言文字运用",
+      "knowledge_points": [
+        "语言表达与衔接"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "下列各句中，没有语病的一句是（ ）",
+      "options": [
+        "根据本报和部分出版机构联合开展的调查显示 ，儿童的阅读启蒙集中在 1 ～2岁之间，并且阅读时长是随着年龄的增长而增加的。",
+        "为了培养学生关心他人的美德 ，我们学校决定组织开展义工服务活动 ，三 个月内要求每名学生完成 20个小时的义工服务。",
+        "在互联网时代 ，各领域发展都需要速度更快 、成本更低的信息网络 ，网络 提速降费能够推动 “互联网+”快速发展和企业广泛受益。",
+        "面对经济全球化带来的机遇和挑战，正确的选择是，充分利用一切机遇 ， 合作应对一切挑战，引导好经济全球化走向。"
+      ],
+      "answer": "D",
+      "solution": "A．句式杂糅， “根据 …显示 ”杂糅，删去 “显示 ”； B．语序不当， “三个月内 ”应该修饰 “完成 ”，将 “三个月内 ”放至 “完成 ”前； C．搭配不当， “推动 ”与“受益 ”搭配不当，在 “和”后加上 “让”； D．表述正确。",
+      "source": "GAOKAO-Bench|year:2017|index:39|commit:6dbb24f8d843",
+      "title": "高考真题候选·语文·2017·39",
+      "tags": [
+        "kp:CHN-LANGUAGE-EXPRESSION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "数学",
+      "chapter": "三角函数",
+      "knowledge_points": [
+        "同角三角函数的基本关系"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "若 $\\alpha$ 为第四象限角, 则（）",
+      "options": [
+        "$\\cos 2 \\alpha>0$",
+        "$\\cos 2 \\alpha<0$",
+        "$\\sin 2 \\alpha>0$",
+        "$\\sin 2 \\alpha<0$"
+      ],
+      "answer": "D",
+      "solution": "【详解】当 $\\alpha=-\\frac{\\pi}{6}$ 时, $\\cos 2 \\alpha=\\cos \\left(-\\frac{\\pi}{3}\\right)>0$, 选项B错误； 当 $\\alpha=-\\frac{\\pi}{3}$ 时, $\\cos 2 \\alpha=\\cos \\left(-\\frac{2 \\pi}{3}\\right)<0$, 选项A错误; 由 $\\alpha$ 在第四象限可得： $\\sin \\alpha<0, \\cos \\alpha>0$, 则 $\\sin 2 \\alpha=2 \\sin \\alpha \\cos \\alpha<0$, 选项C错误，选项D正确; 故选: D.",
+      "source": "GAOKAO-Bench|year:2020|index:174|commit:6dbb24f8d843",
+      "title": "高考真题候选·数学·2020·174",
+      "tags": [
+        "kp:MATH-TRIG-FUNDAMENTAL-IDENTITY",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "数学",
+      "chapter": "解析几何",
+      "knowledge_points": [
+        "圆的标准方程"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "若过点 $(2,1)$ 的圆与两坐标轴都相切, 则圆心到直线 $2 x-y-3=0$ 的距离为 $(\\quad)$",
+      "options": [
+        "$\\frac{\\sqrt{5}}{5}$",
+        "$\\frac{2 \\sqrt{5}}{5}$",
+        "$\\frac{3 \\sqrt{5}}{5}$",
+        "$\\frac{4 \\sqrt{5}}{5}$"
+      ],
+      "answer": "B",
+      "solution": "【详解】由于圆上的点 $(2,1)$ 在第一象限, 若圆心不在第一象限, 则圆与至少与一条坐标轴相交, 不合乎题意, 所以圆心必在第一象限, 设圆心的坐标为 $(a, a)$, 则圆的半径为 $a$, 圆的标准方程为 $(x-a)^{2}+(y-a)^{2}=a^{2}$. 由题意可得 $(2-a)^{2}+(1-a)^{2}=a^{2}$, 可得 $a^{2}-6 a+5=0$, 解得 $a=1$ 或 $a=5$, 所以圆心的坐标为 $(1,1)$ 或 $(5,5)$, 圆心到直线 $2 x-y-3=0$ 的距离均为 $d=\\frac{|-2|}{\\sqrt{5}}=\\frac{2 \\sqrt{5}}{5}$; 所以，圆心到直线 $2 x-y-3=0$ 的距离为 $\\frac{2 \\sqrt{5}}{5}$. 故选: B.",
+      "source": "GAOKAO-Bench|year:2020|index:176|commit:6dbb24f8d843",
+      "title": "高考真题候选·数学·2020·176",
+      "tags": [
+        "kp:MATH-ANALYTIC-CIRCLE-STANDARD",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "数学",
+      "chapter": "数列",
+      "knowledge_points": [
+        "等比数列的通项公式"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "数列 $\\left\\{a_{n}\\right\\}$ 中, $a_{1}=2, a_{m+n}=a_{m} a_{n}$, 若 $a_{k+1}+a_{k+2}+\\cdots+a_{k+10}=2^{15}-2^{5}$, 则 $k=(\\quad)$",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "C",
+      "solution": "【详解】在等式 $a_{m+n}=a_{m} a_{n}$ 中, 令 $m=1$, 可得 $a_{n+1}=a_{n} a_{1}=2 a_{n}, \\therefore \\frac{a_{n+1}}{a_{n}}=2$, 所以, 数列 $\\left\\{a_{n}\\right\\}$ 是以 2 为首项, 以 2 为公比的等比数列, 则 $a_{n}=2 \\times 2^{n-1}=2^{n}$, $\\therefore a_{k+1}+a_{k+2}+\\cdots+a_{k+10}=\\frac{a_{k+1} \\cdot\\left(1-2^{10}\\right)}{1-2}=\\frac{2^{k+1} \\cdot\\left(1-2^{10}\\right)}{1-2}=2^{k+1}\\left(2^{10}-1\\right)=2^{5}\\left(2^{10}-1\\right)$, $\\therefore 2^{k+1}=2^{5}$, 则 $k+1=5$, 解得 $k=4$. 故选: C.",
+      "source": "GAOKAO-Bench|year:2020|index:177|commit:6dbb24f8d843",
+      "title": "高考真题候选·数学·2020·177",
+      "tags": [
+        "kp:MATH-SEQUENCE-GEOMETRIC-GENERAL",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "数学",
+      "chapter": "集合与逻辑",
+      "knowledge_points": [
+        "集合的基本运算"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "设集合 $M=\\{x \\mid 0<x<4\\}, N=\\left\\{x \\mid \\frac{1}{3} \\leq x \\leq 5\\right\\}$, 则 $M \\cap N=($,",
+      "options": [
+        "$\\left\\{x \\mid 0<x \\leq \\frac{1}{3}\\right\\}$",
+        "$\\left\\{x \\mid \\frac{1}{3} \\leq x<4\\right\\}$",
+        "$\\{x \\mid 4 \\leq x<5\\}$",
+        "$\\{x \\mid 0<x \\leq 5\\}$"
+      ],
+      "answer": "B",
+      "solution": "【详解】因为 $M=\\{x \\mid 0<x<4\\}, N=\\left\\{x \\mid \\frac{1}{3} \\leq x \\leq 5\\right\\}$, 所以 $M \\cap N=\\left\\{x \\mid \\frac{1}{3} \\leq x<4\\right\\}$, 故选: B.",
+      "source": "GAOKAO-Bench|year:2021|index:183|commit:6dbb24f8d843",
+      "title": "高考真题候选·数学·2021·183",
+      "tags": [
+        "kp:MATH-SET-OPERATIONS",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "数学",
+      "chapter": "复数",
+      "knowledge_points": [
+        "复数的四则运算"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "已知 $(1-i)^{2} z=3+2 i$, 则 $z=(\\quad)$",
+      "options": [
+        "$-1-\\frac{3}{2} i$",
+        "$-1+\\frac{3}{2} i$",
+        "$-\\frac{3}{2}+i$",
+        "$-\\frac{3}{2}-i$"
+      ],
+      "answer": "B",
+      "solution": "【详解】 $(1-i)^{2} z=-2 i z=3+2 i$, $z=\\frac{3+2 i}{-2 i}=\\frac{(3+2 i) \\cdot i}{-2 i \\cdot i}=\\frac{-2+3 i}{2}=-1+\\frac{3}{2} i$. 故选: B.",
+      "source": "GAOKAO-Bench|year:2021|index:184|commit:6dbb24f8d843",
+      "title": "高考真题候选·数学·2021·184",
+      "tags": [
+        "kp:MATH-COMPLEX-ARITHMETIC",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "数学",
+      "chapter": "指数与对数",
+      "knowledge_points": [
+        "对数运算"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "青少年视力是社会普遍关注的问题, 视力情况可借助视力表测量. 通常用五分记录法和小数记录法记录 视力数据, 五分记录法的数据 $L$ 和小数记录表的数据 $V$ 的满足 $L=5+\\lg V$. 已知某同学视力的五分记录法 的数据为 4.9 , 则其视力的小数记录法的数据为 $(\\quad) \\quad(\\sqrt[10]{10} \\approx 1.259)$",
+      "options": [
+        "1.5",
+        "1.2",
+        "0.8",
+        "0.6"
+      ],
+      "answer": "C",
+      "solution": "【详解】由 $L=5+\\lg V$, 当 $L=4.9$ 时, $\\lg V=-0.1$, 则 $V=10^{-0.1}=10^{-\\frac{1}{10}}=\\frac{1}{\\sqrt[10]{10}} \\approx \\frac{1}{1.259} \\approx 0.8$. 故选: C.",
+      "source": "GAOKAO-Bench|year:2021|index:185|commit:6dbb24f8d843",
+      "title": "高考真题候选·数学·2021·185",
+      "tags": [
+        "kp:MATH-LOGARITHM-OPERATION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "数学",
+      "chapter": "数列",
+      "knowledge_points": [
+        "等比数列的通项公式"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "等比数列 $\\left\\{a_{n}\\right\\}$ 的公比为 $q$, 前 $n$ 项和为 $S_{n}$, 设甲: $q>0$, 乙: $\\left\\{S_{n}\\right\\}$ 是递增数列, 则 ( )",
+      "options": [
+        "甲是乙的充分条件但不是必要条件",
+        "甲是乙的必要条件但不是充分条件",
+        "甲是乙的充要条件",
+        "甲既不是乙的充分条件也不是乙的必要条件"
+      ],
+      "answer": "B",
+      "solution": "【详解】由题, 当数列为 $-2,-4,-8, \\cdots$ 时, 满足 $q>0$, 但是 $\\left\\{S_{n}\\right\\}$ 不是递增数列, 所以甲不是乙的充分条件. 若 $\\left\\{S_{n}\\right\\}$ 是递增数列, 则必有 $a_{n}>0$ 成立, 若 $q>0$ 不成立, 则会出现一正一负的情况，是矛盾的, 则 $q>0$ 成立, 所以甲是乙的必要条件. 故选: B.",
+      "source": "GAOKAO-Bench|year:2021|index:187|commit:6dbb24f8d843",
+      "title": "高考真题候选·数学·2021·187",
+      "tags": [
+        "kp:MATH-SEQUENCE-GEOMETRIC-GENERAL",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "数学",
+      "chapter": "概率",
+      "knowledge_points": [
+        "古典概型"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "将 4 个 1 和 2 个 0 随机排成一行, 则 2 个 0 不相邻的概率为 $(\\quad)$",
+      "options": [
+        "$\\frac{1}{3}$",
+        "$\\frac{2}{5}$",
+        "$\\frac{2}{3}$",
+        "$\\frac{4}{5}$"
+      ],
+      "answer": "C",
+      "solution": "【详解】将 4 个 1 和 2 个 0 随机排成一行, 可利用揷空法, 4 个 1 产生 5 个空, 若 2 个 0 相邻, 则有 $C_{5}^{1}=5$ 种排法, 若 2 个 0 不相邻, 则有 $C_{5}^{2}=10$ 种排法, 所以 2 个 0 不相邻的概率为 $\\frac{10}{5+10}=\\frac{2}{3}$. 故选: C.",
+      "source": "GAOKAO-Bench|year:2021|index:189|commit:6dbb24f8d843",
+      "title": "高考真题候选·数学·2021·189",
+      "tags": [
+        "kp:MATH-PROBABILITY-CLASSICAL",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "数学",
+      "chapter": "平面向量",
+      "knowledge_points": [
+        "平面向量数量积"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "已知向量 $\\vec{a}, \\vec{b}$ 满足 $|\\vec{a}|=1,|\\vec{b}|=\\sqrt{3},|\\vec{a}-2 \\vec{b}|=3$, 则 $\\vec{a} \\cdot \\vec{b}=()$",
+      "options": [
+        "-2",
+        "-1",
+        "1",
+        "2"
+      ],
+      "answer": "C",
+      "solution": "【详解】解: $\\because|\\vec{a}-2 \\vec{b}|^{2}=|\\vec{a}|^{2}-4 \\vec{a} \\cdot \\vec{b}+4|\\vec{b}|^{2}$, 又 $\\because|\\vec{a}|=1,|\\vec{b}|=\\sqrt{3},|\\vec{a}-2 \\vec{b}|=3$, $\\therefore 9=1-4 \\vec{a} \\cdot \\vec{b}+4 \\times 3=13-4 \\vec{a} \\cdot \\vec{b}$ $\\therefore \\vec{a} \\cdot \\vec{b}=1$ 故选: C.",
+      "source": "GAOKAO-Bench|year:2022|index:202|commit:6dbb24f8d843",
+      "title": "高考真题候选·数学·2022·202",
+      "tags": [
+        "kp:MATH-VECTOR-DOT-PRODUCT",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "词汇",
+      "knowledge_points": [
+        "情景交际"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "--- Can I help you? Are you looking for anything in particular today ? --- _____ , we’re just looking .",
+      "options": [
+        "Yes, pleas e",
+        "No, thank you",
+        "Yes, you can",
+        "No, you needn ’t"
+      ],
+      "answer": "B",
+      "solution": "【解答】 答案 B. A项\"好的，请吧 \"；C项\"是的，你可以的 \"；D项\"不，你没有 必要 \"；B项\"不，谢谢 \"；由语境可知，对方显然是提供帮助，如果接受帮助则 说\"Yes，please . \"如果不接受帮助要说 \"No，thank you. \"，根据句意 \"我们只不过 是看看 \"可知，这里是不需要帮助，礼貌地拒绝， 因此 B项符合语境， 故选 B. 【点评】",
+      "source": "GAOKAO-Bench|year:2010|index:27|commit:6dbb24f8d843",
+      "title": "高考真题候选·英语·2010·27",
+      "tags": [
+        "kp:ENG-VOCAB-SITUATIONAL-COMMUNICATION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "语法",
+      "knowledge_points": [
+        "形容词比较级"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "Mr. Black is very happy because the clothes made in his factory have never been .",
+      "options": [
+        "popular",
+        "more popular",
+        "most popular",
+        "the most popular"
+      ],
+      "answer": "B",
+      "solution": "【解答】答案：B，选项中 A为原级， C和D项表示最高级，根据题干可知，衣 服从来没有比现在受欢迎过，也就是说现在是最受欢迎的，在英语句型中， never/not 加形容词比较级 =形容词最高级，所以本题选择比较级， B选项 . 【点评】",
+      "source": "GAOKAO-Bench|year:2010|index:29|commit:6dbb24f8d843",
+      "title": "高考真题候选·英语·2010·29",
+      "tags": [
+        "kp:ENG-GRAMMAR-ADJECTIVE-COMPARATIVE",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "词汇",
+      "knowledge_points": [
+        "情景交际"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "--- Did you forget about my birthday ? --- I’ve booked a table at Michel ’s restaurant for this evening .",
+      "options": [
+        "What then?",
+        "I’m afraid so.",
+        "How could I?",
+        "For sure."
+      ],
+      "answer": "C",
+      "solution": "【解答】答案：C．本题考查交际用语 ．How could I？表示 \"我怎么会呢？ \"．What then？\"那便会怎么样呢？ \"，I'm afraid so．\"恐怕是这样． \"，For sure．\"肯定；确 定．\"根据 \"I've booked a table at Michel's restaurant for this evening．\"可知，答话人 并没有忘记对方的生日， 因此选择 C． 【点评】",
+      "source": "GAOKAO-Bench|year:2011|index:30|commit:6dbb24f8d843",
+      "title": "高考真题候选·英语·2011·30",
+      "tags": [
+        "kp:ENG-VOCAB-SITUATIONAL-COMMUNICATION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "语法",
+      "knowledge_points": [
+        "情态动词的基本用法"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "If you_______smoke , please go outside .",
+      "options": [
+        "can",
+        "should",
+        "must",
+        "may"
+      ],
+      "answer": "C",
+      "solution": "【解答】 答案： C．本题考查情态动词的用法． can 能，会； may 可以，可能； must 必须，非要； might 可以，可能， 是may的过去式形式．根据句意可知， 这里表示的是如果你非得要吸烟这个意思， 故选 C． 【点评】",
+      "source": "GAOKAO-Bench|year:2011|index:32|commit:6dbb24f8d843",
+      "title": "高考真题候选·英语·2011·32",
+      "tags": [
+        "kp:ENG-GRAMMAR-MODAL-BASIC",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "词汇",
+      "knowledge_points": [
+        "动词语境辨析"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "Mary , I John of his promise to help you.",
+      "options": [
+        "told",
+        "reminded",
+        "warned",
+        "advised"
+      ],
+      "answer": "B",
+      "solution": "【解答】答案：B．A．tell告诉，常用 tell sb to do；B．remind 提醒，用法为 remind sb of sth或remind sb to do；C．warn 警告，提醒； 也有 warn sb of sth的用法， 但它侧重 \"警告 \"的意思； D．advise建议，用法： advise sb to do；所以结合句意 答案应该选 B． 【点评】",
+      "source": "GAOKAO-Bench|year:2011|index:34|commit:6dbb24f8d843",
+      "title": "高考真题候选·英语·2011·34",
+      "tags": [
+        "kp:ENG-VOCAB-CONTEXT-VERB",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "词汇",
+      "knowledge_points": [
+        "固定搭配"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "This shop will be closed for repairs further notice .",
+      "options": [
+        "with",
+        "until",
+        "for",
+        "at"
+      ],
+      "answer": "B",
+      "solution": "【解答】 答案 B．with 和，跟；随着；关于； 和…一致； for为了，由于； at （ 表示位置）在； 在（某时间或时刻）； until 到…为止； 在…以前．结合句意 \"直到另行通知为止 \"可知 until符合句意， 故选 B项． 【点评】",
+      "source": "GAOKAO-Bench|year:2011|index:38|commit:6dbb24f8d843",
+      "title": "高考真题候选·英语·2011·38",
+      "tags": [
+        "kp:ENG-VOCAB-COLLOCATION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "语法",
+      "knowledge_points": [
+        "形容词比较级"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "Mr. Stevenson is great to work for --- I really couldn ’t ask for a_______ boss.",
+      "options": [
+        "better",
+        "good",
+        "best",
+        "still better"
+      ],
+      "answer": "A",
+      "solution": "【解答】 答案： A．考查比较级的否定用法． 否定词 couldn't与better连用，表 示\"非常好 \"，相当于最高级． still better不能用于否定句中． 【点评】",
+      "source": "GAOKAO-Bench|year:2011|index:41|commit:6dbb24f8d843",
+      "title": "高考真题候选·英语·2011·41",
+      "tags": [
+        "kp:ENG-GRAMMAR-ADJECTIVE-COMPARATIVE",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "词汇",
+      "knowledge_points": [
+        "固定搭配"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "I can _______the house being untidy, but I hate it if it’s not clean.",
+      "options": [
+        "come up with",
+        "put up with",
+        "turn to",
+        "stick to"
+      ],
+      "answer": "B",
+      "solution": "【解答】答案：B．come up with\"提出，想出 \"；put up with\"忍受，容忍 \"；turn to\" 转向；求助于 \"；stick to\"坚持；粘住 \"．根据题干中转折连词 but可知，前一句的 意思应与后一句的 hate\"讨厌 \"之意相反 ，即\"不讨厌 \"，所以 put up with\"忍受，容 忍\"之意与语境相符． 故选 B． 【点评】",
+      "source": "GAOKAO-Bench|year:2011|index:50|commit:6dbb24f8d843",
+      "title": "高考真题候选·英语·2011·50",
+      "tags": [
+        "kp:ENG-VOCAB-COLLOCATION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "从句",
+      "knowledge_points": [
+        "定语从句关系词的选择"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "The prize will go to the writer _______story shows the most imagination.",
+      "options": [
+        "that",
+        "which",
+        "whose",
+        "what"
+      ],
+      "answer": "C",
+      "solution": "【解答】答案 C．通过分析句子成分可知 ，这是一个定语从句 ，先行词是 the writer ，关系词在从句中充当 story的定语， 所以本题应该选择 C． 【点评】",
+      "source": "GAOKAO-Bench|year:2011|index:55|commit:6dbb24f8d843",
+      "title": "高考真题候选·英语·2011·55",
+      "tags": [
+        "kp:ENG-CLAUSE-RELATIVE-WORD-SELECTION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "词汇",
+      "knowledge_points": [
+        "动词语境辨析"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "Mary is really good at taking notes in class. She can almost every word her teacher says.",
+      "options": [
+        "put out",
+        "put down",
+        "put away",
+        "put together"
+      ],
+      "answer": "B",
+      "solution": "【解答】答案 B．A项表示 \"扑灭，生产，出版 \"；C项表示 \"把…收起，放好，储 存\"；D项表示 \"把…放在一起，组合 \"；B项表示 \"写下，记下，放下，镇压 \"；根 据句意， B项与题意相符． 故答案选 B． 【点评】",
+      "source": "GAOKAO-Bench|year:2012|index:66|commit:6dbb24f8d843",
+      "title": "高考真题候选·英语·2012·66",
+      "tags": [
+        "kp:ENG-VOCAB-CONTEXT-VERB",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "物理",
+      "chapter": "电磁感应",
+      "knowledge_points": [
+        "产生感应电流的条件"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "（6 分) 在法拉第时代, 下列验证“由磁产生电”设想的实验中, 能观察到感 应电流的是（ $)$",
+      "options": [
+        "将绕在磁铁上的线圈与电流表组成一闭合回路, 然后观察电流表的变化",
+        "在一通电线圈旁放置一连有电流表的闭合线圈, 然后观察电流表的变化",
+        "将一房间内的线圈两端与相邻房间的电流表连接, 往线圈中揷入条形磁铁 后, 再到相邻房间去观察电流表的变化",
+        "绕在同一铁环上的两个线圈, 分别接电源和电流表, 在给线圈通电或断电 的瞬间，观察电流表的变化"
+      ],
+      "answer": "D",
+      "solution": "解: A、将绕在磁铁上的线圈与电流表组成一闭合回路, 回路中没有磁 通量的变化, 不能产生感应电流, 观察到电流表没有变化, 故 A 错误; B、在一通电线圈旁放置一连有电流表的闭合线圈, 回路中没有磁通量的变化, 不能产生感应电流, 观察到电流表没有变化, 故 B 错误; C、将一房间内的线圈两端与相邻房间的电流表连接, 往线圈中揷入条形磁铁的 过程中有感应电流产生, 但是之后, 再到相邻房间去观察时, 回路中已经没 有磁通量的变化, 此时观察到的电流表没有变化, 故 $\\mathrm{C}$ 错误; D、绕在同一铁环上的两个线圈, 分别接电源和电流表, 在给线圈通电或断电的 瞬间, 回路中的磁通量发生变化, 能观察电流表的变化, 故 D 正确。 故选：D。",
+      "source": "GAOKAO-Bench|year:2014|index:14|commit:6dbb24f8d843",
+      "title": "高考真题候选·物理·2014·14",
+      "tags": [
+        "kp:PHY-INDUCTION-CURRENT-CONDITION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "物理",
+      "chapter": "曲线运动",
+      "knowledge_points": [
+        "平抛运动规律"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "(6 分) 取水平地面为重力势能零点, 一物块从某一高度水平抛出, 在抛出 点其动能与重力势能恰好相等. 不计空气阻力, 该物块落地时的速度方向与 水平方向的夹角为 $(\\quad)$",
+      "options": [
+        "$\\frac{\\pi}{6}$",
+        "$\\frac{\\pi}{4}$",
+        "$\\frac{\\pi}{3}$",
+        "$\\frac{5 \\pi}{12}$"
+      ],
+      "answer": "B",
+      "solution": "解: 设抛出时物体的初速度为 $v_{0}$, 高度为 $h$, 物块落地时的速度大小为 $v$, 方向与水平方向的夹角为 $\\alpha$. 根据机械能守恒定律得: $\\frac{1}{2} m v_{0}^{2}+m g h=\\frac{1}{2} m v^{2}$ 据题有: $\\frac{1}{2} m v_{0}^{2}=m g h$, 联立解得: $v=\\sqrt{2} \\mathrm{v}_{0}$, 则 $\\cos \\alpha=\\frac{\\mathrm{v}_{0}}{\\mathrm{v}}=\\frac{\\sqrt{2}}{2}$, 得： $\\alpha=\\frac{\\pi}{4}$ 。 故选: $\\mathrm{B}$ 。",
+      "source": "GAOKAO-Bench|year:2014|index:16|commit:6dbb24f8d843",
+      "title": "高考真题候选·物理·2014·16",
+      "tags": [
+        "kp:PHY-PROJECTILE-HORIZONTAL",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "物理",
+      "chapter": "磁场",
+      "knowledge_points": [
+        "磁场方向的判断"
+      ],
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "question": "（6 分) 指南针是我国古代四大发明之一. 关于指南针, 下列说明正确的是 (",
+      "options": [
+        "指南针可以仅具有一个磁极",
+        "指南针能够指向南北, 说明地球具有磁场",
+        "指南针的指向会受到附近铁块的干扰",
+        "在指南针正上方附近沿指针方向放置一直导线, 导线通电时指南针不偏转"
+      ],
+      "answer": [
+        "B",
+        "C"
+      ],
+      "solution": "解: A、不存在单独的磁单极子, 指南针也不例外, 故 A 错误; B、指南针能够指向南北, 说明地球具有磁场, 地磁场是南北指向的, 故 B 正确 C、指南针的指向会受到附近铁块的干扰, 是由于铁块被磁化后干扰了附近的地 磁场, 故 C 正确; D、在指南针正上方附近沿指针方向放置一直导线, 根据安培定则, 电流的磁场 在指南针位置是东西方向的, 故导线通电时指南针偏转 $90^{\\circ}$, 故 D 错误; 故选：BC。",
+      "source": "GAOKAO-Bench|year:2015|index:22|commit:6dbb24f8d843",
+      "title": "高考真题候选·物理·2015·22",
+      "tags": [
+        "kp:PHY-MAGNETIC-FIELD-DIRECTION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "物理",
+      "chapter": "直线运动",
+      "knowledge_points": [
+        "匀变速直线运动公式"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "(6 分) 一质点做速度逐渐增大的匀加速直线运动, 在时间间隔 $\\mathrm{t}$ 内位移为 $\\mathrm{s}$, 动能变为原来的 9 倍。该质点的加速度为 $(\\quad)$",
+      "options": [
+        "$\\frac{2 s}{t^{2}}$",
+        "$\\frac{s}{t^{2}}$",
+        "$\\frac{3 s}{2 t^{2}}$",
+        "$\\frac{4 s}{t^{2}}$"
+      ],
+      "answer": "B",
+      "solution": "【解答】解：设质点的初速度为 $\\mathrm{v}$, 则动能 $\\mathrm{E}_{\\mathrm{k} 1}=\\frac{1}{2} \\mathrm{mv}^{2}$, 由于末动能变为原来的 9 倍, 则可知, 末速度为原来的 3 倍, 故 $v^{\\prime}=3 \\mathrm{v}$; 故平均速度 $\\bar{v}=\\frac{v+3 v}{2}=2 v$; 根据位移公式可知: $\\bar{v}=\\frac{s}{t}$ 联立解得： $v=\\frac{s}{2 t}$; 根据加速度定义可知 $a=\\frac{\\Delta v}{t}=\\frac{3 v-v}{t}=\\frac{2 \\times \\frac{s}{2 t}}{t}=\\frac{s}{t^{2}}$, 故 $B$ 正确, ACD 错误。 故选: B。",
+      "source": "GAOKAO-Bench|year:2016|index:29|commit:6dbb24f8d843",
+      "title": "高考真题候选·物理·2016·29",
+      "tags": [
+        "kp:PHY-KINEMATICS-VELOCITY-EQUATION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "物理",
+      "chapter": "曲线运动",
+      "knowledge_points": [
+        "平抛运动规律"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "发球机从同一高度向正前方依次水平射出两个速度不同的乒乓球（ 忽略空气的影响）。速度较大的球越过球网, 速度较小的球没有越过球网; 其原因是（ $）$",
+      "options": [
+        "速度较小的球下降相同距离所用的时间较多",
+        "速度较小的球在下降相同距离时在竖直方向上的速度较大",
+        "速度较大的球通过同一水平距离所用的时间较少",
+        "速度较大的球在相同时间间隔内下降的距离较大"
+      ],
+      "answer": "C",
+      "solution": "解: 发球机发出的球, 速度较大的球越过球网, 速度度较小的球没有越 过球网, 原因是发球机到网的水平距离一定, 速度大, 则所用的时间较少, 球下降的高度较小, 容易越过球网, 故 C 正确, ABD 错误。 故选: C。",
+      "source": "GAOKAO-Bench|year:2017|index:31|commit:6dbb24f8d843",
+      "title": "高考真题候选·物理·2017·31",
+      "tags": [
+        "kp:PHY-PROJECTILE-HORIZONTAL",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "物理",
+      "chapter": "万有引力",
+      "knowledge_points": [
+        "万有引力定律"
+      ],
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "question": "（6 分) 2017 年, 人类第一次直接探测到来自双中子星合并的引力波。根据 科学家们复原的过程, 在两颗中子星合并前约 $100 \\mathrm{~s}$ 时, 它们相距约 $400 \\mathrm{~km}$, 绕二者连线上的某点每秒转动 12 圈。将两颗中子星都看作是质量均匀分布的 球体, 由这些数据、万有引力常量并利用牛顿力学知识, 可以估算出这一时 刻两颗中子星 $(\\quad)$",
+      "options": [
+        "质量之积",
+        "质量之和",
+        "速率之和",
+        "各自的自转角速度"
+      ],
+      "answer": [
+        "B",
+        "C"
+      ],
+      "solution": "解: $A B$ 、设两颗星的质量分别为 $m_{1} 、 m_{2}$, 轨道半径分别为 $r_{1} 、 r_{2}$, 相 距 $\\mathrm{L}=400 \\mathrm{~km}=4 \\times 10^{5} \\mathrm{~m}$, 根据万有引力提供向心力可知: $\\frac{\\mathrm{Gm}_{1} \\cdot \\mathrm{m}_{2}}{\\mathrm{~L}^{2}}=\\mathrm{m}_{1} r_{1} \\omega^{2}$ $\\frac{G_{1} \\cdot m_{2}}{L^{2}}=m_{2} r_{2} \\omega^{2}$ 整理可得: $\\frac{G\\left(m_{1}+m_{2}\\right)}{L^{2}}=\\left(r_{1}+r_{2}\\right) \\frac{4 \\pi^{2}}{T^{2}}=\\frac{4 \\pi^{2} L}{T^{2}}$, 解得质量之和 $\\left(m_{1}+m_{2}\\right)=$ $\\frac{4 \\pi^{2} L^{3}}{G T^{2}}$, 其中周期 $T=\\frac{1}{12} s$, 故 $A$ 错误、B 正确; $\\mathrm{CD}$ 、由于 $\\mathrm{T}=\\frac{1}{12} \\mathrm{~s}$, 则角速度为: $\\omega=\\frac{2 \\pi}{\\mathrm{T}}=24 \\pi \\mathrm{rad} / \\mathrm{s}$, 这是公转角速度, 不是自转 角速度 根据 $v=r \\omega$ 可知: $v_{1}=r_{1} \\omega, v_{2}=r_{2} \\omega$ 解得: $v_{1}+v_{2}=\\left(r_{1}+r_{2}\\right) \\omega=L \\omega=9.6 \\pi \\times 10^{6} \\mathrm{~m} / \\mathrm{s}$, 故 C 正确, $D$ 错误。 故选: $B C$ 。",
+      "source": "GAOKAO-Bench|year:2018|index:38|commit:6dbb24f8d843",
+      "title": "高考真题候选·物理·2018·38",
+      "tags": [
+        "kp:PHY-GRAVITY-UNIVERSAL-LAW",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "物理",
+      "chapter": "动量",
+      "knowledge_points": [
+        "动量概念与计算"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "高空坠物极易对行人造成伤害。若一个 $50 \\mathrm{~g}$ 的鸡蛋从一居民楼的 25 层坠下, 与地面的碰撞时间约为 $2 \\mathrm{~ms}$, 则该鸡蛋对地面产生的冲击力约为（",
+      "options": [
+        "$10 \\mathrm{~N}$",
+        "$10^{2} \\mathrm{~N}$",
+        "$10^{3} \\mathrm{~N}$",
+        "$10^{4} \\mathrm{~N}$"
+      ],
+      "answer": "C",
+      "solution": "解: 每层楼高约为 $3 \\mathrm{~m}$, 鸡蛋下落的总高度 $\\mathrm{h}=(25-1) \\times 3 \\mathrm{~m}=72 \\mathrm{~m}$; 自由下落时间 $\\mathrm{t}_{1}=\\sqrt{\\frac{2 \\mathrm{~h}}{\\mathrm{~g}}}=\\sqrt{\\frac{2 \\times 72}{10}} \\mathrm{~s}=3.8 \\mathrm{~s}$, 与地面的碰撞时间约为 $t_{2}=2 m s=0.002 s$, 全过程根据动量定理可得: $m g\\left(t_{1}+t_{2}\\right)-\\mathrm{Ft}_{2}=0$ 解得冲击力 $\\mathrm{F}=950 \\mathrm{~N} \\approx 10^{3} \\mathrm{~N}$, 故 $\\mathrm{C}$ 正确。 故选: C。",
+      "source": "GAOKAO-Bench|year:2018|index:39|commit:6dbb24f8d843",
+      "title": "高考真题候选·物理·2018·39",
+      "tags": [
+        "kp:PHY-MOMENTUM-BASIC",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "物理",
+      "chapter": "万有引力",
+      "knowledge_points": [
+        "万有引力定律"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "(6 分) 为了探测引力波, “天琴计划”预计发射地球卫星 $P$, 其轨道半径约为 地球半径的 16 倍; 另一地球卫星 $\\mathrm{Q}$ 的轨道半径约为地球半径的 4 倍。 $\\mathrm{P}$ 与 $\\mathrm{Q}$ 的周期之比约为 $(\\quad)$",
+      "options": [
+        "$2: 1$",
+        "4: 1",
+        "$8: 1$",
+        "$16: 1$"
+      ],
+      "answer": "C",
+      "solution": "【解答】解: 根据题意可得 $\\mathrm{P}$ 与 $\\mathrm{Q}$ 的轨道半径之比为: $\\mathrm{r}_{\\mathrm{P}}: \\mathrm{r}_{\\mathrm{Q}}=4: 1$ 根据开普勒第三定律有: $\\frac{r^{3}}{T^{2}}=k$ 得: $\\frac{r_{P}^{3}}{T_{P}^{2}}=\\frac{r_{Q}^{3}}{T_{Q}^{2}}$ 可得周期之比为: $\\mathrm{T}_{\\mathrm{P}}: \\mathrm{T}_{\\mathrm{Q}}=8: \\quad 1$ 故 C 正确, ABD 错误。 故选:C。",
+      "source": "GAOKAO-Bench|year:2018|index:42|commit:6dbb24f8d843",
+      "title": "高考真题候选·物理·2018·42",
+      "tags": [
+        "kp:PHY-GRAVITY-UNIVERSAL-LAW",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "物理",
+      "chapter": "万有引力",
+      "knowledge_points": [
+        "万有引力定律"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "(6 分) 若一均匀球形星体的密度为 $\\rho$, 引力常量为 $\\mathrm{G}$, 则在该星体表面附近沿圆轨道绕 其运动的卫星的周期是（）",
+      "options": [
+        "$\\sqrt{\\frac{3 \\pi}{6 \\rho}}$",
+        "$\\sqrt{\\frac{4 \\pi}{G \\rho}}$",
+        "$\\sqrt{\\frac{1}{3 \\pi G \\rho}}$",
+        "$\\sqrt{\\frac{1}{4 \\pi G \\rho}}$"
+      ],
+      "answer": "A",
+      "solution": "【解答】解: 设星球的质量为 $\\mathrm{M}$, 半径为 $\\mathrm{R}$, 卫星的质量为 $\\mathrm{m}$, 运行周期为 $\\mathrm{T}$, 在该星 体表面附近沿圆轨道绕其运动的卫星所需的向心力由星球对其的万有引力提供, 则根据 牛顿第二定律得: $G \\frac{M m}{R^{2}}=m \\frac{4 \\pi^{2}}{T^{2}} R(1)$ 星球的密度: $\\rho=\\frac{M}{\\frac{4}{3} \\pi R^{3}}(2)$ 联立(1)(2)解得 $\\mathrm{T}=\\sqrt{\\frac{3 \\pi}{G \\rho}}$, 故 A 正确, BCD 错误; 故选: A。",
+      "source": "GAOKAO-Bench|year:2020|index:51|commit:6dbb24f8d843",
+      "title": "高考真题候选·物理·2020·51",
+      "tags": [
+        "kp:PHY-GRAVITY-UNIVERSAL-LAW",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "物理",
+      "chapter": "恒定电流",
+      "knowledge_points": [
+        "电功率的计算"
+      ],
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "question": "(6 分) 特高压输电可使输送中的电能损耗和电压损失大幅降低。我国已成功掌握并实际 应用了特高压输电技术。假设从 $\\mathrm{A}$ 处采用 $550 \\mathrm{kV}$ 的超高压向 $\\mathrm{B}$ 处输电, 输电线上损耗的 的电功率为 $\\triangle P$, 到达 $B$ 处时电压下降了 $\\triangle U$. 在保持 $\\mathrm{A}$ 处输送的电功率和输电线电阻都 不变的条件下, 改用 $1100 \\mathrm{kV}$ 特高压输电, 输电线上损耗的电功率变为 $\\triangle \\mathrm{P}^{\\prime}$, 到达 $\\mathrm{B}$ 处 时电压下降了 $\\triangle \\mathrm{U}^{\\prime}$. 不考虑其他因素的影响，则（）",
+      "options": [
+        "$\\triangle \\mathrm{P}^{\\prime}=\\frac{1}{4} \\triangle \\mathrm{P}$",
+        "$\\triangle \\mathrm{P}^{\\prime}=\\frac{1}{2} \\triangle \\mathrm{P}$",
+        "$\\triangle \\mathrm{U}^{\\prime}=\\frac{1}{4} \\triangle \\mathrm{U}$",
+        "$\\triangle \\mathrm{U}^{\\prime}=\\frac{1}{2} \\triangle \\mathrm{U}$"
+      ],
+      "answer": [
+        "A",
+        "D"
+      ],
+      "solution": "【解答】解: $\\mathrm{AB}$ 、远距离输电时, 线路上的电流 $\\mathrm{I}=\\frac{\\mathrm{P}}{\\mathrm{U}}$; 则在线路上损失的功率为 $\\triangle \\mathrm{P}=$ $\\mathrm{I}^{2} \\mathrm{R}=\\frac{\\mathrm{P}^{2} \\mathrm{R}}{\\mathrm{U}^{2}}$; 根据损失的功率公式可知, 损失的功率与电压的平方成反比; 假设从 $\\mathrm{A}$ 处 采用 $550 \\mathrm{kV}$ 的超高压向 B 处输电, 若改用 $1100 \\mathrm{kV}$ 特高压输电, 电压变成原来的 2 倍, 则输电线上损耗的电功率变为原来的 $\\frac{1}{4}$, 即 $\\triangle \\mathrm{P}^{\\prime}=\\frac{1}{4} \\triangle \\mathrm{P}$; 故 A 正确, $\\mathrm{B}$ 错误; $\\mathrm{CD}$ 、线路上的电流 $\\mathrm{I}=\\frac{\\mathrm{P}}{\\mathrm{U}}$, 到达 $\\mathrm{B}$ 处时电压下降了 $\\triangle \\mathrm{U}=\\mathrm{IR}=\\frac{\\mathrm{P}}{\\mathrm{U}} \\mathrm{R}$, 电压降与电压成反比, 则若电压变成原来的 2 倍, $\\triangle \\mathrm{U}$ 变为原来的 $\\frac{1}{2}$, 故 $\\triangle \\mathrm{U}^{\\prime}=\\frac{1}{2} \\Delta U$, 故 $\\mathrm{C}$ 错误, $\\mathrm{D}$ 正确; 故选: $\\mathrm{AD}$",
+      "source": "GAOKAO-Bench|year:2020|index:53|commit:6dbb24f8d843",
+      "title": "高考真题候选·物理·2020·53",
+      "tags": [
+        "kp:PHY-CIRCUIT-ELECTRIC-POWER",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "化学",
+      "chapter": "物质结构与性质",
+      "knowledge_points": [
+        "晶体结构与性质"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "(6 分) 陶瓷是火与土的结晶, 是中华文明的象征之一, 其形成、性质与化学有着密切的 关系。下列说法错误的是（）",
+      "options": [
+        "“雨过天晴云破处”所描述的瓷器青色，来自氧化铁",
+        "闻名世界的秦兵马俑是陶制品，由黏土经高温烧结而成",
+        "陶瓷是应用较早的人造材料，主要化学成分是硅酸盐",
+        "陶瓷化学性质稳定，具有耐酸碱侵蚀、抗氧化等优点"
+      ],
+      "answer": "A",
+      "solution": "【解答】解: A. 瓷器着色如雨过天晴, 为青色, 瓷器的原料高岭矿或高岭土中普遍含有 铁元素, 青瓷的烧制过程就是将含有红棕色氧化铁的色釉在火里烧, 再经过还原行成为 青色，此时铁不再是三价铁，而是二价铁，故 A 错误; B. 陶瓷的传统概念是指所有以黏土等无机非金属矿物为原材料, 经过高温烧制而成的产 品，闻名世界的秦兵马俑是陶制品，由黏土经高温烧结而成，故 B 正确; C. 以含硅元素物质为原料通过高温加热发生复杂的物理、化学变化制得硅酸盐产品, 传 统硅酸盐产品包括：普通玻璃、陶瓷、水泥，陶瓷，是用物理化学方法制造出来的最早 的人造材料, 一万多年以前, 它的诞生使人类由旧石器时代进人了新石器时代, 故 C 正 确; D. 陶瓷有：日用陶瓷、卫生陶瓷、建筑陶瓷、化工陶瓷和电瓷、压电陶瓷等, 共性为具 有抗氧化、抗酸碱腐蚀、耐高温、绝缘、易成型等优点，故 D 正确; 故选: A。",
+      "source": "GAOKAO-Bench|year:2019|index:89|commit:6dbb24f8d843",
+      "title": "高考真题候选·化学·2019·89",
+      "tags": [
+        "kp:CHEM-STRUCTURE-CRYSTAL",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "化学",
+      "chapter": "有机化学基础",
+      "knowledge_points": [
+        "有机物结构与性质"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "(6 分) “春蚕到死丝方尽, 蜡炬成灰泪始干” 是唐代诗人李商隐的著名诗句。下列关于 该诗句中所涉及物质的说法错误的是（）",
+      "options": [
+        "蚕丝的主要成分是蛋白质",
+        "蚕丝属于天然高分子材料",
+        "“蜡炬成灰”过程中发生了氧化反应",
+        "古代的蜡是高级脂肪酸脂，属于高分子聚合物"
+      ],
+      "answer": "D",
+      "solution": "【解答】解：A. 蚕丝的主要成分是蛋白质，故 A 正确; B. 蚕丝是天然蛋白质，属于天然高分子材料，故 B 正确; C. “蜡炬成灰”过程中是石蜡燃烧发生了氧化反应，故 C 正确; D. 古代的蜡是高级脂肪酸脂, 是一种酯类物质, 不属于高分子聚合物, 故 D 错误; 故选：D。",
+      "source": "GAOKAO-Bench|year:2019|index:91|commit:6dbb24f8d843",
+      "title": "高考真题候选·化学·2019·91",
+      "tags": [
+        "kp:CHEM-ORGANIC-STRUCTURE",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "化学",
+      "chapter": "化学基本概念",
+      "knowledge_points": [
+        "物质的量与化学计量"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "(6 分) 已知 $\\mathrm{N}_{\\mathrm{A}}$ 是阿伏加德罗常数的值，下列说法错误的是（）",
+      "options": [
+        "$3 \\mathrm{~g}^{3} \\mathrm{He}$ 含有的中子数为 $1 \\mathrm{~N}_{\\mathrm{A}}$",
+        "$1 \\mathrm{~L} 0.1 \\mathrm{~mol} \\cdot \\mathrm{L}^{-1}$ 磷酸钠溶液含有的 $\\mathrm{PO}_{4}{ }^{-}$数目为 $0.1 \\mathrm{~N}_{\\mathrm{A}}$",
+        "$1 \\mathrm{molK}_{2} \\mathrm{Cr}_{2} \\mathrm{O}_{7}$ 被还原为 $\\mathrm{Cr}^{3+}$ 转移的电子数为 $6 \\mathrm{~N}_{\\mathrm{A}}$",
+        "$48 \\mathrm{~g}$ 正丁烷和 $10 \\mathrm{~g}$ 异丁烷的混合物中共价键数目为 $13 \\mathrm{~N}_{\\mathrm{A}}$"
+      ],
+      "answer": "B",
+      "solution": "【解答】解: $\\mathrm{A} 、 3 \\mathrm{~g}^{3} \\mathrm{He}$ 的物质的量为 $1 \\mathrm{~mol}$, 而 $1 \\mathrm{~mol}^{3} \\mathrm{He}$ 中子的物质的量为 $1 \\mathrm{~mol}$, 所以 $3 \\mathrm{~g}^{3} \\mathrm{He}$ 含有的中子数为 $1 \\mathrm{~N}_{\\mathrm{A}}$, 故 $\\mathrm{A}$ 正确; $\\mathrm{B}$ 、磷酸钠是强碱弱酸盐, 弱离子磷酸根离子会发生水解, 所以 $1 \\mathrm{~L} 0.1 \\mathrm{~mol} \\cdot{ }^{-1} \\mathrm{~L}$ 磷酸钠溶 液含有的 $\\mathrm{PO}_{4}{ }^{3-}$ 数目小于 $0.1 \\mathrm{~N}_{\\mathrm{A}}$ ，故 B 错误; C、 $\\mathrm{K}_{2} \\mathrm{Cr}_{2} \\mathrm{O}_{7}$ 中铬由 +6 价变成 +3 价, 所以 $1 \\mathrm{~mol} \\mathrm{~K}_{2} \\mathrm{Cr}_{2} \\mathrm{O}_{7}$ 被还原为 $\\mathrm{Cr}^{3+}$ 转移的电子数为 $6 \\mathrm{~N}_{\\mathrm{A}}$ ，故 $\\mathrm{C}$ 正确; D、正丁烷和异丁烷只是碳架不同, 含有的共价键数均为 13 条, 所以 $48 \\mathrm{~g}$ 正丁烷和 $10 \\mathrm{~g}$ 异丁烷, 即混合物的物质的量为 $\\frac{48 \\mathrm{~g}+10 \\mathrm{~g}}{58 \\mathrm{~g} / \\mathrm{mol}}=1 \\mathrm{~mol}$, 所以 $48 \\mathrm{~g}$ 正丁烷和 $10 \\mathrm{~g}$ 异丁烷的混合 物中共价键数目为 $13 \\mathrm{~N}_{\\mathrm{A}}$ ，故 D 正确; 故选：B。",
+      "source": "GAOKAO-Bench|year:2019|index:92|commit:6dbb24f8d843",
+      "title": "高考真题候选·化学·2019·92",
+      "tags": [
+        "kp:CHEM-CONCEPT-AMOUNT",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "化学",
+      "chapter": "无机元素及其化合物",
+      "knowledge_points": [
+        "非金属及其化合物"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "(6 分) 化学与生活密切相关。下列叙述错误的是（）",
+      "options": [
+        "高纯硅可用于制作光感电池",
+        "铝合金大量用于高铁建设",
+        "活性炭具有除异味和杀䒩作用",
+        "碘酒可用于皮肤外用消毒"
+      ],
+      "answer": "C",
+      "solution": "【解答】解: $\\mathrm{A} . \\mathrm{Si}$ 为半导体材料, 能作光感电池, 故 A 正确; B. 铝合金在生活中用途最广泛，大量用于高铁建设, 故 B 正确; C. 活性炭具有吸附性, 没有强氧化性, 所以活性炭能去除异味, 但是不能杀菌消毒, 故 C 错误; D. 碘酒能使蛋白质变性而杀菌消毒，所以碘酒可用于皮肤外用消毒，故 D 正确； 故选: $C_{0}$",
+      "source": "GAOKAO-Bench|year:2019|index:95|commit:6dbb24f8d843",
+      "title": "高考真题候选·化学·2019·95",
+      "tags": [
+        "kp:CHEM-INORGANIC-NONMETAL",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "化学",
+      "chapter": "有机化学基础",
+      "knowledge_points": [
+        "有机物结构与性质"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "(6 分) 国家卫健委公布的新型冠状病毒肺炎诊疗方案指出, 乙醚、 $75 \\%$ 乙醇、含氯消毒 剂、过氧乙酸 $\\left(\\mathrm{CH}_{3} \\mathrm{COOOH}\\right)$ 、氯仿等均可有效灭活病毒。对于上述化学药品, 下列说 法错误的是 ( $\\quad)$",
+      "options": [
+        "$\\mathrm{CH}_{3} \\mathrm{CH}_{2} \\mathrm{OH}$ 能与水互溶",
+        "$\\mathrm{NaClO}$ 通过氧化灭活病毒",
+        "过氧乙酸相对分子质量为 76",
+        "氯仿的化学名称是四氯化碳"
+      ],
+      "answer": "D",
+      "solution": "【解答】解: A. $\\mathrm{CH}_{3} \\mathrm{CH}_{2} \\mathrm{OH}$ 与水分子间能形成氢键, 并且都是极性分子, 所以 $\\mathrm{CH}_{3} \\mathrm{CH}_{2} \\mathrm{OH}$ 能与水以任意比互溶, 故 $\\mathrm{A}$ 正确; B. $\\mathrm{NaClO}$ 具有强氧化性, 通过氧化能灭活病毒, 故 B 正确; C. 过氧乙酸的结构简式为 $\\mathrm{CH}_{3} \\mathrm{COOOH}$, 相对分子质量为 $12 \\times 2+4+16 \\times 3=76$, 故 $\\mathrm{C}$ 正 确; D. 氯仿的化学名称是三氯甲烷，不是四氯化碳，故 D 错误; 故选: D。",
+      "source": "GAOKAO-Bench|year:2020|index:100|commit:6dbb24f8d843",
+      "title": "高考真题候选·化学·2020·100",
+      "tags": [
+        "kp:CHEM-ORGANIC-STRUCTURE",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "化学",
+      "chapter": "无机元素及其化合物",
+      "knowledge_points": [
+        "金属及其化合物"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "( 6 分) 北宋沈括《梦溪笔谈》中记载: “信州铅山有苦泉, 流以为涧。挹其水熬之则成 胆矾，享胆矾则成铜。熬胆矾铁釜, 久之亦化为铜”。下列有关叙述错误的是（）",
+      "options": [
+        "胆矾的化学式为 $\\mathrm{CuSO}_{4}$",
+        "胆矾可作为湿法冶铜的原料",
+        "“焦之则成胆矾” 是浓缩结晶过程",
+        "“熬胆矶铁釜，久之亦化为铜”是发生了置换反应"
+      ],
+      "answer": "A",
+      "solution": "【解答】解: A. 胆矾是硫酸铜晶体, “胆矾” 化学式为 $\\mathrm{CuSO}_{4} \\cdot 5 \\mathrm{H}_{2} \\mathrm{O}$, 故 A 错误; B. 胆矾是硫酸铜晶体, 敖胆矾铁釜, 久之亦化为铜, 是发生了: $\\mathrm{Fe}+\\mathrm{CuSO}_{4}=\\mathrm{Cu}+\\mathrm{FeSO}_{4}$, 则胆矾可作为湿法冶铜的原料，故 B 正确; C. 挹其水敖之则成胆矾, 硫酸铜溶液蒸发得到硫酸铜晶体, 是浓缩结晶过程, 故 C 正 确; D. 䚺胆矾铁釜, 久之亦化为铜, 是发生了: $\\mathrm{Fe}+\\mathrm{CuSO}_{4}=\\mathrm{Cu}+\\mathrm{FeSO}_{4}$, 硫酸铜与 $\\mathrm{Fe}$ 置换 反应生成 $\\mathrm{Cu}$ ，属于置换反应，故 D 正确; 故选: A。 【点评 本题为信息题, 明确题目中所给的信息以及 $\\mathrm{Cu}$ 及其化合物的性质是解本题关键, 试题侧重基础知识的考查, 有利于提高学生获取信息利用信息解答问题能力。",
+      "source": "GAOKAO-Bench|year:2020|index:104|commit:6dbb24f8d843",
+      "title": "高考真题候选·化学·2020·104",
+      "tags": [
+        "kp:CHEM-INORGANIC-METAL",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "化学",
+      "chapter": "化学实验",
+      "knowledge_points": [
+        "实验现象与数据分析"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "(6 分) 某白色固体混合物由 $\\mathrm{NaCl} 、 \\mathrm{KCl} 、 \\mathrm{MgSO}_{4} 、 \\mathrm{CaCO}_{3}$ 中的两种组成, 进行如下实验: (1)混合物溶于水, 得到澄清透明溶液; (2)做焰色反应, 通过钴玻璃可观察到紫色; (3)向 溶液中加碱，产生白色沉淀。根据实验现象可判断其组成为（）",
+      "options": [
+        "$\\mathrm{KCl} 、 \\mathrm{NaCl}$",
+        "$\\mathrm{KCl} 、 \\mathrm{MgSO}_{4}$",
+        "$\\mathrm{KCl} 、 \\mathrm{CaCO}_{3}$",
+        "$\\mathrm{MgSO}_{4} 、 \\mathrm{NaCl}$"
+      ],
+      "answer": "B",
+      "solution": "【解答】解: (1)混合物溶于水, 得到澄清透明溶液, 则无 $\\mathrm{CaCO}_{3}$; (2)做焰色反应, 通过钴玻璃可观察到紫色, 则含有 $\\mathrm{KCl}$; (3)向溶液中加碱，产生白色沉淀，则含有 $\\mathrm{MgSO}_{4}$ ； (4)根据白色固体混合物由两种物质组成, 则无 $\\mathrm{NaCl}$; 综上: 白色固体混合物由 $\\mathrm{KCl} 、 \\mathrm{MgSO}_{4}$ 两种物质组成, 不含有 $\\mathrm{NaCl} 、 \\mathrm{CaCO}_{3}$, 故 B 正确; 故选：B",
+      "source": "GAOKAO-Bench|year:2020|index:105|commit:6dbb24f8d843",
+      "title": "高考真题候选·化学·2020·105",
+      "tags": [
+        "kp:CHEM-EXPERIMENT-ANALYSIS",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "化学",
+      "chapter": "化学反应原理",
+      "knowledge_points": [
+        "化学反应与能量"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "我国提出争取在 2030 年前实现碳达峰, 2060 年实现碳中和, 这对于改善环境, 实现绿 色发展至关重要。碳中和是指 $\\mathrm{CO}_{2}$ 的排放总量和减少总量相当。下列措施中能促进碳中和 最直接有效的是",
+      "options": [
+        "将重质油裂解为轻质油作为燃料",
+        "大规模开采可燃冰作为清洁燃料",
+        "通过清洁煤技术减少煤燃烧污染",
+        "研发催化剂将 $\\mathrm{CO}_{2}$ 还原为甲醇"
+      ],
+      "answer": "D",
+      "solution": "【详解】A. 将重质油裂解为轻质油并不能减少二氧化碳的排放量, 达不到碳中和的目的, 故 $\\mathrm{A}$ 不符合题意; B. 大规模开采可燃冰做为清洁燃料, 会增大二氧化碳的排放量, 不符合碳中和的要求, 故 $\\mathrm{B}$ 不符合题意; C. 通过清洁煤技术减少煤燃烧污染, 不能减少二氧化碳的排放量, 达不到碳中和的目的, 故 C 不符合题意; D. 研发催化剂将二氧化碳还原为甲醇, 可以减少二氧化碳的排放量, 达到碳中和的目的, 故 D 符合题意; 故选 D。",
+      "source": "GAOKAO-Bench|year:2021|index:110|commit:6dbb24f8d843",
+      "title": "高考真题候选·化学·2021·110",
+      "tags": [
+        "kp:CHEM-REACTION-ENERGY",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "化学",
+      "chapter": "化学基本概念",
+      "knowledge_points": [
+        "离子反应与离子方程式"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "下列过程中的化学反应, 相应的离子方程式正确的是",
+      "options": [
+        "用碳酸钠溶液处理水垢中的硫酸铂: $\\mathrm{CO}_{3}^{2-}+\\mathrm{CaSO}_{4}=\\mathrm{CaCO}_{3}+\\mathrm{SO}_{4}^{2-}$",
+        "过量铁粉加人稀硝酸中: $\\mathrm{Fe}+4 \\mathrm{H}^{+}+\\mathrm{NO}_{3}^{-}=\\mathrm{Fe}^{3+}+\\mathrm{NO} \\uparrow+2 \\mathrm{H}_{2} \\mathrm{O}$",
+        "硫酸铝溶液中滴加少量氢氧化钾溶液: $\\mathrm{Al}^{3+}+4 \\mathrm{OH}^{-}=\\mathrm{AlO}_{2}^{-}+2 \\mathrm{H}_{2} \\mathrm{O}$",
+        "氯化铜溶液中通人硫化氢: $\\mathrm{Cu}^{2+}+\\mathrm{S}^{2-}=\\mathrm{CuS} \\downarrow$"
+      ],
+      "answer": "A",
+      "solution": "【详解】A. 硫酸钘微溶, 用碳酸钠溶液处理水垢中的硫酸锠转化为难溶的碳酸钘, 离子方程 式为: $\\mathrm{CO}_{3}^{2-}+\\mathrm{CaSO}_{4}=\\mathrm{CaCO}_{3}+\\mathrm{SO}_{4}^{2-}$ ，故 $\\mathrm{A}$ 正确; B. 过量的铁粉与稀硝酸反应生成硝酸亚铁、一氧化氮和水, 离子方程式应为: $3 \\mathrm{Fe}+8 \\mathrm{H}^{+}+2 \\mathrm{NO}_{3}^{-}=3 \\mathrm{Fe}^{2+}+2 \\mathrm{NO} \\uparrow+4 \\mathrm{H}_{2} \\mathrm{O}$, 故 B 错误; C. 硫酸铝溶液与少量氢氧化钾溶液反应生成氢氧化铝沉淀和硫酸钾, 离子方程式应为: $\\mathrm{Al}^{3+}+3 \\mathrm{OH}^{-}=\\mathrm{Al}(\\mathrm{OH})_{3} \\downarrow$, 故 C 错误; D. 硫化氢为弱电解质, 书写离子方程式时不能拆, 离子方程式应为: $\\mathrm{Cu}^{2+}+\\mathrm{H}_{2} \\mathrm{~S}=\\mathrm{CuS} \\downarrow+2 \\mathrm{H}^{+}$, 故 D 错误; 答案选 A。",
+      "source": "GAOKAO-Bench|year:2021|index:111|commit:6dbb24f8d843",
+      "title": "高考真题候选·化学·2021·111",
+      "tags": [
+        "kp:CHEM-CONCEPT-ION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "化学",
+      "chapter": "化学基本概念",
+      "knowledge_points": [
+        "离子反应与离子方程式"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "生活中处处有化学, 下列叙述正确的是",
+      "options": [
+        "HB 铅笔芯的成分为二氧化铅",
+        "碳酸氢钠可做食品膨松剂",
+        "青铜和黄铜是不同结构的单质铜",
+        "焰火中红色来源于钠盐灼烧"
+      ],
+      "answer": "B",
+      "solution": "【详解】A. 铅笔芯的主要成分为石墨，不含二氧化铅，A 错误; B. 碳酸氢钠不稳定, 受热易分解产生二氧化碳, 能使面团松软, 可做食品膨松剂, B 正确; C. 青铜是在纯铜(紫铜)中加人锡或铅的合金, 黄铜为是由铜和锌所组成的合金, 两者均属 于混合物，不是铜单质， $\\mathrm{C}$ 错误; D. 钠元素灼烧显黄色，D 错误; 故选 B。",
+      "source": "GAOKAO-Bench|year:2022|index:116|commit:6dbb24f8d843",
+      "title": "高考真题候选·化学·2022·116",
+      "tags": [
+        "kp:CHEM-CONCEPT-ION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "分子与细胞",
+      "knowledge_points": [
+        "细胞生命历程"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "细胞凋亡是细胞死亡的一种类型。下列关于人体中细胞凋亡的叙述，正确的是 （）",
+      "options": [
+        "胎儿手的发育过程中不会发生细胞凋亡",
+        "小肠上皮细胞的自然更新过程中存在细胞凋亡现象",
+        "清除被病原体感染细胞的过程中不存在细胞凋亡现象",
+        "细胞凋亡是基因决定的细胞死亡过程，属于细胞坏死"
+      ],
+      "answer": "B",
+      "solution": "【解答】解：A、胎儿手发育的过程中，手指间隙的细胞会发生细胞凋亡，A错误； B、小肠上皮细胞中衰老的细胞将会发生细胞凋亡，不断完成细胞的自然更新，B正确； C、被病原体感染的细胞属于靶细胞，机体通过细胞免疫将靶细胞裂解死亡，释放抗原， 属于细胞凋亡，C错误； D、细胞凋亡是由基因所决定的细胞自动结束生命的过程，细胞坏死是在种种不利因素的 影响下导致的细胞非正常死亡，D错误。 故选：B。",
+      "source": "GAOKAO-Bench|year:2019|index:95|commit:6dbb24f8d843",
+      "title": "高考真题候选·生物·2019·95",
+      "tags": [
+        "kp:BIO-CELL-LIFE-CYCLE",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "细胞代谢",
+      "knowledge_points": [
+        "光合作用"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "将一株质量为20g的黄瓜幼苗栽种在光照等适宜的环境中，一段时间后植株达到 40g，其增加的质量来自于（）",
+      "options": [
+        "水、矿质元素和空气",
+        "光、矿质元素和水",
+        "水、矿质元素和土壤",
+        "光、矿质元素和空气"
+      ],
+      "answer": "A",
+      "solution": "【解答】解：黄瓜幼苗可以吸收水，增加鲜重；也可以从土壤中吸收矿质元素，合成相 关的化合物。也可以利用大气中二氧化碳进行光合作用制造有机物增加细胞干重。植物 光合作用将光能转化成了有机物中的化学能，并没有增加黄瓜幼苗的质量，故黄瓜幼苗 在光照下增加的质量来自于水、矿质元素、空气。综上所述，BCD不符合题意，A符合 题意。 故选：A。",
+      "source": "GAOKAO-Bench|year:2019|index:97|commit:6dbb24f8d843",
+      "title": "高考真题候选·生物·2019·97",
+      "tags": [
+        "kp:BIO-METABOLISM-PHOTOSYNTHESIS",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "稳态与调节",
+      "knowledge_points": [
+        "神经调节与体液调节"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "动物受到惊吓刺激时，兴奋经过反射弧中的传出神经作用于肾上腺髓质，使其分 泌肾上腺素；兴奋还通过传出神经作用于心脏。下列相关叙述错误的是（）",
+      "options": [
+        "兴奋是以电信号的形式在神经纤维上传导的",
+        "惊吓刺激可以作用于视觉、听觉或触觉感受器",
+        "神经系统可直接调节、也可通过内分泌活动间接调节心脏活动",
+        "肾上腺素分泌增加会使动物警觉性提高、呼吸频率减慢、心率减慢"
+      ],
+      "answer": "D",
+      "solution": "【解答】解：A、兴奋是以电信号的形式在神经纤维上传导的，A正确； B、惊吓刺激可以作用于视觉、听觉或触觉等相关感受器，B正确； C、神经系统可直接调节、也可通过内分泌活动间接调节心脏活动，C正确； D、肾上腺素分泌增加会使动物警觉性提高、心跳加快、呼吸加快，D错误。 故选：D。",
+      "source": "GAOKAO-Bench|year:2019|index:98|commit:6dbb24f8d843",
+      "title": "高考真题候选·生物·2019·98",
+      "tags": [
+        "kp:BIO-HOMEOSTASIS-NEURAL-HUMORAL",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "分子与细胞",
+      "knowledge_points": [
+        "细胞结构与功能"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "在真核细胞的内质网和细胞核中能够合成的物质分别是（）",
+      "options": [
+        "脂质、RNA",
+        "氨基酸、蛋白质",
+        "RNA、DNA",
+        "DNA、蛋白质"
+      ],
+      "answer": "A",
+      "solution": "【解答】解：A、内质网可以合成脂质，细胞核中可以发生转录合成RNA，A正确； B、蛋白质的合成场所是核糖体，B错误； C、内质网中不能合成RNA，细胞核中可以合成DNA和RNA，C错误； D、内质网中不能合成DNA，蛋白质的合成场所是核糖体，D错误。 故选：A。",
+      "source": "GAOKAO-Bench|year:2019|index:100|commit:6dbb24f8d843",
+      "title": "高考真题候选·生物·2019·100",
+      "tags": [
+        "kp:BIO-CELL-STRUCTURE",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "细胞代谢",
+      "knowledge_points": [
+        "细胞呼吸"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "马铃薯块茎储藏不当会出现酸味，这种现象与马铃薯块茎细胞的无氧呼吸有关。 下列叙述正确的是（）",
+      "options": [
+        "马铃薯块茎细胞无氧呼吸的产物是乳酸和葡萄糖",
+        "马铃薯块茎细胞无氧呼吸产生的乳酸是由丙酮酸转化而来",
+        "马铃薯块茎细胞无氧呼吸产生丙酮酸的过程不能生成ATP",
+        "马铃薯块茎储藏库中氧气浓度的升高会增加酸味的产生"
+      ],
+      "answer": "B",
+      "solution": "【解答】解：A、马铃薯块茎无氧呼吸的产物是乳酸，无葡萄糖，A错误； B、马铃薯块茎细胞无氧呼吸的第一阶段，葡萄糖被分解成丙酮酸，丙酮酸在第二阶段转 化成乳酸，B正确； C、马铃薯块茎细胞无氧呼吸产生丙酮酸属于无氧呼吸的第一阶段，会生成少量ATP，C错误； D、马铃薯块茎储存时，氧气浓度增加会抑制其无氧呼吸，酸味会减少，D错误。 故选：B。",
+      "source": "GAOKAO-Bench|year:2019|index:101|commit:6dbb24f8d843",
+      "title": "高考真题候选·生物·2019·101",
+      "tags": [
+        "kp:BIO-METABOLISM-RESPIRATION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "稳态与调节",
+      "knowledge_points": [
+        "神经调节与体液调节"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "当人体失水过多时，不会发生的生理变化是（）",
+      "options": [
+        "血浆渗透压升高",
+        "产生渴感",
+        "血液中的抗利尿激素含量升高",
+        "肾小管对水的重吸收降低"
+      ],
+      "answer": "D",
+      "solution": "【解答】解：A、脱水时血浆渗透压升高，A正确； B、机体脱水时，血浆渗透压升高，下丘脑渗透压感受器受到的刺激增强，引起渴觉中枢 兴奋，产生渴觉，B正确； C、机体脱水时，血浆渗透压升高，致使抗利尿激素分泌量增加，C正确； D、抗利尿激素随血液运输到全身各处，作用于肾小管和集合管，促进肾小管和集合管对 水分的重吸收，D错误。 故选：D。",
+      "source": "GAOKAO-Bench|year:2019|index:103|commit:6dbb24f8d843",
+      "title": "高考真题候选·生物·2019·103",
+      "tags": [
+        "kp:BIO-HOMEOSTASIS-NEURAL-HUMORAL",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "遗传与进化",
+      "knowledge_points": [
+        "遗传基本规律"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "某种植物的羽裂叶和全缘叶是一对相对性状。某同学用全缘叶植株（植株甲）进 行了下列四个实验。 ①让植株甲进行自花传粉，子代出现性状分离 ②用植株甲给另一全缘叶植株授粉，子代均为全缘叶 ③用植株甲给羽裂叶植株授粉，子代中全缘叶与羽裂叶的比例为1：1 ④用植株甲给另一全缘叶植株授粉，子代中全缘叶与羽裂叶的比例为3：1 其中能够判定植株甲为杂合子的实验是（）",
+      "options": [
+        "①或②",
+        "①或④",
+        "②或③",
+        "③或④"
+      ],
+      "answer": "B",
+      "solution": "【解答】解：①让全缘叶植株甲进行自花传粉，子代出现性状分离，说明植株甲为杂合 子，杂合子表现为显性性状，新出现的性状为隐性性状，①正确； ②用植株甲给另一全缘叶植株授粉，子代均为全缘叶，说明双亲可能都是纯合子，既可 能是显性纯合子，也可能是隐性纯合子，或者是双亲均表现为显性性状，其中之一为杂 合子，另一个为显性纯合子，因此不能判断植株甲为杂合子，②错误； ③用植株甲给羽裂叶植株授粉，子代中全缘叶与羽裂叶的比例为1：1，只能说明一个亲 本为杂合子，另一个亲本为隐性纯合子，但谁是杂合子、谁是纯合子无法判断，③错误； ④用植株甲给另一全缘叶植株授粉，子代中全缘叶与羽裂叶的比例为3：1，说明植株甲 与另一全缘叶植株均为杂合子，④正确。 故选：B。",
+      "source": "GAOKAO-Bench|year:2019|index:104|commit:6dbb24f8d843",
+      "title": "高考真题候选·生物·2019·104",
+      "tags": [
+        "kp:BIO-GENETICS-LAWS",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "生物与环境",
+      "knowledge_points": [
+        "生态系统结构与功能"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "如果食物链上各营养级均以生物个体的数量来表示，并以食物链起点的生物个体 数作底层来绘制数量金字塔，则只有两个营养级的夏季草原生态系统（假设第一营养级 是牧草，第二营养级是羊）和森林生态系统（假设第一营养级是乔木，第二营养级是昆 虫）数量金字塔的形状最可能是（）",
+      "options": [
+        "前者为金字塔形，后者为倒金字塔形",
+        "前者为倒金字塔形，后者为金字塔形",
+        "前者为金字塔形，后者为金字塔形",
+        "前者为倒金字塔形，后者为倒金字塔形"
+      ],
+      "answer": "A",
+      "solution": "【解答】解：如果食物链上各营养级均以生物个体的数量来表示，并以食物链起点的生 物个体数作底层来绘制数量金字塔，则可能出现正金字塔形，也可能出现倒金字塔形。 只有两个营养级的夏季草原生态系统（假设第一营养级是牧草，第二营养级是羊），则牧 草的数量比羊多，绘制的数量金字塔为正金字塔形；森林生态系统（假设第一营养级是 乔木，第二营养级是昆虫），一棵树上可以有很多昆虫，因此，昆虫的数目比乔木的数量 多，绘制的数量金字塔为倒金字塔形。综上分析，前者为金字塔形，后者为倒金字塔形。 故选：A。",
+      "source": "GAOKAO-Bench|year:2019|index:105|commit:6dbb24f8d843",
+      "title": "高考真题候选·生物·2019·105",
+      "tags": [
+        "kp:BIO-ECOLOGY-ECOSYSTEM",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "细胞代谢",
+      "knowledge_points": [
+        "细胞呼吸"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "若将n粒玉米种子置于黑暗中使其萌发，得到n株黄化苗。那么，与萌发前的这 n粒干种子相比，这些黄化苗的有机物总量和呼吸强度表现为（）",
+      "options": [
+        "有机物总量减少，呼吸强度增强",
+        "有机物总量增加，呼吸强度增强",
+        "有机物总量减少，呼吸强度减弱",
+        "有机物总量增加，呼吸强度减弱"
+      ],
+      "answer": "A",
+      "solution": "【解答】解：种子的萌发过程中，细胞代谢增强，呼吸强度增强，消耗的有机物增加， 重量减轻。 故选：A。",
+      "source": "GAOKAO-Bench|year:2019|index:109|commit:6dbb24f8d843",
+      "title": "高考真题候选·生物·2019·109",
+      "tags": [
+        "kp:BIO-METABOLISM-RESPIRATION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "分子与细胞",
+      "knowledge_points": [
+        "组成细胞的分子"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "新冠肺炎疫情警示人们要养成良好的生活习惯，提高公共卫生安全意识。下列相 关叙述错误的是（）",
+      "options": [
+        "戴口罩可以减少病原微生物通过飞沫在人与人之间的传播",
+        "病毒能够在餐具上增殖，用食盐溶液浸泡餐具可以阻止病毒增殖",
+        "高温可破坏病原体蛋白质的空间结构，煮沸处理餐具可杀死病原体",
+        "生活中接触的物体表面可能存在病原微生物，勤洗手可降低感染风险"
+      ],
+      "answer": "B",
+      "solution": "【解答】解：A、戴口罩可以减少病原微生物通过飞沫在人与人之间的传播，A正确； B、病毒无细胞结构，只能寄生于活细胞才能生存，不能在餐具上增殖，B错误； C、蛋白质在高温下容易变性，使得蛋白质的空间结构受到破坏，煮沸处理餐具可杀死病 原体，C正确； D、生活中接触的物体表面可能存在病原微生物，勤洗手可将病原微生物冲走，降低感染 风险，D正确。 故选：B。",
+      "source": "GAOKAO-Bench|year:2020|index:112|commit:6dbb24f8d843",
+      "title": "高考真题候选·生物·2020·112",
+      "tags": [
+        "kp:BIO-CELL-MOLECULE",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "语文",
+      "chapter": "语言文字运用",
+      "knowledge_points": [
+        "词语辨析与使用"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "下列各句中，加点的成语使用恰当的一项是（ ）",
+      "options": [
+        "他性格比较内向 ，平时沉默寡言 ，但是一到课堂上就变得振振有词 ，滔滔 不绝，所以他的课很受学生欢迎。",
+        "泰山几千年来都是文人墨客们向往的圣地 ，在浩如烟海的中华典籍中 ，留 下了众多颂扬泰山的诗词文章。",
+        "张经理语重心长的一席话 ，如电光火石 ，让小余心头淤积的阴霾顿时消散 ，再次燃气争创销售佳绩的激情。",
+        "迅速崛起的快递行业 ，经过几年的激烈竞争 ，大部分企业都已经转行或倒 闭了，市场上只剩他们几家平分秋色。"
+      ],
+      "answer": "B",
+      "solution": "A．振振有词：理直气壮的样子。形容自以为理由很充分，说个不休。 含贬义。用于学生上课表现不符合语境，感情色彩不对。 B．浩如烟海：形容典籍、图书等极为丰富。 C．电光火石：指闪电的光，燧石的火。比喻事物瞬息即逝。现多形容事物像闪 电和石火一样一瞬间就消逝。亦比喻行动迅速，出手先制。此处属于望文生 义。 D．平分秋色：比喻双方各得一半，不分高低，表示平局。此处对象不是双方 ， 不合语境。",
+      "source": "GAOKAO-Bench|year:2013|index:9|commit:6dbb24f8d843",
+      "title": "高考真题候选02·语文·2013·9",
+      "tags": [
+        "kp:CHN-LANGUAGE-WORDS",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "语文",
+      "chapter": "语言文字运用",
+      "knowledge_points": [
+        "病句辨析与修改"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "下列各句中，没有语病的一句是（ ）",
+      "options": [
+        "对于传说中这类拥有异常可怕力量的动物 ，尚武的古代欧洲人的真实心态 恐怕还是敬畏多于憎恶的．",
+        "杜绝过度治疗 ，除了加强宣传教育外 ，还要靠制度保障医疗机构正常运转 ，调控盲目扩张的逐利行为．",
+        "作者观察细致 ，一泓清潭 ，汩汩流水 、郎朗歌声 ，都能激发他的灵感 ，都 能从中找到抒情叙事的切入点．",
+        "过于重视教育功能 ，文学作品会出现理性捆绑感性 ，思想大于形象 ，甚至 全无艺术性，变成干巴巴的说教．"
+      ],
+      "answer": "A",
+      "solution": "A．表述正确 B．句式杂糅 ，“还要靠制度保障 ”和“医疗机构正常运转 ”首尾链接杂糅 。“调控 ”的 主语也不明； C．不合逻辑 ，由于偷换主语造成不合逻辑 ，“都能从中找到 ”的主语应该是 “作者 ”； D．成分残缺， “出现理性捆绑感性 ”后面加 “的现象 ”。",
+      "source": "GAOKAO-Bench|year:2013|index:10|commit:6dbb24f8d843",
+      "title": "高考真题候选02·语文·2013·10",
+      "tags": [
+        "kp:CHN-LANGUAGE-SENTENCE",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "语文",
+      "chapter": "语言文字运用",
+      "knowledge_points": [
+        "语言表达与衔接"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "依次填入下面一段文字横线处的语句，衔接最恰当的一组是（ ） 当代艺术博物馆今日举办名为 “风物 ”的展览，展出了几位画家、摄影师的作 品， ， 。 ， ， ， ，能启发我们发现身边的奇景和诗意。 ①因此无论多么微不足道的事物都可变成艺术主题 ②展出的作品大部分都体现用细节带出重点的风格特点 ③彰显出艺术独具的神奇力量 ④作品展示的都是他们在美国南部腹地、新西兰北岛旅行时留下的记录 ⑤内容从自然环境、建筑、各类标志，到人物、室内布置，覆盖面很广 ⑥而且带有叙事意味，每件作品都像日常世界的一个短篇故事。",
+      "options": [
+        "②⑥⑤④③①",
+        "②③①④⑤⑥",
+        "④⑤②①⑥③",
+        "④⑥⑤①③②"
+      ],
+      "answer": "C",
+      "solution": "通读语段 ，比较选项 ，我们首先确定第一句是②还是④ ，我们只需将这 两句分别放到第一个空格处 ，前文的语境联系起来 ，②不能放在首位 ，因为 “ 摄影师的作品展出的作品大部分都体现用细节带出重点的风格特点 ”这句明 显是有语病的 ，故第一句只能是④ ，从而排除 A、B；第②句“用细节带出重点 ”和第①句 “微不足道的事物都可以变成艺术 ”前后勾连，构成因果关系，所以 排除 D．而且第③ 句和文段末句 “能启发我们发现身边的奇景和诗意 ”的主语都 是“每件作品 ”，因此应该放在⑥的后面 。因此选 C．通读排列后的句子符合语 感和句子的内部逻辑顺序。",
+      "source": "GAOKAO-Bench|year:2013|index:11|commit:6dbb24f8d843",
+      "title": "高考真题候选02·语文·2013·11",
+      "tags": [
+        "kp:CHN-LANGUAGE-EXPRESSION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "语文",
+      "chapter": "语言文字运用",
+      "knowledge_points": [
+        "词语辨析与使用"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "依次填入下列各句横线处的成语，最恰当的一组是（ ） ①医疗质量是关系到病人生命安危的大事，救死扶伤是医务人员 的天职。 ②中国传统的严父慈母型的家庭关系，常令父亲们 地承担起教育子女的 义务。 ③在全国比赛中屡获金奖的我省杂技团， 地承担了这次出国演出任务。",
+      "options": [
+        "当仁不让 责无旁贷 义不容辞",
+        "责无旁贷 义不容辞 当仁不让",
+        "义不容辞 责无旁贷 当仁不让",
+        "义不容辞 当仁不让 责无旁贷"
+      ],
+      "answer": "C",
+      "solution": "当仁不让：指遇到应当做的事情就主动去做，不必退让，侧重于 “主动 承担 ”； 义不容辞：道义上不允许推辞，表示理应承担，侧重于 “理应担当 ”； 责无旁贷：属于自己应尽的责任，不能推卸给别人，侧重 “不能推卸 ”。 ①救死扶伤是医生理应担当的责任，故选用 “义不容辞 ”；排除 A、B ②教育子女是父母的责任，不可推卸，故选用 “责无旁贷 ”；排除 D ③句中含有主动承担的意思，故选用 “当仁不让 ”；",
+      "source": "GAOKAO-Bench|year:2014|index:15|commit:6dbb24f8d843",
+      "title": "高考真题候选02·语文·2014·15",
+      "tags": [
+        "kp:CHN-LANGUAGE-WORDS",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "语文",
+      "chapter": "语言文字运用",
+      "knowledge_points": [
+        "病句辨析与修改"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "下列各句中，没有语病的一句是 （ ）",
+      "options": [
+        "作为古希腊哲学家 ，他在本体论问题的论述中充满着辩证法 ，因此被誉为 “古代世界的黑格尔 ”．",
+        "古代神话虽然玄幻瑰奇 ，但仍然来源于生活现实 ，曲折地反映了先民们征 服自然、追求美好生活的愿望．",
+        "本书首次将各民族文学广泛载入中国文学通史 ，但就其章节设置 、阐释深 度等方面依然有很大的改进空间．",
+        "由此可见，当时的设计者们不仅希望该过程中艺术活动是富有创造性的 ， 而且技术活动也是富有创造性的．"
+      ],
+      "answer": "B",
+      "solution": "A．成分残缺，在 “辩证法 ”后面加 “的思维 ”； B．表述正确； C．句式杂糅，将 “就”改为 “在”或在 “方面 ”后加 “而言 ”； D．语序不当，应把 “希望该过程中 ”放到 “不仅 ”之前；“技术活动 ”与“艺术活动 ”交 换。",
+      "source": "GAOKAO-Bench|year:2014|index:16|commit:6dbb24f8d843",
+      "title": "高考真题候选02·语文·2014·16",
+      "tags": [
+        "kp:CHN-LANGUAGE-SENTENCE",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "语文",
+      "chapter": "语言文字运用",
+      "knowledge_points": [
+        "语言表达与衔接"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "依次填入下面一段文字横线处的语句 ，衔接最恰当的一组是 （ ） 中国珠算是以算盘为工具进行数字计算的一种方法，借助算盘和口诀，通 过人手指拨动算珠，就可以完成高难度计算。 ， ， ， ， ， 。2013年12月4日， “中国珠算 ”被正式列入联 合国教科文组织人类非物质文化遗产名录。 ①即便是不识字的人也能熟练掌握 ②珠算算盘结构简单，操作方便 ③包含了珠算的所有秘密 ④蕴含了坐标几何的原理 ⑤用珠算运算，无论速度还是准确率都可以跟电子计算器媲美 ⑥珠算口诀则是一套完整的韵味诗歌。",
+      "options": [
+        "②③⑥④⑤①",
+        "⑤②③⑥④①",
+        "⑤①②⑥③④",
+        "②④⑥③①⑤"
+      ],
+      "answer": "D",
+      "solution": "需要排序的六个句子，讲了三个方面的内容：算盘的结构、特点②④ ， 口诀的特点⑥③① ，珠算可以和电子计算器媲美 。根据前文提供的语境 “借助 算盘和口诀 ”，那应该先讲算盘 、再讲口诀 ，然后将它和电子计算器比较 。故② ④应该在最前面，然后是①③⑥，最后是⑤，通过比较选项， 选D．通读排 列后的句子，符合语感和句子的内部逻辑关系。",
+      "source": "GAOKAO-Bench|year:2014|index:17|commit:6dbb24f8d843",
+      "title": "高考真题候选02·语文·2014·17",
+      "tags": [
+        "kp:CHN-LANGUAGE-EXPRESSION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "语文",
+      "chapter": "语言文字运用",
+      "knowledge_points": [
+        "词语辨析与使用"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "依次填入下列各句検线处的成语，最恰当的一组是（ ） ①消防工作必须立足于 _______，从提高公众的防火意识做起。 ②即使现有的产品杨销，也要 _______，抓紧技术储备与新产品开发。 ③如果我们不从小事做起， _______，那些细小的苗头最终可能酿成大祸。",
+      "options": [
+        "防患未然 防微杜渐 未雨绸缪",
+        "防患未然 未雨绸缪 防微杜渐",
+        "未雨绸缪 防微杜渐 防患未然",
+        "未雨绸缪 防患未然 防徽杜渐"
+      ],
+      "answer": "B",
+      "solution": "防患未然：防止事故或祸害于尚未发生之前。 未雨绸缪：天还没有下雨，先把门窗绑牢。比喻事先做好准备工作。 防微杜渐：比喻在坏事情坏思想萌芽的时候就加以制止，不让它发展。 ①根据语境 “消防工作 ”跟“事故、灾祸 ”有关，故选用 “防患未然 ”；排除 C、D ②“产品畅销也要抓紧技术储备和新产品开放 ”，选用 “未雨绸缪 ”；排除 A ③根据语境 “不从小事做起 ”“细小的苗头最终可能酿成大祸 ”选用 “防微杜渐 ”；",
+      "source": "GAOKAO-Bench|year:2014|index:18|commit:6dbb24f8d843",
+      "title": "高考真题候选02·语文·2014·18",
+      "tags": [
+        "kp:CHN-LANGUAGE-WORDS",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "语文",
+      "chapter": "语言文字运用",
+      "knowledge_points": [
+        "病句辨析与修改"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "下列各句中，没有语病的一句是（ ）",
+      "options": [
+        "他在新作 《世界史 》的前言中系统地阐述了世界是个不可分割的整体的观 念，并将相关理论在该书的编撰中得到实施。",
+        "作为一名语文老师，他非常喜欢茅盾的小说，对茅盾的《子夜 》曾反复阅 读，一直被翻得破烂不堪，只好重新装订。",
+        "《舌尖上的中国 》这部风靡海内外的纪录片，用镜头展示烹饪技术，用美 味包裹乡愁，给观众带来了心灵的震撼。",
+        "如果我们能够看准时机，把握机会，那么今天所投资百万元带来的效益 ， 恐怕是五年后投资千万元也比不上的。"
+      ],
+      "answer": "C",
+      "solution": "A．搭配不当， “理论 ”与“实施 ”搭配不当。将 “实施 ”改为 “体现 ”。 B．偷换主语 ，“他非常喜欢茅盾的小说 ”主语是 “他”，“一直被翻得破烂不堪 ”主语 应该是 “《子夜》这本书 ”，“只好重新装订 ”的主语是 “他”，句中就一个主语 “ 他”，显然是错误的 。可以将 “一直被翻得破烂不堪 ”改为 “把书翻得破烂不堪 ”， 这样所有句子的主语都是 “他”； C．表述正确。 D．成分赘余，去掉 “所”。",
+      "source": "GAOKAO-Bench|year:2014|index:19|commit:6dbb24f8d843",
+      "title": "高考真题候选02·语文·2014·19",
+      "tags": [
+        "kp:CHN-LANGUAGE-SENTENCE",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "语文",
+      "chapter": "语言文字运用",
+      "knowledge_points": [
+        "语言表达与衔接"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "依次填入下面一段文字横线处的语句，衔接最恰当的一组是（ ） 马是中国人喜爱的动物，是人类最早驯养的家畜之一，是极其温顺又充满野 性魅力的动物。 ， ， ， ， ， ， 马己经成为力量与神奇的代表。 ①还让人们有了敬马王、打马球、赛马等习俗 ②对人们生活的各个方面都产生了重大影响 ③它帮人们种地运货，和人们一起南征北战 ④作为六畜之首 ⑤马是人类的朋友和伴侣 ⑥千里马、老马识途等故事也十分深入人心。",
+      "options": [
+        "③②④①⑤⑥",
+        "③⑥①④⑤②",
+        "⑤③②⑥①④",
+        "⑤④②③①⑥"
+      ],
+      "answer": "D",
+      "solution": "通读语段和对选项作比较 ，我们首先要确定首句 。横线的上文叙述的主 体是马，如果按 A、B那样将③置于首位 ，似乎可以 ，但B中③之后不适宜连 接⑥，因为⑥中有一个副词 “也”，前文没有出现对应的句子于是可知 B不合 理应排除； 又可发现 A中④①排列的不合理，因为①中有一个副词 “还”，前 文没有出现对应的句子 ，也应排除 。C、D都将⑤排在首位 ，这似乎也是可以 的，但C中②是总说马对人们产生的影响，①③⑥是分项具体说马对人们生 活产生的影响，故①③⑥应排在②的后面， 故C排列不恰当，应予排除； D 中各句的排列是恰当的。通读排列后的句子，符合语感和句子内部的逻辑关 系。",
+      "source": "GAOKAO-Bench|year:2014|index:20|commit:6dbb24f8d843",
+      "title": "高考真题候选02·语文·2014·20",
+      "tags": [
+        "kp:CHN-LANGUAGE-EXPRESSION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "语文",
+      "chapter": "语言文字运用",
+      "knowledge_points": [
+        "语言表达与衔接"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "填入下面一段文字横线处的语句，最恰当的一句是（ ） 随着雾霾频发，油品质量对环境的影响引起了人们越来越多的关注。有测试 表明。一些城市空气中 PM2. 5的20%左右来自机动车尾气，而只要使用符合 新标准的汽油和柴油， 。有鉴于此，我国将加快推进成品油质量升级 国家专项行动。",
+      "options": [
+        "即使现有汽车不作任何改造， 其尾气中相关污染物的排放也能减少 10%",
+        "汽车尾气中相关污染物的排放就可减少 10%，现有汽车的改造并不是必须 的",
+        "再加上对现有汽车进行改造 ，其尾气中相关污染物的排放就将减少 10%以 上",
+        "不管是否改造现有汽车， 其尾气中的相关污染物排放都将减少 10%"
+      ],
+      "answer": "A",
+      "solution": "从横线前后的句子来看 ，横线前是因 ，横线后是果 ，是结论。也就是说 “我国将加快推行成品油质量升级国家专项行动 ”，是因为 “使用符合新标准的 汽油和柴油 ”带来的好处，可排除 B选项。另外，特别是要把握关联词 “只要 ” ，“只要 ”表限定，后面接的内容限定这一种，一般用来叙述比较确定的事， 再联系 “只要使用符合新标准的汽油和柴油 ”，",
+      "source": "GAOKAO-Bench|year:2015|index:23|commit:6dbb24f8d843",
+      "title": "高考真题候选02·语文·2015·23",
+      "tags": [
+        "kp:CHN-LANGUAGE-EXPRESSION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "数学",
+      "chapter": "集合与逻辑",
+      "knowledge_points": [
+        "集合的基本运算"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "（5 分) 已知集合 $A=\\{x \\in R|| x \\mid \\leqslant 2\\}\\}, B=\\{x \\in Z \\mid \\sqrt{x} \\leqslant 4\\}$, 则 $A \\cap B=(\\quad$ ）",
+      "options": [
+        "$(0,2)$",
+        "$[0,2]$",
+        "$\\{0,2\\}$",
+        "$\\{0,1,2\\}$"
+      ],
+      "answer": "D",
+      "solution": "解: $A=\\{x \\in R|| x \\mid \\leqslant 2\\}=,\\{x \\in R \\mid-2 \\leqslant x \\leqslant 2\\}$, $B=\\{x \\in Z \\mid \\sqrt{x} \\leqslant 4\\}=\\{x \\in Z \\mid 0 \\leqslant x \\leqslant 16\\}$ 故 $A \\cap B=\\{0,1,2\\}$. 应选 D.",
+      "source": "GAOKAO-Bench|year:2010|index:0|commit:6dbb24f8d843",
+      "title": "高考真题候选02·数学·2010·0",
+      "tags": [
+        "kp:MATH-SET-OPERATIONS",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "数学",
+      "chapter": "集合与逻辑",
+      "knowledge_points": [
+        "集合的基本运算"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "已知集合 $M=\\left\\{x \\mid(x-1)^{2}<4, x \\in R\\right\\}, N=\\{-1,0,1,2,3\\}$, 则 $M$ $\\cap N=(\\quad)$",
+      "options": [
+        "$\\{0,1,2\\}$",
+        "$\\{-1,0,1,2\\}$",
+        "$\\{-1,0,2,3\\}$",
+        "$\\{0,1,2,3\\}$"
+      ],
+      "answer": "A",
+      "solution": "解: 由 $(x-1)^{2}<4$, 解得: $-1<x<3$, 即 $M=\\{x \\mid-1<x<3\\}$, $\\because N=\\{-1,0,1,2,3\\}$, $\\therefore M \\cap N=\\{0,1,2\\}$. 故选: A.",
+      "source": "GAOKAO-Bench|year:2013|index:31|commit:6dbb24f8d843",
+      "title": "高考真题候选02·数学·2013·31",
+      "tags": [
+        "kp:MATH-SET-OPERATIONS",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "数学",
+      "chapter": "函数",
+      "knowledge_points": [
+        "函数的奇偶性"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "设偶函数 $f(x)$ 满足 $f(x)=2^{x}-4(x \\geqslant 0)$ ，则 $\\{x \\mid f(x-2)>0\\}=($ )",
+      "options": [
+        "$\\{x \\mid x<-2$ 或 $x>4\\}$",
+        "$\\{x \\mid x<0$ 或 $x>4\\}$",
+        "$\\{x \\mid x<0$ 或 $x>6\\}$",
+        "$\\{x \\mid x<-2$ 或 $x>2\\}$"
+      ],
+      "answer": "B",
+      "solution": "解: 由偶函数 $f(x)$ 满足 $f(x)=2^{x}-4(x \\geqslant 0)$, 可得 $f(x)=f(|x|)$ $=2^{|x|-4}$, 则 $f(x-2)=f(|x-2|)=2^{|x-2|}-4$, 要使 $f(|x-2|)>0$, 只需 $2^{|x-2|}-4>0$, $$ |x-2|>2 $$ 解得 $x>4$, 或 $x<0$. 应选: B.",
+      "source": "GAOKAO-Bench|year:2010|index:5|commit:6dbb24f8d843",
+      "title": "高考真题候选02·数学·2010·5",
+      "tags": [
+        "kp:MATH-FUNCTION-PARITY",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "数学",
+      "chapter": "三角函数",
+      "knowledge_points": [
+        "同角三角函数的基本关系"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "(5 分）若 $\\cos \\alpha=-\\frac{4}{5}, \\alpha$ 是第三象限的角, 则 $\\frac{1+\\tan \\frac{\\alpha}{2}}{1-\\tan \\frac{\\alpha}{2}}=(\\quad)$",
+      "options": [
+        "$-\\frac{1}{2}$",
+        "$\\frac{1}{2}$",
+        "2",
+        "-2"
+      ],
+      "answer": "A",
+      "solution": "解: 由 $\\cos \\alpha=-\\frac{4}{5}, \\alpha$ 是第三象限的角, $\\therefore$ 可得 $\\sin \\alpha=-\\frac{3}{5}$, 则 $\\frac{1+\\tan \\frac{\\alpha}{2}}{1-\\tan \\frac{\\alpha}{2}}=\\frac{\\cos \\frac{\\alpha}{2}+\\sin \\frac{\\alpha}{2}}{\\cos \\frac{\\alpha}{2}-\\sin \\frac{\\alpha}{2}}=\\frac{1+\\sin \\alpha}{\\cos \\alpha}=\\frac{1-\\frac{3}{5}}{-\\frac{4}{5}}=-\\frac{1}{2}$, 应选 $A$.",
+      "source": "GAOKAO-Bench|year:2010|index:6|commit:6dbb24f8d843",
+      "title": "高考真题候选02·数学·2010·6",
+      "tags": [
+        "kp:MATH-TRIG-FUNDAMENTAL-IDENTITY",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "数学",
+      "chapter": "复数",
+      "knowledge_points": [
+        "复数的四则运算"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "设复数 $z$ 满足 $(1-i) z=2 i$, 则 $z=(\\quad)$",
+      "options": [
+        "$-1+i$",
+        "$-1-i$",
+        "$1+i$",
+        "1- $\\mathrm{i}$"
+      ],
+      "answer": "A",
+      "solution": "解: $\\because$ 复数 $z$ 满足 $z(1-\\mathrm{i})=2 \\mathrm{i}$, $\\therefore z=\\frac{2 i}{1-i}=\\frac{2 i(1+i)}{(1-i)(1+i)}=-1+i$ 故选: A.",
+      "source": "GAOKAO-Bench|year:2013|index:32|commit:6dbb24f8d843",
+      "title": "高考真题候选02·数学·2013·32",
+      "tags": [
+        "kp:MATH-COMPLEX-ARITHMETIC",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "数学",
+      "chapter": "数列",
+      "knowledge_points": [
+        "等比数列的通项公式"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "(5 分) 等比数列 $\\left\\{a_{n}\\right\\}$ 的前 $n$ 项和为 $S_{n}$, 已知 $S_{3}=a_{2}+10 a_{1}, a_{5}=9$, 则 $a_{1}=(\\quad)$",
+      "options": [
+        "$\\frac{1}{3}$",
+        "$-\\frac{1}{3}$",
+        "$\\frac{1}{9}$",
+        "$-\\frac{1}{9}$"
+      ],
+      "answer": "C",
+      "solution": "解：设等比数列 $\\left\\{a_{n}\\right\\}$ 的公比为 $q$, $\\because s_{3}=a_{2}+10 a_{1}, a_{5}=9$ $\\therefore\\left\\{\\begin{array}{l}a_{1}+a_{1} q+a_{1} q^{2}=a_{1} q+10 a_{1} \\\\ a_{1} q^{4}=9\\end{array}\\right.$, 解得 $\\left\\{\\begin{array}{l}q^{2}=9 \\\\ a_{1}=\\frac{1}{9}\\end{array}\\right.$. $\\therefore a_{1}=\\frac{1}{9}$. 故选: C.",
+      "source": "GAOKAO-Bench|year:2013|index:33|commit:6dbb24f8d843",
+      "title": "高考真题候选02·数学·2013·33",
+      "tags": [
+        "kp:MATH-SEQUENCE-GEOMETRIC-GENERAL",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "数学",
+      "chapter": "导数",
+      "knowledge_points": [
+        "基本初等函数的导数"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "（5 分) 已知函数 $f(x)=a x^{3}-3 x^{2}+1$, 若 $f(x)$ 存在唯一的零点 $x_{0}$, 且 $x_{0}>$ 0 , 则实数 a 的取值范围是（ $)$",
+      "options": [
+        "$(1,+\\infty)$",
+        "$(2,+\\infty)$",
+        "$(-\\infty,-1)$",
+        "$(-\\infty,-2)$"
+      ],
+      "answer": "D",
+      "solution": "解: $\\because f(x)=a x^{3}-3 x^{2}+1$, $\\therefore f^{\\prime}(x)=3 a x^{2}-6 x=3 x(a x-2), f(0)=1$; (1)当 $a=0$ 时, $f(x)=-3 x^{2}+1$ 有两个零点, 不成立; (2)当 $a>0$ 时, $f(x)=a x^{3}-3 x^{2}+1$ 在 $(-\\infty, 0)$ 上有零点, 故不成立; (3)当 $a<0$ 时, $f(x)=a x^{3}-3 x^{2}+1$ 在 $(0,+\\infty)$ 上有且只有一个零点; 故 $f(x)=a x^{3}-3 x^{2}+1$ 在 $(-\\infty, 0)$ 上没有零点; 而当 $x=\\frac{2}{a}$ 时, $f(x)=a x^{3}-3 x^{2}+1$ 在 $(-\\infty, 0)$ 上取得最小值; 故 $f\\left(\\frac{2}{a}\\right)=\\frac{8}{a^{2}}-3 \\cdot \\frac{4}{a^{2}}+1>0$; 故 $a<-2$; 综上所述， 实数 $\\mathrm{a}$ 的取值范围是 $(-\\infty,-2)$; 故选: D.",
+      "source": "GAOKAO-Bench|year:2014|index:44|commit:6dbb24f8d843",
+      "title": "高考真题候选02·数学·2014·44",
+      "tags": [
+        "kp:MATH-DERIVATIVE-ELEMENTARY",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "数学",
+      "chapter": "概率",
+      "knowledge_points": [
+        "古典概型"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "4 位同学各自在周六、周日两天中任选一天参加公益活动, 则周六、 周日都有同学参加公益活动的概率为（）",
+      "options": [
+        "$\\frac{1}{8}$",
+        "$\\frac{3}{8}$",
+        "$\\frac{5}{8}$",
+        "$\\frac{7}{8}$"
+      ],
+      "answer": "D",
+      "solution": "解：4 位同学各自在周六、周日两天中任选一天参加公益活动, 共有 $2^{4}=16$ 种情况, 周六、周日都有同学参加公益活动, 共有 $2^{4}-2=16-2=14$ 种情况, $\\therefore$ 所求概率为 $\\frac{14}{16}=\\frac{7}{8}$. 故选: D.",
+      "source": "GAOKAO-Bench|year:2014|index:41|commit:6dbb24f8d843",
+      "title": "高考真题候选02·数学·2014·41",
+      "tags": [
+        "kp:MATH-PROBABILITY-CLASSICAL",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "数学",
+      "chapter": "三角函数",
+      "knowledge_points": [
+        "同角三角函数的基本关系"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "（5 分) 设 $\\alpha \\in\\left(0, \\frac{\\pi}{2}\\right), \\beta \\in\\left(0, \\frac{\\pi}{2}\\right)$, 且 $\\tan \\alpha=\\frac{1+\\sin \\beta}{\\cos \\beta}$, 则（）",
+      "options": [
+        "$3 \\alpha-\\beta=\\frac{\\pi}{2}$",
+        "$3 \\alpha+\\beta=\\frac{\\pi}{2}$",
+        "$2 \\alpha-\\beta=\\frac{\\pi}{2}$",
+        "$2 \\alpha+\\beta=\\frac{\\pi}{2}$"
+      ],
+      "answer": "C",
+      "solution": "解：由 $\\tan \\alpha=\\frac{1+\\sin \\beta}{\\cos \\beta}$, 得: $\\frac{\\sin \\alpha}{\\cos \\alpha}=\\frac{1+\\sin \\beta}{\\cos \\beta}$ 即 $\\sin \\alpha \\cos \\beta=\\cos \\alpha \\sin \\beta+\\cos \\alpha$ ， $\\sin (\\alpha-\\beta)=\\cos \\alpha=\\sin \\left(\\frac{\\pi}{2}-\\alpha\\right)$, $\\because \\alpha \\in\\left(0, \\frac{\\pi}{2}\\right), \\beta \\in\\left(0, \\frac{\\pi}{2}\\right)$, $\\therefore$ 当 $2 \\alpha-\\beta=\\frac{\\pi}{2}$ 时, $\\sin (\\alpha-\\beta)=\\sin \\left(\\frac{\\pi}{2}-\\alpha\\right)=\\cos \\alpha$ 成立. 故选: C.",
+      "source": "GAOKAO-Bench|year:2014|index:42|commit:6dbb24f8d843",
+      "title": "高考真题候选02·数学·2014·42",
+      "tags": [
+        "kp:MATH-TRIG-FUNDAMENTAL-IDENTITY",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "语法",
+      "knowledge_points": [
+        "过去进行时"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "--- Have you finished reading Jane Eyre ? --- No, I my homework all day yesterday .",
+      "options": [
+        "was doing",
+        "would do",
+        "had done",
+        "do"
+      ],
+      "answer": "A",
+      "solution": "【解答】 答案 A． was/were doing，表示过去的某个时间点或时间段正在做某事 ，根据句意，我没有读完简爱，我昨天一天一直在写家庭作业． 故选 A． 【点评】",
+      "source": "GAOKAO-Bench|year:2010|index:0|commit:6dbb24f8d843",
+      "title": "高考真题候选02·英语·2010·0",
+      "tags": [
+        "kp:ENG-GRAMMAR-TENSE-PAST-CONTINUOUS",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "从句",
+      "knowledge_points": [
+        "定语从句关系词的选择"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "As a child , Jack studied in a village school , is named after his grandfather .",
+      "options": [
+        "which",
+        "where",
+        "what",
+        "that"
+      ],
+      "answer": "A",
+      "solution": "【解答】答案： A． 题干中含有的从句是非限制性的定语从句， 所以不能用 that ，what不能引导定语从句， 故排除 C，从句中缺少主语，应该用关系代词，所 以排除 where．所以本题选 A． 【点评】",
+      "source": "GAOKAO-Bench|year:2010|index:3|commit:6dbb24f8d843",
+      "title": "高考真题候选02·英语·2010·3",
+      "tags": [
+        "kp:ENG-CLAUSE-RELATIVE-WORD-SELECTION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "语法",
+      "knowledge_points": [
+        "现在完成时"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "When you are home , give a call to let me know you safely .",
+      "options": [
+        "are arriving",
+        "have arrived",
+        "had arrived",
+        "will arrive"
+      ],
+      "answer": "B",
+      "solution": "【解答】 答案 B．本题主要考查动词时态．根据题意可知，这里要表达 \"回家后 打电话确认已经安全到达 \"，所以应该用现在完成时 ，答案为 B项．A项和 D项 均表示将来，没有 \"完成 \"之意，所以排除 ；C项为过去完成时，不符合题意，所 以排除． 故选 B． 【点评】",
+      "source": "GAOKAO-Bench|year:2010|index:7|commit:6dbb24f8d843",
+      "title": "高考真题候选02·英语·2010·7",
+      "tags": [
+        "kp:ENG-GRAMMAR-TENSE-PRESENT-PERFECT",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "语法",
+      "knowledge_points": [
+        "情态动词的基本用法"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "Just be patient . You expect the world to change so soon .",
+      "options": [
+        "can’t",
+        "needn ’t",
+        "may not",
+        "will not"
+      ],
+      "answer": "A",
+      "solution": "【解答】 答案 A． can't \"不能，不可能 \"；needn't \"不需要，没必要 \"；may \"一般 用于肯定句中 ，表示可能 \"；will \"意愿或习惯性动作 \"．根据句意 ，要耐心点 ，你 \"不能 \"期望世界变得如此之快， 故选 A． 【点评】",
+      "source": "GAOKAO-Bench|year:2010|index:8|commit:6dbb24f8d843",
+      "title": "高考真题候选02·英语·2010·8",
+      "tags": [
+        "kp:ENG-GRAMMAR-MODAL-BASIC",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "从句",
+      "knowledge_points": [
+        "条件状语从句"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "The little boy won’t go to sleep his mother tells him a story .",
+      "options": [
+        "or",
+        "unless",
+        "but",
+        "whether"
+      ],
+      "answer": "B",
+      "solution": "【解答】 答案 B．本题主要考查连词， unless 引导条件状语从句，意思是除非 ， 如果不 =\"if not\"； A or 或，或者；还是；不然，否则； C but但是，表转折； D whether 是否、不管 …（还是 …）习惯用语 whether or not．根据句意， 应该选 B ． 【点评】",
+      "source": "GAOKAO-Bench|year:2010|index:9|commit:6dbb24f8d843",
+      "title": "高考真题候选02·英语·2010·9",
+      "tags": [
+        "kp:ENG-CLAUSE-ADVERBIAL-CONDITION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "语法",
+      "knowledge_points": [
+        "一般现在时"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "Planning so far ahead _______no sense --- so many things will have changed by next year.",
+      "options": [
+        "made",
+        "is making",
+        "makes",
+        "has made"
+      ],
+      "answer": "C",
+      "solution": "【解答】答案： C．该句中没有明显的时间状语，根据句意，该句所表达的是一 般的道理，所以用一般现在时态．故选： C． 【点评】",
+      "source": "GAOKAO-Bench|year:2011|index:47|commit:6dbb24f8d843",
+      "title": "高考真题候选02·英语·2011·47",
+      "tags": [
+        "kp:ENG-GRAMMAR-TENSE-PRESENT-SIMPLE",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "从句",
+      "knowledge_points": [
+        "条件状语从句"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "Tom was about to close the windows_____his attention was caught by a bird.",
+      "options": [
+        "when",
+        "if",
+        "and",
+        "till"
+      ],
+      "answer": "A",
+      "solution": "【解答】 答案 A. be about to do…when… 正要做 …突然 . when作并列连词，相当 于and at that time. 根据句意 ：汤姆正要关窗户 \"突然 \"他的注意力被一只鸟吸引了 . 故选 A. 【点评】",
+      "source": "GAOKAO-Bench|year:2010|index:16|commit:6dbb24f8d843",
+      "title": "高考真题候选02·英语·2010·16",
+      "tags": [
+        "kp:ENG-CLAUSE-ADVERBIAL-CONDITION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "从句",
+      "knowledge_points": [
+        "关系副词 where"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "--- Have you finished the book？ --- No. I’ve read up to _____ the children discover the secret cave.",
+      "options": [
+        "which",
+        "what",
+        "that",
+        "where"
+      ],
+      "answer": "D",
+      "solution": "【解答】答案 D. _____ the children discover the secret cave是介词宾语从句 ，在介 词宾语从句中不缺少任何成分，结合句意， 用where表示 …地方 . 故选 D. 【点评】",
+      "source": "GAOKAO-Bench|year:2010|index:19|commit:6dbb24f8d843",
+      "title": "高考真题候选02·英语·2010·19",
+      "tags": [
+        "kp:ENG-CLAUSE-RELATIVE-WHERE",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "语法",
+      "knowledge_points": [
+        "一般现在时的被动语态"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "Linda , make sure the tables ____ before the guests arrive .",
+      "options": [
+        "be set",
+        "set",
+        "are set",
+        "are setting"
+      ],
+      "answer": "C",
+      "solution": "【解答】答案： C. make sure后面加宾语从句 . 根据动词 set与其逻辑主语即句子 的主语 the tables之间的关系可知， set tables桌子是被摆放的，所以需用被动语 态，排除选项 B和D；另外根据题干中的 make sure可知，后面跟陈述语气的宾 语从句，不接虚拟语气， 所以排除选项 A. 故选 C. 【点评】",
+      "source": "GAOKAO-Bench|year:2010|index:24|commit:6dbb24f8d843",
+      "title": "高考真题候选02·英语·2010·24",
+      "tags": [
+        "kp:ENG-GRAMMAR-VOICE-PRESENT-PASSIVE",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "英语",
+      "chapter": "从句",
+      "knowledge_points": [
+        "关系代词 that"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "I refuse to accept the blame for something _____ was someone else’s fault.",
+      "options": [
+        "who",
+        "that",
+        "as",
+        "what"
+      ],
+      "answer": "B",
+      "solution": "【解答】 答案： B 本句中含有定语从句， what不可以引导定语从句， 所以排除 D. 从句中缺少主语，所以应该用关系代词，当先行词是事物时，定语从句的关 系代词可用 that 或which，可以排除 who. 但本句中先行词是不定代词 something ，所以只能用关系代词 that. as作为关系代词时 ，先行词前面应有 such或so、the same修饰，或代替一句话，不符本题题干 . 故选择 B. 【点评】",
+      "source": "GAOKAO-Bench|year:2010|index:25|commit:6dbb24f8d843",
+      "title": "高考真题候选02·英语·2010·25",
+      "tags": [
+        "kp:ENG-CLAUSE-RELATIVE-THAT",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "物理",
+      "chapter": "功和能",
+      "knowledge_points": [
+        "动能定理"
+      ],
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "question": "质点开始时做匀速直线运动, 从某时刻起受到一恒力作用. 此后, 该质点的动能可能 ( $)$",
+      "options": [
+        "一直增大",
+        "先逐渐减小至零, 再逐渐增大",
+        "先逐渐增大至某一最大值，再逐渐减小",
+        "先逐渐减小至某一非零的最小值, 再逐渐增大"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "solution": "解： $\\mathrm{A}$ 、如果恒力与运动方向相同, 那么质点做匀加速运动, 动能一直 变大，故 $\\mathrm{A}$ 正确。 $\\mathrm{B}$ 、如果恒力与运动方向相反, 那么质点先做匀减速运动, 速度减到 0 , 质点在 恒力作用下沿着恒力方向做匀加速运动, 动能再逐渐增大。故 B 正确。 C、如果恒力方向与原来运动方向不在同一直线上, 那么将速度沿恒力方向所在 直线和垂直恒力方向分解, 其中恒力与一个速度方向相同, 这个方向速度就 会增加, 另一个方向速度不变, 那么合速度就会增加, 不会减小。故 $\\mathrm{C}$ 错误。 D、如果恒力方向与原来运动方向不在同一直线上, 那么将速度沿恒力方向所在 直线和垂直恒力方向分解, 其中恒力与一个速度方向相反, 这个方向速度就 会减小, 另一个方向速度不变, 那么合速度就会减小, 当恒力方向速度减到 0 时, 另一个方向还有速度, 所以速度到最小值时不为 0 , 然后恒力方向速度又 会增加, 合速度又在增加，即动能增大。故 D 正确。 故选: $\\mathrm{ABD}$ 。",
+      "source": "GAOKAO-Bench|year:2011|index:5|commit:6dbb24f8d843",
+      "title": "高考真题候选02·物理·2011·5",
+      "tags": [
+        "kp:PHY-WORK-ENERGY-KINETIC",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "物理",
+      "chapter": "功和能",
+      "knowledge_points": [
+        "功的计算"
+      ],
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "question": "（6 分) 一蹦极运动员身系弹性蹦极绳从水面上方的高台下落, 到最低点时 距水面还有数米距离. 假定空气阻力可忽略, 运动员可视为质点, 下列说法 正确的是 $(\\quad)$",
+      "options": [
+        "运动员到达最低点前重力势能始终减小",
+        "蹦极绳张紧后的下落过程中, 弹性力做负功, 弹性势能增加",
+        "蹦极过程中, 运动员、地球和蹦极绳所组成的系统机械能守恒",
+        "蹦极过程中, 重力势能的改变与重力势能零点的选取有关"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "solution": "解: $A$ 、运动员到达最低点前, 重力对运动员一直做正功, 运动员的重 力势能始终减小。故 $\\mathrm{A}$ 正确。 B、蹦极绳张紧后的下落过程中, 弹力方向向上, 运动员的位移向下, 弹性 力对运动员做负功, 弹性势能增加。故 $\\mathrm{B}$ 正确。 C、以运动员、地球和蹦极绳所组成的系统, 只有重力和弹力做功, 系统的 机械能守恒。故 $\\mathrm{C}$ 正确。 D、重力势能的改变与重力做功有关, 取决于初末位置的高度差, 与重力势 能零点的选取无关。故 D 错误。 故选: $\\mathrm{ABC}$ 。",
+      "source": "GAOKAO-Bench|year:2011|index:6|commit:6dbb24f8d843",
+      "title": "高考真题候选02·物理·2011·6",
+      "tags": [
+        "kp:PHY-WORK-ENERGY-WORK-CALCULATION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "物理",
+      "chapter": "万有引力",
+      "knowledge_points": [
+        "万有引力定律"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "(6 分) 金星、地球和火星绕太阳的公转均可视为匀速圆周运动, 它们的向心加速度大小 分别为 $\\mathrm{a}_{\\text {金、 }} \\mathrm{a}_{\\text {地、 }} \\mathrm{a}_{\\text {火 }}$, 它们沿轨道运行的速率分别为 $\\mathrm{v}_{\\text {金、 }} \\mathrm{v}_{\\text {地、 }} \\mathrm{v}$ 炏. 已知它们的轨道半 径 $\\mathrm{R}_{\\text {金 }}<\\mathrm{R}_{\\text {地 }}<\\mathrm{R}_{\\text {火 }}$ ，由此可以判定（（）",
+      "options": [
+        "$\\mathrm{a}_{\\text {金 }}>\\mathrm{a}_{\\text {地 }}>\\mathrm{a}_{\\text {火 }}$",
+        "$\\mathrm{a}_{\\text {火 }}>\\mathrm{a}_{\\text {地 }}>\\mathrm{a}_{\\text {金 }}$",
+        "$v_{\\text {地 }}>\\mathrm{v}_{\\text {火 }}>\\mathrm{v}_{\\text {金 }}$",
+        "$\\mathrm{v}_{\\text {火 }}>\\mathrm{v}_{\\text {地 }}>\\mathrm{v}_{\\text {金 }}$"
+      ],
+      "answer": "A",
+      "solution": "【解答】解: 行星绕太阳运动时, 万有引力提供向心力, 设太阳的质量为 $\\mathrm{M}$, 行星的质 量为 $\\mathrm{m}$, 行星的轨道半径为 $\\mathrm{r}$, 根据牛顿第二定律有: $G \\frac{M m}{r^{2}}=m a=m \\frac{v^{2}}{r}$ 可得向心加速度为 $a=G \\frac{M}{r^{2}}$, 线速度为 $v=\\sqrt{\\frac{G M}{r}}$, 由题意有 $R_{\\text {金 }}<R_{\\text {地 }}<R_{\\text {火 }}$, 所以有 $a \\hat{a}_{\\text {金 }}>a$ 地 $>\\mathrm{a}_{\\text {火 }}, \\mathrm{v}_{\\text {金 }}>\\mathrm{v}_{\\text {地 }}>\\mathrm{v}_{\\text {火 }}$, 故 A 正确, BCD 错误。 故选: A。",
+      "source": "GAOKAO-Bench|year:2019|index:48|commit:6dbb24f8d843",
+      "title": "高考真题候选02·物理·2019·48",
+      "tags": [
+        "kp:PHY-GRAVITY-UNIVERSAL-LAW",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "物理",
+      "chapter": "圆周运动",
+      "knowledge_points": [
+        "向心加速度"
+      ],
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "question": "(6 分) 公路急转弯处通常是交通事故多发地带. 某公路急转弯处是一圆弧, 当汽车行驶的速率为 $v_{c}$ 时, 汽车恰好没有向公路内外两侧滑动的趋势, 则在 该弯道处，（）",
+      "options": [
+        "路面外侧高内侧低",
+        "车速只要低于 $v_{c}$ ， 车辆便会向内侧滑动",
+        "车速虽然高于 $v_{c}$, 但只要不超出某一高度限度, 车辆便不会向外侧滑动",
+        "当路面结冰时, 与末结冰时相比, $v_{c}$ 的值变小"
+      ],
+      "answer": [
+        "A",
+        "C"
+      ],
+      "solution": "解： A、路面应建成外高内低, 此时重力和支持力的合力指向内侧, 可 以提供圆周运动向心力。故 $A$ 正确。 $B$ 、车速低于 $v_{0}$, 所需的向心力减小, 此时摩擦力可以指向外侧, 合力依然提供 向心力，车辆不会向内侧滑动，故 B 错误; C、车速若高于 $v_{0}$, 所需的向心力增大, 此时摩擦力可以指向内侧, 增大提供的 力, 所以只要不超出某一最高限度, 车辆也不会向外侧滑动, 故 C 正确; D、当路面结冰时与末结冰时相比, 由于支持力和重力不变, 则 $\\mathrm{v}_{\\mathrm{c}}$ 的值不变。故 D 错误。 故选: $\\mathrm{AC}$ 。",
+      "source": "GAOKAO-Bench|year:2013|index:13|commit:6dbb24f8d843",
+      "title": "高考真题候选02·物理·2013·13",
+      "tags": [
+        "kp:PHY-CIRCULAR-CENTRIPETAL-ACCELERATION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "物理",
+      "chapter": "磁场",
+      "knowledge_points": [
+        "磁场方向的判断"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "（6 分) 关于通电直导线在匀强磁场中所受的安培力, 下列说法正确的是（",
+      "options": [
+        "安培力的方向可以不垂直于直导线",
+        "安培力的方向总是垂直于磁场的方向",
+        "安培力的大小与通电导线和磁场方向的夹角无关",
+        "将直导线从中折成直角, 安培力的大小一定变为原来的一半"
+      ],
+      "answer": "B",
+      "solution": "解： $\\mathrm{A} 、 \\mathrm{~B} 、$ 根据左手定则可知, 安培力方向与磁场和电流组成的平面 垂直, 即与电流和磁场方向都垂直, 故 $\\mathrm{A}$ 错误, $\\mathrm{B}$ 正确; C、磁场与电流不垂直时, 安培力的大小为 $\\mathrm{F}=\\mathrm{BIL} \\sin \\theta$, 则安培力的大小与通电 导线和磁场方向的夹角有关，故 $\\mathrm{C}$ 错误; D、根据安培力的特点可知, 电流的方向与磁场垂直时, $\\mathrm{F}=\\mathrm{BIL}$, 当电流方向与 磁场的方向平行, 所受安培力为 0 ; 若开始时电流与磁场垂直, 将直导线从中 折成直角, 让其中的一半与磁场的方向平行, 安培力的大小将变为原来的一 半; 将直导线在垂直于磁场的方向的平面内从中折成直角, 两部分都与从的 方向垂直, 安培力的大小一定变为原来的 $\\frac{\\sqrt{2}}{2}$; 根据不同的空间位置关系, 可 能还有其余的情况, 故 D 错误。 故选：B。",
+      "source": "GAOKAO-Bench|year:2014|index:15|commit:6dbb24f8d843",
+      "title": "高考真题候选02·物理·2014·15",
+      "tags": [
+        "kp:PHY-MAGNETIC-FIELD-DIRECTION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "物理",
+      "chapter": "牛顿运动定律",
+      "knowledge_points": [
+        "牛顿第二定律"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "(6 分) 一物体静止在粗䊁水平地面上, 现用一大小为 $\\mathrm{F}_{1}$ 的水平拉力拉动物 体, 经过一段时间后其速度为 $\\mathrm{v}$, 若将水平拉力的大小改为 $F_{2}$, 物体从静止开 始经过同样的时间后速度变为 $2 \\mathrm{v}$, 对于上述两个过程, 用 $W_{F 1} 、 W_{F 2}$ 分别表示 拉力 $F_{1} 、 F_{2}$ 所做的功, $W_{f 1} 、 W_{f 2}$ 分别表示前两次克服摩擦力所做的功, 则 ( $)$",
+      "options": [
+        "$\\mathrm{W}_{\\mathrm{F} 2}>4 \\mathrm{~W}_{\\mathrm{F} 1}, \\mathrm{~W}_{\\mathrm{f} 2}>2 \\mathrm{~W}_{\\mathrm{f} 1}$",
+        "$\\mathrm{W}_{\\mathrm{F} 2}>4 \\mathrm{~W}_{\\mathrm{F} 1}, \\mathrm{~W}_{\\mathrm{f} 2}=2 \\mathrm{~W}_{\\mathrm{f} 1}$",
+        "$\\mathrm{W}_{\\mathrm{F} 2}<4 \\mathrm{~W}_{\\mathrm{F} 1}, \\mathrm{~W}_{\\mathrm{f} 2}=2 \\mathrm{~W}_{\\mathrm{f} 1}$",
+        "$\\mathrm{W}_{\\mathrm{F} 2}<4 \\mathrm{~W}_{\\mathrm{F} 1}, \\mathrm{~W}_{\\mathrm{f} 2}<2 \\mathrm{~W}_{\\mathrm{f} 1}$"
+      ],
+      "answer": "C",
+      "solution": "解: 由题意可知, 两次物体均做匀加速运动, 则在同样的时间内, 它们 的位移之比为 $S_{1}: S_{2}=\\frac{\\mathrm{v}}{2} t: \\frac{2 \\mathrm{v}}{2} t=1: 2$; 两次物体所受的摩擦力不变, 根据力做功表达式, 则有滑动摩擦力做功之比 $\\mathrm{W}_{\\mathrm{f} 1}$ $: \\mathrm{W}_{\\mathrm{f2}}=\\mathrm{fS}_{1}: \\mathrm{fS}_{2}=1: 2 ;$ 再由动能定理, 则有: $W_{F^{-}} W_{f}=\\frac{1}{2} m v^{2}-0$; 可知, $W_{F 1}-W_{f 1}=\\frac{1}{2} m v^{2}-0$; $\\mathrm{W}_{\\mathrm{F} 2}-\\mathrm{W}_{\\mathrm{f} 2}=4 \\times \\frac{1}{2} \\mathrm{mv} \\mathrm{v}^{2}-0$; 由上两式可解得: $W_{F 2}=4 W_{F 1}-2 W_{f 1}$, 故 C 正确, $A B D$ 错误; 故选: C。",
+      "source": "GAOKAO-Bench|year:2014|index:17|commit:6dbb24f8d843",
+      "title": "高考真题候选02·物理·2014·17",
+      "tags": [
+        "kp:PHY-NEWTON-SECOND-LAW",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "物理",
+      "chapter": "万有引力",
+      "knowledge_points": [
+        "万有引力定律"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "(6 分) 假设地球可视为质量均匀分布的球体, 已知地球表面重力加速度在 两极的大小为 $g_{0}$, 赤道的大小为 $g$; 地球自转的周期为 $\\mathrm{T}$, 引力常量为 $G$. 则 地球的密度为 ( $)$",
+      "options": [
+        "$\\frac{3 \\pi g_{0}-g}{G T^{2} g_{0}}$",
+        "$\\frac{3 \\pi g_{0}}{G T^{2} g_{0}-g}$",
+        "$\\frac{3 \\pi}{\\mathrm{GT}^{2}}$",
+        "$\\frac{3 \\pi g_{0}}{G T^{2} g}$"
+      ],
+      "answer": "B",
+      "solution": "解: 在两极, 引力等于重力, 则有: $\\mathrm{mg}=\\mathrm{G} \\frac{\\mathrm{MW}}{\\mathrm{R}^{2}}$, 由此可得地球质量 $M=\\frac{g_{0} R^{2}}{G}$, 在赤道处, 引力与支持力的合力提供向心力, 由牛顿第二定律, 则有: $G \\frac{\\mathrm{mK}}{\\mathrm{R}^{2}}-\\mathrm{mg}=\\mathrm{m}$ $\\frac{4 \\pi^{2}}{T^{2}} R$ 而密度公式 $\\rho=\\frac{M}{V}$, $\\rho=\\frac{\\frac{g_{0} R^{2}}{G}}{\\frac{4}{3} \\pi R^{3}}=\\frac{3 \\pi g_{0}}{G T^{2}\\left(g_{0}-g\\right)}$, 故 B 正确, ACD 错误; 故选: B。",
+      "source": "GAOKAO-Bench|year:2014|index:18|commit:6dbb24f8d843",
+      "title": "高考真题候选02·物理·2014·18",
+      "tags": [
+        "kp:PHY-GRAVITY-UNIVERSAL-LAW",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "物理",
+      "chapter": "牛顿运动定律",
+      "knowledge_points": [
+        "牛顿第二定律"
+      ],
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "question": "(6 分) 在一东西向的水平直铁轨上, 停放着一列已用挂钩连接好的车厢。 当机车在东边拉着这列车厢以大小为 $\\mathrm{a}$ 的加速度向东行驶时, 连接某两相邻 车厢的挂钧 $P$ 和 $Q$ 间的拉力大小为 $F$; 当机车在西边拉着这列车厢以大小为 $\\frac{2}{3} a$ 的加速度向西行驶时, $P$ 和 $Q$ 间的拉力大小仍为 $F$. 不计车厢与铁轨间的 摩擦, 每节车厢质量相同, 则这列车厢的节数可能为 ( )",
+      "options": [
+        "8",
+        "10",
+        "15",
+        "18"
+      ],
+      "answer": [
+        "B",
+        "C"
+      ],
+      "solution": "解: 设 $P Q$ 两边的车厢数为 $P$ 和 $Q$, 当机车在东边拉时, 根据牛顿第二定律可得, $F=P m \\bullet a$, 当机车在西边拉时, 根据牛顿第二定律可得, $\\mathrm{F}=\\mathrm{Qm} \\cdot \\frac{2}{3} \\mathrm{a}$, 根据以上两式可得, $\\frac{P}{Q}=\\frac{2}{3}$, 即两边的车厢的数目可能是 2 和 3 , 或 4 和 6 , 或 6 和 9 , 或 8 和 12 , 等等, 所以总的车厢的数目可能是 5、10、15、20， 所以可能的是 $B C$ 。 故选: $B C$ 。",
+      "source": "GAOKAO-Bench|year:2015|index:23|commit:6dbb24f8d843",
+      "title": "高考真题候选02·物理·2015·23",
+      "tags": [
+        "kp:PHY-NEWTON-SECOND-LAW",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "物理",
+      "chapter": "牛顿运动定律",
+      "knowledge_points": [
+        "牛顿第二定律"
+      ],
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "question": "(6 分) 一质点做匀速直线运动, 现对其施加一恒力, 且原来作用在质点上 的力不发生改变, 则（ )",
+      "options": [
+        "质点速度的方向总是与该恒力的方向相同",
+        "质点速度的方向不可能总是与该恒力的方向垂直",
+        "质点加速度的方向总是与该恒力的方向相同",
+        "质点单位时间内速率的变化量总是不变"
+      ],
+      "answer": [
+        "B",
+        "C"
+      ],
+      "solution": "解: A. 质点开始做匀速直线运动, 现对其施加一恒力, 其合力不为零, 如果所加恒力与原来的运动方向在一条直线上, 质点做匀加速或匀减速直线 运动, 质点速度的方向与该恒力的方向相同或相反; 如果所加恒力与原来的 运动方向不在一条直线上, 物体做曲线运动, 速度方向沿切线方向, 力和运 动方向之间有大角，故 $\\mathrm{A}$ 错误; B. 由 $\\mathrm{A}$ 分析可知, 质点速度的方向不可能总是与该恒力的方向垂直, 故 $\\mathrm{B}$ 正确 C. 由于质点做匀速直线运动, 即所受合外力为 0 , 原来质点上的力不变, 增加 一个恒力后, 则质点所受的合力就是这个恒力, 所以加速度方向与该恒力方 向相同, 故 C 正确; D. 因为合外力恒定, 加速度恒定, 由 $\\triangle v=a \\Delta t$ 可知, 质点单位时间内速度的变 化量总是不变, 但是, 如果质点做匀变速曲线运动, 则单位时间内速度的变 化量是不变的, 而速率的变化量却是变化的, 故 D 错误。 故选: BC。",
+      "source": "GAOKAO-Bench|year:2016|index:25|commit:6dbb24f8d843",
+      "title": "高考真题候选02·物理·2016·25",
+      "tags": [
+        "kp:PHY-NEWTON-SECOND-LAW",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "物理",
+      "chapter": "功和能",
+      "knowledge_points": [
+        "动能定理"
+      ],
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "question": "一质量为 $m$ 的物体自倾角为 $a$ 的固定斜面底端沿斜面向上滑动。该物体开始滑动时的动能为 $E_{\\mathrm{k}}$, 向上 滑动一段距离后速度减小为零, 此后物体向下滑动, 到达斜面底端时动能为 $\\frac{E_{\\mathrm{k}}}{5}$ 。已知 $\\sin a=0.6$, 重力 加速度大小为 $g$ 。则 $(\\quad)$",
+      "options": [
+        "物体向上滑动的距离为 $\\frac{E_{\\mathrm{k}}}{2 m g}$",
+        "物体向下滑动时的加速度大小为 $\\frac{g}{5}$",
+        "物体与斜面间的动摩擦因数等于 0.5",
+        "物体向上滑动所用的时间比向下滑动的时间长"
+      ],
+      "answer": [
+        "B",
+        "C"
+      ],
+      "solution": "【详解】 $\\mathrm{AC}$. 物体从斜面底端回到斜面底端根据动能定理有 $$ -\\mu m g \\cdot 2 l \\cos a=\\frac{E_{k}}{5}-E_{k} $$ 物体从斜面底端到斜面顶端根据动能定理有 $$ -m g l \\sin a-\\mu m g l \\cos a=0-E_{k} $$ 整理得 $$ l=\\frac{E_{\\mathrm{k}}}{m g} ; \\quad \\mu=0.5 $$ $\\mathrm{A}$ 错误，C 正确; B. 物体向下滑动时的根据牛顿第二定律有 $$ m a=m g \\sin a-\\mu m g \\cos a $$ 求解得出 $$ a=\\frac{g}{5} $$ B 正确; D. 物体向上滑动时的根据牛顿第二定律有 $$ m a_{\\text {上 }}=m g \\sin a+\\mu m g \\cos a $$ 物体向下滑动时的根据牛顿第二定律有 $$ m a_{\\text {下 }}=m g \\sin a-\\mu m g \\cos a $$ 由上式可知 $$ a_{\\text {上 }}>a_{\\text {下 }} $$ 由于上升过程中的末速度为零, 下滑过程中的初速度为零, 且走过相同的位移, 根据公式 $$ l=\\frac{1}{2} a t^{2} $$ 则可得出 $$ t_{\\text {上 }}<t_{\\text {下 }} $$ D 错误。 故选 BC。",
+      "source": "GAOKAO-Bench|year:2021|index:58|commit:6dbb24f8d843",
+      "title": "高考真题候选02·物理·2021·58",
+      "tags": [
+        "kp:PHY-WORK-ENERGY-KINETIC",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "化学",
+      "chapter": "化学基本概念",
+      "knowledge_points": [
+        "离子反应与离子方程式"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "下列反应中, 可用离子方程式 $\\mathrm{H}^{+}+\\mathrm{OH}^{-}=\\mathrm{H}_{2} \\mathrm{O}$ 表示的是（ ）",
+      "options": [
+        "$\\mathrm{NH}_{4} \\mathrm{Cl}+\\mathrm{NaOH} \\stackrel{\\triangle}{=} \\mathrm{NaCl}+\\mathrm{NH}_{3} \\uparrow+\\mathrm{H}_{2} \\mathrm{O}$",
+        "$\\mathrm{Mg}(\\mathrm{OH})_{2}+2 \\mathrm{HCl}=\\mathrm{MgCl}_{2}+2 \\mathrm{H}_{2} \\mathrm{O}$",
+        "$\\mathrm{NaOH}+\\mathrm{NaHCO}_{3}=\\mathrm{Na}_{2} \\mathrm{CO}_{3}+\\mathrm{H}_{2} \\mathrm{O}$",
+        "$\\mathrm{NaOH}+\\mathrm{HNO}_{3}=\\mathrm{NaNO}_{3}+\\mathrm{H}_{2} \\mathrm{O}$"
+      ],
+      "answer": "D",
+      "solution": "解: A. 该反应为固体与固体加热条件下的反应, 不属于离子反应, 故 $\\mathrm{A}$ 不选; B. $\\mathrm{Mg}(\\mathrm{OH})_{2}$ 为不溶性弱碱，不能用 $\\mathrm{H}^{+}+\\mathrm{OH}^{-}=\\mathrm{H}_{2} \\mathrm{O}$ 表示, 故 $\\mathrm{B}$ 不选; C. $\\mathrm{NaOH}+\\mathrm{NaHCO}=\\mathrm{Na}_{2} \\mathrm{CO}_{3}+\\mathrm{H}_{2} \\mathrm{O}$ 的离子反应为 $\\mathrm{OH}^{-}+\\mathrm{HCO}_{3}{ }^{-}=\\mathrm{CO}_{3}{ }^{2-}+\\mathrm{H}_{2} \\mathrm{O}$, 故 $\\mathrm{C}$ 不选; D. $\\mathrm{NaOH}+\\mathrm{HNO}_{3}=\\mathrm{NaNO}_{3}+\\mathrm{H}_{2} \\mathrm{O}$ 为稀的强酸与稀的强碱反应生成可溶性盐和水的 离子反应, 可用 $\\mathrm{H}^{+}+\\mathrm{OH}^{-}=\\mathrm{H}_{2} \\mathrm{O}$ 表示, 故选：D。",
+      "source": "GAOKAO-Bench|year:2010|index:0|commit:6dbb24f8d843",
+      "title": "高考真题候选02·化学·2010·0",
+      "tags": [
+        "kp:CHEM-CONCEPT-ION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "化学",
+      "chapter": "化学反应原理",
+      "knowledge_points": [
+        "化学反应与能量"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "下面均是正丁烷与氧气反应的热化学方程式 $\\left(25^{\\circ}, 101 \\mathrm{kPa} ）:\\right.$ (1) $\\mathrm{C}_{4} \\mathrm{H}_{10}(\\mathrm{~g})+\\frac{13}{2} \\mathrm{O}_{2}(\\mathrm{~g})=4 \\mathrm{CO}_{2}(\\mathrm{~g})+5 \\mathrm{H}_{2} \\mathrm{O}$ (1) $\\triangle \\mathrm{H}=-2878 \\mathrm{~kJ} / \\mathrm{mol}$ (2) $\\mathrm{C}_{4} \\mathrm{H}_{10}(\\mathrm{~g})+\\frac{13}{2} \\mathrm{O}_{2}(\\mathrm{~g})=4 \\mathrm{CO}_{2}(\\mathrm{~g})+5 \\mathrm{H}_{2} \\mathrm{O}(\\mathrm{g}) \\triangle \\mathrm{H}=-2658 \\mathrm{~kJ} / \\mathrm{mol}$ (3) $\\mathrm{C}_{4} \\mathrm{H}_{10}(\\mathrm{~g})+\\frac{9}{2} \\mathrm{O}_{2}(\\mathrm{~g})=4 \\mathrm{CO}(\\mathrm{g})+5 \\mathrm{H}_{2} \\mathrm{O}$ (1) $\\triangle \\mathrm{H}=-1746 \\mathrm{~kJ} / \\mathrm{mol}$ (4) $\\mathrm{C}_{4} \\mathrm{H}_{10}(\\mathrm{~g})+\\frac{9}{2} \\mathrm{O}_{2}(\\mathrm{~g})=4 \\mathrm{CO}(\\mathrm{g})+5 \\mathrm{H}_{2} \\mathrm{O}(\\mathrm{g}) \\triangle \\mathrm{H}=-1526 \\mathrm{~kJ} / \\mathrm{mol}$ 由此判断，正丁烷的燃烧热是（ $）$",
+      "options": [
+        "$-2878 \\mathrm{~kJ} / \\mathrm{mol}$",
+        "$-2658 \\mathrm{~kJ} / \\mathrm{mol}$",
+        "$-1746 \\mathrm{~kJ} / \\mathrm{mol}$",
+        "$-1526 \\mathrm{~kJ} / \\mathrm{mol}$"
+      ],
+      "answer": "A",
+      "solution": "解 正丁烷的燃烧热是指 $1 \\mathrm{~mol}$ 正丁烷完全燃烧生成气态 $\\mathrm{CO}_{2}$, 液态 $\\mathrm{H}_{2} \\mathrm{O}$ 放出的热量, 所以表示燃烧热的热化学方程式为: $\\mathrm{C}_{4} \\mathrm{H}_{10}(\\mathrm{~g})+\\frac{13}{2} \\mathrm{O}_{2}(\\mathrm{~g})=$ $4 \\mathrm{CO}_{2}(\\mathrm{~g})+5 \\mathrm{H}_{2} \\mathrm{O}$ (1) $\\triangle \\mathrm{H}=-2878 \\mathrm{~kJ} / \\mathrm{mol}$, 正丁烷的燃烧热为 $-2878 \\mathrm{~kJ} / \\mathrm{mol}$ 。 故选: $\\mathrm{A}$ 。",
+      "source": "GAOKAO-Bench|year:2010|index:1|commit:6dbb24f8d843",
+      "title": "高考真题候选02·化学·2010·1",
+      "tags": [
+        "kp:CHEM-REACTION-ENERGY",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "化学",
+      "chapter": "化学基本概念",
+      "knowledge_points": [
+        "物质的量与化学计量"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "下列叙述正确的是（）",
+      "options": [
+        "$1.00 \\mathrm{molNaCl}$ 中含有 $6.02 \\times 10^{23}$ 个 $\\mathrm{NaCl}$ 分子",
+        "$1.00 \\mathrm{molNaCl}$ 中, 所有 $\\mathrm{Na}^{+}$的最外层电子总数为 $8 \\times 6.02 \\times 10^{23}$",
+        "欲配置 $1.00 \\mathrm{~L}, 1.00 \\mathrm{~mol} . \\mathrm{L}^{-1}$ 的 $\\mathrm{NaCl}$ 溶液, 可将 $58.5 \\mathrm{gNaCl}$ 溶于 $1.00 \\mathrm{~L}$ 水中",
+        "电解 $58.5 \\mathrm{~g}$ 熔融的 $\\mathrm{NaCl}$, 能产生 $22.4 \\mathrm{~L}$ 氯气（标准状况）、23.0g 金属钠"
+      ],
+      "answer": "B",
+      "solution": "解： $\\mathrm{A} 、$ 因 $\\mathrm{NaCl}$ 为离子化合物, 则不存在 $\\mathrm{NaCl}$ 分子, 故 $\\mathrm{A}$ 错误; $\\mathrm{B}$ 、因 $\\mathrm{Na}^{+}$的最外层电子总数为 8 电子稳定结构, 则最外层电子的物质的量为 $8 \\mathrm{~mol}$ , 其电子总数为 $8 \\times 6.02 \\times 10^{23}$, 故 $B$ 正确; C、欲配置 $1.00 \\mathrm{~L}, 1.00 \\mathrm{~mol} 。 \\mathrm{~L}^{-1}$ 的 $\\mathrm{NaCl}$ 溶液, 可将 $58.5 \\mathrm{~g} \\mathrm{NaCl}$ 溶于适量水中, 配成 $1 \\mathrm{~L}$ 溶液, 而不是溶于 $1 \\mathrm{~L}$ 的水中, 故 C 错误; D、 $\\mathrm{NaCl}$ 的物质的量为 $\\frac{58.5 \\mathrm{~g}}{58.5 \\mathrm{~g} / \\mathrm{mol}}=1 \\mathrm{~mol}$, 则电解 $58.5 \\mathrm{~g}$ 熔融的 $\\mathrm{NaCl}, 1 \\mathrm{molNaCl}$ 生成 $0.5 \\mathrm{~mol}$ 氯气, 能产生 $0.5 \\mathrm{~mol} \\times 22.4 \\mathrm{~L} / \\mathrm{mol}=11.2 \\mathrm{~L}$ 氯气（标准状况）, 而不 是 $22.4 \\mathrm{~L}$ 氯气，故 D 错误; 故选: B。",
+      "source": "GAOKAO-Bench|year:2011|index:6|commit:6dbb24f8d843",
+      "title": "高考真题候选02·化学·2011·6",
+      "tags": [
+        "kp:CHEM-CONCEPT-AMOUNT",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "化学",
+      "chapter": "有机化学基础",
+      "knowledge_points": [
+        "有机物结构与性质"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "分子式为 $\\mathrm{C}_{5} \\mathrm{H}_{11} \\mathrm{Cl}$ 的同分异构体共有（不考虑立体异构）（）",
+      "options": [
+        "6 种",
+        "7 种",
+        "8 种",
+        "9 种"
+      ],
+      "answer": "C",
+      "solution": "解：分子式为 $\\mathrm{C}_{5} \\mathrm{H}_{11} \\mathrm{Cl}$ 的同分异构体有 主链有 5 个碳原子的: $\\mathrm{CH}_{3} \\mathrm{CH}_{2} \\mathrm{CH}_{2} \\mathrm{CH}_{2} \\mathrm{CH}_{2} \\mathrm{Cl} ; \\mathrm{CH}_{3} \\mathrm{CH}_{2} \\mathrm{CH}_{2} \\mathrm{CHClCH}_{3}$; $\\mathrm{CH}_{3} \\mathrm{CH}_{2} \\mathrm{CHClCH}_{2} \\mathrm{CH}_{3}$; 主链有 4 个碳原子的: $\\mathrm{CH}_{3} \\mathrm{CH}\\left(\\mathrm{CH}_{3}\\right) \\mathrm{CH}_{2} \\mathrm{CH}_{2} \\mathrm{Cl} ; \\mathrm{CH}_{3} \\mathrm{CH}\\left(\\mathrm{CH}_{3}\\right) \\mathrm{CHClCH}_{3} ; \\mathrm{CH}_{3} \\mathrm{CCl}$ ( $\\left.\\mathrm{CH}_{3}\\right) \\mathrm{CH}_{2} \\mathrm{CH}_{3} ; \\mathrm{CH}_{2} \\mathrm{ClCH}\\left(\\mathrm{CH}_{3}\\right) \\mathrm{CH}_{2} \\mathrm{CH}_{3} ;$ 主链有 3 个碳原子的: $\\mathrm{CH}_{2} \\mathrm{C}\\left(\\mathrm{CH}_{3}\\right)_{2} \\mathrm{CH}_{2} \\mathrm{Cl}$; 共有 8 种情况。 故选: C。",
+      "source": "GAOKAO-Bench|year:2011|index:7|commit:6dbb24f8d843",
+      "title": "高考真题候选02·化学·2011·7",
+      "tags": [
+        "kp:CHEM-ORGANIC-STRUCTURE",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "化学",
+      "chapter": "有机化学基础",
+      "knowledge_points": [
+        "有机反应类型"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "下列反应中，属于取代反应的是（） (1) $\\mathrm{CH}_{3} \\mathrm{CH}=\\mathrm{CH}_{2}+\\mathrm{Br}_{2} \\stackrel{\\mathrm{CCl}_{4}^{\\longrightarrow}}{\\longrightarrow} \\mathrm{CH}_{3} \\mathrm{CHBrCH}_{2} \\mathrm{Br}$ (2) $\\mathrm{CH}_{3} \\mathrm{CH}_{2} \\mathrm{OH} \\stackrel{\\text { 棪 } \\mathrm{H}_{2} \\mathrm{SO}_{4}}{\\triangle} \\mathrm{CH}_{2}=\\mathrm{CH}_{2}+\\mathrm{H}_{2} \\mathrm{O}$ (3) $\\mathrm{CH}_{3} \\mathrm{COOH}+\\mathrm{CH}_{3} \\mathrm{CH}_{2} \\mathrm{OH} \\stackrel{\\text { 棪. } \\mathrm{H}_{2} \\mathrm{SO}_{4}}{\\mathrm{~A}} \\mathrm{CH}_{3} \\mathrm{COOCH}_{2} \\mathrm{CH}_{3}+\\mathrm{H}_{2} \\mathrm{O}$ ![](https://cdn.mathpix.com/cropped/2023_03_05_b6a30ae2ca4c230a7a82g-01.jpg?height=100&width=619&top_left_y=1441&top_left_x=296)",
+      "options": [
+        "(1)(2)",
+        "(3) (4)",
+        "(1)(3)",
+        "(2)"
+      ],
+      "answer": "B",
+      "solution": "解：A、(1)属于加成反应; (2)属于消去反应, 故 A 错; B、(3)属于酯化反应, 也属于取代反应; (4)属于苯的硝化反应, 也属于取代反应, 故 B 正确; C、(1)属于加成反应; (3)属于酯化反应，也属于取代反应，故 C 错; D、(2)属于消去反应; (4)属于苯的硝化反应, 也属于取代反应, 故 D 错。 故选: B。",
+      "source": "GAOKAO-Bench|year:2011|index:8|commit:6dbb24f8d843",
+      "title": "高考真题候选02·化学·2011·8",
+      "tags": [
+        "kp:CHEM-ORGANIC-REACTION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "化学",
+      "chapter": "化学反应原理",
+      "knowledge_points": [
+        "化学反应与能量"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "铁铂蓄电池又称爱迪生电池, 放电时的总反应为: $\\mathrm{Fe}^{+} \\mathrm{Ni}_{2} \\mathrm{O}_{3}+3 \\mathrm{H}_{2} \\mathrm{O}=\\mathrm{Fe}(\\mathrm{OH})$ ${ }_{2}+2 \\mathrm{Ni}(\\mathrm{OH})_{2}$ 下列有关该电池的说法不正确的是（ $)$",
+      "options": [
+        "电池的电解液为碱性溶液, 正极为 $\\mathrm{Ni}_{2} \\mathrm{O}_{3}$ 、负极为 $\\mathrm{Fe}$",
+        "电池放电时, 负极反应为 $\\mathrm{Fe}+2 \\mathrm{OH}^{-}-2 \\mathrm{e}^{-}=\\mathrm{Fe}(\\mathrm{OH})_{2}$",
+        "电池充电过程中, 阴极附近溶液的碱性减弱",
+        "电池充电时, 阳极反应为 $2 \\mathrm{Ni}(\\mathrm{OH}){ }_{2}+2 \\mathrm{OH}^{-}-2 \\mathrm{e}^{-}=\\mathrm{Ni}_{2} \\mathrm{O}_{3}+3 \\mathrm{H}_{2} \\mathrm{O}$"
+      ],
+      "answer": "C",
+      "solution": "解: $A 、 反$ 、应后产物有氢氧化物, 可得电解液为碱性溶液, 由放电时的 反应可以得出铁做还原剂失去电子, $\\mathrm{Ni}_{2} \\mathrm{O}_{3}$ 做氧化剂得到电子, 即正极为 $\\mathrm{Ni}_{2} \\mathrm{O}_{3}$ 、负极为 $\\mathrm{Fe}$, 故 $\\mathrm{A}$ 正确; B、根据总反应 $\\mathrm{Fe}+\\mathrm{Ni}_{2} \\mathrm{O}_{3}+3 \\mathrm{H}_{2} \\mathrm{O}=\\mathrm{Fe}(\\mathrm{OH})_{2}+2 \\mathrm{Ni}(\\mathrm{OH})_{2}$, 可以判断出铁铂蓄电池 放电时 $\\mathrm{Fe}$ 作负极, 发生氧化反应, 为还原剂, 失电子生成 $\\mathrm{Fe}^{2+}$, 碱性电解质 中最终生成 $\\mathrm{Fe}(\\mathrm{OH})_{2}$, 负极反应为: $\\mathrm{Fe}+2 \\mathrm{OH}^{-}-2 \\mathrm{e}^{-}=\\mathrm{Fe}(\\mathrm{OH})_{2}$, 故 B 正确 C、充电可以看作是放电的逆过程, 即阴极为原来的负极, 所以电池放电时, 负 极反应为: $\\mathrm{Fe}+2 \\mathrm{OH}^{-}-2 \\mathrm{e}^{-}=\\mathrm{Fe}(\\mathrm{OH})_{2}$, 所以电池充电过程时阴极反应为 $\\mathrm{Fe}($ $\\mathrm{OH})_{2}+2 \\mathrm{e}^{-}=\\mathrm{Fe}+2 \\mathrm{OH}^{-}$, 因此电池充电过程中阴极附近溶液的 $\\mathrm{pH}$ 会升高, 故 $\\mathrm{C}$ 错误; D、充电时，阴极发生 $\\mathrm{Fe}(\\mathrm{OH})_{2}+2 \\mathrm{e}^{-}=\\mathrm{Fe}+2 \\mathrm{OH}^{-}$, 阳极发生 $2 \\mathrm{Ni}(\\mathrm{OH})$ ${ }_{2}+2 \\mathrm{OH}^{-}-2 \\mathrm{e}^{-}=\\mathrm{Ni}_{2} \\mathrm{O}_{3}+3 \\mathrm{H}_{2} \\mathrm{O}$, 故 D 正确。 故选: C。",
+      "source": "GAOKAO-Bench|year:2011|index:9|commit:6dbb24f8d843",
+      "title": "高考真题候选02·化学·2011·9",
+      "tags": [
+        "kp:CHEM-REACTION-ENERGY",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "化学",
+      "chapter": "化学基本概念",
+      "knowledge_points": [
+        "离子反应与离子方程式"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "能正确表示下列反应的离子方程式为（ ）",
+      "options": [
+        "硫化亚铁溶于稀硝酸中: $\\mathrm{FeS}+2 \\mathrm{H}^{+}=\\mathrm{Fe}^{2+}+\\mathrm{H}_{2} \\mathrm{~S} \\uparrow$",
+        "$\\mathrm{NH}_{4} \\mathrm{HCO}_{3}$ 溶于过量的 $\\mathrm{NaOH}$ 溶液中: $\\mathrm{HCO}_{3}{ }^{-}+\\mathrm{OH}^{-}=\\mathrm{CO}_{3}{ }^{2-}+\\mathrm{H}_{2} \\mathrm{O}$",
+        "少量 $\\mathrm{SO}_{2}$ 通入苯酚钠溶液中: $\\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{O}^{-}+\\mathrm{SO}_{2}+\\mathrm{H}_{2} \\mathrm{O}=\\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{OH}+\\mathrm{HSO}_{3}$",
+        "大理石溶于醋酸中: $\\mathrm{CaCO}_{3}+2 \\mathrm{CH}_{3} \\mathrm{COOH}=\\mathrm{Ca}^{2+}+2 \\mathrm{CH}_{3} \\mathrm{COO}^{-}+\\mathrm{CO}_{2} \\uparrow+\\mathrm{H}_{2} \\mathrm{O}$"
+      ],
+      "answer": "D",
+      "solution": "解: A. 硝酸具有氧化性, 能氧化 $\\mathrm{FeS}$, 因此产物应该是硝酸铁、硫酸 和一氧化氮，故 $A$ 错误; B. $\\mathrm{NH}_{4} \\mathrm{HCO}_{3}$ 溶于过量的 $\\mathrm{NaOH}$ 溶液中除了生成碳酸钠外还有一水合氨生成, 方 程式为 $\\mathrm{NH}_{4}{ }^{+}+\\mathrm{HCO}_{3}{ }^{-}+2 \\mathrm{OH}^{-}=\\mathrm{CO}_{3}{ }^{2-}+\\mathrm{H}_{2} \\mathrm{O}+\\mathrm{NH}_{3} . \\mathrm{H}_{2} \\mathrm{O}$, 故 B 错误; C. $\\mathrm{SO}_{2}$ 不足产物应该是 $\\mathrm{SO}_{3}{ }^{2-}$, 少量 $\\mathrm{SO}_{2}$ 通入苯酚钠溶液中的离子反应为 $2 \\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{O}^{-}+\\mathrm{SO}_{2}+\\mathrm{H}_{2} \\mathrm{O}=2 \\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{OH}+\\mathrm{SO}_{3}^{2-}$, 故 C 错误; D. 碳酸铂和醋酸在离子反应中应保留化学式, 大理石溶于醋酸中的离子反应为 $\\mathrm{CaCO}_{3}+2 \\mathrm{CH}_{3} \\mathrm{COOH}=\\mathrm{Ca}^{2+}+2 \\mathrm{CH}_{3} \\mathrm{COO}^{-}+\\mathrm{CO}_{2} \\uparrow+\\mathrm{H}_{2} \\mathrm{O}$ ， 故 D 正确; 故选: $D$ 。",
+      "source": "GAOKAO-Bench|year:2011|index:10|commit:6dbb24f8d843",
+      "title": "高考真题候选02·化学·2011·10",
+      "tags": [
+        "kp:CHEM-CONCEPT-ION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "化学",
+      "chapter": "化学实验",
+      "knowledge_points": [
+        "实验基本操作与安全"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "下列叙述中正确的是（）",
+      "options": [
+        "液溴易挥发, 在存放液溴的试剂瓶中应加水封",
+        "能使润湿的淀粉 $\\mathrm{KI}$ 试纸变成蓝色的物质一定是 $\\mathrm{Cl}_{2}$",
+        "某溶液中加入 $\\mathrm{CCl}_{4}, \\mathrm{CCl}_{4}$ 层显紫色, 证明原溶液中存在 $\\mathrm{I}^{-}$",
+        "某溶液中加入 $\\mathrm{BaCl}_{2}$ 溶液, 产生不溶于稀硝酸的白色沉淀, 该溶液一定含 有 $\\mathrm{Ag}^{+}$"
+      ],
+      "answer": "A",
+      "solution": "解: A. 液溴易挥发, 密度比水大, 实验室常用水封的方法保存, 故 A 正确; B. 能使润湿的淀粉 $\\mathrm{KI}$ 试纸变成蓝色的物质具有氧化性, 可能为 $\\mathrm{NO}_{2} 、 \\mathrm{O}_{3} 、 \\mathrm{Cl}_{2}$ 等物质，但不一定为 $\\mathrm{Cl}_{2}$, 故 $\\mathrm{B}$ 错误; C. $\\mathrm{CCl}_{4}$ 层显紫色, 证明原溶液中存在 $\\mathrm{I}_{2}, \\mathrm{I}^{-}$无色, 故 $\\mathrm{C}$ 错误; D. 溶液中加入 $\\mathrm{BaCl}_{2}$ 溶液, 产生不溶于稀硝酸的白色沉淀, 可能为 $\\mathrm{AgCl}$ 或 $\\mathrm{BaSO}_{4}$, 不一定含有 $\\mathrm{Ag}^{+}$, 故 D 错误。 故选: A。",
+      "source": "GAOKAO-Bench|year:2012|index:12|commit:6dbb24f8d843",
+      "title": "高考真题候选02·化学·2012·12",
+      "tags": [
+        "kp:CHEM-EXPERIMENT-OPERATION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "化学",
+      "chapter": "无机元素及其化合物",
+      "knowledge_points": [
+        "非金属及其化合物"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "下列说法正确的是（）",
+      "options": [
+        "医用酒精的浓度通常是 $95 \\%$",
+        "单质硅是将太阳能转化为电能的常用材料",
+        "淀粉、纤维素和油脂都属于天然高分子化合物",
+        "合成纤维和光导纤维都是新型无机非金属材料"
+      ],
+      "answer": "B",
+      "solution": "解: A、医用酒精的浓度通常是 $75 \\%$, 此浓度杀菌消毒作用强; 故 A 错 误; B、单质硅可以制太阳能电池板, 是将太阳能转化为电能; 故 B 正确; C、淀粉、纤维素都属于天然高分子化合物, 油脂不是高分子化合物; 故 C 错误 D、合成纤维是有机非金属材料, 光导纤维是新型无机非金属材料; 故 D 错误; 故选：B。",
+      "source": "GAOKAO-Bench|year:2012|index:13|commit:6dbb24f8d843",
+      "title": "高考真题候选02·化学·2012·13",
+      "tags": [
+        "kp:CHEM-INORGANIC-NONMETAL",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "细胞代谢",
+      "knowledge_points": [
+        "细胞呼吸"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "种子贮藏中需要控制呼吸作用以减少有机物的消耗。若作物种子呼吸作用所利用 的物质是淀粉分解产生的葡萄糖，下列关于种子呼吸作用的叙述，错误的是（）",
+      "options": [
+        "若产生的CO2与乙醇的分子数相等，则细胞只进行无氧呼吸",
+        "若细胞只进行有氧呼吸，则吸收O2的分子数与释放CO2的相等",
+        "若细胞只进行无氧呼吸且产物是乳酸，则无O2吸收也无CO2释放",
+        "若细胞同时进行有氧和无氧呼吸，则吸收O2的分子数比释放CO2的多"
+      ],
+      "answer": "D",
+      "solution": "【解答】解：A、由分析可知：由于有氧呼吸产生二氧化碳，不产生乙醇，若产生的CO2 与乙醇的分子数相等，则说明细胞只进行无氧呼吸，A正确； B、若细胞只进行有氧呼吸，则吸收O2的分子数与释放CO2的相等，B正确； C、由分析可知：若细胞只进行无氧呼吸且产物是乳酸，则无O2吸收也无CO2释放，C 正确； D、若细胞同时进行有氧和无氧呼吸，若为有氧呼吸和酒精式无氧呼吸，则释放CO2的 分子数比吸收O2的多，若细胞同时进行有氧和无氧呼吸，且为有氧呼吸和乳酸式无氧呼 吸，则释放CO2的分子数等于吸收O2的分子数，D错误。 故选：D。",
+      "source": "GAOKAO-Bench|year:2020|index:113|commit:6dbb24f8d843",
+      "title": "高考真题候选02·生物·2020·113",
+      "tags": [
+        "kp:BIO-METABOLISM-RESPIRATION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "稳态与调节",
+      "knowledge_points": [
+        "神经调节与体液调节"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "某研究人员以小鼠为材料进行了与甲状腺相关的实验，下列叙述错误的是（）",
+      "options": [
+        "切除小鼠垂体，会导致甲状腺激素分泌不足，机体产热减少",
+        "给切除垂体的幼年小鼠注射垂体提取液后，其耗氧量会增加",
+        "给成年小鼠注射甲状腺激素后，其神经系统的兴奋性会增强",
+        "给切除垂体的小鼠注射促甲状腺激素释放激素，其代谢可恢复正常"
+      ],
+      "answer": "D",
+      "solution": "【解答】解：A、切除小鼠垂体，导致促甲状腺激素分泌减少，进而导致甲状腺激素分泌 减少，从而导致细胞代谢强度降低，产热减少，A正确；B、切除垂体的幼年小鼠其促甲状腺激素分泌减少，注射垂体提取液，由于垂体提取液中 含有促甲状腺激素，导致甲状腺激素的分泌量增加，其耗氧量增加，B正确； C、甲状腺激素能提高神经系统的兴奋性，给成年小鼠注射甲状腺激素后，其神经系统的 兴奋性会增强，C正确； D、给切除垂体的小鼠，无法分泌促甲状腺激素，故注射促甲状腺激素释放激素，其代谢 不能恢复正常，D错误。 故选：D。",
+      "source": "GAOKAO-Bench|year:2020|index:114|commit:6dbb24f8d843",
+      "title": "高考真题候选02·生物·2020·114",
+      "tags": [
+        "kp:BIO-HOMEOSTASIS-NEURAL-HUMORAL",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "生物技术与实验",
+      "knowledge_points": [
+        "教材基础实验"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "为达到实验目的，需要选用合适的实验材料进行实验。下列实验目的与实验材料 的对应，不合理的是（） 实验材料 实验目的 A大蒜根尖分生区细胞 观察细胞的质壁分离与复原 B蝗虫的精巢细胞 观察细胞的减数分裂 C哺乳动物的红细胞 观察细胞的吸水和失水 D人口腔上皮细胞 观察DNA、RNA在细胞中的 分布",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "solution": "【解答】解：A、大蒜根尖分生区细胞是未成熟植物细胞，无大液泡，质壁分离不明显， 故不作为观察细胞的质壁分离与复原现象的实验材料，A错误； B、蝗虫的精巢细胞能够进行减数分裂，可以作为观察细胞的减数分裂的实验材料，B正 确； C、哺乳动物的红细胞可以发生渗透作用，低浓度中吸水，高浓度中失水，C正确； D、人的口腔上皮细胞可以用作观察DNA和RNA在细胞中的分布这一实验的材料，D 正确。故选：A。",
+      "source": "GAOKAO-Bench|year:2020|index:115|commit:6dbb24f8d843",
+      "title": "高考真题候选02·生物·2020·115",
+      "tags": [
+        "kp:BIO-TECHNOLOGY-EXPERIMENT",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "遗传与进化",
+      "knowledge_points": [
+        "遗传基本规律"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "已知果蝇的长翅和截翅由一对等位基因控制。多只长翅果蝇进行单对交配（每个 瓶中有1只雌果蝇和1只雄果蝇），子代果蝇中长翅：截翅＝3：1．据此无法判断的是（）",
+      "options": [
+        "长翅是显性性状还是隐性性状",
+        "亲代雌蝇是杂合子还是纯合子",
+        "该等位基因位于常染色体还是X染色体上",
+        "该等位基因在雌蝇体细胞中是否成对存在"
+      ],
+      "answer": "C",
+      "solution": "【解答】解：A、由分析可知：长翅为显性性状，A错误； B、由分析可知，不论位于常染色体上还是X染色体上，亲代雌蝇都是杂合子，B错误； C、由分析可知：该等位基因位于常染色体还是X染色体上无法确定，C正确； D、由分析可知：不论位于常染色体上还是X染色体上，该等位基因在雌蝇体细胞中都 成对存在，D错误。 故选：C。",
+      "source": "GAOKAO-Bench|year:2020|index:116|commit:6dbb24f8d843",
+      "title": "高考真题候选02·生物·2020·116",
+      "tags": [
+        "kp:BIO-GENETICS-LAWS",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "生物与环境",
+      "knowledge_points": [
+        "种群与群落"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "土壤小动物对动植物遗体的分解起着重要的作用。下列关于土壤小动物的叙述， 错误的是（）",
+      "options": [
+        "调查身体微小、活动力强的小动物数量常用标志重捕法",
+        "土壤中小动物类群的丰富度高，则该类群含有的物种数目多",
+        "土壤小动物的代谢活动会影响土壤肥力，进而影响植物生长",
+        "土壤小动物呼吸作用产生的CO2参与生态系统中的碳循环"
+      ],
+      "answer": "A",
+      "solution": "【解答】解：A、许多土壤小动物有较强的活动能力，且身体微小，因此不适于用样方法 和标记重捕法调查，常用取样器取样的方法进行采集、调查法，A错误； B、丰富度是指一个群落或生态系统中物种数目的多少，丰富度高，说明该类群含有的物 种数目多，B正确； C、土壤小动物的代谢活动会产生无机物，提高土壤肥力，进而影响植物生长，C正确； D、土壤小动物呼吸作用产生的CO2参与生态系统中的碳循环，D正确。 故选：A。",
+      "source": "GAOKAO-Bench|year:2020|index:117|commit:6dbb24f8d843",
+      "title": "高考真题候选02·生物·2020·117",
+      "tags": [
+        "kp:BIO-ECOLOGY-POPULATION-COMMUNITY",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "分子与细胞",
+      "knowledge_points": [
+        "组成细胞的分子"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "新冠病毒（SARS﹣CoV﹣2）和肺炎双球菌均可引发肺炎，但二者的结构不同， 新冠病毒是一种含有单链RNA的病毒。下列相关叙述正确的是（）",
+      "options": [
+        "新冠病毒进入宿主细胞的跨膜运输方式属于被动运输",
+        "新冠病毒与肺炎双球菌均可利用自身的核糖体进行蛋白质合成",
+        "新冠病毒与肺炎双球菌二者遗传物质所含有的核苷酸是相同的",
+        "新冠病毒或肺炎双球菌的某些蛋白质可作为抗原引起机体免疫反应"
+      ],
+      "answer": "D",
+      "solution": "【解答】A、新冠病毒进入宿主细胞的方式是胞吞，A错误； B、新冠病毒无核糖体，只能利用宿主细胞的核糖体进行蛋白质合成，B错误； C、新冠病毒的遗传物质是RNA，肺炎双球菌的遗传物质是DNA，两者含有的核苷酸不 相同的，C错误； D、新冠病毒或肺炎双球菌的某些蛋白质可作为抗原引起机体免疫反应，D正确。 故选：D。",
+      "source": "GAOKAO-Bench|year:2020|index:118|commit:6dbb24f8d843",
+      "title": "高考真题候选02·生物·2020·118",
+      "tags": [
+        "kp:BIO-CELL-MOLECULE",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "稳态与调节",
+      "knowledge_points": [
+        "免疫调节"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "当人体的免疫系统将自身物质当作外来异物进行攻击时，可引起自身免疫病。下 列属于自身免疫病的是（）",
+      "options": [
+        "艾滋病",
+        "类风湿性关节炎",
+        "动物毛屑接触性鼻炎",
+        "抗维生素D佝偻病"
+      ],
+      "answer": "B",
+      "solution": "【解答】解：A、艾滋病是由艾滋病病毒引起的免疫功能缺失的获得性免疫缺陷综合征， A错误； B、类风湿性关节炎为自身免疫反应对自身组织和器官造成损伤，属于自身免疫病，B正 确； C、动物毛屑接触性鼻炎是由于免疫系统对过敏原（毛屑）过度敏感引起的过敏反应，C 错误； D、抗维生素D佝偻病是由显性致病基因控制的单基因遗传病，D错误。 故选：B。",
+      "source": "GAOKAO-Bench|year:2020|index:119|commit:6dbb24f8d843",
+      "title": "高考真题候选02·生物·2020·119",
+      "tags": [
+        "kp:BIO-HOMEOSTASIS-IMMUNE",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "遗传与进化",
+      "knowledge_points": [
+        "变异、育种与进化"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "关于高等植物细胞中染色体组的叙述，错误的是（）",
+      "options": [
+        "二倍体植物的配子只含有一个染色体组",
+        "每个染色体组中的染色体均为非同源染色体",
+        "每个染色体组中都含有常染色体和性染色体",
+        "每个染色体组中各染色体DNA的碱基序列不同"
+      ],
+      "answer": "C",
+      "solution": "【解答】解：A、二倍体植物的体细胞含有两个染色体组，其配子含有一个染色体组，A 正确； B、一个染色体组中无同源染色体，其形态和功能各不相同，均为非同源染色体，B正确； C、雌雄同株的植物细胞内没有性染色体，故其一个染色体组内也没有性染色体，C错误； D、每个染色体组中各染色体互为非同源染色体，其DNA的碱基序列不同，D正确。 故选：C。",
+      "source": "GAOKAO-Bench|year:2020|index:121|commit:6dbb24f8d843",
+      "title": "高考真题候选02·生物·2020·121",
+      "tags": [
+        "kp:BIO-GENETICS-VARIATION-EVOLUTION",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "生物与环境",
+      "knowledge_points": [
+        "种群与群落"
+      ],
+      "difficulty": 2,
+      "type": "single_choice",
+      "question": "河水携带泥沙流入大海时，泥沙会在入海口淤积形成三角洲。在这个过程中，会 出现3种植物群落类型：①以芦苇为主的植物群落（生长在淡水环境中），②以赤碱蓬为 主的植物群落（生长在海水环境中），③草甸植物群落（生长在陆地环境中）。该三角洲 上的植物群落是通过群落演替形成的，演替的顺序是（）",
+      "options": [
+        "②①③",
+        "③②①",
+        "①③②",
+        "③①②"
+      ],
+      "answer": "A",
+      "solution": "【解答】解：根据题干信息“河水携带泥沙流入大海时，泥沙会在入海口淤积形成三角 洲”可知，无机环境的演化顺序为：“海水、淡水、陆地”，因此植物类型演替的顺序为： ②以赤碱蓬为主的植物群落、①以芦苇为主的植物群落、③草甸植物群落。故选：A。",
+      "source": "GAOKAO-Bench|year:2020|index:123|commit:6dbb24f8d843",
+      "title": "高考真题候选02·生物·2020·123",
+      "tags": [
+        "kp:BIO-ECOLOGY-POPULATION-COMMUNITY",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    },
+    {
+      "subject": "生物",
+      "chapter": "遗传与进化",
+      "knowledge_points": [
+        "遗传的分子基础"
+      ],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "关于真核生物的遗传信息及其传递的叙述，错误的是（）",
+      "options": [
+        "遗传信息可以从DNA流向RNA，也可以从RNA流向蛋白质",
+        "细胞中以DNA的一条单链为模板转录出的RNA均可编码多肽",
+        "细胞中DNA分子的碱基总数与所有基因的碱基数之和不相等",
+        "染色体DNA分子中的一条单链可以转录出不同的RNA分子"
+      ],
+      "answer": "B",
+      "solution": "【解答】解：A、遗传信息可以通过转录从DNA流向RNA，也可以从mRNA经过翻译 流向蛋白质，A正确； B、细胞中以DNA的一条单链为模板转录出的RNA包括mRNA、tRNA和rRNA，其中 只要mRNA才能编码多肽，B错误； C、由于基因是具有遗传效应的DNA片段，一条DNA分子中含有许多基因，基因与基 因之间存在基因间区，故细胞中DNA分子的碱基总数大于所有基因的碱基数之和，C正 确； D、一条DNA分子中含有许多基因，由于细胞中的基因选择性表达，故染色体DNA分 子中的一条单链可以转录出不同的RNA分子，D正确。 故选：B。",
+      "source": "GAOKAO-Bench|year:2020|index:124|commit:6dbb24f8d843",
+      "title": "高考真题候选02·生物·2020·124",
+      "tags": [
+        "kp:BIO-GENETICS-MOLECULAR",
+        "origin:external",
+        "grade:high-school",
+        "region-fit:qinghai-curriculum",
+        "batch:qinghai-six-subject-history-02",
+        "review:required"
+      ]
+    }
+  ]
+}
