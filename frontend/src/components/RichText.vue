@@ -12,14 +12,28 @@ function escapeHtml(value: string) {
     .replaceAll('"', '&quot;').replaceAll("'", '&#039;').replaceAll('\n', '<br>')
 }
 
+function safeImageUrl(value: string) {
+  const url = value.trim()
+  return /^(https?:\/\/|\/)/i.test(url) ? url : ''
+}
+
 function render(value: string) {
-  const pattern = /(\$\$[\s\S]+?\$\$|\$[^$\n]+?\$)/g
+  const pattern = /(!\[[^\]\n]*\]\([^)]+\)|\$\$[\s\S]+?\$\$|\$[^$\n]+?\$)/g
   let cursor = 0
   let html = ''
   for (const match of value.matchAll(pattern)) {
     const index = match.index ?? 0
     html += escapeHtml(value.slice(cursor, index))
     const token = match[0]
+    if (token.startsWith('![')) {
+      const image = /^!\[([^\]\n]*)\]\(([^)]+)\)$/.exec(token)
+      const url = image ? safeImageUrl(image[2]) : ''
+      html += url
+        ? `<img class="question-image" src="${escapeHtml(url)}" alt="${escapeHtml(image?.[1] ?? '')}" loading="lazy">`
+        : escapeHtml(token)
+      cursor = index + token.length
+      continue
+    }
     const displayMode = token.startsWith('$$')
     const expression = token.slice(displayMode ? 2 : 1, displayMode ? -2 : -1)
     html += katex.renderToString(expression, {
@@ -45,4 +59,13 @@ const html = computed(() => render(props.text ?? ''))
   padding: 0.25rem 0;
 }
 .rich-text :deep(.katex) { font-size: 1em; }
+.rich-text :deep(.question-image) {
+  display: block;
+  width: auto;
+  max-width: 100%;
+  max-height: 70vh;
+  margin: 1rem auto;
+  border-radius: 0.875rem;
+  object-fit: contain;
+}
 </style>
