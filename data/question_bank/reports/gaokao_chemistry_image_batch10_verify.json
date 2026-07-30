@@ -1,0 +1,31 @@
+{
+  "command": "verify",
+  "schema_version": "question-bank-report-v1",
+  "mapping_version": "kp-mapping-v1.1",
+  "total": 1,
+  "passed": 1,
+  "errors": 0,
+  "warnings": 0,
+  "database_duplicates": 0,
+  "files": [
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "gaokao_chemistry_image_batch10_v1.json",
+      "total": 1,
+      "passed": 1,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "磷酸亚铁锂 $\\mathrm{LiFePO_4}$ 电池是新能源汽车的动力电池之一。采用湿法冶金工艺回收废旧电池正极片中的金属，流程如下：\n\n![废旧磷酸亚铁锂电池回收流程](/question-as",
+          "content_hash": "877536320f9aaa1ebe762ad40fd32ba66e3261c73230daf84c2db843d055a0eb",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-INORGANIC-TRANSFORMATION"
+        }
+      ]
+    }
+  ]
+}

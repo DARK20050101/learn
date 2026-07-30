@@ -1,0 +1,32 @@
+{
+  "schema_version": "shiguang-question-candidate-v1",
+  "batch": "gaokao-chemistry-image-10",
+  "questions": [
+    {
+      "subject": "化学",
+      "chapter": "无机元素及其化合物",
+      "knowledge_points": ["无机物转化与推断"],
+      "difficulty": 3,
+      "type": "single_choice",
+      "question": "磷酸亚铁锂 $\\mathrm{LiFePO_4}$ 电池是新能源汽车的动力电池之一。采用湿法冶金工艺回收废旧电池正极片中的金属，流程如下：\n\n![废旧磷酸亚铁锂电池回收流程](/question-assets/chemistry/gaokao-2018-lifepo4-recovery.jpg)\n\n下列叙述错误的是（ ）",
+      "options": [
+        "合理处理废旧电池有利于保护环境和资源再利用",
+        "从“正极片”中可回收的金属元素有 $\\mathrm{Al}$、$\\mathrm{Fe}$、$\\mathrm{Li}$",
+        "“沉淀”反应的金属离子为 $\\mathrm{Fe^{3+}}$",
+        "上述流程中可用硫酸钠代替碳酸钠"
+      ],
+      "answer": "D",
+      "solution": "合理处理废旧电池能够减少污染并回收铝、铁、锂等资源。硝酸具有氧化性，可将亚铁离子氧化为铁离子，随后形成含铁沉淀。加入碳酸钠可使锂形成难溶盐，而硫酸钠不能达到相同的沉锂效果，所以 D 错误。",
+      "source": "GAOKAO-Bench|chemistry-mcq|year:2018|index:76|commit:6dbb24f8d843",
+      "title": "2018高考化学真题·废旧电池回收流程",
+      "tags": [
+        "kp:CHEM-INORGANIC-TRANSFORMATION",
+        "origin:external",
+        "has-image",
+        "region-fit:qinghai-curriculum",
+        "batch:gaokao-chemistry-image-10",
+        "review:independent-answer-passed"
+      ]
+    }
+  ]
+}

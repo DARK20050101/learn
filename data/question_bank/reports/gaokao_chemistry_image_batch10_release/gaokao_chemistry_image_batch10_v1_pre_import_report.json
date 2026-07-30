@@ -1,0 +1,27 @@
+{
+  "report": "pre_import",
+  "filename": "gaokao_chemistry_image_batch10_v1.json",
+  "file_hash": "3ab3c887d4e4302a895db981fd950e2499de658c21fc60c6133f884be62a0bc9",
+  "mapping_version": "kp-mapping-v1.1",
+  "database": {
+    "questions": 375,
+    "primary_knowledge_point_links": 375,
+    "orphan_questions": 0,
+    "selected_question_count": 375,
+    "selected_questions_business_hash": "71b405c03fc08bd39ec639b069f0077eb726e0fde85f06430cd75064ea5165b4"
+  },
+  "total": 1,
+  "new_questions": 1,
+  "matching_duplicates": 0,
+  "conflicts": 0,
+  "errors": [],
+  "ready": true,
+  "items": [
+    {
+      "index": 1,
+      "content_hash": "877536320f9aaa1ebe762ad40fd32ba66e3261c73230daf84c2db843d055a0eb",
+      "primary_code": "CHEM-INORGANIC-TRANSFORMATION",
+      "status": "new"
+    }
+  ]
+}
