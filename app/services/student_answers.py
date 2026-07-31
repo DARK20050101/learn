@@ -5,7 +5,7 @@ from sqlalchemy import case, func, select
 from sqlalchemy.exc import IntegrityError
 from sqlalchemy.ext.asyncio import AsyncSession
 
-from app.models.daily_task import DailyTaskItem
+from app.models.daily_task import DailyTask, DailyTaskItem
 from app.models.knowledge_status import KnowledgeStatus
 from app.models.question import Question, QuestionType
 from app.models.student_answer import AnalysisStatus, DifficultyFeedback, StudentAnswer
@@ -55,6 +55,27 @@ async def create_answer(
                 raise HTTPException(409, "幂等键已经用于其他题目")
             return existing, False
     training_session: TrainingSession | None = None
+    if data.daily_task_item_id is not None:
+        daily_task = await db.scalar(
+            select(DailyTask)
+            .join(DailyTaskItem, DailyTaskItem.daily_task_id == DailyTask.id)
+            .where(
+                DailyTaskItem.id == data.daily_task_item_id,
+                DailyTaskItem.question_id == question.id,
+                DailyTask.user_id == user_id,
+            )
+            .with_for_update()
+        )
+        if not daily_task:
+            raise HTTPException(422, "每日任务题目与当前用户或题目不匹配")
+        existing_daily_answer = await db.scalar(
+            select(StudentAnswer).where(
+                StudentAnswer.user_id == user_id,
+                StudentAnswer.daily_task_item_id == data.daily_task_item_id,
+            )
+        )
+        if existing_daily_answer:
+            raise HTTPException(409, "该每日任务题目已经提交过答案")
     if data.training_session_item_id is not None:
         training_session = await db.scalar(
             select(TrainingSession)

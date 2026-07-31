@@ -53,6 +53,32 @@ async def get_answer_analysis(
     return analysis_response(answer) if answer else None
 
 
+async def retry_answer_analysis(
+    db: AsyncSession,
+    answer_id: int,
+    user_id: int,
+) -> tuple[AIAnalysisResponse | None, bool]:
+    answer = await db.scalar(
+        select(StudentAnswer)
+        .where(
+            StudentAnswer.id == answer_id,
+            StudentAnswer.user_id == user_id,
+        )
+        .with_for_update()
+    )
+    if not answer:
+        return None, False
+    if answer.is_correct or answer.analysis_status in {
+        AnalysisStatus.pending,
+        AnalysisStatus.completed,
+    }:
+        return analysis_response(answer), False
+    answer.analysis_status = AnalysisStatus.pending
+    answer.ai_analysis = None
+    await db.commit()
+    return analysis_response(answer), True
+
+
 def _canonical_gap(result: AIAnalysisResult, knowledge_points: list[str]) -> AIAnalysisResult:
     if result.knowledge_gap in knowledge_points:
         return result

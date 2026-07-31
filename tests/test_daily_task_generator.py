@@ -16,6 +16,7 @@ def make_question(
     subject: str,
     difficulty: int = 2,
     point: str = "基础",
+    tags: list[str] | None = None,
 ) -> Question:
     return Question(
         id=question_id,
@@ -29,7 +30,7 @@ def make_question(
         explanation="解析",
         difficulty=difficulty,
         knowledge_points=[point],
-        tags=[],
+        tags=tags or [],
         is_active=True,
     )
 
@@ -195,3 +196,24 @@ def test_fewer_than_six_candidates_stays_incomplete() -> None:
         set(),
     )
     assert len(result) == 5
+
+
+def test_daily_task_prefers_distinct_material_groups() -> None:
+    candidates = [
+        make_question(1, "英语", tags=["material-group:reading-a"]),
+        make_question(2, "英语", tags=["material-group:reading-a"]),
+        make_question(3, "英语", tags=["material-group:reading-b"]),
+        make_question(4, "英语", tags=["material-group:reading-c"]),
+        make_question(5, "物理", tags=["material-group:physics-a"]),
+        make_question(6, "物理", tags=["material-group:physics-b"]),
+        make_question(7, "数学", tags=["material-group:math-a"]),
+    ]
+
+    result = choose_questions(candidates, {}, {}, set())
+    groups = [
+        next(tag for tag in item.question.tags if tag.startswith("material-group:"))
+        for item in result
+    ]
+
+    assert len(result) == 6
+    assert len(groups) == len(set(groups))

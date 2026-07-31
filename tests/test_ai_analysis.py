@@ -4,7 +4,7 @@ from app.models.knowledge_status import KnowledgeStatus
 from app.models.question import Question, QuestionType
 from app.models.student_answer import AnalysisStatus, StudentAnswer
 from app.schemas.ai_analysis import AIAnalysisInput, AIAnalysisResult, MistakeType
-from app.services.ai_analysis import analyze_answer
+from app.services.ai_analysis import analyze_answer, retry_answer_analysis
 
 
 def make_answer(*, correct: bool = False) -> StudentAnswer:
@@ -183,3 +183,29 @@ async def test_unknown_gap_is_normalized_to_question_knowledge_point() -> None:
     assert response.analysis.knowledge_gap == "函数单调性"
     assert db.knowledge is not None
     assert db.knowledge.knowledge_point == "函数单调性"
+
+
+async def test_failed_analysis_can_be_marked_pending_for_one_retry() -> None:
+    answer = make_answer()
+    answer.analysis_status = AnalysisStatus.failed
+    db = FakeSession(answer)
+
+    response, scheduled = await retry_answer_analysis(db, answer.id, answer.user_id)  # type: ignore[arg-type]
+
+    assert response is not None
+    assert response.status == "pending"
+    assert scheduled is True
+    assert answer.analysis_status == AnalysisStatus.pending
+    assert db.commits == 1
+
+
+async def test_pending_analysis_is_not_scheduled_twice() -> None:
+    answer = make_answer()
+    db = FakeSession(answer)
+
+    response, scheduled = await retry_answer_analysis(db, answer.id, answer.user_id)  # type: ignore[arg-type]
+
+    assert response is not None
+    assert response.status == "pending"
+    assert scheduled is False
+    assert db.commits == 0

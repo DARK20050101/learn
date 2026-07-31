@@ -50,6 +50,7 @@ export const api = {
   completeTask: (id: number) => request<DailyTask>(`/daily-tasks/${id}/complete`, { method: 'POST' }),
   submitAnswer: (payload: { question_id: number; daily_task_item_id: number; answer: AnswerValue; duration_seconds: number; idempotency_key: string }) => request<AnswerResult>('/student-answers', { method: 'POST', body: JSON.stringify(payload) }),
   answerAnalysis: (answerId: number) => request<AIAnalysisResponse>(`/student-answers/${answerId}/analysis`),
+  retryAnswerAnalysis: (answerId: number) => request<AIAnalysisResponse>(`/student-answers/${answerId}/analysis/retry`, { method: 'POST' }),
   updateAnswerFeedback: (answerId: number, difficulty_feedback: DifficultyFeedback) => request<{ answer_id: number; difficulty_feedback: DifficultyFeedback }>(`/student-answers/${answerId}/feedback`, { method: 'PATCH', body: JSON.stringify({ difficulty_feedback }) }),
   stats: () => request<AnswerStats>('/student-answers/stats'),
   learningReport: () => request<LearningReport>('/learning-report'),

@@ -40,6 +40,14 @@ class Recommendation:
     reason: str
 
 
+def _material_group(question: Question) -> str | None:
+    prefix = "material-group:"
+    return next(
+        (tag[len(prefix) :] for tag in question.tags if tag.startswith(prefix)),
+        None,
+    )
+
+
 def _question_mastery(question: Question, mastery_scores: dict[tuple[str, str], float]) -> float:
     scores = [
         mastery_scores[(question.subject, point)]
@@ -98,23 +106,34 @@ def choose_questions(
 
     selected: list[Recommendation] = []
     selected_ids: set[int] = set()
+    selected_material_groups: set[str] = set()
+
+    def can_take(question: Question, *, allow_repeated_group: bool = False) -> bool:
+        if question.id in selected_ids:
+            return False
+        group = _material_group(question)
+        return allow_repeated_group or group is None or group not in selected_material_groups
+
+    def append(question: Question, reason: str) -> None:
+        selected.append(Recommendation(question=question, reason=reason))
+        selected_ids.add(question.id)
+        group = _material_group(question)
+        if group:
+            selected_material_groups.add(group)
 
     def take(subject: str, count: int, reason_prefix: str) -> None:
         for question in ranked.get(subject, []):
             if len([item for item in selected if item.question.subject == subject]) >= count:
                 break
-            if question.id in selected_ids:
+            if not can_take(question):
                 continue
             performance = performances.get(subject, SubjectPerformance())
             low, high = performance.preferred_difficulties
             points = "、".join(question.knowledge_points[:2]) or "基础知识"
-            selected.append(
-                Recommendation(
-                    question=question,
-                    reason=f"{reason_prefix}；{points}；适配难度 {low}-{high}",
-                )
+            append(
+                question,
+                f"{reason_prefix}；{points}；适配难度 {low}-{high}",
             )
-            selected_ids.add(question.id)
 
     for subject in SUBJECT_PRIORITY:
         if subject in quotas:
@@ -128,12 +147,25 @@ def choose_questions(
             for question in ranked.get(subject, []):
                 if len(selected) >= QUESTIONS_PER_DAY:
                     break
-                if question.id in selected_ids:
+                if not can_take(question):
                     continue
-                selected.append(
-                    Recommendation(question=question, reason=f"{subject}题库补位；避免当日重复")
-                )
-                selected_ids.add(question.id)
+                append(question, f"{subject}题库补位；避免当日重复材料")
+            if len(selected) >= QUESTIONS_PER_DAY:
+                break
+
+    # A very small bank may only have multiple questions from the same material.
+    # Keep the task available in that exceptional case, while preferring one item
+    # per material group whenever the bank has enough variety.
+    if len(selected) < QUESTIONS_PER_DAY:
+        for subject in list(SUBJECT_PRIORITY) + sorted(
+            subject for subject in ranked if subject not in SUBJECT_PRIORITY
+        ):
+            for question in ranked.get(subject, []):
+                if len(selected) >= QUESTIONS_PER_DAY:
+                    break
+                if not can_take(question, allow_repeated_group=True):
+                    continue
+                append(question, f"{subject}题库补位；材料组题量有限")
             if len(selected) >= QUESTIONS_PER_DAY:
                 break
 

@@ -59,6 +59,21 @@ async def get_analysis(answer_id: int, db: DbSession, user: CurrentUser) -> AIAn
     return result
 
 
+@router.post("/{answer_id}/analysis/retry", response_model=AIAnalysisResponse)
+async def retry_analysis(
+    answer_id: int,
+    db: DbSession,
+    user: CurrentUser,
+    background_tasks: BackgroundTasks,
+) -> AIAnalysisResponse:
+    result, scheduled = await ai_analysis.retry_answer_analysis(db, answer_id, user.id)
+    if not result:
+        raise HTTPException(status_code=404, detail="答题记录不存在")
+    if scheduled:
+        background_tasks.add_task(ai_analysis.analyze_answer_background, answer_id)
+    return result
+
+
 @router.patch("/{answer_id}/feedback", response_model=AnswerFeedbackRead)
 async def update_feedback(
     answer_id: int,
