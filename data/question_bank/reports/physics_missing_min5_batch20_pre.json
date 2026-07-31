@@ -1,0 +1,110 @@
+{
+  "command": "missing",
+  "mapping_version": "kp-mapping-v1.1",
+  "subject": "物理",
+  "minimum": 5,
+  "missing_count": 11,
+  "empty_count": 0,
+  "insufficient_count": 11,
+  "items": [
+    {
+      "code": "PHY-CIRCUIT-ELECTRIC-POWER",
+      "name": "电功率的计算",
+      "subject": "物理",
+      "question_count": 2,
+      "status": "insufficient",
+      "gap_to_minimum": 3,
+      "gap_to_10": 8
+    },
+    {
+      "code": "PHY-CIRCUIT-OHM-LAW",
+      "name": "欧姆定律",
+      "subject": "物理",
+      "question_count": 1,
+      "status": "insufficient",
+      "gap_to_minimum": 4,
+      "gap_to_10": 9
+    },
+    {
+      "code": "PHY-ELECTROSTATICS-COULOMB-LAW",
+      "name": "库仑定律",
+      "subject": "物理",
+      "question_count": 1,
+      "status": "insufficient",
+      "gap_to_minimum": 4,
+      "gap_to_10": 9
+    },
+    {
+      "code": "PHY-FORCE-COMPOSITION",
+      "name": "力的合成",
+      "subject": "物理",
+      "question_count": 4,
+      "status": "insufficient",
+      "gap_to_minimum": 1,
+      "gap_to_10": 6
+    },
+    {
+      "code": "PHY-INDUCTION-CURRENT-CONDITION",
+      "name": "感应电流的产生条件",
+      "subject": "物理",
+      "question_count": 2,
+      "status": "insufficient",
+      "gap_to_minimum": 3,
+      "gap_to_10": 8
+    },
+    {
+      "code": "PHY-KINEMATICS-FREE-FALL",
+      "name": "自由落体运动",
+      "subject": "物理",
+      "question_count": 3,
+      "status": "insufficient",
+      "gap_to_minimum": 2,
+      "gap_to_10": 7
+    },
+    {
+      "code": "PHY-MAGNETIC-FIELD-DIRECTION",
+      "name": "磁场方向的判定",
+      "subject": "物理",
+      "question_count": 3,
+      "status": "insufficient",
+      "gap_to_minimum": 2,
+      "gap_to_10": 7
+    },
+    {
+      "code": "PHY-MOTION-DISPLACEMENT-DISTANCE",
+      "name": "位移与路程",
+      "subject": "物理",
+      "question_count": 1,
+      "status": "insufficient",
+      "gap_to_minimum": 4,
+      "gap_to_10": 9
+    },
+    {
+      "code": "PHY-MOTION-PARTICLE-MODEL",
+      "name": "质点模型",
+      "subject": "物理",
+      "question_count": 1,
+      "status": "insufficient",
+      "gap_to_minimum": 4,
+      "gap_to_10": 9
+    },
+    {
+      "code": "PHY-NEWTON-THIRD-LAW",
+      "name": "牛顿第三定律",
+      "subject": "物理",
+      "question_count": 1,
+      "status": "insufficient",
+      "gap_to_minimum": 4,
+      "gap_to_10": 9
+    },
+    {
+      "code": "PHY-OPTICS-REFRACTION",
+      "name": "光的折射规律",
+      "subject": "物理",
+      "question_count": 1,
+      "status": "insufficient",
+      "gap_to_minimum": 4,
+      "gap_to_10": 9
+    }
+  ]
+}

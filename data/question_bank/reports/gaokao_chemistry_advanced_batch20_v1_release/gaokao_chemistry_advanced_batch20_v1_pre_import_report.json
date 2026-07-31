@@ -1,0 +1,111 @@
+{
+  "report": "pre_import",
+  "filename": "gaokao_chemistry_advanced_batch20_v1.json",
+  "file_hash": "d24384cd6393ab6a7bb821a092a95401a88ce88930dc87a5eb66a35a1bee8a32",
+  "mapping_version": "kp-mapping-v1.1",
+  "database": {
+    "questions": 500,
+    "primary_knowledge_point_links": 500,
+    "orphan_questions": 0,
+    "selected_question_count": 500,
+    "selected_questions_business_hash": "93b9d90be35e73d31f1def1cbcd47a57c5e197c223d279f00941954bc45828e9"
+  },
+  "total": 15,
+  "new_questions": 15,
+  "matching_duplicates": 0,
+  "conflicts": 0,
+  "errors": [],
+  "ready": true,
+  "items": [
+    {
+      "index": 1,
+      "content_hash": "4029bd4dbab03f704a391a13beec060fedd07f1076bb4c6c5ff1df1dba432197",
+      "primary_code": "CHEM-EXPERIMENT-DESIGN",
+      "status": "new"
+    },
+    {
+      "index": 2,
+      "content_hash": "1e36febd18fc96a643747a580c59205c7c2aed787fd9a164bac2dc50215e3e54",
+      "primary_code": "CHEM-REACTION-AQUEOUS",
+      "status": "new"
+    },
+    {
+      "index": 3,
+      "content_hash": "b4fdd141d66165a1e3053d278563491b2eb4028989ded4c2839a378de5f38b29",
+      "primary_code": "CHEM-EXPERIMENT-ANALYSIS",
+      "status": "new"
+    },
+    {
+      "index": 4,
+      "content_hash": "0ace635dbc8e67a2197c098ee7a2db42f28740161633cf3adb1f1cfa5a9616c1",
+      "primary_code": "CHEM-REACTION-RATE-EQUILIBRIUM",
+      "status": "new"
+    },
+    {
+      "index": 5,
+      "content_hash": "74ef03fb8cce5bc7dce7d452da1bdc25954251ba1d1512e16b2f98f05a319bd5",
+      "primary_code": "CHEM-REACTION-RATE-EQUILIBRIUM",
+      "status": "new"
+    },
+    {
+      "index": 6,
+      "content_hash": "efbacae918c9c84ce23b1143fc7f0aa55e0dc382b387a3eb0ff86d03dd3f2756",
+      "primary_code": "CHEM-REACTION-ENERGY",
+      "status": "new"
+    },
+    {
+      "index": 7,
+      "content_hash": "772c31cda7ea90c0dc8933b5e82067caf9b81e75b8729592f3a7cdf2db7e2fbb",
+      "primary_code": "CHEM-EXPERIMENT-DESIGN",
+      "status": "new"
+    },
+    {
+      "index": 8,
+      "content_hash": "ba165e62f9583239b4fda4ac344d2f0294471e0b6e9fc6a17a8ad52383ceabbc",
+      "primary_code": "CHEM-CONCEPT-AMOUNT",
+      "status": "new"
+    },
+    {
+      "index": 9,
+      "content_hash": "1d842d52af529d4eb117afb61f29ecb1539be7ba3eaf1d5f146b99da1c46555a",
+      "primary_code": "CHEM-EXPERIMENT-ANALYSIS",
+      "status": "new"
+    },
+    {
+      "index": 10,
+      "content_hash": "fbd43985e0aac3faa998978ce35ca9e86ff4b6b9f571ee3f4cc2e0542a50043f",
+      "primary_code": "CHEM-ORGANIC-SYNTHESIS",
+      "status": "new"
+    },
+    {
+      "index": 11,
+      "content_hash": "5ffa846a78624d9b3d8dcc456d91a6c3265ef95202c131e178f9c2fc921c4c3e",
+      "primary_code": "CHEM-ORGANIC-REACTION",
+      "status": "new"
+    },
+    {
+      "index": 12,
+      "content_hash": "6f215cc64b73139c016480f56bf86cfba461777b986784177e953359c8ca9eee",
+      "primary_code": "CHEM-ORGANIC-STRUCTURE",
+      "status": "new"
+    },
+    {
+      "index": 13,
+      "content_hash": "dc066aed082d177cf80e645f5137612c64ece3533a3f254743defb174384647c",
+      "primary_code": "CHEM-ORGANIC-SYNTHESIS",
+      "status": "new"
+    },
+    {
+      "index": 14,
+      "content_hash": "b282b69614db5224343ac369ab0724113a09c77757474994520fa9eda3d43199",
+      "primary_code": "CHEM-REACTION-AQUEOUS",
+      "status": "new"
+    },
+    {
+      "index": 15,
+      "content_hash": "97b6d301a53b5b7b47fb0be656cd125eb3e627a27be7619b368054f24dbcb574",
+      "primary_code": "CHEM-REACTION-AQUEOUS",
+      "status": "new"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "report": "pre_import",
+  "filename": "gaokao_biology_advanced_batch20_v1.json",
+  "file_hash": "e6a911c090ae051ec036a18ed0f0815722122d6e6d75f2f8de5e531014bca0b5",
+  "mapping_version": "kp-mapping-v1.1",
+  "database": {
+    "questions": 485,
+    "primary_knowledge_point_links": 485,
+    "orphan_questions": 0,
+    "selected_question_count": 485,
+    "selected_questions_business_hash": "3f5cd73b60e1942162c78d7fa8cbc8df2e78b8f335b857acb768af2f31671003"
+  },
+  "total": 15,
+  "new_questions": 15,
+  "matching_duplicates": 0,
+  "conflicts": 0,
+  "errors": [],
+  "ready": true,
+  "items": [
+    {
+      "index": 1,
+      "content_hash": "a208134ec2e1c738b1a2a4fc421e042a322965f6433b3e9c4de208f65cbc6c67",
+      "primary_code": "BIO-METABOLISM-PHOTOSYNTHESIS",
+      "status": "new"
+    },
+    {
+      "index": 2,
+      "content_hash": "d8aca2362aa6884a644fa66b602441a4b6df5a6682ff6f46a3dc84043db397e4",
+      "primary_code": "BIO-METABOLISM-PHOTOSYNTHESIS",
+      "status": "new"
+    },
+    {
+      "index": 3,
+      "content_hash": "191caf90243b5b73f99d91640f1c9fde7ade64d6bf1595afc8ec43a65a229ff4",
+      "primary_code": "BIO-METABOLISM-PHOTOSYNTHESIS",
+      "status": "new"
+    },
+    {
+      "index": 4,
+      "content_hash": "cee97306e328962c79a2990f8cff40c44217b1e4c25e56561c4235cff8a7596e",
+      "primary_code": "BIO-TECHNOLOGY-EXPERIMENT",
+      "status": "new"
+    },
+    {
+      "index": 5,
+      "content_hash": "9ade449d5c1a0047683e4ab2ab393bd9e4db344ea8e31d542ba9f98e8c821e33",
+      "primary_code": "BIO-METABOLISM-RESPIRATION",
+      "status": "new"
+    },
+    {
+      "index": 6,
+      "content_hash": "ba02ffef2c1437a0903d16c8fe99cedbf6fea8e7acdca40da856103569797030",
+      "primary_code": "BIO-GENETICS-LAWS",
+      "status": "new"
+    },
+    {
+      "index": 7,
+      "content_hash": "a2740a4b87a1c2c7e1fd219c182765f42ae8a8c6ccf20911b740553274f9909d",
+      "primary_code": "BIO-GENETICS-LAWS",
+      "status": "new"
+    },
+    {
+      "index": 8,
+      "content_hash": "e7c848e57902c7c20dde9eabc4aa981d2ade6794231952444ac830b96d319b77",
+      "primary_code": "BIO-GENETICS-LAWS",
+      "status": "new"
+    },
+    {
+      "index": 9,
+      "content_hash": "b46fee159a895ecdfe2ab9c7b8425e000a08d5fa0d61bf0d1cdb005b4924fea2",
+      "primary_code": "BIO-GENETICS-LAWS",
+      "status": "new"
+    },
+    {
+      "index": 10,
+      "content_hash": "ba32dcd8fc2a062ea366b4fa61fc4d5e0d3c09a01056897175b5f5c35d5bd333",
+      "primary_code": "BIO-GENETICS-LAWS",
+      "status": "new"
+    },
+    {
+      "index": 11,
+      "content_hash": "1ffe7657b2c8a3efb975e8c926963d12315a3c075e0fbd285db0d2c78f90f42b",
+      "primary_code": "BIO-HOMEOSTASIS-NEURAL-HUMORAL",
+      "status": "new"
+    },
+    {
+      "index": 12,
+      "content_hash": "d111c90ace5c25da9b5396040138e630b7eff221d6365b10914d92a8510c805e",
+      "primary_code": "BIO-TECHNOLOGY-EXPERIMENT",
+      "status": "new"
+    },
+    {
+      "index": 13,
+      "content_hash": "81fad429a26fba912e7eb52dd73605bc45cad6128bd126010e72fe3bfcfba03f",
+      "primary_code": "BIO-HOMEOSTASIS-NEURAL-HUMORAL",
+      "status": "new"
+    },
+    {
+      "index": 14,
+      "content_hash": "c576adc4992a55c6d0531ada0cc626b0dab343d35ce75ea0a20c2d7be8b8b398",
+      "primary_code": "BIO-METABOLISM-RESPIRATION",
+      "status": "new"
+    },
+    {
+      "index": 15,
+      "content_hash": "69ea771adaa60d8e2e2f3e8af6b50c5b3214f72981007c63cedd6f11577109bf",
+      "primary_code": "BIO-HOMEOSTASIS-NEURAL-HUMORAL",
+      "status": "new"
+    }
+  ]
+}

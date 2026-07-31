@@ -1,0 +1,365 @@
+{
+  "command": "verify",
+  "schema_version": "question-bank-report-v1",
+  "mapping_version": "kp-mapping-v1.1",
+  "total": 40,
+  "passed": 40,
+  "errors": 0,
+  "warnings": 0,
+  "database_duplicates": 0,
+  "files": [
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "gaokao_chinese_to50_batch20_v1.json",
+      "total": 10,
+      "passed": 10,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "【共同材料】袁隆平把研究生介绍到国外攻读博士。这些学生学成后多留在国外工作。有人说他“白费心血”，袁隆平却认为，中国杂交水稻事业需要大量超过自己的人才；优秀人才的成长需要广阔天地和一流条件。将来祖国有",
+          "content_hash": "f0d9b870c0aaa4b422356734eabf25518f6ab38a8bce99539b26569a0ed860d6",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHN-MODERN-INFERENCE"
+        },
+        {
+          "index": 2,
+          "question": "【共同材料】袁隆平把研究生介绍到国外攻读博士。这些学生学成后多留在国外工作。有人说他“白费心血”，袁隆平却认为，中国杂交水稻事业需要大量超过自己的人才；优秀人才的成长需要广阔天地和一流条件。将来祖国有",
+          "content_hash": "64c4cc69d94adf92f0291559f6adc0e60cf2fa9323d9a747ba5dcdf66ed0adbe",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHN-MODERN-INFORMATION"
+        },
+        {
+          "index": 3,
+          "question": "【共同材料】袁隆平把研究生介绍到国外攻读博士。这些学生学成后多留在国外工作。有人说他“白费心血”，袁隆平却认为，中国杂交水稻事业需要大量超过自己的人才；优秀人才的成长需要广阔天地和一流条件。将来祖国有",
+          "content_hash": "8216b127c0a4c1517cafcf3ae1e843fcf565e8e959dc7cbed0e8a61de4acd9ba",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHN-MODERN-INFERENCE"
+        },
+        {
+          "index": 4,
+          "question": "【共同材料】花云，怀远人，骁勇绝伦。至正十三年杖剑谒太祖于临濠。太祖奇其才，俾将兵略地，所至辄克。太祖将取滁州，率数骑前行，云从。猝遇贼数千，云翼太祖，拔剑跃马冲阵而进。贼惊曰：“此黑将军勇甚，不可当",
+          "content_hash": "0cf0ec1622399019e50705a847ee07b0c530c24cf1ddabadab5abe2204a766d5",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHN-CLASSICAL-WORDS"
+        },
+        {
+          "index": 5,
+          "question": "【共同材料】花云，怀远人，骁勇绝伦。至正十三年杖剑谒太祖于临濠。太祖奇其才，俾将兵略地，所至辄克。太祖将取滁州，率数骑前行，云从。猝遇贼数千，云翼太祖，拔剑跃马冲阵而进。贼惊曰：“此黑将军勇甚，不可当",
+          "content_hash": "f4ba1f6a87f9a87ee0919c12ef5e2138a3734a963a9d7e3381c7038513908b94",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHN-CLASSICAL-TRANSLATION"
+        },
+        {
+          "index": 6,
+          "question": "【共同材料】花云，怀远人，骁勇绝伦。至正十三年杖剑谒太祖于临濠。太祖奇其才，俾将兵略地，所至辄克。太祖将取滁州，率数骑前行，云从。猝遇贼数千，云翼太祖，拔剑跃马冲阵而进。贼惊曰：“此黑将军勇甚，不可当",
+          "content_hash": "133368fa1cd953c7ca2d29593f22d81dd7511d134315be6e8ba097f8e36ca33d",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHN-CLASSICAL-CONTENT"
+        },
+        {
+          "index": 7,
+          "question": "【共同材料】阅读江总《雨雪曲》：\n雨雪隔榆溪，从军度陇西。绕阵看狐迹，依山见马蹄。\n天寒旗彩坏，地暗鼓声低。漫漫愁云起，苍苍别路迷。\n【注】榆溪：指边塞。陇西：在今甘肃东部。\n下列对诗中边塞环境的概括",
+          "content_hash": "6089cb8c746b548e4c41b075e9c8871d31aa9633034531c4b808a858993a9bf0",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHN-POETRY-IMAGE"
+        },
+        {
+          "index": 8,
+          "question": "【共同材料】阅读江总《雨雪曲》：\n雨雪隔榆溪，从军度陇西。绕阵看狐迹，依山见马蹄。\n天寒旗彩坏，地暗鼓声低。漫漫愁云起，苍苍别路迷。\n【注】榆溪：指边塞。陇西：在今甘肃东部。\n对“天寒旗彩坏，地暗鼓声",
+          "content_hash": "f2e7a0226f81c794423fb9879860167d080fa0e9961eb4bd3c95e827fb6bb947",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHN-POETRY-TECHNIQUE"
+        },
+        {
+          "index": 9,
+          "question": "【共同材料】在中国各种艺术形式中，篆刻是一个十分独特的门类。它从实用印章发展而来。唐宋以后，文人士大夫参与创作，印章逐渐超越昭示身份与权力的实用功能，成为表达情趣志向和审美追求的方式。明清艺术家又把对",
+          "content_hash": "0792d2edede4d3284db347d06179cc758cbc8ef081201be0201e2bc599d1b095",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHN-LANGUAGE-EXPRESSION"
+        },
+        {
+          "index": 10,
+          "question": "【共同材料】在中国各种艺术形式中，篆刻是一个十分独特的门类。它从实用印章发展而来。唐宋以后，文人士大夫参与创作，印章逐渐超越昭示身份与权力的实用功能，成为表达情趣志向和审美追求的方式。明清艺术家又把对",
+          "content_hash": "1e628587d97c28bdf41f278484b4458d1506a3f1c149ca6587df79a064d1d200",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHN-LANGUAGE-SENTENCE"
+        }
+      ]
+    },
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "gaokao_biology_advanced_batch20_v1.json",
+      "total": 15,
+      "passed": 15,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "【共同材料】研究人员将长势一致的某植物分为甲、乙、丙三组，在相同温度和光照下培养。甲组提供含¹⁴CO₂的空气，乙组提供普通空气并用¹⁴C标记的葡萄糖处理叶片，丙组提供含¹⁴CO₂的空气但立即置于黑暗中",
+          "content_hash": "a208134ec2e1c738b1a2a4fc421e042a322965f6433b3e9c4de208f65cbc6c67",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-METABOLISM-PHOTOSYNTHESIS"
+        },
+        {
+          "index": 2,
+          "question": "【共同材料】研究人员将长势一致的某植物分为甲、乙、丙三组，在相同温度和光照下培养。甲组提供含¹⁴CO₂的空气，乙组提供普通空气并用¹⁴C标记的葡萄糖处理叶片，丙组提供含¹⁴CO₂的空气但立即置于黑暗中",
+          "content_hash": "d8aca2362aa6884a644fa66b602441a4b6df5a6682ff6f46a3dc84043db397e4",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-METABOLISM-PHOTOSYNTHESIS"
+        },
+        {
+          "index": 3,
+          "question": "【共同材料】研究人员将长势一致的某植物分为甲、乙、丙三组，在相同温度和光照下培养。甲组提供含¹⁴CO₂的空气，乙组提供普通空气并用¹⁴C标记的葡萄糖处理叶片，丙组提供含¹⁴CO₂的空气但立即置于黑暗中",
+          "content_hash": "191caf90243b5b73f99d91640f1c9fde7ade64d6bf1595afc8ec43a65a229ff4",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-METABOLISM-PHOTOSYNTHESIS"
+        },
+        {
+          "index": 4,
+          "question": "【共同材料】研究人员将长势一致的某植物分为甲、乙、丙三组，在相同温度和光照下培养。甲组提供含¹⁴CO₂的空气，乙组提供普通空气并用¹⁴C标记的葡萄糖处理叶片，丙组提供含¹⁴CO₂的空气但立即置于黑暗中",
+          "content_hash": "cee97306e328962c79a2990f8cff40c44217b1e4c25e56561c4235cff8a7596e",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-TECHNOLOGY-EXPERIMENT"
+        },
+        {
+          "index": 5,
+          "question": "【共同材料】研究人员将长势一致的某植物分为甲、乙、丙三组，在相同温度和光照下培养。甲组提供含¹⁴CO₂的空气，乙组提供普通空气并用¹⁴C标记的葡萄糖处理叶片，丙组提供含¹⁴CO₂的空气但立即置于黑暗中",
+          "content_hash": "9ade449d5c1a0047683e4ab2ab393bd9e4db344ea8e31d542ba9f98e8c821e33",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-METABOLISM-RESPIRATION"
+        },
+        {
+          "index": 6,
+          "question": "【共同材料】某昆虫的红眼对白眼为显性，由X染色体上的一对等位基因R、r控制；长翅对残翅为显性，由常染色体上的D、d控制。两对基因独立遗传。现以红眼长翅雌虫（两对基因均杂合）与白眼残翅雄虫杂交。\n\n亲本",
+          "content_hash": "ba02ffef2c1437a0903d16c8fe99cedbf6fea8e7acdca40da856103569797030",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-GENETICS-LAWS"
+        },
+        {
+          "index": 7,
+          "question": "【共同材料】某昆虫的红眼对白眼为显性，由X染色体上的一对等位基因R、r控制；长翅对残翅为显性，由常染色体上的D、d控制。两对基因独立遗传。现以红眼长翅雌虫（两对基因均杂合）与白眼残翅雄虫杂交。\n\n子代",
+          "content_hash": "a2740a4b87a1c2c7e1fd219c182765f42ae8a8c6ccf20911b740553274f9909d",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-GENETICS-LAWS"
+        },
+        {
+          "index": 8,
+          "question": "【共同材料】某昆虫的红眼对白眼为显性，由X染色体上的一对等位基因R、r控制；长翅对残翅为显性，由常染色体上的D、d控制。两对基因独立遗传。现以红眼长翅雌虫（两对基因均杂合）与白眼残翅雄虫杂交。\n\n若从",
+          "content_hash": "e7c848e57902c7c20dde9eabc4aa981d2ade6794231952444ac830b96d319b77",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-GENETICS-LAWS"
+        },
+        {
+          "index": 9,
+          "question": "【共同材料】某昆虫的红眼对白眼为显性，由X染色体上的一对等位基因R、r控制；长翅对残翅为显性，由常染色体上的D、d控制。两对基因独立遗传。现以红眼长翅雌虫（两对基因均杂合）与白眼残翅雄虫杂交。\n\n要仅",
+          "content_hash": "b46fee159a895ecdfe2ab9c7b8425e000a08d5fa0d61bf0d1cdb005b4924fea2",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-GENETICS-LAWS"
+        },
+        {
+          "index": 10,
+          "question": "【共同材料】某昆虫的红眼对白眼为显性，由X染色体上的一对等位基因R、r控制；长翅对残翅为显性，由常染色体上的D、d控制。两对基因独立遗传。现以红眼长翅雌虫（两对基因均杂合）与白眼残翅雄虫杂交。\n\n若实",
+          "content_hash": "ba32dcd8fc2a062ea366b4fa61fc4d5e0d3c09a01056897175b5f5c35d5bd333",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-GENETICS-LAWS"
+        },
+        {
+          "index": 11,
+          "question": "【共同材料】给健康大鼠和胰岛B细胞受损大鼠分别口服等量葡萄糖，连续测定血糖和血浆胰岛素。健康组血糖先升后恢复，胰岛素明显升高；受损组血糖升幅更大且较长时间不恢复，胰岛素升幅很小。\n\n健康组进食后胰岛素",
+          "content_hash": "1ffe7657b2c8a3efb975e8c926963d12315a3c075e0fbd285db0d2c78f90f42b",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-HOMEOSTASIS-NEURAL-HUMORAL"
+        },
+        {
+          "index": 12,
+          "question": "【共同材料】给健康大鼠和胰岛B细胞受损大鼠分别口服等量葡萄糖，连续测定血糖和血浆胰岛素。健康组血糖先升后恢复，胰岛素明显升高；受损组血糖升幅更大且较长时间不恢复，胰岛素升幅很小。\n\n为判断受损组的异常",
+          "content_hash": "d111c90ace5c25da9b5396040138e630b7eff221d6365b10914d92a8510c805e",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-TECHNOLOGY-EXPERIMENT"
+        },
+        {
+          "index": 13,
+          "question": "【共同材料】给健康大鼠和胰岛B细胞受损大鼠分别口服等量葡萄糖，连续测定血糖和血浆胰岛素。健康组血糖先升后恢复，胰岛素明显升高；受损组血糖升幅更大且较长时间不恢复，胰岛素升幅很小。\n\n健康组血糖恢复至正",
+          "content_hash": "81fad429a26fba912e7eb52dd73605bc45cad6128bd126010e72fe3bfcfba03f",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-HOMEOSTASIS-NEURAL-HUMORAL"
+        },
+        {
+          "index": 14,
+          "question": "【共同材料】给健康大鼠和胰岛B细胞受损大鼠分别口服等量葡萄糖，连续测定血糖和血浆胰岛素。健康组血糖先升后恢复，胰岛素明显升高；受损组血糖升幅更大且较长时间不恢复，胰岛素升幅很小。\n\n严重缺乏胰岛素时，",
+          "content_hash": "c576adc4992a55c6d0531ada0cc626b0dab343d35ce75ea0a20c2d7be8b8b398",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-METABOLISM-RESPIRATION"
+        },
+        {
+          "index": 15,
+          "question": "【共同材料】给健康大鼠和胰岛B细胞受损大鼠分别口服等量葡萄糖，连续测定血糖和血浆胰岛素。健康组血糖先升后恢复，胰岛素明显升高；受损组血糖升幅更大且较长时间不恢复，胰岛素升幅很小。\n\n另有一组大鼠空腹时",
+          "content_hash": "69ea771adaa60d8e2e2f3e8af6b50c5b3214f72981007c63cedd6f11577109bf",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-HOMEOSTASIS-NEURAL-HUMORAL"
+        }
+      ]
+    },
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "gaokao_chemistry_advanced_batch20_v1.json",
+      "total": 15,
+      "passed": 15,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "【共同材料】以含钴废催化剂（主要含CoO、Al₂O₃和少量SiO₂）为原料制备CoSO₄·7H₂O。流程为：酸浸→过滤→向滤液中加NaOH溶液调节pH除铝→过滤→蒸发浓缩、冷却结晶。已知Co²⁺开始沉",
+          "content_hash": "4029bd4dbab03f704a391a13beec060fedd07f1076bb4c6c5ff1df1dba432197",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-EXPERIMENT-DESIGN"
+        },
+        {
+          "index": 2,
+          "question": "【共同材料】以含钴废催化剂（主要含CoO、Al₂O₃和少量SiO₂）为原料制备CoSO₄·7H₂O。酸浸、过滤后，滤液含Co²⁺和Al³⁺。已知Co²⁺开始沉淀和沉淀完全的pH分别约为7.2和9.2，",
+          "content_hash": "1e36febd18fc96a643747a580c59205c7c2aed787fd9a164bac2dc50215e3e54",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-REACTION-AQUEOUS"
+        },
+        {
+          "index": 3,
+          "question": "【共同材料】由除杂后的CoSO₄溶液制备CoSO₄·7H₂O晶体。该晶体在较高温度下易失去结晶水。\n下列结晶操作最合理的是（　）",
+          "content_hash": "b4fdd141d66165a1e3053d278563491b2eb4028989ded4c2839a378de5f38b29",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-EXPERIMENT-ANALYSIS"
+        },
+        {
+          "index": 4,
+          "question": "【共同材料】一定温度下，在2.0 L恒容密闭容器中发生反应2SO₂(g)+O₂(g)⇌2SO₃(g)。起始加入0.40 mol SO₂和0.20 mol O₂，10 min达到平衡，此时SO₂为0.1",
+          "content_hash": "0ace635dbc8e67a2197c098ee7a2db42f28740161633cf3adb1f1cfa5a9616c1",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-REACTION-RATE-EQUILIBRIUM"
+        },
+        {
+          "index": 5,
+          "question": "【共同材料】一定温度下，在2.0 L恒容密闭容器中发生反应2SO₂(g)+O₂(g)⇌2SO₃(g)。起始加入0.40 mol SO₂和0.20 mol O₂，平衡时SO₂为0.16 mol。\n该温度",
+          "content_hash": "74ef03fb8cce5bc7dce7d452da1bdc25954251ba1d1512e16b2f98f05a319bd5",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-REACTION-RATE-EQUILIBRIUM"
+        },
+        {
+          "index": 6,
+          "question": "【共同材料】反应2SO₂(g)+O₂(g)⇌2SO₃(g)的正反应为放热反应。平衡后仅改变一个条件，下列措施能使SO₂平衡转化率增大的是（　）",
+          "content_hash": "efbacae918c9c84ce23b1143fc7f0aa55e0dc382b387a3eb0ff86d03dd3f2756",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-REACTION-ENERGY"
+        },
+        {
+          "index": 7,
+          "question": "【共同材料】测定胆矾CuSO₄·5H₂O样品纯度：称取2.50 g样品溶于水，加入过量KI，发生2Cu²⁺+4I⁻=2CuI↓+I₂；用0.1000 mol·L⁻¹ Na₂S₂O₃溶液滴定生成的I₂，",
+          "content_hash": "772c31cda7ea90c0dc8933b5e82067caf9b81e75b8729592f3a7cdf2db7e2fbb",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-EXPERIMENT-DESIGN"
+        },
+        {
+          "index": 8,
+          "question": "【共同材料】称取2.50 g胆矾CuSO₄·5H₂O样品（摩尔质量250 g·mol⁻¹），溶解后加入过量KI；用0.1000 mol·L⁻¹ Na₂S₂O₃溶液滴定生成的I₂，平均消耗96.00 m",
+          "content_hash": "ba165e62f9583239b4fda4ac344d2f0294471e0b6e9fc6a17a8ad52383ceabbc",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-CONCEPT-AMOUNT"
+        },
+        {
+          "index": 9,
+          "question": "【共同材料】用Na₂S₂O₃标准液滴定胆矾样品与过量KI反应生成的I₂。平行滴定中，一次读数开始时仰视、结束时平视，其他操作正确。该次测得的样品纯度将（　）",
+          "content_hash": "1d842d52af529d4eb117afb61f29ecb1539be7ba3eaf1d5f146b99da1c46555a",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-EXPERIMENT-ANALYSIS"
+        },
+        {
+          "index": 10,
+          "question": "【共同材料】有机物A的分子式为C₈H₈O₂，能与NaHCO₃溶液反应放出CO₂；A的苯环上一氯代物只有两种。A与甲醇在浓硫酸作用下生成有香味的B。\nA的结构简式最可能是（　）",
+          "content_hash": "fbd43985e0aac3faa998978ce35ca9e86ff4b6b9f571ee3f4cc2e0542a50043f",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-ORGANIC-SYNTHESIS"
+        },
+        {
+          "index": 11,
+          "question": "【共同材料】对甲基苯甲酸A与甲醇在浓硫酸、加热条件下生成B和水。\nA生成B的反应类型是（　）",
+          "content_hash": "5ffa846a78624d9b3d8dcc456d91a6c3265ef95202c131e178f9c2fc921c4c3e",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-ORGANIC-REACTION"
+        },
+        {
+          "index": 12,
+          "question": "【共同材料】有机物B为对甲基苯甲酸甲酯，结构简式为p-CH₃C₆H₄COOCH₃。\n1 mol B最多能与多少mol H₂发生加成反应（不考虑羧酸酯中C=O的催化加氢）？（　）",
+          "content_hash": "6f215cc64b73139c016480f56bf86cfba461777b986784177e953359c8ca9eee",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-ORGANIC-STRUCTURE"
+        },
+        {
+          "index": 13,
+          "question": "【共同材料】由甲苯合成对甲基苯甲酸甲酯的一条路线为：甲苯→对甲基苯甲酸→目标产物。若第一步直接用酸性KMnO₄溶液氧化甲苯，主要产物不是对甲基苯甲酸，而是苯甲酸。\n其原因是（　）",
+          "content_hash": "dc066aed082d177cf80e645f5137612c64ece3533a3f254743defb174384647c",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-ORGANIC-SYNTHESIS"
+        },
+        {
+          "index": 14,
+          "question": "25 ℃时，用0.1000 mol·L⁻¹ NaOH溶液滴定20.00 mL 0.1000 mol·L⁻¹ CH₃COOH溶液。恰好中和时所得溶液呈碱性，直接原因是（　）",
+          "content_hash": "b282b69614db5224343ac369ab0724113a09c77757474994520fa9eda3d43199",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-REACTION-AQUEOUS"
+        },
+        {
+          "index": 15,
+          "question": "【共同材料】25 ℃时，用0.1000 mol·L⁻¹ NaOH溶液滴定20.00 mL 0.1000 mol·L⁻¹ CH₃COOH溶液。已知Ka(CH₃COOH)=1.8×10⁻⁵。\n滴入10.0",
+          "content_hash": "97b6d301a53b5b7b47fb0be656cd125eb3e627a27be7619b368054f24dbcb574",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-REACTION-AQUEOUS"
+        }
+      ]
+    }
+  ]
+}

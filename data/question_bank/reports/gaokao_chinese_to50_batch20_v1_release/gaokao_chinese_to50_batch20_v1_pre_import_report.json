@@ -1,0 +1,81 @@
+{
+  "report": "pre_import",
+  "filename": "gaokao_chinese_to50_batch20_v1.json",
+  "file_hash": "f0a2a35a7966fe369f714505f877e222d35ed16fae3e55cf23d361533d104a4c",
+  "mapping_version": "kp-mapping-v1.1",
+  "database": {
+    "questions": 475,
+    "primary_knowledge_point_links": 475,
+    "orphan_questions": 0,
+    "selected_question_count": 475,
+    "selected_questions_business_hash": "edffbf422eb8d2914645a71511f345cf1e5c7fce2dda21cb5553aa1eeee32c9e"
+  },
+  "total": 10,
+  "new_questions": 10,
+  "matching_duplicates": 0,
+  "conflicts": 0,
+  "errors": [],
+  "ready": true,
+  "items": [
+    {
+      "index": 1,
+      "content_hash": "f0d9b870c0aaa4b422356734eabf25518f6ab38a8bce99539b26569a0ed860d6",
+      "primary_code": "CHN-MODERN-INFERENCE",
+      "status": "new"
+    },
+    {
+      "index": 2,
+      "content_hash": "64c4cc69d94adf92f0291559f6adc0e60cf2fa9323d9a747ba5dcdf66ed0adbe",
+      "primary_code": "CHN-MODERN-INFORMATION",
+      "status": "new"
+    },
+    {
+      "index": 3,
+      "content_hash": "8216b127c0a4c1517cafcf3ae1e843fcf565e8e959dc7cbed0e8a61de4acd9ba",
+      "primary_code": "CHN-MODERN-INFERENCE",
+      "status": "new"
+    },
+    {
+      "index": 4,
+      "content_hash": "0cf0ec1622399019e50705a847ee07b0c530c24cf1ddabadab5abe2204a766d5",
+      "primary_code": "CHN-CLASSICAL-WORDS",
+      "status": "new"
+    },
+    {
+      "index": 5,
+      "content_hash": "f4ba1f6a87f9a87ee0919c12ef5e2138a3734a963a9d7e3381c7038513908b94",
+      "primary_code": "CHN-CLASSICAL-TRANSLATION",
+      "status": "new"
+    },
+    {
+      "index": 6,
+      "content_hash": "133368fa1cd953c7ca2d29593f22d81dd7511d134315be6e8ba097f8e36ca33d",
+      "primary_code": "CHN-CLASSICAL-CONTENT",
+      "status": "new"
+    },
+    {
+      "index": 7,
+      "content_hash": "6089cb8c746b548e4c41b075e9c8871d31aa9633034531c4b808a858993a9bf0",
+      "primary_code": "CHN-POETRY-IMAGE",
+      "status": "new"
+    },
+    {
+      "index": 8,
+      "content_hash": "f2e7a0226f81c794423fb9879860167d080fa0e9961eb4bd3c95e827fb6bb947",
+      "primary_code": "CHN-POETRY-TECHNIQUE",
+      "status": "new"
+    },
+    {
+      "index": 9,
+      "content_hash": "0792d2edede4d3284db347d06179cc758cbc8ef081201be0201e2bc599d1b095",
+      "primary_code": "CHN-LANGUAGE-EXPRESSION",
+      "status": "new"
+    },
+    {
+      "index": 10,
+      "content_hash": "1e628587d97c28bdf41f278484b4458d1506a3f1c149ca6587df79a064d1d200",
+      "primary_code": "CHN-LANGUAGE-SENTENCE",
+      "status": "new"
+    }
+  ]
+}
