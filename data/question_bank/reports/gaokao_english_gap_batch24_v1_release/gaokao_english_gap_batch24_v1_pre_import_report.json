@@ -1,0 +1,111 @@
+{
+  "report": "pre_import",
+  "filename": "gaokao_english_gap_batch24_v1.json",
+  "file_hash": "f6f1cc1ac482af1bc5db3f2c3be1e03e08e390d164dff200de72897ae51d07c6",
+  "mapping_version": "kp-mapping-v1.1",
+  "database": {
+    "questions": 661,
+    "primary_knowledge_point_links": 661,
+    "orphan_questions": 0,
+    "selected_question_count": 661,
+    "selected_questions_business_hash": "66025e12a92bfc72af883a87710a14d563975c1a8890f433c3a274f72c92bd7c"
+  },
+  "total": 15,
+  "new_questions": 15,
+  "matching_duplicates": 0,
+  "conflicts": 0,
+  "errors": [],
+  "ready": true,
+  "items": [
+    {
+      "index": 1,
+      "content_hash": "44c44c84b89578f34273e719048e497a0e5157754e6e4bfc6d736eb8d6f90304",
+      "primary_code": "ENG-CLAUSE-OBJECT-WORD-ORDER",
+      "status": "new"
+    },
+    {
+      "index": 2,
+      "content_hash": "c0e4a04778650127eb8164887da5a86bcd5ec1e70e10d722447d1c594cec4dd0",
+      "primary_code": "ENG-CLAUSE-OBJECT-WORD-ORDER",
+      "status": "new"
+    },
+    {
+      "index": 3,
+      "content_hash": "a407b3a90dae54e7befd461fee0aa3e175bb3a1a4a463b677bac235f61911a7e",
+      "primary_code": "ENG-CLAUSE-OBJECT-WORD-ORDER",
+      "status": "new"
+    },
+    {
+      "index": 4,
+      "content_hash": "37cc299671db4708c559c7dcea4ddace0e37c223cc069b9fad0d65173ed64dd3",
+      "primary_code": "ENG-CLAUSE-OBJECT-WORD-ORDER",
+      "status": "new"
+    },
+    {
+      "index": 5,
+      "content_hash": "29c016802ea9d3acf2ac28827602d4ac54348b9bfec0729f6fd8da3fe8da5819",
+      "primary_code": "ENG-GRAMMAR-AGREEMENT-PROXIMITY",
+      "status": "new"
+    },
+    {
+      "index": 6,
+      "content_hash": "6ef4a3b5b11e2c7dc4677f06919b6172d02fa7192abbf159c25a316f77aa7c80",
+      "primary_code": "ENG-GRAMMAR-AGREEMENT-PROXIMITY",
+      "status": "new"
+    },
+    {
+      "index": 7,
+      "content_hash": "3a7267155f757d2fe687f1b38e0a19cc39fdf0f45e3a2007b803b0be9c8a5bf8",
+      "primary_code": "ENG-GRAMMAR-AGREEMENT-PROXIMITY",
+      "status": "new"
+    },
+    {
+      "index": 8,
+      "content_hash": "1e1a34a0410a46419e3968a72880d41dc1d41cf6a2674d394c55f0a6bd992168",
+      "primary_code": "ENG-GRAMMAR-AGREEMENT-PROXIMITY",
+      "status": "new"
+    },
+    {
+      "index": 9,
+      "content_hash": "2869611ee2fe3ad39dba6340d0c67ff1da6758da9a5be76a833c915749c654b9",
+      "primary_code": "ENG-VOCAB-CONTEXT-ADVERB",
+      "status": "new"
+    },
+    {
+      "index": 10,
+      "content_hash": "5a74df6f53f5dc0e762336532e043d567c313af91282f3fcbe2e4e45efe9f381",
+      "primary_code": "ENG-VOCAB-CONTEXT-ADVERB",
+      "status": "new"
+    },
+    {
+      "index": 11,
+      "content_hash": "ca011a8b8429808b29e5d20046821e7b106a2a9e11aecbd6b635e8f58fe4a425",
+      "primary_code": "ENG-VOCAB-CONTEXT-ADVERB",
+      "status": "new"
+    },
+    {
+      "index": 12,
+      "content_hash": "4deb5f21f4ce0e69187a3f4846a63a48d412455406d5ec34dd04afbb54a8f26f",
+      "primary_code": "ENG-GRAMMAR-MODAL-BASIC",
+      "status": "new"
+    },
+    {
+      "index": 13,
+      "content_hash": "7dbd64ba3bac3643cc7c279ca27efc7c858025608779b4bbc4a89c1f657937f5",
+      "primary_code": "ENG-GRAMMAR-TENSE-PAST-CONTINUOUS",
+      "status": "new"
+    },
+    {
+      "index": 14,
+      "content_hash": "6a41e164abe5a30eed0faaa5769eb182645f6b29a75548b2248121d189ccab63",
+      "primary_code": "ENG-NONFINITE-GERUND-SUBJECT",
+      "status": "new"
+    },
+    {
+      "index": 15,
+      "content_hash": "798b011cb5b96c79358ce620e884d6113a70c4c707a6944e641bff3cfda3486c",
+      "primary_code": "ENG-GRAMMAR-VOICE-PRESENT-PASSIVE",
+      "status": "new"
+    }
+  ]
+}

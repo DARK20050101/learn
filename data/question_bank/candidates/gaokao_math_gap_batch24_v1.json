@@ -1,0 +1,126 @@
+{
+  "schema_version": "shiguang-question-candidate-v1",
+  "batch": "gaokao-math-gap-batch-24",
+  "questions": [
+    {
+      "subject": "数学", "chapter": "解析几何", "knowledge_points": ["圆的标准方程"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】某圆经过点 $A(1,0)$、$B(5,0)$，且圆心在直线 $y=2$ 上。该圆的标准方程为（ ）",
+      "options": ["$(x-3)^2+(y-2)^2=8$", "$(x-3)^2+(y+2)^2=8$", "$(x-2)^2+(y-3)^2=8$", "$(x-3)^2+(y-2)^2=4"],
+      "answer": "A", "solution": "圆心在线段 $AB$ 的垂直平分线 $x=3$ 上，又在 $y=2$ 上，故圆心为 $(3,2)$。半径平方 $r^2=(3-1)^2+(2-0)^2=8$，选A。",
+      "source": "GAOKAO-Bench|adapted:true|math|topic:circle-standard|independent-derivation:true", "title": "圆心轨迹与标准方程·1",
+      "tags": ["kp:MATH-ANALYTIC-CIRCLE-STANDARD", "origin:external-adapted", "material-group:math-b24-circle-center", "material-order:1", "large-question-split", "region-fit:qinghai-curriculum", "batch:gaokao-math-gap-batch-24", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "数学", "chapter": "函数", "knowledge_points": ["函数的定义域"], "difficulty": 3, "type": "single_choice",
+      "question": "函数 $f(x)=\\dfrac{\\sqrt{x-1}}{\\ln(3-x)}$ 的定义域为（ ）",
+      "options": ["$[1,2)\\cup(2,3)$", "$[1,3)$", "$(1,2)\\cup(2,3)$", "$[1,2)\\cup(2,+\\infty)$"],
+      "answer": "A", "solution": "需 $x-1\\ge0$、$3-x>0$ 且 $\\ln(3-x)\\ne0$。因此 $1\\le x<3$ 且 $x\\ne2$，选A。",
+      "source": "AGIEval|adapted:true|gaokao-math|topic:function-domain|independent-derivation:true", "title": "根式对数复合定义域·1",
+      "tags": ["kp:MATH-FUNCTION-DOMAIN", "origin:external-adapted", "material-group:math-b24-domain-composite", "material-order:1", "large-question-split", "region-fit:qinghai-curriculum", "batch:gaokao-math-gap-batch-24", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "数学", "chapter": "基本初等函数", "knowledge_points": ["对数运算"], "difficulty": 2, "type": "single_choice",
+      "question": "若 $\\log_2 x=3$，则 $\\log_2(4x)$ 的值为（ ）",
+      "options": ["$5$", "$6$", "$7$", "$12$"], "answer": "A",
+      "solution": "$\\log_2(4x)=\\log_2 4+\\log_2x=2+3=5$，故选A。",
+      "source": "GAOKAO-Bench|adapted:true|math|topic:logarithm-context|independent-derivation:true", "title": "对数信息转换·1",
+      "tags": ["kp:MATH-LOGARITHM-OPERATION", "origin:external-adapted", "material-group:math-b24-log-info", "material-order:1", "large-question-split", "region-fit:qinghai-curriculum", "batch:gaokao-math-gap-batch-24", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "数学", "chapter": "基本初等函数", "knowledge_points": ["对数运算"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】声强级 $L$（单位：dB）满足 $L=10\\log_{10}(I/I_0)$。若声强 $I$ 变为原来的 $100$ 倍，则声强级增加（ ）",
+      "options": ["$2\\ \\mathrm{dB}$", "$10\\ \\mathrm{dB}$", "$20\\ \\mathrm{dB}$", "$100\\ \\mathrm{dB}$"], "answer": "C",
+      "solution": "增加量为 $10\\log_{10}(100I/I_0)-10\\log_{10}(I/I_0)=10\\log_{10}100=20$ dB，选C。",
+      "source": "GAOKAO-Bench|adapted:true|math-subjective|topic:logarithm-decibel|subquestion:1|independent-derivation:true", "title": "声强级模型·1",
+      "tags": ["kp:MATH-LOGARITHM-OPERATION", "origin:external-adapted", "material-group:math-b24-decibel", "material-order:1", "large-question-split", "region-fit:qinghai-curriculum", "batch:gaokao-math-gap-batch-24", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "数学", "chapter": "基本初等函数", "knowledge_points": ["对数运算"], "difficulty": 3, "type": "single_choice",
+      "question": "已知正数 $a,b$ 满足 $\\lg a+\\lg b=2$，且 $\\lg a-\\lg b=\\lg4$，则 $a+b=$（ ）",
+      "options": ["$20$", "$25$", "$40$", "$50$"], "answer": "B",
+      "solution": "由第一式得 $ab=100$，第二式得 $a/b=4$。因 $a,b>0$，解得 $a=20,b=5$，所以 $a+b=25$，选B。",
+      "source": "AGIEval|adapted:true|gaokao-math|topic:logarithm-system|independent-derivation:true", "title": "对数方程组·1",
+      "tags": ["kp:MATH-LOGARITHM-OPERATION", "origin:external-adapted", "material-group:math-b24-log-system", "material-order:1", "large-question-split", "region-fit:qinghai-curriculum", "batch:gaokao-math-gap-batch-24", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "数学", "chapter": "常用逻辑用语", "knowledge_points": ["充分条件与必要条件"], "difficulty": 3, "type": "single_choice",
+      "question": "设 $x\\in\\mathbb R$，则“$x>2$”是“$x^2>4$”的（ ）",
+      "options": ["充分不必要条件", "必要不充分条件", "充要条件", "既不充分也不必要条件"], "answer": "A",
+      "solution": "$x>2$ 可推出 $x^2>4$；但 $x^2>4$ 还可能有 $x<-2$，不能推出 $x>2$，故为充分不必要条件。",
+      "source": "GAOKAO-Bench|adapted:true|math|topic:sufficient-necessary|independent-derivation:true", "title": "不等式命题关系·1",
+      "tags": ["kp:MATH-LOGIC-SUFFICIENT-NECESSARY", "origin:external-adapted", "material-group:math-b24-logic-inequality", "material-order:1", "large-question-split", "region-fit:qinghai-curriculum", "batch:gaokao-math-gap-batch-24", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "数学", "chapter": "三角函数", "knowledge_points": ["特殊角的三角函数值"], "difficulty": 2, "type": "single_choice",
+      "question": "在坡度模型中，坡面与水平面夹角为 $30^\\circ$。若坡面长为 $20\\ \\mathrm{m}$，则高度差为（ ）",
+      "options": ["$5\\ \\mathrm{m}$", "$10\\ \\mathrm{m}$", "$10\\sqrt3\\ \\mathrm{m}$", "$20\\sqrt3\\ \\mathrm{m}$"], "answer": "B",
+      "solution": "高度差 $h=20\\sin30^\\circ=20\\times\\frac12=10\\ \\mathrm{m}$，选B。",
+      "source": "GAOKAO-Bench|adapted:true|math|topic:special-angle-slope|independent-derivation:true", "title": "坡面高度测算·1",
+      "tags": ["kp:MATH-TRIG-SPECIAL-ANGLE", "origin:external-adapted", "material-group:math-b24-slope", "material-order:1", "large-question-split", "region-fit:qinghai-curriculum", "batch:gaokao-math-gap-batch-24", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "数学", "chapter": "三角函数", "knowledge_points": ["特殊角的三角函数值"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】无人机在地面观测点正上方的仰角为 $60^\\circ$，无人机与观测点的直线距离为 $200\\ \\mathrm{m}$。忽略观测仪高度，无人机离地高度为（ ）",
+      "options": ["$100\\ \\mathrm{m}$", "$100\\sqrt2\\ \\mathrm{m}$", "$100\\sqrt3\\ \\mathrm{m}$", "$200\\sqrt3\\ \\mathrm{m}$"], "answer": "C",
+      "solution": "高度为斜边的竖直分量：$h=200\\sin60^\\circ=200\\cdot\\sqrt3/2=100\\sqrt3\\ \\mathrm{m}$，选C。",
+      "source": "AGIEval|adapted:true|gaokao-math|topic:special-angle-elevation|subquestion:1|independent-derivation:true", "title": "无人机仰角测高·1",
+      "tags": ["kp:MATH-TRIG-SPECIAL-ANGLE", "origin:external-adapted", "material-group:math-b24-drone-angle", "material-order:1", "large-question-split", "region-fit:qinghai-curriculum", "batch:gaokao-math-gap-batch-24", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "数学", "chapter": "平面向量", "knowledge_points": ["平面向量的坐标运算"], "difficulty": 3, "type": "single_choice",
+      "question": "已知点 $A(1,2)$、$B(4,-1)$，则向量 $\\overrightarrow{AB}$ 的坐标为（ ）",
+      "options": ["$(3,-3)$", "$(5,1)$", "$(-3,3)$", "$(3,1)$"], "answer": "A",
+      "solution": "$\\overrightarrow{AB}=(4-1,-1-2)=(3,-3)$，选A。",
+      "source": "GAOKAO-Bench|adapted:true|math|topic:vector-coordinate|independent-derivation:true", "title": "两点确定向量·1",
+      "tags": ["kp:MATH-VECTOR-COORDINATE", "origin:external-adapted", "material-group:math-b24-vector-points", "material-order:1", "large-question-split", "region-fit:qinghai-curriculum", "batch:gaokao-math-gap-batch-24", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "数学", "chapter": "平面向量", "knowledge_points": ["平面向量的坐标运算"], "difficulty": 3, "type": "single_choice",
+      "question": "已知向量 $\\boldsymbol a=(2,-1)$，$\\boldsymbol b=(-1,3)$，则 $2\\boldsymbol a-\\boldsymbol b=$（ ）",
+      "options": ["$(3,1)$", "$(5,-5)$", "$(3,-5)$", "$(5,1)$"], "answer": "B",
+      "solution": "$2\\boldsymbol a-\\boldsymbol b=(4,-2)-(-1,3)=(5,-5)$，选B。",
+      "source": "GAOKAO-Bench|adapted:true|math|topic:vector-linear-operation|independent-derivation:true", "title": "向量线性组合·1",
+      "tags": ["kp:MATH-VECTOR-COORDINATE", "origin:external-adapted", "material-group:math-b24-vector-linear", "material-order:1", "large-question-split", "region-fit:qinghai-curriculum", "batch:gaokao-math-gap-batch-24", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "数学", "chapter": "平面向量", "knowledge_points": ["平面向量的坐标运算"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】平行四边形 $ABCD$ 中，$A(0,0)$、$B(3,1)$、$D(1,4)$，则点 $C$ 的坐标为（ ）",
+      "options": ["$(2,3)$", "$(3,4)$", "$(4,5)$", "$(4,3)$"], "answer": "C",
+      "solution": "平行四边形中 $\\overrightarrow{AC}=\\overrightarrow{AB}+\\overrightarrow{AD}=(3,1)+(1,4)=(4,5)$，故 $C(4,5)$，选C。",
+      "source": "AGIEval|adapted:true|gaokao-math|topic:vector-parallelogram|subquestion:1|independent-derivation:true", "title": "平行四边形坐标·1",
+      "tags": ["kp:MATH-VECTOR-COORDINATE", "origin:external-adapted", "material-group:math-b24-parallelogram", "material-order:1", "large-question-split", "region-fit:qinghai-curriculum", "batch:gaokao-math-gap-batch-24", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "数学", "chapter": "平面向量", "knowledge_points": ["平面向量的坐标运算"], "difficulty": 2, "type": "single_choice",
+      "question": "【共同材料】点 $P$ 在线段 $AB$ 上，$A(-2,1)$、$B(4,7)$，且 $AP:PB=1:2$。点 $P$ 的坐标为（ ）",
+      "options": ["$(0,3)$", "$(2,5)$", "$(1,4)$", "$(-1,2)$"], "answer": "A",
+      "solution": "$\\overrightarrow{AP}=\\frac13\\overrightarrow{AB}=\\frac13(6,6)=(2,2)$，所以 $P=A+(2,2)=(0,3)$，选A。",
+      "source": "AGIEval|adapted:true|gaokao-math|topic:vector-section-point|subquestion:1|independent-derivation:true", "title": "线段定比分点·1",
+      "tags": ["kp:MATH-VECTOR-COORDINATE", "origin:external-adapted", "material-group:math-b24-section-point", "material-order:1", "large-question-split", "region-fit:qinghai-curriculum", "batch:gaokao-math-gap-batch-24", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "数学", "chapter": "平面向量", "knowledge_points": ["平面向量数量积"], "difficulty": 3, "type": "single_choice",
+      "question": "已知 $\\boldsymbol a=(1,2)$，$\\boldsymbol b=(3,-1)$，则 $\\boldsymbol a\\cdot\\boldsymbol b=$（ ）",
+      "options": ["$-1$", "$1$", "$3$", "$5$"], "answer": "B",
+      "solution": "$\\boldsymbol a\\cdot\\boldsymbol b=1\\times3+2\\times(-1)=1$，选B。",
+      "source": "GAOKAO-Bench|adapted:true|math|topic:vector-dot-product|independent-derivation:true", "title": "向量数量积计算·1",
+      "tags": ["kp:MATH-VECTOR-DOT-PRODUCT", "origin:external-adapted", "material-group:math-b24-dot-basic", "material-order:1", "large-question-split", "region-fit:qinghai-curriculum", "batch:gaokao-math-gap-batch-24", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "数学", "chapter": "平面向量", "knowledge_points": ["平面向量数量积"], "difficulty": 2, "type": "single_choice",
+      "question": "已知非零向量 $\\boldsymbol a=(1,2)$ 与 $\\boldsymbol b=(m,1)$ 垂直，则 $m=$（ ）",
+      "options": ["$-2$", "$-\\frac12$", "$\\frac12$", "$2$"], "answer": "A",
+      "solution": "垂直等价于数量积为0，即 $m+2=0$，所以 $m=-2$，选A。",
+      "source": "GAOKAO-Bench|adapted:true|math|topic:vector-perpendicular|independent-derivation:true", "title": "数量积判定垂直·1",
+      "tags": ["kp:MATH-VECTOR-DOT-PRODUCT", "origin:external-adapted", "material-group:math-b24-dot-perpendicular", "material-order:1", "large-question-split", "region-fit:qinghai-curriculum", "batch:gaokao-math-gap-batch-24", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "数学", "chapter": "平面向量", "knowledge_points": ["平面向量数量积"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】已知单位向量 $\\boldsymbol a,\\boldsymbol b$ 的夹角为 $60^\\circ$，则 $|2\\boldsymbol a-\\boldsymbol b|=$（ ）",
+      "options": ["$1$", "$\\sqrt2$", "$\\sqrt3$", "$3$"], "answer": "C",
+      "solution": "$|2\\boldsymbol a-\\boldsymbol b|^2=4|\\boldsymbol a|^2+|\\boldsymbol b|^2-4\\boldsymbol a\\cdot\\boldsymbol b=4+1-4\\cos60^\\circ=3$，故模为 $\\sqrt3$，选C。",
+      "source": "AGIEval|adapted:true|gaokao-math|topic:vector-dot-modulus|subquestion:1|independent-derivation:true", "title": "数量积求线性组合的模·1",
+      "tags": ["kp:MATH-VECTOR-DOT-PRODUCT", "origin:external-adapted", "material-group:math-b24-dot-modulus", "material-order:1", "large-question-split", "region-fit:qinghai-curriculum", "batch:gaokao-math-gap-batch-24", "review:independent-answer-passed"]
+    }
+  ]
+}

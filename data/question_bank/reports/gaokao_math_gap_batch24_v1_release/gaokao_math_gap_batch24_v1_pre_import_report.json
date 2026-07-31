@@ -1,0 +1,111 @@
+{
+  "report": "pre_import",
+  "filename": "gaokao_math_gap_batch24_v1.json",
+  "file_hash": "8d4fb27759431a6b4d8e8a57bc770e89d9ba590358c89af8868602b99472c6b8",
+  "mapping_version": "kp-mapping-v1.1",
+  "database": {
+    "questions": 676,
+    "primary_knowledge_point_links": 676,
+    "orphan_questions": 0,
+    "selected_question_count": 676,
+    "selected_questions_business_hash": "e4a7f6aeefd6294fc08afba4f1ced8aec3bee1e09570daae05939d62ecc1f4a5"
+  },
+  "total": 15,
+  "new_questions": 15,
+  "matching_duplicates": 0,
+  "conflicts": 0,
+  "errors": [],
+  "ready": true,
+  "items": [
+    {
+      "index": 1,
+      "content_hash": "26bf92410ea9995476058e80aee39f64e6da825c1c10dd5816e0584d85e2c780",
+      "primary_code": "MATH-ANALYTIC-CIRCLE-STANDARD",
+      "status": "new"
+    },
+    {
+      "index": 2,
+      "content_hash": "b13a0eb2a0446173883be0d9df1c782b9ca91c20f417b9150a89670c024a48a2",
+      "primary_code": "MATH-FUNCTION-DOMAIN",
+      "status": "new"
+    },
+    {
+      "index": 3,
+      "content_hash": "7de783285c0dde1929393f14f464b63025008d1f1de63481139d5a6ea352d235",
+      "primary_code": "MATH-LOGARITHM-OPERATION",
+      "status": "new"
+    },
+    {
+      "index": 4,
+      "content_hash": "85056c1a56bf0788a32e278c0f79b42497576a8994c7faa5246c22293c2a1d06",
+      "primary_code": "MATH-LOGARITHM-OPERATION",
+      "status": "new"
+    },
+    {
+      "index": 5,
+      "content_hash": "efc9c5cc75929b28deac00b3e61f1ba12dbdaf02ff1224e64ce00887287795ab",
+      "primary_code": "MATH-LOGARITHM-OPERATION",
+      "status": "new"
+    },
+    {
+      "index": 6,
+      "content_hash": "5b76156143e5bdb1e4c8f859f874eb00ed31af2473d1a200f6427613d62da090",
+      "primary_code": "MATH-LOGIC-SUFFICIENT-NECESSARY",
+      "status": "new"
+    },
+    {
+      "index": 7,
+      "content_hash": "5659bb9855d6df0690e3caee1367d687325c363c1c9831c536efafbc4799b346",
+      "primary_code": "MATH-TRIG-SPECIAL-ANGLE",
+      "status": "new"
+    },
+    {
+      "index": 8,
+      "content_hash": "f01241dc6aba8fa850cae474cffc0e4cfaeea775076b6b96200816ecf60453ac",
+      "primary_code": "MATH-TRIG-SPECIAL-ANGLE",
+      "status": "new"
+    },
+    {
+      "index": 9,
+      "content_hash": "1b327851b53fcfa30d1fa140b763130fbd47de7845c41d26de5c2d419fe79ae0",
+      "primary_code": "MATH-VECTOR-COORDINATE",
+      "status": "new"
+    },
+    {
+      "index": 10,
+      "content_hash": "2f46de8d3e331028cc023ee2727795541efc3289585ed771c1e401b7ba974d3a",
+      "primary_code": "MATH-VECTOR-COORDINATE",
+      "status": "new"
+    },
+    {
+      "index": 11,
+      "content_hash": "1bae7657abd0973198371a2f63fd06a4d396a38b16015159e4b52b05be5e0b9d",
+      "primary_code": "MATH-VECTOR-COORDINATE",
+      "status": "new"
+    },
+    {
+      "index": 12,
+      "content_hash": "5c01321dbaf14ed08fbe3355a30233a4d4fef0ce9551b2cae421d3592b67731f",
+      "primary_code": "MATH-VECTOR-COORDINATE",
+      "status": "new"
+    },
+    {
+      "index": 13,
+      "content_hash": "9e407473fddfb3dcf1bd118fea4640e9a715cc979649668f789059000fed25c5",
+      "primary_code": "MATH-VECTOR-DOT-PRODUCT",
+      "status": "new"
+    },
+    {
+      "index": 14,
+      "content_hash": "af71f5984dd0deaadfbfd708e0c603f891ca63a1748a3003f4da17ae3c39412e",
+      "primary_code": "MATH-VECTOR-DOT-PRODUCT",
+      "status": "new"
+    },
+    {
+      "index": 15,
+      "content_hash": "345679f172b65914866f6bc51c864a04e9027f7b19d36166c87a919ce7ef29b6",
+      "primary_code": "MATH-VECTOR-DOT-PRODUCT",
+      "status": "new"
+    }
+  ]
+}

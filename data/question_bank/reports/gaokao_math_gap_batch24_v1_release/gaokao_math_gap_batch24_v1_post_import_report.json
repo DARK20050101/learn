@@ -1,0 +1,67 @@
+{
+  "report": "post_import",
+  "filename": "gaokao_math_gap_batch24_v1.json",
+  "mapping_version": "kp-mapping-v1.1",
+  "import_result": {
+    "batch_id": 44,
+    "filename": "gaokao_math_gap_batch24_v1.json",
+    "status": "completed",
+    "total_count": 15,
+    "imported_count": 15,
+    "duplicate_count": 0,
+    "failed_count": 0,
+    "imported_question_ids": [
+      677,
+      678,
+      679,
+      680,
+      681,
+      682,
+      683,
+      684,
+      685,
+      686,
+      687,
+      688,
+      689,
+      690,
+      691
+    ],
+    "duplicate_question_ids": [],
+    "mapping_version": "kp-mapping-v1.1"
+  },
+  "database": {
+    "questions": 691,
+    "primary_knowledge_point_links": 691,
+    "orphan_questions": 0,
+    "selected_question_count": 691,
+    "selected_questions_business_hash": "28897a9e94df15a4020e8a701107bc05c38403e1e9c02fec3cf89afa1c2222ea"
+  },
+  "original_questions": {
+    "questions": 691,
+    "primary_knowledge_point_links": 691,
+    "orphan_questions": 0,
+    "selected_question_count": 676,
+    "selected_questions_business_hash": "e4a7f6aeefd6294fc08afba4f1ced8aec3bee1e09570daae05939d62ecc1f4a5"
+  },
+  "new_questions": {
+    "questions": 691,
+    "primary_knowledge_point_links": 691,
+    "orphan_questions": 0,
+    "selected_question_count": 15,
+    "selected_questions_business_hash": "ef702d612f6d21b62268c3dad3f8f22171ff7b963280d329a8ce14d1d0c99049"
+  },
+  "checks": {
+    "question_count_expected": true,
+    "primary_count_matches_questions": true,
+    "no_orphan_questions": true,
+    "new_questions_have_primary": true,
+    "original_questions_unchanged": true
+  },
+  "passed": true,
+  "recovery": {
+    "strategy": "restore_pre_import_pg_dump; or, only when imported questions have no dependent records, remove their links and questions in one audited transaction",
+    "batch_id": 44,
+    "warning": "deleting the import batch record alone does not restore question data"
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "command": "lint",
+  "total": 41,
+  "passed": 41,
+  "errors": 0,
+  "warnings": 0,
+  "files": [
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "gaokao_science_gap_batch24_v1.json",
+      "total": 11,
+      "passed": 11,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "甲、乙两小球从同一高处先后由静止释放，释放时间相差 $1.0\\ \\mathrm{s}$。不计空气阻力，取 $g=10\\ \\mathrm{m/s^2}$。当乙释放后 $2.0\\ \\mathrm{s}$ ",
+          "content_hash": "24f69d423226244a4244b073651395f98472dff30b58f643a4acd8cf8c797056",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 2,
+          "question": "研究下列运动时，通常可以把研究对象看成质点的是（ ）",
+          "content_hash": "e7df202e6b32025a1489d838dd15cb7f482c2e634f4ba19cba17e8dc1bec3495",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 3,
+          "question": "一列长 $200\\ \\mathrm{m}$ 的列车以恒定速度通过长 $800\\ \\mathrm{m}$ 的隧道。若研究列车从车头进入隧道到车尾离开隧道所需的时间，下列说法正确的是（ ）",
+          "content_hash": "611677f306ffccf4a9f9815f9af184047ff8f956a71adcc508eff32ffd9cdd52",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 4,
+          "question": "研究一颗人造卫星绕地球运行时，下列判断正确的是（ ）",
+          "content_hash": "bf9c611d37e6b7c35532e5d118efcaa4ed28fec408969665ef65ea89b2f7536c",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 5,
+          "question": "一根长为 $L$ 的均匀直杆沿自身长度方向做平动，杆上各点速度始终相同。若只研究直杆质心的位移随时间的变化，下列说法正确的是（ ）",
+          "content_hash": "5889cf54aef37decc27a21c05caededff272bc93f032d753c39edafa24ee3598",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 6,
+          "question": "下列关于非金属及其化合物的说法正确的是（　　）",
+          "content_hash": "0987853278fb20da17582b4af69ed146343b2a986f4054e5c3f420c5b4dad4ee",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 7,
+          "question": "将足量氯气通入含 $1.0\\ \\mathrm{mol}$ NaOH的冷稀溶液中，充分反应。发生反应 $\\mathrm{Cl_2+2OH^-\\rightarrow Cl^-+ClO^-+H_2O}$，最",
+          "content_hash": "be282c6b0d58a5433690ffaaef3ae1c055d33541e09d648419c129ac25db7496",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 8,
+          "question": "向 $100\\ \\mathrm{mL}$、$0.20\\ \\mathrm{mol\\,L^{-1}}$ 的Na₂S溶液中缓慢通入SO₂，恰好发生反应 $\\mathrm{2S^{2-}+5SO_2+2H_2",
+          "content_hash": "ab1dd02441a8ff12e88fd37a65c2a2414722290b0ddaa094a0c104bbea923082",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 9,
+          "question": "下列微粒中，中心原子的价层电子对数为4且空间结构为V形的是（　　）",
+          "content_hash": "4e0fc0e0e31cb444cb27eb5d545ce1ce2b77ceeb924201fe48ac508dbb65b413",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 10,
+          "question": "下列有关晶体性质的比较正确的是（　　）",
+          "content_hash": "e3cf3e58011245aae16ad7cb038bfe131699fed4e0c04e6777d733f4b99e8b78",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 11,
+          "question": "某晶体的立方晶胞中，A原子位于8个顶点，B原子位于6个面心，C原子位于体心。该晶体的化学式为（　　）",
+          "content_hash": "3fc49175bab888d4bdcf4044ccf365a6bf9aaa6f790009979540fa0131993338",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "gaokao_english_gap_batch24_v1.json",
+      "total": 15,
+      "passed": 15,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "Before joining the online lecture, a student asked the teacher ______.",
+          "content_hash": "44c44c84b89578f34273e719048e497a0e5157754e6e4bfc6d736eb8d6f90304",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 2,
+          "question": "The survey does not tell us ______; it only shows how many people borrowed bicycles.",
+          "content_hash": "c0e4a04778650127eb8164887da5a86bcd5ec1e70e10d722447d1c594cec4dd0",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 3,
+          "question": "When checking the experiment record, the judge wanted to know ______ after the temperature had risen",
+          "content_hash": "a407b3a90dae54e7befd461fee0aa3e175bb3a1a4a463b677bac235f61911a7e",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 4,
+          "question": "Although the map records average noise levels, it cannot explain ______ at the same hour.",
+          "content_hash": "37cc299671db4708c559c7dcea4ddace0e37c223cc069b9fad0d65173ed64dd3",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 5,
+          "question": "Either the student guides or the museum manager ______ responsible for opening the exhibition hall e",
+          "content_hash": "29c016802ea9d3acf2ac28827602d4ac54348b9bfec0729f6fd8da3fe8da5819",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 6,
+          "question": "Neither the damaged labels nor the digital record ______ enough information to identify the old phot",
+          "content_hash": "6ef4a3b5b11e2c7dc4677f06919b6172d02fa7192abbf159c25a316f77aa7c80",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 7,
+          "question": "Not only the coach but also the young athletes ______ willing to test the new training schedule for ",
+          "content_hash": "3a7267155f757d2fe687f1b38e0a19cc39fdf0f45e3a2007b803b0be9c8a5bf8",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 8,
+          "question": "There ______ to be neither a simple explanation nor reliable evidence that the sudden decline was ca",
+          "content_hash": "1e1a34a0410a46419e3968a72880d41dc1d41cf6a2674d394c55f0a6bd992168",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 9,
+          "question": "The first soil test suggested that the school garden needed more water. The students, ______, notice",
+          "content_hash": "2869611ee2fe3ad39dba6340d0c67ff1da6758da9a5be76a833c915749c654b9",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 10,
+          "question": "Nora could have copied the expert's repair instructions word for word. ______, she rewrote them as s",
+          "content_hash": "5a74df6f53f5dc0e762336532e043d567c313af91282f3fcbe2e4e45efe9f381",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 11,
+          "question": "The app made bus arrival times easier to check. ______, access did not improve equally: passengers w",
+          "content_hash": "ca011a8b8429808b29e5d20046821e7b106a2a9e11aecbd6b635e8f58fe4a425",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 12,
+          "question": "The lights are off and the gate is locked, so the research station ______ be open to visitors at thi",
+          "content_hash": "4deb5f21f4ce0e69187a3f4846a63a48d412455406d5ec34dd04afbb54a8f26f",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 13,
+          "question": "When the rain began, volunteers ______ young trees along the riverbank.",
+          "content_hash": "7dbd64ba3bac3643cc7c279ca27efc7c858025608779b4bbc4a89c1f657937f5",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 14,
+          "question": "______ notes immediately after each interview helps the research team distinguish observation from l",
+          "content_hash": "6a41e164abe5a30eed0faaa5769eb182645f6b29a75548b2248121d189ccab63",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 15,
+          "question": "To reduce bias, every application ______ by two reviewers who work independently.",
+          "content_hash": "798b011cb5b96c79358ce620e884d6113a70c4c707a6944e641bff3cfda3486c",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "gaokao_math_gap_batch24_v1.json",
+      "total": 15,
+      "passed": 15,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "【共同材料】某圆经过点 $A(1,0)$、$B(5,0)$，且圆心在直线 $y=2$ 上。该圆的标准方程为（ ）",
+          "content_hash": "26bf92410ea9995476058e80aee39f64e6da825c1c10dd5816e0584d85e2c780",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 2,
+          "question": "函数 $f(x)=\\dfrac{\\sqrt{x-1}}{\\ln(3-x)}$ 的定义域为（ ）",
+          "content_hash": "b13a0eb2a0446173883be0d9df1c782b9ca91c20f417b9150a89670c024a48a2",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 3,
+          "question": "若 $\\log_2 x=3$，则 $\\log_2(4x)$ 的值为（ ）",
+          "content_hash": "7de783285c0dde1929393f14f464b63025008d1f1de63481139d5a6ea352d235",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 4,
+          "question": "【共同材料】声强级 $L$（单位：dB）满足 $L=10\\log_{10}(I/I_0)$。若声强 $I$ 变为原来的 $100$ 倍，则声强级增加（ ）",
+          "content_hash": "85056c1a56bf0788a32e278c0f79b42497576a8994c7faa5246c22293c2a1d06",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 5,
+          "question": "已知正数 $a,b$ 满足 $\\lg a+\\lg b=2$，且 $\\lg a-\\lg b=\\lg4$，则 $a+b=$（ ）",
+          "content_hash": "efc9c5cc75929b28deac00b3e61f1ba12dbdaf02ff1224e64ce00887287795ab",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 6,
+          "question": "设 $x\\in\\mathbb R$，则“$x>2$”是“$x^2>4$”的（ ）",
+          "content_hash": "5b76156143e5bdb1e4c8f859f874eb00ed31af2473d1a200f6427613d62da090",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 7,
+          "question": "在坡度模型中，坡面与水平面夹角为 $30^\\circ$。若坡面长为 $20\\ \\mathrm{m}$，则高度差为（ ）",
+          "content_hash": "5659bb9855d6df0690e3caee1367d687325c363c1c9831c536efafbc4799b346",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 8,
+          "question": "【共同材料】无人机在地面观测点正上方的仰角为 $60^\\circ$，无人机与观测点的直线距离为 $200\\ \\mathrm{m}$。忽略观测仪高度，无人机离地高度为（ ）",
+          "content_hash": "f01241dc6aba8fa850cae474cffc0e4cfaeea775076b6b96200816ecf60453ac",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 9,
+          "question": "已知点 $A(1,2)$、$B(4,-1)$，则向量 $\\overrightarrow{AB}$ 的坐标为（ ）",
+          "content_hash": "1b327851b53fcfa30d1fa140b763130fbd47de7845c41d26de5c2d419fe79ae0",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 10,
+          "question": "已知向量 $\\boldsymbol a=(2,-1)$，$\\boldsymbol b=(-1,3)$，则 $2\\boldsymbol a-\\boldsymbol b=$（ ）",
+          "content_hash": "2f46de8d3e331028cc023ee2727795541efc3289585ed771c1e401b7ba974d3a",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 11,
+          "question": "【共同材料】平行四边形 $ABCD$ 中，$A(0,0)$、$B(3,1)$、$D(1,4)$，则点 $C$ 的坐标为（ ）",
+          "content_hash": "1bae7657abd0973198371a2f63fd06a4d396a38b16015159e4b52b05be5e0b9d",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 12,
+          "question": "【共同材料】点 $P$ 在线段 $AB$ 上，$A(-2,1)$、$B(4,7)$，且 $AP:PB=1:2$。点 $P$ 的坐标为（ ）",
+          "content_hash": "5c01321dbaf14ed08fbe3355a30233a4d4fef0ce9551b2cae421d3592b67731f",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 13,
+          "question": "已知 $\\boldsymbol a=(1,2)$，$\\boldsymbol b=(3,-1)$，则 $\\boldsymbol a\\cdot\\boldsymbol b=$（ ）",
+          "content_hash": "9e407473fddfb3dcf1bd118fea4640e9a715cc979649668f789059000fed25c5",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 14,
+          "question": "已知非零向量 $\\boldsymbol a=(1,2)$ 与 $\\boldsymbol b=(m,1)$ 垂直，则 $m=$（ ）",
+          "content_hash": "af71f5984dd0deaadfbfd708e0c603f891ca63a1748a3003f4da17ae3c39412e",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 15,
+          "question": "【共同材料】已知单位向量 $\\boldsymbol a,\\boldsymbol b$ 的夹角为 $60^\\circ$，则 $|2\\boldsymbol a-\\boldsymbol b|=$（ ）",
+          "content_hash": "345679f172b65914866f6bc51c864a04e9027f7b19d36166c87a919ce7ef29b6",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    }
+  ]
+}

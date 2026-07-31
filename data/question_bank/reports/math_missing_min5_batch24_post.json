@@ -1,0 +1,38 @@
+{
+  "command": "missing",
+  "mapping_version": "kp-mapping-v1.1",
+  "subject": "数学",
+  "minimum": 5,
+  "missing_count": 3,
+  "empty_count": 2,
+  "insufficient_count": 1,
+  "items": [
+    {
+      "code": "MATH-EXPONENT-OPERATION",
+      "name": "指数运算",
+      "subject": "数学",
+      "question_count": 0,
+      "status": "empty",
+      "gap_to_minimum": 5,
+      "gap_to_10": 10
+    },
+    {
+      "code": "MATH-LOGIC-SUFFICIENT-NECESSARY",
+      "name": "充分条件与必要条件",
+      "subject": "数学",
+      "question_count": 2,
+      "status": "insufficient",
+      "gap_to_minimum": 3,
+      "gap_to_10": 8
+    },
+    {
+      "code": "MATH-STATISTICS-MEAN",
+      "name": "平均数",
+      "subject": "数学",
+      "question_count": 0,
+      "status": "empty",
+      "gap_to_minimum": 5,
+      "gap_to_10": 10
+    }
+  ]
+}

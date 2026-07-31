@@ -1,0 +1,47 @@
+{
+  "command": "missing",
+  "mapping_version": "kp-mapping-v1.1",
+  "subject": "英语",
+  "minimum": 5,
+  "missing_count": 4,
+  "empty_count": 1,
+  "insufficient_count": 3,
+  "items": [
+    {
+      "code": "ENG-GRAMMAR-ADJECTIVE-COMPARATIVE",
+      "name": "形容词比较级",
+      "subject": "英语",
+      "question_count": 2,
+      "status": "insufficient",
+      "gap_to_minimum": 3,
+      "gap_to_10": 8
+    },
+    {
+      "code": "ENG-GRAMMAR-TENSE-PRESENT-SIMPLE",
+      "name": "一般现在时",
+      "subject": "英语",
+      "question_count": 3,
+      "status": "insufficient",
+      "gap_to_minimum": 2,
+      "gap_to_10": 7
+    },
+    {
+      "code": "ENG-GRAMMAR-THERE-BE",
+      "name": "There be 句型",
+      "subject": "英语",
+      "question_count": 0,
+      "status": "empty",
+      "gap_to_minimum": 5,
+      "gap_to_10": 10
+    },
+    {
+      "code": "ENG-GRAMMAR-VOICE-PRESENT-PASSIVE",
+      "name": "一般现在时被动语态",
+      "subject": "英语",
+      "question_count": 4,
+      "status": "insufficient",
+      "gap_to_minimum": 1,
+      "gap_to_10": 6
+    }
+  ]
+}

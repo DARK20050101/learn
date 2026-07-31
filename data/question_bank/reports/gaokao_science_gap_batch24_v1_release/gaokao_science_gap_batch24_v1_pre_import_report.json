@@ -1,0 +1,87 @@
+{
+  "report": "pre_import",
+  "filename": "gaokao_science_gap_batch24_v1.json",
+  "file_hash": "20f2ff3a018e6ee4dd16b7edf73380a6143beb71ab6c4c31ee83f641fc57f3b9",
+  "mapping_version": "kp-mapping-v1.1",
+  "database": {
+    "questions": 650,
+    "primary_knowledge_point_links": 650,
+    "orphan_questions": 0,
+    "selected_question_count": 650,
+    "selected_questions_business_hash": "eafe147ccc3ecad8011bd6f87fe63f55bd78bca324d672b544178c7040d53f46"
+  },
+  "total": 11,
+  "new_questions": 11,
+  "matching_duplicates": 0,
+  "conflicts": 0,
+  "errors": [],
+  "ready": true,
+  "items": [
+    {
+      "index": 1,
+      "content_hash": "24f69d423226244a4244b073651395f98472dff30b58f643a4acd8cf8c797056",
+      "primary_code": "PHY-KINEMATICS-FREE-FALL",
+      "status": "new"
+    },
+    {
+      "index": 2,
+      "content_hash": "e7df202e6b32025a1489d838dd15cb7f482c2e634f4ba19cba17e8dc1bec3495",
+      "primary_code": "PHY-MOTION-PARTICLE-MODEL",
+      "status": "new"
+    },
+    {
+      "index": 3,
+      "content_hash": "611677f306ffccf4a9f9815f9af184047ff8f956a71adcc508eff32ffd9cdd52",
+      "primary_code": "PHY-MOTION-PARTICLE-MODEL",
+      "status": "new"
+    },
+    {
+      "index": 4,
+      "content_hash": "bf9c611d37e6b7c35532e5d118efcaa4ed28fec408969665ef65ea89b2f7536c",
+      "primary_code": "PHY-MOTION-PARTICLE-MODEL",
+      "status": "new"
+    },
+    {
+      "index": 5,
+      "content_hash": "5889cf54aef37decc27a21c05caededff272bc93f032d753c39edafa24ee3598",
+      "primary_code": "PHY-MOTION-PARTICLE-MODEL",
+      "status": "new"
+    },
+    {
+      "index": 6,
+      "content_hash": "0987853278fb20da17582b4af69ed146343b2a986f4054e5c3f420c5b4dad4ee",
+      "primary_code": "CHEM-INORGANIC-NONMETAL",
+      "status": "new"
+    },
+    {
+      "index": 7,
+      "content_hash": "be282c6b0d58a5433690ffaaef3ae1c055d33541e09d648419c129ac25db7496",
+      "primary_code": "CHEM-INORGANIC-NONMETAL",
+      "status": "new"
+    },
+    {
+      "index": 8,
+      "content_hash": "ab1dd02441a8ff12e88fd37a65c2a2414722290b0ddaa094a0c104bbea923082",
+      "primary_code": "CHEM-INORGANIC-NONMETAL",
+      "status": "new"
+    },
+    {
+      "index": 9,
+      "content_hash": "4e0fc0e0e31cb444cb27eb5d545ce1ce2b77ceeb924201fe48ac508dbb65b413",
+      "primary_code": "CHEM-STRUCTURE-BOND",
+      "status": "new"
+    },
+    {
+      "index": 10,
+      "content_hash": "e3cf3e58011245aae16ad7cb038bfe131699fed4e0c04e6777d733f4b99e8b78",
+      "primary_code": "CHEM-STRUCTURE-CRYSTAL",
+      "status": "new"
+    },
+    {
+      "index": 11,
+      "content_hash": "3fc49175bab888d4bdcf4044ccf365a6bf9aaa6f790009979540fa0131993338",
+      "primary_code": "CHEM-STRUCTURE-CRYSTAL",
+      "status": "new"
+    }
+  ]
+}
