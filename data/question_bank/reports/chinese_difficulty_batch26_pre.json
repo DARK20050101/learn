@@ -1,0 +1,303 @@
+{
+  "command": "difficulty",
+  "subject": "语文",
+  "question_count": 104,
+  "average_difficulty": 2.95,
+  "difficulty_counts": {
+    "1": 0,
+    "2": 18,
+    "3": 73,
+    "4": 13,
+    "5": 0
+  },
+  "items": [
+    {
+      "code": "CHN-CLASSICAL-CONTENT",
+      "name": "文言文内容理解",
+      "subject": "语文",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 3,
+        "4": 2,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "CHN-CLASSICAL-TRANSLATION",
+      "name": "文言文翻译",
+      "subject": "语文",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 5,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "CHN-CLASSICAL-WORDS",
+      "name": "文言实词与虚词",
+      "subject": "语文",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 3,
+        "3": 2,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "CHN-LANGUAGE-EXPRESSION",
+      "name": "语言表达与衔接",
+      "subject": "语文",
+      "question_count": 13,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 1,
+        "3": 12,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 13
+      }
+    },
+    {
+      "code": "CHN-LANGUAGE-SENTENCE",
+      "name": "病句辨析与修改",
+      "subject": "语文",
+      "question_count": 9,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 1,
+        "3": 8,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 9
+      }
+    },
+    {
+      "code": "CHN-LANGUAGE-WORDS",
+      "name": "词语辨析与使用",
+      "subject": "语文",
+      "question_count": 7,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 7,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 7
+      }
+    },
+    {
+      "code": "CHN-MEMORIZATION-AUTHOR",
+      "name": "篇目作者与语境",
+      "subject": "语文",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 2,
+        "3": 3,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "CHN-MEMORIZATION-CONTEXT",
+      "name": "理解性默写",
+      "subject": "语文",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 3,
+        "4": 2,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "CHN-MEMORIZATION-VARIANTS",
+      "name": "易错字与通假字",
+      "subject": "语文",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 2,
+        "3": 3,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "CHN-MODERN-APPRECIATION",
+      "name": "表现手法与文本鉴赏",
+      "subject": "语文",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 4,
+        "4": 1,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "CHN-MODERN-INFERENCE",
+      "name": "文意理解与推断",
+      "subject": "语文",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 3,
+        "4": 2,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "CHN-MODERN-INFORMATION",
+      "name": "信息筛选与整合",
+      "subject": "语文",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 2,
+        "3": 3,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "CHN-POETRY-EMOTION",
+      "name": "诗歌思想感情",
+      "subject": "语文",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 5,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "CHN-POETRY-IMAGE",
+      "name": "诗歌形象与意境",
+      "subject": "语文",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 5,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "CHN-POETRY-TECHNIQUE",
+      "name": "诗歌表达技巧",
+      "subject": "语文",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 3,
+        "4": 2,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "CHN-WRITING-ARGUMENT",
+      "name": "议论文立意",
+      "subject": "语文",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 3,
+        "4": 2,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "CHN-WRITING-MATERIAL",
+      "name": "材料分析与运用",
+      "subject": "语文",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 3,
+        "4": 2,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "CHN-WRITING-STRUCTURE",
+      "name": "论证结构与方法",
+      "subject": "语文",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 5,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    }
+  ]
+}

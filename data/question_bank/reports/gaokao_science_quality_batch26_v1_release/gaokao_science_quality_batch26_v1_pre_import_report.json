@@ -1,0 +1,117 @@
+{
+  "report": "pre_import",
+  "filename": "gaokao_science_quality_batch26_v1.json",
+  "file_hash": "f85dabd7ac2e8a1da99212ee8a2ca964ed722ca80b0289fb6d01c49a7c188327",
+  "mapping_version": "kp-mapping-v1.1",
+  "database": {
+    "questions": 771,
+    "primary_knowledge_point_links": 771,
+    "orphan_questions": 0,
+    "selected_question_count": 771,
+    "selected_questions_business_hash": "de60adf6faf4897703e83a497f0b6af8ecd5d8e2ae16c292aa7e6a2dc49758e8"
+  },
+  "total": 16,
+  "new_questions": 16,
+  "matching_duplicates": 0,
+  "conflicts": 0,
+  "errors": [],
+  "ready": true,
+  "items": [
+    {
+      "index": 1,
+      "content_hash": "fbc535581e92e59fbeabf758c3cc8af3a7a30df74cac37e7ce617181800194d0",
+      "primary_code": "CHEM-REACTION-RATE-EQUILIBRIUM",
+      "status": "new"
+    },
+    {
+      "index": 2,
+      "content_hash": "a5f41b39d160b0cb71071b308d6700b3f72b15ce27c18b56550eb1ed65446afa",
+      "primary_code": "CHEM-REACTION-RATE-EQUILIBRIUM",
+      "status": "new"
+    },
+    {
+      "index": 3,
+      "content_hash": "234da8031b5eb2c5311d00edef0fc3c2d2d21bb4bd32651b103e927e619ff46e",
+      "primary_code": "CHEM-EXPERIMENT-ANALYSIS",
+      "status": "new"
+    },
+    {
+      "index": 4,
+      "content_hash": "5aef92de14cba8059effe6de4961e88c49e875555cde6268b9fbecda5c871a45",
+      "primary_code": "CHEM-CONCEPT-REDOX",
+      "status": "new"
+    },
+    {
+      "index": 5,
+      "content_hash": "c8f6b7b5b07a49ae9a48c6a22605e23eac4d884422975eebfe846964c647368d",
+      "primary_code": "CHEM-EXPERIMENT-DESIGN",
+      "status": "new"
+    },
+    {
+      "index": 6,
+      "content_hash": "71545e63f21d511faa65f6a62f0c4cdb89097eff2f232b6463efe0ea2f59e84b",
+      "primary_code": "CHEM-REACTION-ENERGY",
+      "status": "new"
+    },
+    {
+      "index": 7,
+      "content_hash": "3f08a32844bd58659e6bee3b2d45c30899f4b986585a91353183785595829646",
+      "primary_code": "CHEM-REACTION-RATE-EQUILIBRIUM",
+      "status": "new"
+    },
+    {
+      "index": 8,
+      "content_hash": "a1c019b8e1cfde6386f1ea9f4f1da78548568faa47b3745df3b0c2d16e36ae94",
+      "primary_code": "CHEM-EXPERIMENT-ANALYSIS",
+      "status": "new"
+    },
+    {
+      "index": 9,
+      "content_hash": "bd6f75400ff0ae5ad7336812180ec09c2d2d649dbe5d2edccc1e4c617ff073cc",
+      "primary_code": "BIO-TECHNOLOGY-EXPERIMENT",
+      "status": "new"
+    },
+    {
+      "index": 10,
+      "content_hash": "2a35b7e0a872d245698d3893eb53b07c45f48436f786824992170873a1cd1df3",
+      "primary_code": "BIO-GENETICS-LAWS",
+      "status": "new"
+    },
+    {
+      "index": 11,
+      "content_hash": "6ce5def8568a129f896f680365e11687edadf030ea2dc36c2df8ab89dd7ff18f",
+      "primary_code": "BIO-GENETICS-LAWS",
+      "status": "new"
+    },
+    {
+      "index": 12,
+      "content_hash": "4de200d695a734a3b949ce0620b31bb376c39c4ea1cd5c7ab1ab7006be4a1667",
+      "primary_code": "BIO-METABOLISM-PHOTOSYNTHESIS",
+      "status": "new"
+    },
+    {
+      "index": 13,
+      "content_hash": "a64357718111780b175b08d8c08dfdb149ffa484b0f38c6d9324e214463557b6",
+      "primary_code": "BIO-METABOLISM-RESPIRATION",
+      "status": "new"
+    },
+    {
+      "index": 14,
+      "content_hash": "4d4883b43eb6d0f33d48a43768402b7595581d7c1d28d9ade1b6f7ffb85ac217",
+      "primary_code": "BIO-ECOLOGY-POPULATION-COMMUNITY",
+      "status": "new"
+    },
+    {
+      "index": 15,
+      "content_hash": "2f4a106d4e3f6ce3d43c2a0ea640bba2b9f45b27bb6e798942b9b1fca51cd9d9",
+      "primary_code": "BIO-ECOLOGY-ECOSYSTEM",
+      "status": "new"
+    },
+    {
+      "index": 16,
+      "content_hash": "61dd571528728a08837dcab7634823d1363742cb2944eb7bd44ec9a45bba8833",
+      "primary_code": "BIO-TECHNOLOGY-CELL-GENE",
+      "status": "new"
+    }
+  ]
+}

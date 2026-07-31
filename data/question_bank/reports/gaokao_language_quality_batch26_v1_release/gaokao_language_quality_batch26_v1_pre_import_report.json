@@ -1,0 +1,117 @@
+{
+  "report": "pre_import",
+  "filename": "gaokao_language_quality_batch26_v1.json",
+  "file_hash": "e21510b45ab8d338c039f2444efe3bfa824d5ff72fca933cd2933cba78317141",
+  "mapping_version": "kp-mapping-v1.1",
+  "database": {
+    "questions": 739,
+    "primary_knowledge_point_links": 739,
+    "orphan_questions": 0,
+    "selected_question_count": 739,
+    "selected_questions_business_hash": "a192458d0c43756cf52310bbaddb37514e6e03b17ae62541b53e4e86aaadee74"
+  },
+  "total": 16,
+  "new_questions": 16,
+  "matching_duplicates": 0,
+  "conflicts": 0,
+  "errors": [],
+  "ready": true,
+  "items": [
+    {
+      "index": 1,
+      "content_hash": "870a9d083ff99d922411b26f2455e74e23538103b217c33bdf1294ea04ba7e5e",
+      "primary_code": "CHN-CLASSICAL-CONTENT",
+      "status": "new"
+    },
+    {
+      "index": 2,
+      "content_hash": "9d2f0a95bf3c7876a0bf24cd5c2c49d141ede9ef9b6185077c4982dabc8e130b",
+      "primary_code": "CHN-CLASSICAL-WORDS",
+      "status": "new"
+    },
+    {
+      "index": 3,
+      "content_hash": "8880b97ed63d68bd8610aa9b78871eaeccb9a9b464593ef715990eff82a779f0",
+      "primary_code": "CHN-MODERN-INFERENCE",
+      "status": "new"
+    },
+    {
+      "index": 4,
+      "content_hash": "30e34f5dea177e6e5b160204b7271891032f5153d0511b4d5d0a0472286d62e0",
+      "primary_code": "CHN-MODERN-APPRECIATION",
+      "status": "new"
+    },
+    {
+      "index": 5,
+      "content_hash": "0ac4b5c17d2cfeaf352c928a4adc824cec18413c5e40d0a2143c1739f9236636",
+      "primary_code": "CHN-MODERN-INFERENCE",
+      "status": "new"
+    },
+    {
+      "index": 6,
+      "content_hash": "11b5ba2ee447607fd1e9056927e36766c6ab379276b4a65a47dc0f64642bae10",
+      "primary_code": "CHN-POETRY-TECHNIQUE",
+      "status": "new"
+    },
+    {
+      "index": 7,
+      "content_hash": "750f5954b087460c4b1bb53d5d561a34629cfa90043ee0066c35ca802665aa72",
+      "primary_code": "CHN-POETRY-EMOTION",
+      "status": "new"
+    },
+    {
+      "index": 8,
+      "content_hash": "eecb2d1ecf93a12c8e9c591568c0f4a18e844e0e2fa16d3bbbecd6ebdbedd62d",
+      "primary_code": "CHN-POETRY-IMAGE",
+      "status": "new"
+    },
+    {
+      "index": 9,
+      "content_hash": "cc55f34a77213f97b73c781593bb2e2fd2e1d9d75a6ddf80f0ade67032356438",
+      "primary_code": "ENG-READING-MAIN-IDEA",
+      "status": "new"
+    },
+    {
+      "index": 10,
+      "content_hash": "fd1f0ab0448195f415690a072ed875c1f6b68a051fb62b526f5027f23d839a60",
+      "primary_code": "ENG-READING-DETAIL",
+      "status": "new"
+    },
+    {
+      "index": 11,
+      "content_hash": "a8f630447e9cf6568493a40bb810c1294e0c75091ee5e99e80359c90b2d3eda9",
+      "primary_code": "ENG-READING-MAIN-IDEA",
+      "status": "new"
+    },
+    {
+      "index": 12,
+      "content_hash": "98edf8b496786ab8ff874e3a0a3b1cb16c65381256b54b5e95a959992f47899b",
+      "primary_code": "ENG-READING-DETAIL",
+      "status": "new"
+    },
+    {
+      "index": 13,
+      "content_hash": "ed6d04ee3355d40a92192a5510eca0efd8fae7cd2c1cb847895d3fc987d8c148",
+      "primary_code": "ENG-NONFINITE-INFINITIVE",
+      "status": "new"
+    },
+    {
+      "index": 14,
+      "content_hash": "78a6c87ce03e81d2855c2390196e33be55d868b39f0d0bfab8697fec656babe1",
+      "primary_code": "ENG-NONFINITE-GERUND-SUBJECT",
+      "status": "new"
+    },
+    {
+      "index": 15,
+      "content_hash": "5850067a7fefdf2e1e0853e0b1c68a618f21643e088ce911b64cf1ec3d7b2b7c",
+      "primary_code": "ENG-CLAUSE-RELATIVE-WORD-SELECTION",
+      "status": "new"
+    },
+    {
+      "index": 16,
+      "content_hash": "1ce8fe9696759f9456d9935f676ff1826020c00ccfa320b44b053822efb77cf2",
+      "primary_code": "ENG-CLAUSE-OBJECT-WORD-ORDER",
+      "status": "new"
+    }
+  ]
+}

@@ -1,0 +1,429 @@
+{
+  "command": "verify",
+  "schema_version": "question-bank-report-v1",
+  "mapping_version": "kp-mapping-v1.1",
+  "total": 48,
+  "passed": 48,
+  "errors": 0,
+  "warnings": 0,
+  "database_duplicates": 0,
+  "files": [
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "gaokao_language_quality_batch26_v1.json",
+      "total": 16,
+      "passed": 16,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "【共同材料】阅读下面文言短文：齐有富人，家累千金。其二子甚愚，其父又不教之。一日，艾子谓其父曰：“君之子虽美，而不通世务，他日曷能克其家？”父怒曰：“吾之子敏而且恃多能，岂有不通世务者耶？”艾子曰：“",
+          "content_hash": "870a9d083ff99d922411b26f2455e74e23538103b217c33bdf1294ea04ba7e5e",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHN-CLASSICAL-CONTENT"
+        },
+        {
+          "index": 2,
+          "question": "【共同材料】阅读下面文言短文：齐有富人，家累千金。其二子甚愚，其父又不教之。艾子谓其父曰：“君之子虽美，而不通世务，他日曷能克其家？”父怒曰：“吾之子敏而且恃多能，岂有不通世务者耶？”艾子曰：“但问君",
+          "content_hash": "9d2f0a95bf3c7876a0bf24cd5c2c49d141ede9ef9b6185077c4982dabc8e130b",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHN-CLASSICAL-WORDS"
+        },
+        {
+          "index": 3,
+          "question": "【共同材料】一些城市用“树木降温量”评价街道绿化，把树冠面积直接换算成温度收益。这种指标便于比较，却可能把树木当成孤立设备：同样大小的树冠，在硬化广场和透水土壤上的蒸腾能力不同；连续树荫能否覆盖步行路",
+          "content_hash": "8880b97ed63d68bd8610aa9b78871eaeccb9a9b464593ef715990eff82a779f0",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHN-MODERN-INFERENCE"
+        },
+        {
+          "index": 4,
+          "question": "【共同材料】一些城市用“树木降温量”评价街道绿化，把树冠面积直接换算成温度收益。这种指标便于比较，却可能把树木当成孤立设备：同样大小的树冠，在硬化广场和透水土壤上的蒸腾能力不同；连续树荫能否覆盖步行路",
+          "content_hash": "30e34f5dea177e6e5b160204b7271891032f5153d0511b4d5d0a0472286d62e0",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHN-MODERN-APPRECIATION"
+        },
+        {
+          "index": 5,
+          "question": "某研究发现，学生在看完科普短视频后，自评理解程度明显上升；但要求他们解释关键因果链时，答案改善有限。若先让学生写下预测，再观看视频并对照修正，解释成绩则显著提高。下列结论最符合材料证据的一项是（ ）。",
+          "content_hash": "0ac4b5c17d2cfeaf352c928a4adc824cec18413c5e40d0a2143c1739f9236636",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHN-MODERN-INFERENCE"
+        },
+        {
+          "index": 6,
+          "question": "阅读刘禹锡《秋词（其一）》：“自古逢秋悲寂寥，我言秋日胜春朝。晴空一鹤排云上，便引诗情到碧霄。”下列对诗歌表达技巧的理解，最恰当的一项是（ ）。",
+          "content_hash": "11b5ba2ee447607fd1e9056927e36766c6ab379276b4a65a47dc0f64642bae10",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHN-POETRY-TECHNIQUE"
+        },
+        {
+          "index": 7,
+          "question": "阅读司空曙《喜外弟卢纶见宿》：“静夜四无邻，荒居旧业贫。雨中黄叶树，灯下白头人。以我独沉久，愧君相见频。平生自有分，况是蔡家亲。”下列对诗人情感变化的理解，最准确的一项是（ ）。",
+          "content_hash": "750f5954b087460c4b1bb53d5d561a34629cfa90043ee0066c35ca802665aa72",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHN-POETRY-EMOTION"
+        },
+        {
+          "index": 8,
+          "question": "阅读司空曙《喜外弟卢纶见宿》中的“雨中黄叶树，灯下白头人”。下列鉴赏最准确的一项是（ ）。",
+          "content_hash": "eecb2d1ecf93a12c8e9c591568c0f4a18e844e0e2fa16d3bbbecd6ebdbedd62d",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHN-POETRY-IMAGE"
+        },
+        {
+          "index": 9,
+          "question": "Read the passage and answer the question.\nA town library used to measure success mainly by the numbe",
+          "content_hash": "cc55f34a77213f97b73c781593bb2e2fd2e1d9d75a6ddf80f0ade67032356438",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "ENG-READING-MAIN-IDEA"
+        },
+        {
+          "index": 10,
+          "question": "Read the passage and answer the question.\nA town library used to measure success mainly by the numbe",
+          "content_hash": "fd1f0ab0448195f415690a072ed875c1f6b68a051fb62b526f5027f23d839a60",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "ENG-READING-DETAIL"
+        },
+        {
+          "index": 11,
+          "question": "Read the passage and answer the question.\nFor years, a coastal school planted young trees on an expo",
+          "content_hash": "a8f630447e9cf6568493a40bb810c1294e0c75091ee5e99e80359c90b2d3eda9",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "ENG-READING-MAIN-IDEA"
+        },
+        {
+          "index": 12,
+          "question": "Read the passage and answer the question.\nFor years, a coastal school planted young trees on an expo",
+          "content_hash": "98edf8b496786ab8ff874e3a0a3b1cb16c65381256b54b5e95a959992f47899b",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "ENG-READING-DETAIL"
+        },
+        {
+          "index": 13,
+          "question": "The research team redesigned the survey, not merely ______ more responses, but ______ whether the qu",
+          "content_hash": "ed6d04ee3355d40a92192a5510eca0efd8fae7cd2c1cb847895d3fc987d8c148",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "ENG-NONFINITE-INFINITIVE"
+        },
+        {
+          "index": 14,
+          "question": "______ a conclusion from one successful trial may feel efficient, but ______ the result across diffe",
+          "content_hash": "78a6c87ce03e81d2855c2390196e33be55d868b39f0d0bfab8697fec656babe1",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "ENG-NONFINITE-GERUND-SUBJECT"
+        },
+        {
+          "index": 15,
+          "question": "The village restored the old path, parts of ______ had been washed away, and added signs ______ expl",
+          "content_hash": "5850067a7fefdf2e1e0853e0b1c68a618f21643e088ce911b64cf1ec3d7b2b7c",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "ENG-CLAUSE-RELATIVE-WORD-SELECTION"
+        },
+        {
+          "index": 16,
+          "question": "Rather than asking ______, the review focused on ______ the policy had changed access for different ",
+          "content_hash": "1ce8fe9696759f9456d9935f676ff1826020c00ccfa320b44b053822efb77cf2",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "ENG-CLAUSE-OBJECT-WORD-ORDER"
+        }
+      ]
+    },
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "gaokao_math_physics_quality_batch26_v1.json",
+      "total": 16,
+      "passed": 16,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "已知函数 $f(x)=\\begin{cases}2x-x^2,&x\\le1,\\\\ \\ln x+a,&x>1.\\end{cases}$ 若 $f(x)$ 在 $\\mathbb R$ 上单调递增，则实数 ",
+          "content_hash": "690cd8825005b9f129a0a0cab584d1d761220e816b566a96a70677f015e5f26c",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "MATH-FUNCTION-MONOTONICITY"
+        },
+        {
+          "index": 2,
+          "question": "函数 $f(x)=x+\\dfrac4x$ 在区间 $[1,4]$ 上的最大值与最小值之和为（ ）",
+          "content_hash": "a86c481a1578984c2381287aaa67205896a8c9da1999b2f19b043e4747d17f9f",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "MATH-FUNCTION-MONOTONICITY"
+        },
+        {
+          "index": 3,
+          "question": "已知曲线 $y=x^3-3x^2+2$ 在点 $P$ 处的切线平行于直线 $y=-3x+1$，且点 $P$ 的横坐标为正数，则该切线与 $y$ 轴交点的纵坐标为（ ）",
+          "content_hash": "b71b5b41c3430e2e1ae4a61fec7195041fc56081245e9e510df0b33393d0bd77",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "MATH-DERIVATIVE-ELEMENTARY"
+        },
+        {
+          "index": 4,
+          "question": "若函数 $f(x)=x^3-3ax^2+3x$ 在区间 $[0,2]$ 上单调递增，则实数 $a$ 的最大值为（ ）",
+          "content_hash": "bb2a203dda840e9f346bd399e4c1b04309570f35f29c95126b51f0342093faa7",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "MATH-DERIVATIVE-ELEMENTARY"
+        },
+        {
+          "index": 5,
+          "question": "等差数列 $\\{a_n\\}$ 的前 $n$ 项和为 $S_n$。已知 $S_5=25$，且 $a_2+a_8=14$，则 $S_{10}=$（ ）",
+          "content_hash": "00b233608d6075fd62c9d03d8598a93d992c4a76ee743fc2095c5857a9a70bdd",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "MATH-SEQUENCE-ARITHMETIC-GENERAL"
+        },
+        {
+          "index": 6,
+          "question": "正项等比数列 $\\{a_n\\}$ 满足 $a_2a_4=16$，且 $a_2+a_4=10$。若公比 $q>1$，则 $a_5=$（ ）",
+          "content_hash": "35031cf154ffa6fb3e1e5847759375ba7a806df752a04fb8c9bd773629239d56",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "MATH-SEQUENCE-GEOMETRIC-GENERAL"
+        },
+        {
+          "index": 7,
+          "question": "圆 $C:(x-1)^2+(y+2)^2=5$ 被直线 $l:x-y+m=0$ 截得的弦长为 $2\\sqrt2$，则 $m$ 的可能取值之和为（ ）",
+          "content_hash": "9102aa6779c0a0c12c82e84a08e2206c32bb8d7862d598070766de5be290b1e1",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "MATH-ANALYTIC-CIRCLE-STANDARD"
+        },
+        {
+          "index": 8,
+          "question": "过点 $P(1,2)$ 的直线与两坐标轴的正半轴分别交于 $A,B$。若三角形 $OAB$ 的面积最小，则直线 $AB$ 的斜率为（ ）",
+          "content_hash": "06b393563014fbd2b46d324067073d39ee65670f54442c9893fcd06ed111465c",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "MATH-ANALYTIC-LINE-SLOPE"
+        },
+        {
+          "index": 9,
+          "question": "甲车以 $10\\ \\mathrm{m/s}$ 匀速通过某点，2 s后乙车从该点由静止出发，先以 $2\\ \\mathrm{m/s^2}$ 的加速度做匀加速运动，达到 $12\\ \\mathrm{m/s}$",
+          "content_hash": "b93deb0804c64f5c30e5149df105260c825aa4e2e8aebc0e42f8872ce218f3ab",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "PHY-KINEMATICS-UNIFORM-ACCELERATION"
+        },
+        {
+          "index": 10,
+          "question": "质量为 $2\\ \\mathrm{kg}$ 的物体在水平面内同时受到两个相互垂直的恒力 $F_1=6\\ \\mathrm{N}$、$F_2=8\\ \\mathrm{N}$，物体还受到方向与合力相反、大小为 ",
+          "content_hash": "cda0503b29fa35522c4d3949536058d4f188d83042f157b99e65b35664d8e777",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "PHY-FORCE-COMPOSITION"
+        },
+        {
+          "index": 11,
+          "question": "质量分别为 $2\\ \\mathrm{kg}$、$3\\ \\mathrm{kg}$ 的物块A、B用轻绳相连，置于粗糙水平面上。两物块与地面间的动摩擦因数均为0.20。现用 $20\\ \\mathrm{N}$",
+          "content_hash": "fa4b4c39ac1aa9e48ea9c3bacbd7971f95650ae3527a1ce5734b94005c3c2eb9",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "PHY-NEWTON-SECOND-LAW"
+        },
+        {
+          "index": 12,
+          "question": "质量为 $2\\ \\mathrm{kg}$ 的物块以 $6\\ \\mathrm{m/s}$ 的初速度沿倾角为 $37^\\circ$ 的粗糙斜面向上滑动，物块与斜面间动摩擦因数为0.25。取 $g=10\\ ",
+          "content_hash": "ced204349f3e119307be940d82af70de7689c0437d18275cabbbdfea07d87b2c",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "PHY-WORK-ENERGY-WORK-CALCULATION"
+        },
+        {
+          "index": 13,
+          "question": "水平直导线中通有由西向东的电流。导线正上方有一点P，忽略地磁场。P点的磁场方向为（ ）",
+          "content_hash": "34bffb59a8c4eb51a484a2a0a963cc59b106103fef117b6b5aa9b06231554bb5",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "PHY-MAGNETIC-FIELD-DIRECTION"
+        },
+        {
+          "index": 14,
+          "question": "闭合圆形金属线圈固定在水平桌面上，条形磁铁的N极竖直向下并位于线圈正上方。下列过程一定能在线圈中产生感应电流的是（ ）",
+          "content_hash": "10f1ef2fb58fae38aca4be74f9112b6bf42e7119e3b29bc79d15287d9903314a",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "PHY-INDUCTION-CURRENT-CONDITION"
+        },
+        {
+          "index": 15,
+          "question": "电源电动势为 $12\\ \\mathrm{V}$、内阻为 $1\\ \\Omega$，外电路由定值电阻 $R=5\\ \\Omega$ 与电动机串联。电动机线圈电阻为 $1\\ \\Omega$，正常工作时电流为 ",
+          "content_hash": "938cf46a840285439ae35e44888a95f0a48f217283220f6866734bd81e4eb1d1",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "PHY-CIRCUIT-ELECTRIC-POWER"
+        },
+        {
+          "index": 16,
+          "question": "两根足够长的平行金属导轨水平放置，间距为 $0.50\\ \\mathrm{m}$，左端接有 $1.0\\ \\Omega$ 电阻。电阻为 $0.50\\ \\Omega$ 的导体棒垂直导轨，在竖直向下、大小为 ",
+          "content_hash": "7a91e9492fff1f41638ec38b92ee71ca8996879ad30caa545db7d22a377259d4",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "PHY-INDUCTION-CURRENT-CONDITION"
+        }
+      ]
+    },
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "gaokao_science_quality_batch26_v1.json",
+      "total": 16,
+      "passed": 16,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "一定温度下，反应A(g)+2B(g)→产物的初始速率实验数据如下：实验①中c(A)=0.10 mol·L⁻¹、c(B)=0.10 mol·L⁻¹、v=2.0×10⁻³ mol·L⁻¹·s⁻¹；实验②中",
+          "content_hash": "fbc535581e92e59fbeabf758c3cc8af3a7a30df74cac37e7ce617181800194d0",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-REACTION-RATE-EQUILIBRIUM"
+        },
+        {
+          "index": 2,
+          "question": "恒温下，在1.0 L密闭容器中充入1.0 mol A和1.0 mol B，发生反应A(g)+B(g)⇌C(g)。达到平衡时测得C为0.60 mol。该温度下反应的浓度平衡常数Kc为（　　）",
+          "content_hash": "a5f41b39d160b0cb71071b308d6700b3f72b15ce27c18b56550eb1ed65446afa",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-REACTION-RATE-EQUILIBRIUM"
+        },
+        {
+          "index": 3,
+          "question": "为测定某补铁剂中铁元素的质量分数，取0.980 g样品溶解并将其中铁全部转化为Fe²⁺，定容至100.0 mL。移取25.00 mL溶液，用0.0200 mol·L⁻¹ KMnO₄酸性溶液滴定，平均消",
+          "content_hash": "234da8031b5eb2c5311d00edef0fc3c2d2d21bb4bd32651b103e927e619ff46e",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-EXPERIMENT-ANALYSIS"
+        },
+        {
+          "index": 4,
+          "question": "以惰性电极电解足量CuSO₄溶液，阴极反应为Cu²⁺+2e⁻=Cu。若电路中通过的电荷量为1.93×10⁴ C，且电流效率为100%，已知1 mol电子所带电荷量约为9.65×10⁴ C，则阴极增加的",
+          "content_hash": "5aef92de14cba8059effe6de4961e88c49e875555cde6268b9fbecda5c871a45",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-CONCEPT-REDOX"
+        },
+        {
+          "index": 5,
+          "question": "某含铜废料经酸浸后得到含Cu²⁺、Fe³⁺的溶液。已知开始沉淀和沉淀完全的pH范围分别为：Fe(OH)₃为1.9～3.2，Cu(OH)₂为4.7～6.7。为除去Fe³⁺并尽量减少铜损失，下列方案最合理",
+          "content_hash": "c8f6b7b5b07a49ae9a48c6a22605e23eac4d884422975eebfe846964c647368d",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-EXPERIMENT-DESIGN"
+        },
+        {
+          "index": 6,
+          "question": "已知：①C(s)+O₂(g)=CO₂(g)　ΔH₁=-394 kJ·mol⁻¹；②CO(g)+1/2O₂(g)=CO₂(g)　ΔH₂=-283 kJ·mol⁻¹。则反应C(s)+1/2O₂(g)=CO",
+          "content_hash": "71545e63f21d511faa65f6a62f0c4cdb89097eff2f232b6463efe0ea2f59e84b",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-REACTION-ENERGY"
+        },
+        {
+          "index": 7,
+          "question": "一定温度下，在10.0 L恒容密闭容器中充入1.00 mol N₂O₄，发生N₂O₄(g)⇌2NO₂(g)。达到平衡时，容器内气体总物质的量为1.40 mol。该温度下的浓度平衡常数Kc约为（　　）",
+          "content_hash": "3f08a32844bd58659e6bee3b2d45c30899f4b986585a91353183785595829646",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-REACTION-RATE-EQUILIBRIUM"
+        },
+        {
+          "index": 8,
+          "question": "用分光光度法测某物质X的含量。标准曲线在测定范围内满足吸光度A=0.50c，其中c的单位为mmol·L⁻¹。取样品溶液稀释20倍后测得A=0.40；原样品溶液体积为250 mL，X的摩尔质量为250 ",
+          "content_hash": "a1c019b8e1cfde6386f1ea9f4f1da78548568faa47b3745df3b0c2d16e36ae94",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "CHEM-EXPERIMENT-ANALYSIS"
+        },
+        {
+          "index": 9,
+          "question": "研究某抑制剂对酶E的影响，实验测得：无抑制剂时，底物浓度为1、5、20 mmol·L⁻¹对应反应速率为20、60、90；加入等量抑制剂后，对应速率为10、40、88（单位相同）。若要进一步检验“提高底",
+          "content_hash": "bd6f75400ff0ae5ad7336812180ec09c2d2d649dbe5d2edccc1e4c617ff073cc",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-TECHNOLOGY-EXPERIMENT"
+        },
+        {
+          "index": 10,
+          "question": "某常染色体隐性遗传病由基因a控制。一对表现正常的夫妇均为携带者，他们有一个表现正常的女儿。该女儿与一名携带者男性婚配，所生孩子患病的概率为（　　）",
+          "content_hash": "2a35b7e0a872d245698d3893eb53b07c45f48436f786824992170873a1cd1df3",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-GENETICS-LAWS"
+        },
+        {
+          "index": 11,
+          "question": "某二倍体生物两对基因A/a、B/b位于同一对同源染色体上。用双显性杂合子与aabb测交，子代数量为：AaBb 420只、aabb 400只、Aabb 90只、aaBb 90只。不考虑致死和选择作用，下",
+          "content_hash": "6ce5def8568a129f896f680365e11687edadf030ea2dc36c2df8ab89dd7ff18f",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-GENETICS-LAWS"
+        },
+        {
+          "index": 12,
+          "question": "在温度和CO₂浓度相同条件下，测得某植物叶片在不同光照强度下的净O₂释放速率：黑暗时为-4 μmol·m⁻²·s⁻¹，光照强度200单位时为2 μmol·m⁻²·s⁻¹，600单位时为8 μmol·m",
+          "content_hash": "4de200d695a734a3b949ce0620b31bb376c39c4ea1cd5c7ab1ab7006be4a1667",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-METABOLISM-PHOTOSYNTHESIS"
+        },
+        {
+          "index": 13,
+          "question": "将等量萌发种子置于甲、乙两套密闭装置中。甲装置内放NaOH溶液吸收CO₂，乙装置内放等体积蒸馏水；相同时间内，甲装置气体体积减少6 mL，乙装置气体体积减少2 mL。忽略气体溶解和温度变化，则该段时间",
+          "content_hash": "a64357718111780b175b08d8c08dfdb149ffa484b0f38c6d9324e214463557b6",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-METABOLISM-RESPIRATION"
+        },
+        {
+          "index": 14,
+          "question": "用标记重捕法调查某鼠种群。第一次捕获并标记200只，数日后第二次捕获160只，其中有标记40只。据此估算种群数量；后续观察发现，标记使鼠更警觉，被再次捕获的概率低于未标记鼠。下列判断正确的是（　　）",
+          "content_hash": "4d4883b43eb6d0f33d48a43768402b7595581d7c1d28d9ade1b6f7ffb85ac217",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-ECOLOGY-POPULATION-COMMUNITY"
+        },
+        {
+          "index": 15,
+          "question": "某草地生态系统一年内，生产者固定的太阳能为50000 kJ·m⁻²，生产者呼吸消耗30000 kJ·m⁻²；植食动物同化量为4000 kJ·m⁻²，呼吸消耗2500 kJ·m⁻²。以各营养级的净生产量",
+          "content_hash": "2f4a106d4e3f6ce3d43c2a0ea640bba2b9f45b27bb6e798942b9b1fca51cd9d9",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-ECOLOGY-ECOSYSTEM"
+        },
+        {
+          "index": 16,
+          "question": "研究人员怀疑基因G是某植物耐盐所必需的。野生型在盐处理下存活率为82%，敲低G后为24%。为排除敲低过程中其他变化造成的影响，并更有力验证该推断，最关键的追加实验是（　　）",
+          "content_hash": "61dd571528728a08837dcab7634823d1363742cb2944eb7bd44ec9a45bba8833",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "BIO-TECHNOLOGY-CELL-GENE"
+        }
+      ]
+    }
+  ]
+}

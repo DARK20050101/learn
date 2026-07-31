@@ -1,0 +1,303 @@
+{
+  "command": "difficulty",
+  "subject": "化学",
+  "question_count": 102,
+  "average_difficulty": 2.75,
+  "difficulty_counts": {
+    "1": 0,
+    "2": 36,
+    "3": 56,
+    "4": 10,
+    "5": 0
+  },
+  "items": [
+    {
+      "code": "CHEM-CONCEPT-AMOUNT",
+      "name": "物质的量与化学计量",
+      "subject": "化学",
+      "question_count": 7,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 4,
+        "3": 1,
+        "4": 2,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 7
+      }
+    },
+    {
+      "code": "CHEM-CONCEPT-ION",
+      "name": "离子反应与离子方程式",
+      "subject": "化学",
+      "question_count": 6,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 3,
+        "3": 3,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 6
+      }
+    },
+    {
+      "code": "CHEM-CONCEPT-REDOX",
+      "name": "氧化还原反应",
+      "subject": "化学",
+      "question_count": 6,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 2,
+        "3": 4,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 6
+      }
+    },
+    {
+      "code": "CHEM-EXPERIMENT-ANALYSIS",
+      "name": "实验现象与数据分析",
+      "subject": "化学",
+      "question_count": 6,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 1,
+        "3": 5,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 6
+      }
+    },
+    {
+      "code": "CHEM-EXPERIMENT-DESIGN",
+      "name": "实验方案设计与评价",
+      "subject": "化学",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 5,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "CHEM-EXPERIMENT-OPERATION",
+      "name": "实验基本操作与安全",
+      "subject": "化学",
+      "question_count": 7,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 4,
+        "3": 3,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 7
+      }
+    },
+    {
+      "code": "CHEM-INORGANIC-METAL",
+      "name": "金属及其化合物",
+      "subject": "化学",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 2,
+        "3": 2,
+        "4": 1,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "CHEM-INORGANIC-NONMETAL",
+      "name": "非金属及其化合物",
+      "subject": "化学",
+      "question_count": 6,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 4,
+        "3": 2,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 6
+      }
+    },
+    {
+      "code": "CHEM-INORGANIC-TRANSFORMATION",
+      "name": "无机物转化与推断",
+      "subject": "化学",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 1,
+        "3": 4,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "CHEM-ORGANIC-REACTION",
+      "name": "有机反应类型",
+      "subject": "化学",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 3,
+        "3": 2,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "CHEM-ORGANIC-STRUCTURE",
+      "name": "有机物结构与性质",
+      "subject": "化学",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 3,
+        "3": 1,
+        "4": 1,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "CHEM-ORGANIC-SYNTHESIS",
+      "name": "有机合成与推断",
+      "subject": "化学",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 3,
+        "4": 2,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "CHEM-REACTION-AQUEOUS",
+      "name": "水溶液中的离子平衡",
+      "subject": "化学",
+      "question_count": 7,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 3,
+        "3": 3,
+        "4": 1,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 7
+      }
+    },
+    {
+      "code": "CHEM-REACTION-ENERGY",
+      "name": "化学反应与能量",
+      "subject": "化学",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 1,
+        "3": 4,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "CHEM-REACTION-RATE-EQUILIBRIUM",
+      "name": "反应速率与化学平衡",
+      "subject": "化学",
+      "question_count": 6,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 1,
+        "3": 4,
+        "4": 1,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 6
+      }
+    },
+    {
+      "code": "CHEM-STRUCTURE-ATOM",
+      "name": "原子结构与元素周期律",
+      "subject": "化学",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 1,
+        "3": 4,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "CHEM-STRUCTURE-BOND",
+      "name": "化学键与分子结构",
+      "subject": "化学",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 1,
+        "3": 3,
+        "4": 1,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "CHEM-STRUCTURE-CRYSTAL",
+      "name": "晶体结构与性质",
+      "subject": "化学",
+      "question_count": 6,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 2,
+        "3": 3,
+        "4": 1,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 6
+      }
+    }
+  ]
+}

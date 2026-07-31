@@ -1,0 +1,303 @@
+{
+  "command": "difficulty",
+  "subject": "生物",
+  "question_count": 119,
+  "average_difficulty": 2.51,
+  "difficulty_counts": {
+    "1": 6,
+    "2": 54,
+    "3": 51,
+    "4": 8,
+    "5": 0
+  },
+  "items": [
+    {
+      "code": "BIO-CELL-LIFE-CYCLE",
+      "name": "细胞生命历程",
+      "subject": "生物",
+      "question_count": 7,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 4,
+        "3": 2,
+        "4": 1,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 7
+      }
+    },
+    {
+      "code": "BIO-CELL-MOLECULE",
+      "name": "组成细胞的分子",
+      "subject": "生物",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 4,
+        "3": 1,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "BIO-CELL-STRUCTURE",
+      "name": "细胞结构与功能",
+      "subject": "生物",
+      "question_count": 7,
+      "difficulty_counts": {
+        "1": 2,
+        "2": 5,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 7
+      }
+    },
+    {
+      "code": "BIO-ECOLOGY-ECOSYSTEM",
+      "name": "生态系统结构与功能",
+      "subject": "生物",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 2,
+        "2": 1,
+        "3": 2,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "BIO-ECOLOGY-ENVIRONMENT",
+      "name": "生态环境保护",
+      "subject": "生物",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 3,
+        "3": 2,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "BIO-ECOLOGY-POPULATION-COMMUNITY",
+      "name": "种群与群落",
+      "subject": "生物",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 4,
+        "3": 1,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "BIO-GENETICS-LAWS",
+      "name": "遗传基本规律",
+      "subject": "生物",
+      "question_count": 11,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 9,
+        "4": 2,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 11
+      }
+    },
+    {
+      "code": "BIO-GENETICS-MOLECULAR",
+      "name": "遗传的分子基础",
+      "subject": "生物",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 4,
+        "3": 1,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "BIO-GENETICS-VARIATION-EVOLUTION",
+      "name": "变异、育种与进化",
+      "subject": "生物",
+      "question_count": 10,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 1,
+        "3": 8,
+        "4": 1,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 10
+      }
+    },
+    {
+      "code": "BIO-HOMEOSTASIS-IMMUNE",
+      "name": "免疫调节",
+      "subject": "生物",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 1,
+        "2": 2,
+        "3": 2,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "BIO-HOMEOSTASIS-NEURAL-HUMORAL",
+      "name": "神经调节与体液调节",
+      "subject": "生物",
+      "question_count": 9,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 4,
+        "3": 4,
+        "4": 1,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 9
+      }
+    },
+    {
+      "code": "BIO-HOMEOSTASIS-PLANT",
+      "name": "植物生命活动调节",
+      "subject": "生物",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 2,
+        "3": 3,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "BIO-METABOLISM-ENZYME-ATP",
+      "name": "酶与ATP",
+      "subject": "生物",
+      "question_count": 7,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 5,
+        "3": 2,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 7
+      }
+    },
+    {
+      "code": "BIO-METABOLISM-PHOTOSYNTHESIS",
+      "name": "光合作用",
+      "subject": "生物",
+      "question_count": 7,
+      "difficulty_counts": {
+        "1": 1,
+        "2": 3,
+        "3": 2,
+        "4": 1,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 7
+      }
+    },
+    {
+      "code": "BIO-METABOLISM-RESPIRATION",
+      "name": "细胞呼吸",
+      "subject": "生物",
+      "question_count": 7,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 4,
+        "3": 2,
+        "4": 1,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 7
+      }
+    },
+    {
+      "code": "BIO-TECHNOLOGY-CELL-GENE",
+      "name": "细胞工程与基因工程",
+      "subject": "生物",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 1,
+        "3": 3,
+        "4": 1,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "BIO-TECHNOLOGY-EXPERIMENT",
+      "name": "教材基础实验",
+      "subject": "生物",
+      "question_count": 7,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 2,
+        "3": 5,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 7
+      }
+    },
+    {
+      "code": "BIO-TECHNOLOGY-FERMENTATION",
+      "name": "发酵工程",
+      "subject": "生物",
+      "question_count": 7,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 5,
+        "3": 2,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 7
+      }
+    }
+  ]
+}

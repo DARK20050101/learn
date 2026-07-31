@@ -1,0 +1,347 @@
+{
+  "command": "difficulty",
+  "subject": "物理",
+  "question_count": 122,
+  "average_difficulty": 2.7,
+  "difficulty_counts": {
+    "1": 3,
+    "2": 48,
+    "3": 53,
+    "4": 18,
+    "5": 0
+  },
+  "items": [
+    {
+      "code": "PHY-CIRCUIT-ELECTRIC-POWER",
+      "name": "电功率的计算",
+      "subject": "物理",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 1,
+        "3": 3,
+        "4": 1,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 4,
+        "multiple_choice": 1
+      }
+    },
+    {
+      "code": "PHY-CIRCUIT-OHM-LAW",
+      "name": "欧姆定律",
+      "subject": "物理",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 1,
+        "3": 3,
+        "4": 1,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "PHY-CIRCULAR-CENTRIPETAL-ACCELERATION",
+      "name": "向心加速度",
+      "subject": "物理",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 1,
+        "3": 4,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "multiple_choice": 2,
+        "single_choice": 3
+      }
+    },
+    {
+      "code": "PHY-ELECTROSTATICS-COULOMB-LAW",
+      "name": "库仑定律",
+      "subject": "物理",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 1,
+        "3": 2,
+        "4": 2,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 4,
+        "true_false": 1
+      }
+    },
+    {
+      "code": "PHY-FORCE-COMPOSITION",
+      "name": "力的合成",
+      "subject": "物理",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 4,
+        "3": 1,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "PHY-GRAVITY-UNIVERSAL-LAW",
+      "name": "万有引力定律",
+      "subject": "物理",
+      "question_count": 13,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 3,
+        "3": 5,
+        "4": 5,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 11,
+        "true_false": 1,
+        "multiple_choice": 1
+      }
+    },
+    {
+      "code": "PHY-INDUCTION-CURRENT-CONDITION",
+      "name": "感应电流的产生条件",
+      "subject": "物理",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 3,
+        "3": 2,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "PHY-KINEMATICS-FREE-FALL",
+      "name": "自由落体运动",
+      "subject": "物理",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 2,
+        "3": 2,
+        "4": 1,
+        "5": 0
+      },
+      "type_counts": {
+        "true_false": 1,
+        "single_choice": 4
+      }
+    },
+    {
+      "code": "PHY-KINEMATICS-UNIFORM-ACCELERATION",
+      "name": "匀变速直线运动规律",
+      "subject": "物理",
+      "question_count": 9,
+      "difficulty_counts": {
+        "1": 1,
+        "2": 4,
+        "3": 3,
+        "4": 1,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 9
+      }
+    },
+    {
+      "code": "PHY-MAGNETIC-FIELD-DIRECTION",
+      "name": "磁场方向的判定",
+      "subject": "物理",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 4,
+        "3": 1,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 4,
+        "multiple_choice": 1
+      }
+    },
+    {
+      "code": "PHY-MOMENTUM-BASIC",
+      "name": "动量概念与计算",
+      "subject": "物理",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 2,
+        "3": 3,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "PHY-MOTION-DISPLACEMENT-DISTANCE",
+      "name": "位移与路程",
+      "subject": "物理",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 2,
+        "3": 2,
+        "4": 1,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 4,
+        "true_false": 1
+      }
+    },
+    {
+      "code": "PHY-MOTION-PARTICLE-MODEL",
+      "name": "质点模型",
+      "subject": "物理",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 1,
+        "2": 2,
+        "3": 2,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "PHY-NEWTON-SECOND-LAW",
+      "name": "牛顿第二定律",
+      "subject": "物理",
+      "question_count": 10,
+      "difficulty_counts": {
+        "1": 1,
+        "2": 2,
+        "3": 6,
+        "4": 1,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 7,
+        "multiple_choice": 3
+      }
+    },
+    {
+      "code": "PHY-NEWTON-THIRD-LAW",
+      "name": "牛顿第三定律",
+      "subject": "物理",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 3,
+        "3": 2,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "PHY-OPTICS-REFRACTION",
+      "name": "光的折射规律",
+      "subject": "物理",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 1,
+        "3": 2,
+        "4": 2,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 4,
+        "true_false": 1
+      }
+    },
+    {
+      "code": "PHY-PROJECTILE-HORIZONTAL",
+      "name": "平抛运动规律",
+      "subject": "物理",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 2,
+        "3": 3,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "PHY-WAVE-SPEED-FREQUENCY-WAVELENGTH",
+      "name": "波速、波长与频率的关系",
+      "subject": "物理",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 2,
+        "3": 2,
+        "4": 1,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "PHY-WORK-ENERGY-KINETIC",
+      "name": "动能概念与计算",
+      "subject": "物理",
+      "question_count": 9,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 5,
+        "3": 4,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "multiple_choice": 3,
+        "single_choice": 6
+      }
+    },
+    {
+      "code": "PHY-WORK-ENERGY-WORK-CALCULATION",
+      "name": "功的计算",
+      "subject": "物理",
+      "question_count": 6,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 3,
+        "3": 1,
+        "4": 2,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5,
+        "multiple_choice": 1
+      }
+    }
+  ]
+}

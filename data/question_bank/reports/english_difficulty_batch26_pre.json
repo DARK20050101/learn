@@ -1,0 +1,320 @@
+{
+  "command": "difficulty",
+  "subject": "英语",
+  "question_count": 133,
+  "average_difficulty": 2.5,
+  "difficulty_counts": {
+    "1": 2,
+    "2": 74,
+    "3": 45,
+    "4": 12,
+    "5": 0
+  },
+  "items": [
+    {
+      "code": "ENG-CLAUSE-ADVERBIAL-CONDITION",
+      "name": "条件状语从句",
+      "subject": "英语",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 4,
+        "3": 1,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "ENG-CLAUSE-OBJECT-WORD-ORDER",
+      "name": "宾语从句的语序",
+      "subject": "英语",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 2,
+        "3": 2,
+        "4": 1,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "ENG-CLAUSE-RELATIVE-WORD-SELECTION",
+      "name": "定语从句关系词的选择",
+      "subject": "英语",
+      "question_count": 12,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 7,
+        "3": 5,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 12
+      }
+    },
+    {
+      "code": "ENG-GRAMMAR-ADJECTIVE-COMPARATIVE",
+      "name": "形容词比较级",
+      "subject": "英语",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 3,
+        "3": 2,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "ENG-GRAMMAR-AGREEMENT-PROXIMITY",
+      "name": "主谓一致的就近原则",
+      "subject": "英语",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 1,
+        "3": 3,
+        "4": 1,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "ENG-GRAMMAR-MODAL-BASIC",
+      "name": "情态动词的基本用法",
+      "subject": "英语",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 1,
+        "2": 3,
+        "3": 1,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "ENG-GRAMMAR-TENSE-PAST-CONTINUOUS",
+      "name": "过去进行时",
+      "subject": "英语",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 4,
+        "3": 1,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "ENG-GRAMMAR-TENSE-PRESENT-PERFECT",
+      "name": "现在完成时",
+      "subject": "英语",
+      "question_count": 6,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 6,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 6
+      }
+    },
+    {
+      "code": "ENG-GRAMMAR-TENSE-PRESENT-SIMPLE",
+      "name": "一般现在时",
+      "subject": "英语",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 4,
+        "3": 1,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "ENG-GRAMMAR-THERE-BE",
+      "name": "There be 句型",
+      "subject": "英语",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 0,
+        "3": 3,
+        "4": 2,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "ENG-GRAMMAR-VOICE-PRESENT-PASSIVE",
+      "name": "一般现在时被动语态",
+      "subject": "英语",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 3,
+        "3": 2,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "ENG-NONFINITE-GERUND-SUBJECT",
+      "name": "动名词短语作主语",
+      "subject": "英语",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 2,
+        "3": 3,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 4,
+        "short_answer": 1
+      }
+    },
+    {
+      "code": "ENG-NONFINITE-INFINITIVE",
+      "name": "动词不定式",
+      "subject": "英语",
+      "question_count": 7,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 5,
+        "3": 2,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 7
+      }
+    },
+    {
+      "code": "ENG-READING-DETAIL",
+      "name": "细节理解",
+      "subject": "英语",
+      "question_count": 9,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 6,
+        "3": 3,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 9
+      }
+    },
+    {
+      "code": "ENG-READING-MAIN-IDEA",
+      "name": "主旨大意",
+      "subject": "英语",
+      "question_count": 13,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 1,
+        "3": 8,
+        "4": 4,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 13
+      }
+    },
+    {
+      "code": "ENG-VOCAB-COLLOCATION",
+      "name": "固定搭配",
+      "subject": "英语",
+      "question_count": 8,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 6,
+        "3": 2,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 8
+      }
+    },
+    {
+      "code": "ENG-VOCAB-CONTEXT-ADVERB",
+      "name": "副词语境辨析",
+      "subject": "英语",
+      "question_count": 5,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 2,
+        "3": 2,
+        "4": 1,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 5
+      }
+    },
+    {
+      "code": "ENG-VOCAB-CONTEXT-VERB",
+      "name": "动词语境辨析",
+      "subject": "英语",
+      "question_count": 16,
+      "difficulty_counts": {
+        "1": 0,
+        "2": 9,
+        "3": 4,
+        "4": 3,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 16
+      }
+    },
+    {
+      "code": "ENG-VOCAB-SITUATIONAL-COMMUNICATION",
+      "name": "情景交际",
+      "subject": "英语",
+      "question_count": 7,
+      "difficulty_counts": {
+        "1": 1,
+        "2": 6,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "type_counts": {
+        "single_choice": 7
+      }
+    }
+  ]
+}

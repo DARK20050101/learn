@@ -1,0 +1,117 @@
+{
+  "report": "pre_import",
+  "filename": "gaokao_math_physics_quality_batch26_v1.json",
+  "file_hash": "2e203fdd03d5ee1cbd52bf5938d71642d3a0939315b283bab4867ae15cd13fd0",
+  "mapping_version": "kp-mapping-v1.1",
+  "database": {
+    "questions": 755,
+    "primary_knowledge_point_links": 755,
+    "orphan_questions": 0,
+    "selected_question_count": 755,
+    "selected_questions_business_hash": "36fa1cabbee3bf0b4ff4271e6c55c945b9e3ded3babf949a616d2ee2459f9a57"
+  },
+  "total": 16,
+  "new_questions": 16,
+  "matching_duplicates": 0,
+  "conflicts": 0,
+  "errors": [],
+  "ready": true,
+  "items": [
+    {
+      "index": 1,
+      "content_hash": "690cd8825005b9f129a0a0cab584d1d761220e816b566a96a70677f015e5f26c",
+      "primary_code": "MATH-FUNCTION-MONOTONICITY",
+      "status": "new"
+    },
+    {
+      "index": 2,
+      "content_hash": "a86c481a1578984c2381287aaa67205896a8c9da1999b2f19b043e4747d17f9f",
+      "primary_code": "MATH-FUNCTION-MONOTONICITY",
+      "status": "new"
+    },
+    {
+      "index": 3,
+      "content_hash": "b71b5b41c3430e2e1ae4a61fec7195041fc56081245e9e510df0b33393d0bd77",
+      "primary_code": "MATH-DERIVATIVE-ELEMENTARY",
+      "status": "new"
+    },
+    {
+      "index": 4,
+      "content_hash": "bb2a203dda840e9f346bd399e4c1b04309570f35f29c95126b51f0342093faa7",
+      "primary_code": "MATH-DERIVATIVE-ELEMENTARY",
+      "status": "new"
+    },
+    {
+      "index": 5,
+      "content_hash": "00b233608d6075fd62c9d03d8598a93d992c4a76ee743fc2095c5857a9a70bdd",
+      "primary_code": "MATH-SEQUENCE-ARITHMETIC-GENERAL",
+      "status": "new"
+    },
+    {
+      "index": 6,
+      "content_hash": "35031cf154ffa6fb3e1e5847759375ba7a806df752a04fb8c9bd773629239d56",
+      "primary_code": "MATH-SEQUENCE-GEOMETRIC-GENERAL",
+      "status": "new"
+    },
+    {
+      "index": 7,
+      "content_hash": "9102aa6779c0a0c12c82e84a08e2206c32bb8d7862d598070766de5be290b1e1",
+      "primary_code": "MATH-ANALYTIC-CIRCLE-STANDARD",
+      "status": "new"
+    },
+    {
+      "index": 8,
+      "content_hash": "06b393563014fbd2b46d324067073d39ee65670f54442c9893fcd06ed111465c",
+      "primary_code": "MATH-ANALYTIC-LINE-SLOPE",
+      "status": "new"
+    },
+    {
+      "index": 9,
+      "content_hash": "b93deb0804c64f5c30e5149df105260c825aa4e2e8aebc0e42f8872ce218f3ab",
+      "primary_code": "PHY-KINEMATICS-UNIFORM-ACCELERATION",
+      "status": "new"
+    },
+    {
+      "index": 10,
+      "content_hash": "cda0503b29fa35522c4d3949536058d4f188d83042f157b99e65b35664d8e777",
+      "primary_code": "PHY-FORCE-COMPOSITION",
+      "status": "new"
+    },
+    {
+      "index": 11,
+      "content_hash": "fa4b4c39ac1aa9e48ea9c3bacbd7971f95650ae3527a1ce5734b94005c3c2eb9",
+      "primary_code": "PHY-NEWTON-SECOND-LAW",
+      "status": "new"
+    },
+    {
+      "index": 12,
+      "content_hash": "ced204349f3e119307be940d82af70de7689c0437d18275cabbbdfea07d87b2c",
+      "primary_code": "PHY-WORK-ENERGY-WORK-CALCULATION",
+      "status": "new"
+    },
+    {
+      "index": 13,
+      "content_hash": "34bffb59a8c4eb51a484a2a0a963cc59b106103fef117b6b5aa9b06231554bb5",
+      "primary_code": "PHY-MAGNETIC-FIELD-DIRECTION",
+      "status": "new"
+    },
+    {
+      "index": 14,
+      "content_hash": "10f1ef2fb58fae38aca4be74f9112b6bf42e7119e3b29bc79d15287d9903314a",
+      "primary_code": "PHY-INDUCTION-CURRENT-CONDITION",
+      "status": "new"
+    },
+    {
+      "index": 15,
+      "content_hash": "938cf46a840285439ae35e44888a95f0a48f217283220f6866734bd81e4eb1d1",
+      "primary_code": "PHY-CIRCUIT-ELECTRIC-POWER",
+      "status": "new"
+    },
+    {
+      "index": 16,
+      "content_hash": "7a91e9492fff1f41638ec38b92ee71ca8996879ad30caa545db7d22a377259d4",
+      "primary_code": "PHY-INDUCTION-CURRENT-CONDITION",
+      "status": "new"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "schema_version": "shiguang-question-candidate-v1",
+  "batch": "gaokao-language-quality-batch26",
+  "questions": [
+    {
+      "subject": "语文", "chapter": "文言文阅读", "knowledge_points": ["文言文内容理解"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】阅读下面文言短文：齐有富人，家累千金。其二子甚愚，其父又不教之。一日，艾子谓其父曰：“君之子虽美，而不通世务，他日曷能克其家？”父怒曰：“吾之子敏而且恃多能，岂有不通世务者耶？”艾子曰：“不须试之他，但问君之子所食者米从何来。若知之，吾当妄言之罪。”父遂呼其子问之。其子嘻然笑曰：“吾岂不知此？每以布囊取来。”其父愀然改容曰：“子之愚甚也！彼米不是田中来？”艾子曰：“非其父不生其子。”\n下列对艾子最后一句的理解，最恰当的一项是（ ）。",
+      "options": ["赞扬富人能及时纠正儿子的错误", "讽刺父亲同样缺乏见识，却把责任全推给儿子", "说明人的才能完全由父亲遗传", "劝富人亲自下田种米"], "answer": "B",
+      "solution": "先由儿子误以为米只从布袋而来，再看父亲把来源简单说成“田中来”，父亲也未理解生产过程。艾子以“有其父必有其子”反讽父子见识相近，故选B；A忽略反语，C将讽刺误作遗传论，D偏离语境。",
+      "source": "改编·《艾子杂说》“富人之子”·古籍公共领域文本·批次26（非高考真题）",
+      "title": "富人之子·反语语境推断", "tags": ["kp:CHN-CLASSICAL-CONTENT", "origin:external-adapted", "material-group:chn26-richman", "material-order:1", "grade:high-school", "batch:gaokao-language-quality-batch26", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "文言文阅读", "knowledge_points": ["文言实词与虚词"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】阅读下面文言短文：齐有富人，家累千金。其二子甚愚，其父又不教之。艾子谓其父曰：“君之子虽美，而不通世务，他日曷能克其家？”父怒曰：“吾之子敏而且恃多能，岂有不通世务者耶？”艾子曰：“但问君之子所食者米从何来。若知之，吾当妄言之罪。”\n结合父亲夸耀儿子、艾子随后设问检验的语境，“他日曷能克其家”中“克”的意思是（ ）。",
+      "options": ["战胜家人", "承担并治理家业", "克制饮食", "建造住宅"], "answer": "B",
+      "solution": "“他日”指将来，“其家”承接富人拥有的家业；艾子担心儿子不通世务，推论是将来不能胜任家业。因此“克”取“能够、胜任”义，具体为承担治理家业，选B。",
+      "source": "改编·《艾子杂说》“富人之子”·古籍公共领域文本·批次26（非高考真题）",
+      "title": "富人之子·实词语境推断", "tags": ["kp:CHN-CLASSICAL-WORDS", "origin:external-adapted", "material-group:chn26-richman", "material-order:2", "grade:high-school", "batch:gaokao-language-quality-batch26", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "现代文阅读", "knowledge_points": ["现代文内容推断"], "difficulty": 4, "type": "single_choice",
+      "question": "【共同材料】一些城市用“树木降温量”评价街道绿化，把树冠面积直接换算成温度收益。这种指标便于比较，却可能把树木当成孤立设备：同样大小的树冠，在硬化广场和透水土壤上的蒸腾能力不同；连续树荫能否覆盖步行路线，也比零散树木的总面积更影响行人体验。因此，量化并非无用，问题在于指标是否保留了对象与环境的关系。\n由材料可推出的一项是（ ）。",
+      "options": ["只要树冠总面积相同，街道降温效果必然相同", "量化评价必然损害城市绿化", "评价绿化时应把树冠、土壤条件和空间连续性结合起来", "行人体验无法通过任何证据研究"], "answer": "C",
+      "solution": "材料先指出单一树冠面积指标的局限，再分别补充土壤和树荫连续性两个条件，最后并未否定量化，而要求保留环境关系。由此只能推出综合评价，故选C；A忽略条件，B、D都把有限批评绝对化。",
+      "source": "原创·城市绿化评价材料·批次26（非高考真题）",
+      "title": "绿化指标·条件整合推断", "tags": ["kp:CHN-MODERN-INFERENCE", "origin:original", "material-group:chn26-green-metrics", "material-order:1", "grade:high-school", "batch:gaokao-language-quality-batch26", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "现代文阅读", "knowledge_points": ["表现手法与文本鉴赏"], "difficulty": 4, "type": "single_choice",
+      "question": "【共同材料】一些城市用“树木降温量”评价街道绿化，把树冠面积直接换算成温度收益。这种指标便于比较，却可能把树木当成孤立设备：同样大小的树冠，在硬化广场和透水土壤上的蒸腾能力不同；连续树荫能否覆盖步行路线，也比零散树木的总面积更影响行人体验。因此，量化并非无用，问题在于指标是否保留了对象与环境的关系。\n材料怎样推进论证？下列分析最准确的一项是（ ）。",
+      "options": ["先全盘否定量化，再以两个例子证明直觉可靠", "先承认指标的便利，再以条件差异揭示局限，最后提出修正原则", "先描述城市景观，再转向批评行人", "并列介绍三种互不相关的绿化技术"], "answer": "B",
+      "solution": "首句说明指标“便于比较”，属于让步；中间用土壤差异和空间连续性说明单一换算失真；结尾将批评限定为“是否保留关系”，提出修正原则。三步对应B。",
+      "source": "原创·城市绿化评价材料·批次26（非高考真题）",
+      "title": "绿化指标·论证推进", "tags": ["kp:CHN-MODERN-APPRECIATION", "origin:original", "material-group:chn26-green-metrics", "material-order:2", "grade:high-school", "batch:gaokao-language-quality-batch26", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "现代文阅读", "knowledge_points": ["现代文内容推断"], "difficulty": 3, "type": "single_choice",
+      "question": "某研究发现，学生在看完科普短视频后，自评理解程度明显上升；但要求他们解释关键因果链时，答案改善有限。若先让学生写下预测，再观看视频并对照修正，解释成绩则显著提高。下列结论最符合材料证据的一项是（ ）。",
+      "options": ["观看短视频一定妨碍学习", "自我感觉提升等同于真正理解", "预测—对照活动可能促使学生发现原有解释的缺口", "只要写下预测，任何学科成绩都会提高"], "answer": "C",
+      "solution": "第一组数据揭示“感觉懂”与“能解释”不一致；第二组只有增加预测和对照后，解释成绩才提升，因此可谨慎推断该活动帮助暴露认知缺口。A、B与数据相反，D超出研究范围。",
+      "source": "原创·学习认知研究材料·批次26（非高考真题）",
+      "title": "科普视频·证据边界推断", "tags": ["kp:CHN-MODERN-INFERENCE", "origin:original", "grade:high-school", "batch:gaokao-language-quality-batch26", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "古代诗歌阅读", "knowledge_points": ["诗歌表达技巧"], "difficulty": 3, "type": "single_choice",
+      "question": "阅读刘禹锡《秋词（其一）》：“自古逢秋悲寂寥，我言秋日胜春朝。晴空一鹤排云上，便引诗情到碧霄。”下列对诗歌表达技巧的理解，最恰当的一项是（ ）。",
+      "options": ["先引传统悲秋观念作反衬，再以鹤冲云霄的形象把抽象豪情具体化", "以倒叙交代诗人春日养鹤的经历", "用哀景正写诗人的孤独绝望", "以用典证明秋天温度高于春天"], "answer": "A",
+      "solution": "前两句把“自古悲秋”与“我言胜春”对举，形成翻案；后两句不是抽象议论，而用凌云之鹤引出高昂诗情。须同时识别对比和形象化表达，故选A。",
+      "source": "改编·刘禹锡《秋词（其一）》·古诗公共领域文本·批次26（非高考真题）",
+      "title": "刘禹锡《秋词》·翻案与意象", "tags": ["kp:CHN-POETRY-TECHNIQUE", "origin:external-adapted", "grade:high-school", "batch:gaokao-language-quality-batch26", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "古代诗歌阅读", "knowledge_points": ["诗歌思想感情"], "difficulty": 3, "type": "single_choice",
+      "question": "阅读司空曙《喜外弟卢纶见宿》：“静夜四无邻，荒居旧业贫。雨中黄叶树，灯下白头人。以我独沉久，愧君相见频。平生自有分，况是蔡家亲。”下列对诗人情感变化的理解，最准确的一项是（ ）。",
+      "options": ["由荒居孤寂、自伤衰老，转为感激亲友频访并珍视亲情", "由雨夜恐惧转为埋怨亲友打扰", "由贫困自豪转为拒绝亲友帮助", "由思乡转为立志出征边塞"], "answer": "A",
+      "solution": "前四句以“四无邻”“荒居”“黄叶”“白头”写孤贫衰老；后四句“愧君相见频”“自有分”“蔡家亲”转向对来访者的感激和亲情确认，因此A完整呈现转折。",
+      "source": "改编·司空曙《喜外弟卢纶见宿》·古诗公共领域文本·批次26（非高考真题）",
+      "title": "司空曙见宿诗·情感层次", "tags": ["kp:CHN-POETRY-EMOTION", "origin:external-adapted", "grade:high-school", "batch:gaokao-language-quality-batch26", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "古代诗歌阅读", "knowledge_points": ["诗歌形象与意境"], "difficulty": 3, "type": "single_choice",
+      "question": "阅读司空曙《喜外弟卢纶见宿》中的“雨中黄叶树，灯下白头人”。下列鉴赏最准确的一项是（ ）。",
+      "options": ["以雨中黄叶与灯下白头相互映照，把自然衰飒与人的衰老孤苦联结起来", "以明丽春景衬托少年意气", "把树拟人化为来访亲友，表现欢宴热闹", "以宏大边塞景象突出战争紧张"], "answer": "A",
+      "solution": "“黄叶”是秋雨中的衰飒物象，“白头人”是灯下衰老主体；两幅画面色调、状态相应，由物及人强化孤苦。B季节和情调均错，C、D无文本依据。",
+      "source": "改编·司空曙《喜外弟卢纶见宿》·古诗公共领域文本·批次26（非高考真题）",
+      "title": "雨中黄叶·意象映照", "tags": ["kp:CHN-POETRY-IMAGE", "origin:external-adapted", "grade:high-school", "batch:gaokao-language-quality-batch26", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "英语", "chapter": "阅读理解", "knowledge_points": ["主旨大意"], "difficulty": 4, "type": "single_choice",
+      "question": "Read the passage and answer the question.\nA town library used to measure success mainly by the number of books borrowed. When borrowing fell, it considered buying more popular titles. Before doing so, staff interviewed residents and found that many visited to use quiet desks, seek help with online forms, or join language groups. The library then reported both loans and these less visible services. Borrowing did not rise sharply, yet the council increased funding because the new report showed how the library supported learning and access.\nWhat is the main point of the passage?",
+      "options": ["Popular books are the only reliable way to attract readers.", "A broader measure can reveal value that a single familiar number misses.", "Libraries should stop lending books and provide only online services.", "Council funding always rises when borrowing falls."], "answer": "B",
+      "solution": "First, the library relies on loan numbers and misreads the decline. Then interviews reveal other uses, and a broader report changes the council's judgment. This contrast supports B. A ignores the interviews, while C and D turn a specific case into unsupported absolutes.",
+      "source": "Original·English reading passage on library metrics·Batch26 (not an exam item)",
+      "title": "Library Metrics·Main Idea", "tags": ["kp:ENG-READING-MAIN-IDEA", "origin:original", "material-group:eng26-library-value", "material-order:1", "grade:high-school", "batch:gaokao-language-quality-batch26", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "英语", "chapter": "阅读理解", "knowledge_points": ["细节理解"], "difficulty": 3, "type": "single_choice",
+      "question": "Read the passage and answer the question.\nA town library used to measure success mainly by the number of books borrowed. When borrowing fell, it considered buying more popular titles. Before doing so, staff interviewed residents and found that many visited to use quiet desks, seek help with online forms, or join language groups. The library then reported both loans and these less visible services. Borrowing did not rise sharply, yet the council increased funding because the new report showed how the library supported learning and access.\nWhy did the council most likely increase funding?",
+      "options": ["The library proved that every visitor borrowed a book.", "The interviews caused borrowing to rise immediately.", "The revised report provided evidence of benefits beyond book loans.", "The library replaced all its books with online forms."], "answer": "C",
+      "solution": "The last sentence links the funding decision to the new report, while the previous sentence explains that the report included quiet study, form support and language groups. Combining these details gives C. The passage explicitly says loans did not rise sharply, ruling out A and B; D is never stated.",
+      "source": "Original·English reading passage on library metrics·Batch26 (not an exam item)",
+      "title": "Library Metrics·Causal Inference", "tags": ["kp:ENG-READING-DETAIL", "origin:original", "material-group:eng26-library-value", "material-order:2", "grade:high-school", "batch:gaokao-language-quality-batch26", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "英语", "chapter": "阅读理解", "knowledge_points": ["主旨大意"], "difficulty": 4, "type": "single_choice",
+      "question": "Read the passage and answer the question.\nFor years, a coastal school planted young trees on an exposed playground each spring, and many died before winter. A new groundskeeper did not begin with another planting. She watched where rainwater collected, measured wind at different corners, and asked students which paths they actually used. The next year, trees were placed behind a low windbreak and away from heavily used routes. Fewer trees were planted, but most survived. Her success came not from finding a magically stronger species, but from treating the playground as a system.\nWhich title best fits the passage?",
+      "options": ["Why Schools Need More Playgrounds", "Planting Less by Understanding More", "The Fastest-Growing Coastal Tree", "How Students Learned to Avoid Trees"], "answer": "B",
+      "solution": "The groundskeeper first gathers information about water, wind and movement, then plants fewer trees in better locations, producing higher survival. B captures both the apparent contrast and the systems approach. C is rejected by the final sentence; A and D miss the central problem-solving process.",
+      "source": "Original·English reading passage on systems-based planting·Batch26 (not an exam item)",
+      "title": "Systems Planting·Best Title", "tags": ["kp:ENG-READING-MAIN-IDEA", "origin:original", "material-group:eng26-tree-system", "material-order:1", "grade:high-school", "batch:gaokao-language-quality-batch26", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "英语", "chapter": "阅读理解", "knowledge_points": ["细节理解"], "difficulty": 3, "type": "single_choice",
+      "question": "Read the passage and answer the question.\nFor years, a coastal school planted young trees on an exposed playground each spring, and many died before winter. A new groundskeeper did not begin with another planting. She watched where rainwater collected, measured wind at different corners, and asked students which paths they actually used. The next year, trees were placed behind a low windbreak and away from heavily used routes. Fewer trees were planted, but most survived. Her success came not from finding a magically stronger species, but from treating the playground as a system.\nWhat can be inferred about the earlier planting efforts?",
+      "options": ["They paid insufficient attention to local conditions and human movement.", "They used no trees at all.", "They were successful because more trees were planted.", "They failed only because students refused to water trees."], "answer": "A",
+      "solution": "The new approach differs by measuring wind and water and considering student routes; survival then improves without a new 'magical' species. The contrast implies that earlier efforts overlooked these interacting conditions. B and C contradict the first sentences, and D assigns a single cause not mentioned.",
+      "source": "Original·English reading passage on systems-based planting·Batch26 (not an exam item)",
+      "title": "Systems Planting·Inference", "tags": ["kp:ENG-READING-DETAIL", "origin:original", "material-group:eng26-tree-system", "material-order:2", "grade:high-school", "batch:gaokao-language-quality-batch26", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "英语", "chapter": "非谓语动词", "knowledge_points": ["动词不定式"], "difficulty": 3, "type": "single_choice",
+      "question": "The research team redesigned the survey, not merely ______ more responses, but ______ whether the questions themselves were shaping the answers.",
+      "options": ["to collect; to test", "collecting; testing", "to collect; testing", "collecting; to test"], "answer": "A",
+      "solution": "The phrase 'not merely ... but ...' requires parallel structures. After 'redesigned the survey', both parts express purpose, so two infinitives are needed: 'not merely to collect ... but to test ...'. B changes both into participles, while C and D break the parallel pattern.",
+      "source": "Original·Contextual non-finite grammar item·Batch26 (not an exam item)",
+      "title": "Survey Redesign·Parallel Infinitives", "tags": ["kp:ENG-NONFINITE-INFINITIVE", "origin:original", "grade:high-school", "batch:gaokao-language-quality-batch26", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "英语", "chapter": "非谓语动词", "knowledge_points": ["动名词作主语"], "difficulty": 3, "type": "single_choice",
+      "question": "______ a conclusion from one successful trial may feel efficient, but ______ the result across different conditions is necessary before the method is widely adopted.",
+      "options": ["Drawing; testing", "Draw; test", "To have drawn; tested", "Being drawn; having tested"], "answer": "A",
+      "solution": "Each blank heads a noun-like subject: the act of drawing a conclusion may feel efficient, while the act of testing the result is necessary. Active gerunds fit both meanings and keep the clauses parallel. B uses imperatives, C gives mismatched time and form, and D wrongly makes the conclusion perform the action.",
+      "source": "Original·Contextual non-finite grammar item·Batch26 (not an exam item)",
+      "title": "Trial Evidence·Gerund Subjects", "tags": ["kp:ENG-NONFINITE-GERUND-SUBJECT", "origin:original", "grade:high-school", "batch:gaokao-language-quality-batch26", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "英语", "chapter": "定语从句", "knowledge_points": ["定语从句关系词选择"], "difficulty": 3, "type": "single_choice",
+      "question": "The village restored the old path, parts of ______ had been washed away, and added signs ______ explained why hikers should remain on it.",
+      "options": ["which; that", "that; where", "which; where", "whom; that"], "answer": "A",
+      "solution": "After the preposition in 'parts of ___', the antecedent is the path, so the relative pronoun must be 'which'; 'that' cannot normally follow a preposition. In the second clause, the subject of 'explained' refers to signs, so 'that' is correct, not the place adverb 'where'.",
+      "source": "Original·Contextual relative-clause item·Batch26 (not an exam item)",
+      "title": "Restored Path·Relative Words", "tags": ["kp:ENG-CLAUSE-RELATIVE-WORD-SELECTION", "origin:original", "grade:high-school", "batch:gaokao-language-quality-batch26", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "英语", "chapter": "名词性从句", "knowledge_points": ["宾语从句的语序"], "difficulty": 3, "type": "single_choice",
+      "question": "Rather than asking ______, the review focused on ______ the policy had changed access for different groups.",
+      "options": ["was the policy popular; how", "whether the policy was popular; how", "whether was the policy popular; what", "the policy was whether popular; why did"], "answer": "B",
+      "solution": "After 'asking', an indirect yes-or-no question needs 'whether' plus statement word order: 'whether the policy was popular'. After 'focused on', 'how' introduces the manner in which access changed, again with statement order. Only B satisfies both grammar and meaning.",
+      "source": "Original·Contextual noun-clause item·Batch26 (not an exam item)",
+      "title": "Policy Review·Embedded Questions", "tags": ["kp:ENG-CLAUSE-OBJECT-WORD-ORDER", "origin:original", "grade:high-school", "batch:gaokao-language-quality-batch26", "review:independent-answer-passed"]
+    }
+  ]
+}
