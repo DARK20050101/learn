@@ -1,0 +1,198 @@
+{
+  "schema_version": "shiguang-question-candidate-v1",
+  "batch": "gaokao-chinese-final-gap-batch25",
+  "questions": [
+    {
+      "subject": "语文", "chapter": "文言文阅读", "knowledge_points": ["文言文内容理解"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】阅读下面文言短文：赵襄主学御于王子期，俄而与子期逐，三易马而三后。襄主曰：“子之教我御，术未尽也。”对曰：“术已尽，用之则过也。凡御之所贵，马体安于车，人心调于马，而后可以追速致远。今君后则欲逮臣，先则恐逮于臣。夫诱道争远，非先则后也，而先后心皆在于臣，上何以调于马？此君之所以后也。”\n下列对短文内容的理解，正确的一项是（ ）。",
+      "options": ["赵襄主因马匹始终较差而落后", "王子期认为驾车应先求人马协调，不应只盯着对手", "王子期承认自己故意隐瞒了关键技术", "赵襄主在领先时能专心控制车马"], "answer": "B",
+      "solution": "王子期明确说“马体安于车，人心调于马”才可致远，并指出赵襄主心都在对手身上。A、C、D均与原文相反。",
+      "source": "Chinese Text Project|adapted:true|work:韩非子·喻老|public-domain",
+      "title": "赵襄主学御·内容理解", "tags": ["kp:CHN-CLASSICAL-CONTENT", "origin:external-adapted", "material-group:chn25-driving", "material-order:1", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-final-gap-batch25", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "文言文阅读", "knowledge_points": ["文言文内容理解"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】阅读下面文言短文：赵襄主学御于王子期，俄而与子期逐，三易马而三后。襄主曰：“子之教我御，术未尽也。”对曰：“术已尽，用之则过也。凡御之所贵，马体安于车，人心调于马，而后可以追速致远。今君后则欲逮臣，先则恐逮于臣。夫诱道争远，非先则后也，而先后心皆在于臣，上何以调于马？此君之所以后也。”\n下列对王子期说理思路的概括，最准确的一项是（ ）。",
+      "options": ["先否定比赛价值，再要求更换马匹", "先说明驾御原则，再对照赵襄主的心理解释败因", "先责备赵襄主轻敌，再讲述自己的获胜经历", "先比较两人的马匹，再归因于运气"], "answer": "B",
+      "solution": "王子期先提出人、马、车协调的原则，再以赵襄主领先和落后时都关注对手作对照，解释其失败。",
+      "source": "Chinese Text Project|adapted:true|work:韩非子·喻老|public-domain",
+      "title": "赵襄主学御·说理思路", "tags": ["kp:CHN-CLASSICAL-CONTENT", "origin:external-adapted", "material-group:chn25-driving", "material-order:2", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-final-gap-batch25", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "文言文阅读", "knowledge_points": ["文言文翻译"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】阅读《赵襄主学御》片段：“今君后则欲逮臣，先则恐逮于臣。夫诱道争远，非先则后也，而先后心皆在于臣，上何以调于马？”\n“先则恐逮于臣”的准确翻译是（ ）。",
+      "options": ["领先时就担心被我赶上", "起先便害怕追赶我", "先生担心我无法到达", "抢先就能使我畏惧"], "answer": "A",
+      "solution": "“先”指处于前面，“逮于臣”是被我赶上；“于”表被动。A准确落实句式和语境。",
+      "source": "Chinese Text Project|adapted:true|work:韩非子·喻老|public-domain",
+      "title": "赵襄主学御·被动句翻译", "tags": ["kp:CHN-CLASSICAL-TRANSLATION", "origin:external-adapted", "material-group:chn25-driving-translation", "material-order:1", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-final-gap-batch25", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "文言文阅读", "knowledge_points": ["文言文翻译"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】阅读《赵襄主学御》片段：“凡御之所贵，马体安于车，人心调于马，而后可以追速致远。”\n下列翻译最准确的一项是（ ）。",
+      "options": ["驾车可贵之处，在于马安稳地套在车上，人的心意与马协调，此后才能追求速度、到达远方", "所有驾车人都贵在让马车安静，然后追赶远处的人", "驾车最昂贵的是车马，人的心情不能影响速度", "只要马匹安静，不必训练便可快速远行"], "answer": "A",
+      "solution": "A准确译出“所贵”“调于马”“而后”及“追速致远”的条件关系，其余均误译或遗漏。",
+      "source": "Chinese Text Project|adapted:true|work:韩非子·喻老|public-domain",
+      "title": "赵襄主学御·条件关系翻译", "tags": ["kp:CHN-CLASSICAL-TRANSLATION", "origin:external-adapted", "material-group:chn25-driving-translation", "material-order:2", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-final-gap-batch25", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "文言文阅读", "knowledge_points": ["文言实词与虚词"], "difficulty": 2, "type": "single_choice",
+      "question": "阅读句子：“赵襄主学御于王子期，俄而与子期逐，三易马而三后。”下列加点词的语境义解释不正确的一项是（ ）。",
+      "options": ["御：驾车", "俄而：不久", "逐：竞逐", "易：容易"], "answer": "D",
+      "solution": "“三易马”意为三次更换马匹，“易”是更换，不是容易。",
+      "source": "Chinese Text Project|adapted:true|work:韩非子·喻老|public-domain",
+      "title": "赵襄主学御·实词辨析", "tags": ["kp:CHN-CLASSICAL-WORDS", "origin:external-adapted", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-final-gap-batch25", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "文言文阅读", "knowledge_points": ["文言实词与虚词"], "difficulty": 3, "type": "single_choice",
+      "question": "阅读句子：“术已尽，用之则过也。”结合赵襄主学御的语境，下列对“过”的解释最恰当的一项是（ ）。",
+      "options": ["经过", "超过对手", "有过失、用法不当", "拜访"], "answer": "C",
+      "solution": "王子期说技术已全部传授，问题在赵襄主运用失当，因此“过”指过失。",
+      "source": "Chinese Text Project|adapted:true|work:韩非子·喻老|public-domain",
+      "title": "赵襄主学御·一词多义", "tags": ["kp:CHN-CLASSICAL-WORDS", "origin:external-adapted", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-final-gap-batch25", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "文学文化常识", "knowledge_points": ["篇目作者与语境"], "difficulty": 2, "type": "single_choice",
+      "question": "学校为“贬谪中的精神突围”朗诵单配作者卡。下列组合最恰当的一项是（ ）。",
+      "options": ["苏轼—《赤壁赋》—借江月之思讨论变与不变", "杜甫—《琵琶行》—同病相怜", "白居易—《岳阳楼记》—先忧后乐", "柳宗元—《醉翁亭记》—与民同乐"], "answer": "A",
+      "solution": "《赤壁赋》为苏轼贬居黄州时期作品，含变与不变的思考。其余三项作者均错配。",
+      "source": "GAOKAO-Bench|adapted:true|dataset:2010-2022_Chinese_Language_Ancient_Poetry_Dictation|commit:6dbb24f8d843",
+      "title": "贬谪作品卡·作者语境", "tags": ["kp:CHN-MEMORIZATION-AUTHOR", "origin:external-adapted", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-final-gap-batch25", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "文学文化常识", "knowledge_points": ["篇目作者与语境"], "difficulty": 3, "type": "single_choice",
+      "question": "下列作品说明没有把文学形象误作作者经历，且表述准确的一项是（ ）。",
+      "options": ["《琵琶行》中琵琶女的遭遇就是白居易本人的经历", "《蜀道难》的神话想象证明李白亲历蚕丛开国", "《登高》借病中登台所见抒写杜甫漂泊衰病之悲", "《念奴娇·赤壁怀古》证明苏轼亲眼见过周瑜作战"], "answer": "C",
+      "solution": "C结合杜甫晚年漂泊处境准确理解诗作；A、B、D均把文学叙写或历史想象当作作者亲历。",
+      "source": "GAOKAO-Bench|adapted:true|dataset:2010-2022_Chinese_Language_Ancient_Poetry_Dictation|commit:6dbb24f8d843",
+      "title": "作品与生平·语境辨析", "tags": ["kp:CHN-MEMORIZATION-AUTHOR", "origin:external-adapted", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-final-gap-batch25", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "文学文化常识", "knowledge_points": ["篇目作者与语境"], "difficulty": 3, "type": "single_choice",
+      "question": "校刊设置“家国忧思”专栏，下列导语与作品语境最匹配的一项是（ ）。",
+      "options": ["辛弃疾《永遇乐·京口北固亭怀古》：登临怀古，并以历史兴亡寄寓北伐忧思", "陶渊明《蜀相》：凭吊诸葛亮，悲叹出师未捷", "李商隐《登岳阳楼》：流离中忧国忧民", "苏轼《离骚》：以香草美人寄托忠贞"], "answer": "A",
+      "solution": "A作者、篇目和写作语境均吻合；《蜀相》作者杜甫，《登岳阳楼》作者杜甫，《离骚》作者屈原。",
+      "source": "GAOKAO-Bench|adapted:true|dataset:2010-2022_Chinese_Language_Ancient_Poetry_Dictation|commit:6dbb24f8d843",
+      "title": "家国忧思专栏·导语匹配", "tags": ["kp:CHN-MEMORIZATION-AUTHOR", "origin:external-adapted", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-final-gap-batch25", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "现代文阅读", "knowledge_points": ["表现手法与文本鉴赏"], "difficulty": 3, "type": "single_choice",
+      "question": "阅读片段：“风停后，院里仍响着水声。祖父把旧水车拆下的木片一块块洗净，靠墙排好。新泵已经把水送上坡顶，他却说：‘留下它，孩子才知道水从前怎样上山。’”下列鉴赏最恰当的一项是（ ）。",
+      "options": ["以旧水车和新水泵的对照，表现技术更新中保存劳动记忆的珍视", "用夸张证明新泵效率极低", "以倒叙完整交代祖父一生", "借水声象征战争即将到来"], "answer": "A",
+      "solution": "片段并置旧水车与新泵，祖父的话点明保留旧物是保存劳动记忆。其余说法无文本依据。",
+      "source": "Original|adapted:true|inspired-by:gaokao-modern-prose-analysis|license:CC0",
+      "title": "旧水车·手法鉴赏", "tags": ["kp:CHN-MODERN-APPRECIATION", "origin:original-adapted", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-final-gap-batch25", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "现代文阅读", "knowledge_points": ["表现手法与文本鉴赏"], "difficulty": 3, "type": "single_choice",
+      "question": "阅读片段：“出发前，母亲反复叮嘱他看天气。他嫌烦，只挥了挥手。傍晚暴雪封路，手机里那句未听完的‘别走北坡’忽然变得清晰。”下列对“未听完”的赏析最准确的一项是（ ）。",
+      "options": ["以细节前后照应，写出人物由不耐烦到懊悔的心理变化", "用排比突出母亲声音洪亮", "以议论证明天气预报无用", "用比喻赞美北坡景色"], "answer": "A",
+      "solution": "前文“嫌烦”与后文忠告变得清晰构成照应，“未听完”凝聚了人物的懊悔，A准确。",
+      "source": "Original|adapted:true|inspired-by:gaokao-modern-prose-analysis|license:CC0",
+      "title": "暴雪封路·细节照应", "tags": ["kp:CHN-MODERN-APPRECIATION", "origin:original-adapted", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-final-gap-batch25", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "现代文阅读", "knowledge_points": ["信息筛选与整合"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】某地修复高寒草甸：围栏区减少放牧压力，补播区恢复植被，监测区连续记录土壤含水量。三年后补播区盖度上升，但单一草种抗病性弱；团队遂改用乡土混合草种，并保留季节性适度放牧。\n下列对修复策略的概括最完整的一项是（ ）。",
+      "options": ["全面禁牧并只种生长最快的草", "减压、补播、监测相结合，再依据长期结果调整草种和放牧强度", "只记录土壤含水量，不干预植被", "以提高短期盖度作为唯一目标"], "answer": "B",
+      "solution": "B整合了初期三项措施、后续反馈调整及适度放牧，信息完整；其余均遗漏或曲解。",
+      "source": "Original|adapted:true|inspired-by:gaokao-informational-text|license:CC0",
+      "title": "草甸修复·策略整合", "tags": ["kp:CHN-MODERN-INFORMATION", "origin:original-adapted", "material-group:chn25-grassland", "material-order:1", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-final-gap-batch25", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "现代文阅读", "knowledge_points": ["信息筛选与整合"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】某地修复高寒草甸：围栏区减少放牧压力，补播区恢复植被，监测区连续记录土壤含水量。三年后补播区盖度上升，但单一草种抗病性弱；团队遂改用乡土混合草种，并保留季节性适度放牧。\n由材料可合理推出的一项是（ ）。",
+      "options": ["植被盖度上升即可证明生态系统完全稳定", "任何放牧都会破坏草甸修复", "修复成效应综合考察覆盖度、抗风险能力和利用方式", "乡土混合草种在所有地区都必然最佳"], "answer": "C",
+      "solution": "材料显示盖度提高后仍有抗病性问题，并调整利用方式，说明评价须考虑多维指标。A、B、D均绝对化。",
+      "source": "Original|adapted:true|inspired-by:gaokao-informational-text|license:CC0",
+      "title": "草甸修复·信息推断", "tags": ["kp:CHN-MODERN-INFORMATION", "origin:original-adapted", "material-group:chn25-grassland", "material-order:2", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-final-gap-batch25", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "古代诗歌阅读", "knowledge_points": ["诗歌思想感情"], "difficulty": 3, "type": "single_choice",
+      "question": "阅读王维《送沈子归江东》：“杨柳渡头行客稀，罟师荡桨向临圻。惟有相思似春色，江南江北送君归。”诗歌主要表达的感情是（ ）。",
+      "options": ["以春色无处不在比喻绵延相随的惜别思念", "因行客稀少而庆幸旅途清静", "批评渔人划船迟缓", "决意归隐江南不再送友"], "answer": "A",
+      "solution": "末两句以遍及江南江北的春色喻相思，形象表达对友人的惜别与牵挂。",
+      "source": "Wikisource|adapted:true|work:送沈子归江东|author:王维|public-domain",
+      "title": "王维送别诗·情感", "tags": ["kp:CHN-POETRY-EMOTION", "origin:external-adapted", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-final-gap-batch25", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "古代诗歌阅读", "knowledge_points": ["诗歌思想感情"], "difficulty": 3, "type": "single_choice",
+      "question": "阅读张籍《秋思》：“洛阳城里见秋风，欲作家书意万重。复恐匆匆说不尽，行人临发又开封。”下列理解最恰当的一项是（ ）。",
+      "options": ["“又开封”的动作表现游子乡思深重、唯恐言不尽意", "诗人反复拆信是因为忘记署名", "秋风使诗人厌弃洛阳生活", "全诗主要赞美送信人耐心"], "answer": "A",
+      "solution": "临发又拆信检查这一细节与“意万重”“说不尽”照应，集中表现深切乡思。",
+      "source": "Wikisource|adapted:true|work:秋思|author:张籍|public-domain",
+      "title": "张籍《秋思》·情感", "tags": ["kp:CHN-POETRY-EMOTION", "origin:external-adapted", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-final-gap-batch25", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "古代诗歌阅读", "knowledge_points": ["诗歌思想感情"], "difficulty": 3, "type": "single_choice",
+      "question": "阅读陆游《十一月四日风雨大作（其二）》：“僵卧孤村不自哀，尚思为国戍轮台。夜阑卧听风吹雨，铁马冰河入梦来。”下列理解正确的一项是（ ）。",
+      "options": ["诗人由现实风雨进入梦中战场，抒发衰病不改的报国之志", "诗人因孤村寒冷只盼迁居", "“铁马冰河”实写当夜亲临边塞", "全诗表达对战争功名的厌弃"], "answer": "A",
+      "solution": "“尚思为国”“入梦来”表明诗人虽僵卧孤村仍心系边防，现实风雨触发报国之梦。",
+      "source": "Wikisource|adapted:true|work:十一月四日风雨大作|author:陆游|public-domain",
+      "title": "陆游风雨诗·情感", "tags": ["kp:CHN-POETRY-EMOTION", "origin:external-adapted", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-final-gap-batch25", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "古代诗歌阅读", "knowledge_points": ["诗歌形象与意境"], "difficulty": 3, "type": "single_choice",
+      "question": "阅读韦应物《滁州西涧》：“独怜幽草涧边生，上有黄鹂深树鸣。春潮带雨晚来急，野渡无人舟自横。”下列对意境的概括最恰当的一项是（ ）。",
+      "options": ["幽静中含动态，晚潮急雨与横舟共同营造清幽疏野之境", "繁华热闹，突出渡口商旅云集", "肃杀悲壮，表现战场惨烈", "绮丽奢华，描写宫廷宴饮"], "answer": "A",
+      "solution": "幽草、深树、无人野渡偏静，黄鹂、急潮带来动态，形成清幽疏野而有生机的意境。",
+      "source": "Wikisource|adapted:true|work:滁州西涧|author:韦应物|public-domain",
+      "title": "韦应物西涧·意境", "tags": ["kp:CHN-POETRY-IMAGE", "origin:external-adapted", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-final-gap-batch25", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "古代诗歌阅读", "knowledge_points": ["诗歌形象与意境"], "difficulty": 3, "type": "single_choice",
+      "question": "阅读柳宗元《江雪》：“千山鸟飞绝，万径人踪灭。孤舟蓑笠翁，独钓寒江雪。”下列对渔翁形象的理解最恰当的一项是（ ）。",
+      "options": ["在极寒寂寥环境中独钓，呈现孤高坚守的形象", "因捕鱼丰收而兴奋喧闹", "召集众人共同赏雪", "畏惧风雪而仓皇返家"], "answer": "A",
+      "solution": "“绝”“灭”铺写极度寂静，“孤”“独”突出渔翁不惧寒雪、孤高坚守的形象。",
+      "source": "Wikisource|adapted:true|work:江雪|author:柳宗元|public-domain",
+      "title": "柳宗元《江雪》·人物形象", "tags": ["kp:CHN-POETRY-IMAGE", "origin:external-adapted", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-final-gap-batch25", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "古代诗歌阅读", "knowledge_points": ["诗歌形象与意境"], "difficulty": 3, "type": "single_choice",
+      "question": "阅读杜甫《绝句》：“两个黄鹂鸣翠柳，一行白鹭上青天。窗含西岭千秋雪，门泊东吴万里船。”下列对画面层次的分析正确的一项是（ ）。",
+      "options": ["由近处柳上黄鹂写到高空白鹭、远山积雪和门外泊船，画面开阔而明丽", "四句只写室内静物，没有空间变化", "全诗以黑白两色营造阴森氛围", "诗中景物都静止不动"], "answer": "A",
+      "solution": "黄鹂、翠柳为近景，白鹭、青天和西岭雪拓展高远空间，泊船又落到门前；色彩明丽且动静结合。",
+      "source": "Wikisource|adapted:true|work:绝句四首（两个黄鹂鸣翠柳）|author:杜甫|public-domain",
+      "title": "杜甫绝句·画面层次", "tags": ["kp:CHN-POETRY-IMAGE", "origin:external-adapted", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-final-gap-batch25", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "古代诗歌阅读", "knowledge_points": ["诗歌表达技巧"], "difficulty": 3, "type": "single_choice",
+      "question": "阅读李白《黄鹤楼送孟浩然之广陵》：“孤帆远影碧空尽，唯见长江天际流。”末两句主要运用何种方式表现惜别？",
+      "options": ["以目送孤帆直至消失的动态过程，含蓄表现久久不舍", "以直白议论批评友人离去", "以夸张写江水枯竭", "以倒叙补写初次相识"], "answer": "A",
+      "solution": "诗人不直言不舍，而写视线追随孤帆直到只见江流，以景与动作含蓄传情。",
+      "source": "Wikisource|adapted:true|work:黄鹤楼送孟浩然之广陵|author:李白|public-domain",
+      "title": "李白送别诗·以景传情", "tags": ["kp:CHN-POETRY-TECHNIQUE", "origin:external-adapted", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-final-gap-batch25", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "古代诗歌阅读", "knowledge_points": ["诗歌表达技巧"], "difficulty": 3, "type": "single_choice",
+      "question": "阅读王维《鸟鸣涧》：“人闲桂花落，夜静春山空。月出惊山鸟，时鸣春涧中。”下列对表达技巧的分析最准确的一项是（ ）。",
+      "options": ["以花落、鸟鸣等细微声响反衬山夜幽静", "以密集用典歌颂战争", "以人物对话推动情节", "以浓烈议论批判隐居"], "answer": "A",
+      "solution": "环境极静，花落可感、月出惊鸟、偶有鸟鸣，细微动态和声音反衬春山之幽静。",
+      "source": "Wikisource|adapted:true|work:鸟鸣涧|author:王维|public-domain",
+      "title": "王维《鸟鸣涧》·以动衬静", "tags": ["kp:CHN-POETRY-TECHNIQUE", "origin:external-adapted", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-final-gap-batch25", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "写作", "knowledge_points": ["论证结构与方法"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】议论文提纲：观点——公共讨论既要有表达热情，也要有事实边界。①解释“表达权”不等于“免于核验”；②列举谣言经转发造成误判的案例；③分析有人担心核验会压制表达；④指出透明核验反而提高可信度；⑤提出发布来源、修正错误等建议。\n对该提纲结构概括最准确的一项是（ ）。",
+      "options": ["界定概念—举例论证—回应质疑—提出办法", "只叙述事件，不含论证", "先给办法，再完全否定观点", "各层均为无关并列"], "answer": "A",
+      "solution": "五部分依次承担概念界定、案例证明、引入并回应反方意见、实践建议等功能，A完整准确。",
+      "source": "Original|adapted:true|inspired-by:gaokao-composition-outline|license:CC0",
+      "title": "公共讨论提纲·结构", "tags": ["kp:CHN-WRITING-STRUCTURE", "origin:original-adapted", "material-group:chn25-discussion", "material-order:1", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-final-gap-batch25", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "写作", "knowledge_points": ["论证结构与方法"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】议论文提纲：观点——公共讨论既要有表达热情，也要有事实边界。①解释“表达权”不等于“免于核验”；②列举谣言经转发造成误判的案例；③分析有人担心核验会压制表达；④指出透明核验反而提高可信度；⑤提出发布来源、修正错误等建议。\n为使③④之间的反驳更严密，最恰当的补充是（ ）。",
+      "options": ["区分事前禁止发言与事后公开核验，说明二者对表达自由的影响不同", "再抄写一次中心论点", "删去对质疑的回应", "断言所有质疑者都别有用心"], "answer": "A",
+      "solution": "A辨析“压制表达”和“公开核验”的概念差异，直接回应质疑；其余或重复、回避，或诉诸人身。",
+      "source": "Original|adapted:true|inspired-by:gaokao-composition-outline|license:CC0",
+      "title": "公共讨论提纲·反驳", "tags": ["kp:CHN-WRITING-STRUCTURE", "origin:original-adapted", "material-group:chn25-discussion", "material-order:2", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-final-gap-batch25", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "写作", "knowledge_points": ["论证结构与方法"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】议论文提纲：观点——公共讨论既要有表达热情，也要有事实边界。①解释“表达权”不等于“免于核验”；②列举谣言经转发造成误判的案例；③回应“核验会压制表达”的质疑；④提出发布来源、修正错误等建议。\n若在案例后增加一句分析，最能完成由材料到观点过渡的是（ ）。",
+      "options": ["案例中的损害并非源于表达本身，而源于未经核验的信息被当作事实传播", "这个案例十分有趣，值得反复讲述", "网络时代人人都使用手机", "所有转发者都应承担同样责任"], "answer": "A",
+      "solution": "A点明案例与“表达热情须有事实边界”的逻辑联系，避免事例堆砌；其余不能有效支撑观点。",
+      "source": "Original|adapted:true|inspired-by:gaokao-composition-outline|license:CC0",
+      "title": "公共讨论提纲·例后分析", "tags": ["kp:CHN-WRITING-STRUCTURE", "origin:original-adapted", "material-group:chn25-discussion", "material-order:3", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-final-gap-batch25", "review:independent-answer-passed"]
+    }
+  ]
+}

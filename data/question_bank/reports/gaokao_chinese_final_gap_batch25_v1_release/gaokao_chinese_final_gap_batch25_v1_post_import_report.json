@@ -1,0 +1,76 @@
+{
+  "report": "post_import",
+  "filename": "gaokao_chinese_final_gap_batch25_v1.json",
+  "mapping_version": "kp-mapping-v1.1",
+  "import_result": {
+    "batch_id": 45,
+    "filename": "gaokao_chinese_final_gap_batch25_v1.json",
+    "status": "completed",
+    "total_count": 24,
+    "imported_count": 24,
+    "duplicate_count": 0,
+    "failed_count": 0,
+    "imported_question_ids": [
+      692,
+      693,
+      694,
+      695,
+      696,
+      697,
+      698,
+      699,
+      700,
+      701,
+      702,
+      703,
+      704,
+      705,
+      706,
+      707,
+      708,
+      709,
+      710,
+      711,
+      712,
+      713,
+      714,
+      715
+    ],
+    "duplicate_question_ids": [],
+    "mapping_version": "kp-mapping-v1.1"
+  },
+  "database": {
+    "questions": 715,
+    "primary_knowledge_point_links": 715,
+    "orphan_questions": 0,
+    "selected_question_count": 715,
+    "selected_questions_business_hash": "e05fdcb0e03499d9eb0815cc7356441eac66d2fa56cb507de79eb25a5d4fb0a8"
+  },
+  "original_questions": {
+    "questions": 715,
+    "primary_knowledge_point_links": 715,
+    "orphan_questions": 0,
+    "selected_question_count": 691,
+    "selected_questions_business_hash": "28897a9e94df15a4020e8a701107bc05c38403e1e9c02fec3cf89afa1c2222ea"
+  },
+  "new_questions": {
+    "questions": 715,
+    "primary_knowledge_point_links": 715,
+    "orphan_questions": 0,
+    "selected_question_count": 24,
+    "selected_questions_business_hash": "5b40c8b50ba013ff10d77eec6d03e02e75ac4483114414fd9d477a09042189b1"
+  },
+  "checks": {
+    "question_count_expected": true,
+    "primary_count_matches_questions": true,
+    "no_orphan_questions": true,
+    "new_questions_have_primary": true,
+    "original_questions_unchanged": true
+  },
+  "passed": true,
+  "recovery": {
+    "strategy": "restore_pre_import_pg_dump; or, only when imported questions have no dependent records, remove their links and questions in one audited transaction",
+    "batch_id": 45,
+    "warning": "deleting the import batch record alone does not restore question data"
+  }
+}

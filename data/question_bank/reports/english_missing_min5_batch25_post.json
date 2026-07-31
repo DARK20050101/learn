@@ -1,0 +1,10 @@
+{
+  "command": "missing",
+  "mapping_version": "kp-mapping-v1.1",
+  "subject": "英语",
+  "minimum": 5,
+  "missing_count": 0,
+  "empty_count": 0,
+  "insufficient_count": 0,
+  "items": []
+}

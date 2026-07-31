@@ -1,0 +1,378 @@
+{
+  "command": "lint",
+  "total": 48,
+  "passed": 48,
+  "errors": 0,
+  "warnings": 0,
+  "files": [
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "gaokao_chinese_final_gap_batch25_v1.json",
+      "total": 24,
+      "passed": 24,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "【共同材料】阅读下面文言短文：赵襄主学御于王子期，俄而与子期逐，三易马而三后。襄主曰：“子之教我御，术未尽也。”对曰：“术已尽，用之则过也。凡御之所贵，马体安于车，人心调于马，而后可以追速致远。今君后",
+          "content_hash": "9cb641fae8892bca47e5128d848b1f243fef17a5b1a8ccb628635bc9bb4d41f2",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 2,
+          "question": "【共同材料】阅读下面文言短文：赵襄主学御于王子期，俄而与子期逐，三易马而三后。襄主曰：“子之教我御，术未尽也。”对曰：“术已尽，用之则过也。凡御之所贵，马体安于车，人心调于马，而后可以追速致远。今君后",
+          "content_hash": "56adc71d6033f097b21dc24b551f3fc3b50741cd9ba708565c55d58473cfb0bd",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 3,
+          "question": "【共同材料】阅读《赵襄主学御》片段：“今君后则欲逮臣，先则恐逮于臣。夫诱道争远，非先则后也，而先后心皆在于臣，上何以调于马？”\n“先则恐逮于臣”的准确翻译是（ ）。",
+          "content_hash": "c011d254df0245cf9bf8f4c0ec2ce259c4e5c84df35d5745549dc3ad63cd99fc",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 4,
+          "question": "【共同材料】阅读《赵襄主学御》片段：“凡御之所贵，马体安于车，人心调于马，而后可以追速致远。”\n下列翻译最准确的一项是（ ）。",
+          "content_hash": "36de4f4a33d1e6061496a59dce2348508080bbcd2d7648714f6faf99be329ec6",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 5,
+          "question": "阅读句子：“赵襄主学御于王子期，俄而与子期逐，三易马而三后。”下列加点词的语境义解释不正确的一项是（ ）。",
+          "content_hash": "602e05d43a7e71c74c0b52819f585dfb5a3a50121d5ca197a376a649a54a1852",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 6,
+          "question": "阅读句子：“术已尽，用之则过也。”结合赵襄主学御的语境，下列对“过”的解释最恰当的一项是（ ）。",
+          "content_hash": "f7750af531f3d6d964870bdb711cb931e579035344763e072c15f031f45c39ee",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 7,
+          "question": "学校为“贬谪中的精神突围”朗诵单配作者卡。下列组合最恰当的一项是（ ）。",
+          "content_hash": "bcc0e1a5c97f7c880f5e905ba06a0b4f717fefdd69dc1dc937e7ca175a9b1ece",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 8,
+          "question": "下列作品说明没有把文学形象误作作者经历，且表述准确的一项是（ ）。",
+          "content_hash": "8adf4343c9eb0e2e62b4845c0433d1715b6741f5d0746e4b86bd453a74cc0bc8",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 9,
+          "question": "校刊设置“家国忧思”专栏，下列导语与作品语境最匹配的一项是（ ）。",
+          "content_hash": "52dcc7e4d974e7d66624ed3f2dd5f65930070da278c9ef2cad661ef2f5ddba97",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 10,
+          "question": "阅读片段：“风停后，院里仍响着水声。祖父把旧水车拆下的木片一块块洗净，靠墙排好。新泵已经把水送上坡顶，他却说：‘留下它，孩子才知道水从前怎样上山。’”下列鉴赏最恰当的一项是（ ）。",
+          "content_hash": "a5ba31037222a32b031b606046039683134671df8a67745516d77e668c042755",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 11,
+          "question": "阅读片段：“出发前，母亲反复叮嘱他看天气。他嫌烦，只挥了挥手。傍晚暴雪封路，手机里那句未听完的‘别走北坡’忽然变得清晰。”下列对“未听完”的赏析最准确的一项是（ ）。",
+          "content_hash": "74e6bf854e2978b3ae4bf029067924519804f97d57c29c7c0dca662a3cdc0c01",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 12,
+          "question": "【共同材料】某地修复高寒草甸：围栏区减少放牧压力，补播区恢复植被，监测区连续记录土壤含水量。三年后补播区盖度上升，但单一草种抗病性弱；团队遂改用乡土混合草种，并保留季节性适度放牧。\n下列对修复策略的概",
+          "content_hash": "24fd6e2514c04ac59cf1cb1b49428d55a849ceec2aeee6851c7d8bfcb7b330f4",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 13,
+          "question": "【共同材料】某地修复高寒草甸：围栏区减少放牧压力，补播区恢复植被，监测区连续记录土壤含水量。三年后补播区盖度上升，但单一草种抗病性弱；团队遂改用乡土混合草种，并保留季节性适度放牧。\n由材料可合理推出的",
+          "content_hash": "3913142807b9bdd5b1336a363a81a12b4b581cf7ca13beebfa6009c7a4704380",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 14,
+          "question": "阅读王维《送沈子归江东》：“杨柳渡头行客稀，罟师荡桨向临圻。惟有相思似春色，江南江北送君归。”诗歌主要表达的感情是（ ）。",
+          "content_hash": "9b0e7cbb8b3f1c23bb0ae7a62c8c3c3c88ab39bf100620fa2ac6b66d8d11f326",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 15,
+          "question": "阅读张籍《秋思》：“洛阳城里见秋风，欲作家书意万重。复恐匆匆说不尽，行人临发又开封。”下列理解最恰当的一项是（ ）。",
+          "content_hash": "d627c51924174eb3b43b51b0cdabb3ca78a9acc1df3aafd58e9a4d8db9cd3907",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 16,
+          "question": "阅读陆游《十一月四日风雨大作（其二）》：“僵卧孤村不自哀，尚思为国戍轮台。夜阑卧听风吹雨，铁马冰河入梦来。”下列理解正确的一项是（ ）。",
+          "content_hash": "b9e0544f191b85a4c8760ea101f3153e9903737b3ae0442ef2cef11da292cec4",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 17,
+          "question": "阅读韦应物《滁州西涧》：“独怜幽草涧边生，上有黄鹂深树鸣。春潮带雨晚来急，野渡无人舟自横。”下列对意境的概括最恰当的一项是（ ）。",
+          "content_hash": "c556268cc6f5b56e07b691c9719dc6cd77df3dde61335071e48b24fdcac0133f",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 18,
+          "question": "阅读柳宗元《江雪》：“千山鸟飞绝，万径人踪灭。孤舟蓑笠翁，独钓寒江雪。”下列对渔翁形象的理解最恰当的一项是（ ）。",
+          "content_hash": "13b69f54bbd7bc5615e369e5b032bdea71d46f4ea6f109839a7f12394ff7050b",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 19,
+          "question": "阅读杜甫《绝句》：“两个黄鹂鸣翠柳，一行白鹭上青天。窗含西岭千秋雪，门泊东吴万里船。”下列对画面层次的分析正确的一项是（ ）。",
+          "content_hash": "a383024fbaa67bb6ba976f3c327f4f370d025e2213820f591cc680001ead84e1",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 20,
+          "question": "阅读李白《黄鹤楼送孟浩然之广陵》：“孤帆远影碧空尽，唯见长江天际流。”末两句主要运用何种方式表现惜别？",
+          "content_hash": "337ed06115665bde14d81eb5dca19dcd6c6426152db6430bb0abc72277dfb119",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 21,
+          "question": "阅读王维《鸟鸣涧》：“人闲桂花落，夜静春山空。月出惊山鸟，时鸣春涧中。”下列对表达技巧的分析最准确的一项是（ ）。",
+          "content_hash": "92456a62df5400fb51e319e194aaf2c3a9350609157243561c215f49a2273164",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 22,
+          "question": "【共同材料】议论文提纲：观点——公共讨论既要有表达热情，也要有事实边界。①解释“表达权”不等于“免于核验”；②列举谣言经转发造成误判的案例；③分析有人担心核验会压制表达；④指出透明核验反而提高可信度；",
+          "content_hash": "b147c412f19457fedc7f85177554feb332b1cb97d354c10e9454f93288cc9e53",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 23,
+          "question": "【共同材料】议论文提纲：观点——公共讨论既要有表达热情，也要有事实边界。①解释“表达权”不等于“免于核验”；②列举谣言经转发造成误判的案例；③分析有人担心核验会压制表达；④指出透明核验反而提高可信度；",
+          "content_hash": "3f8ad379ae0677b8651c13ed438a56d006ce28034b8d16a6a581fa832a1b5b6f",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 24,
+          "question": "【共同材料】议论文提纲：观点——公共讨论既要有表达热情，也要有事实边界。①解释“表达权”不等于“免于核验”；②列举谣言经转发造成误判的案例；③回应“核验会压制表达”的质疑；④提出发布来源、修正错误等建",
+          "content_hash": "f20cd776a5890787b0c097d606b34fa810485aa5ab1fbe8d4715a288b08283a3",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "gaokao_math_final_gap_batch25_v1.json",
+      "total": 13,
+      "passed": 13,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "某培养皿中初始有200个细胞，在培养条件不变时，细胞数量每3小时变为原来的2倍。按此模型，12小时后细胞数量为（ ）",
+          "content_hash": "c83c0598f4ca984f74ecac18ea545954ed30046bc816b58b457005e2219111dd",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 2,
+          "question": "某设备购入价为10万元，按每年末价值变为上一年末的80%估算。该设备使用3年后的估值占购入价的百分比为（ ）",
+          "content_hash": "06bc443ebd529da37664ca1fc9d929837ab341795c14e4bb90578f40bef6c5cf",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 3,
+          "question": "若 $4^x\\cdot2^{x-1}=32$，则 $x=$（ ）",
+          "content_hash": "dff4733f43a9e7078fabbeb69cbfc15d2d3b25233040a25a1a21526b5aba3573",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 4,
+          "question": "某种群数量模型为 $N(t)=500\\times3^{t/2}$（$t$ 的单位为天）。按此模型，$t=4$ 时种群数量为（ ）",
+          "content_hash": "6173efd6a609763412d7810cf7ec1ced979bd8cb336e0e9918134dcacd3a4c62",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 5,
+          "question": "在某尺度换算中，量 $Q$ 与正数 $a$ 满足 $Q=\\dfrac{a^{3/2}\\cdot a^{-1/2}}{a^{-1}}$。若 $a=3$，则 $Q=$（ ）",
+          "content_hash": "a035ebcdf2b254a1d144ff0acc132ae4bbb052f69bacf0af2a50e3df50fb94ea",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 6,
+          "question": "设 $x\\in\\mathbb R$，则“$|x-1|<2$”是“$x<3$”的（ ）",
+          "content_hash": "fc5536e840502e6272a4e98b48e6da93c25bbf56f8285a28fcb7ed4a0ea72fdb",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 7,
+          "question": "设实数 $a,b$ 均不为0，则“$a^2=b^2$”是“$a+b=0$”的（ ）",
+          "content_hash": "ac3475fa7271efe4d63aabade52575260717aa62a7e1e077d7f42376badcda2b",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 8,
+          "question": "设 $x\\in\\mathbb R$，则“$x^2=1$”是“函数 $f(t)=t^2-2xt+1$ 的最小值为0”的（ ）",
+          "content_hash": "bd8cb6413633c3523d0308a07117c2ea8900d0590b80892f930767e06f1ab613",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 9,
+          "question": "某课程总评由平时成绩和期末成绩组成，其中平时成绩占40%，期末成绩占60%。一名学生的平时成绩为85分，期末成绩为90分，则其总评成绩为（ ）",
+          "content_hash": "e2a430e76559011f01f6954d62cd7d9ba6585f1f1dd284a42e0b48743a3a27a6",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 10,
+          "question": "某小组5次测量结果的平均数为12.4。复核时发现其中一个记录“15”应为“13”。修正后这5次测量结果的平均数为（ ）",
+          "content_hash": "cc386780ae23f50c70739db026feaf0d1b6cd7b046ae2ad372dcf4167e20314e",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 11,
+          "question": "甲班40名学生某次测试的平均分为78分，乙班60名学生的平均分为82分。两个班全体学生的平均分为（ ）",
+          "content_hash": "17a6b438171b569023beabf21c476887392ffd7a4e168c598523e0e254f35ba6",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 12,
+          "question": "6名选手的平均成绩为18分。去掉其中成绩最高的选手后，其余5人的平均成绩为16分，则被去掉选手的成绩为（ ）",
+          "content_hash": "7d01348af0977ded69493ff24e2cf6b154c961b1266f087a9188d9ccb9b0d1a9",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 13,
+          "question": "某校调查50名学生每天课外阅读时间，按组中值估计平均数。阅读时间在 $[0,20)$、$[20,40)$、$[40,60)$ 分钟的人数分别为10、25、15，则估计的平均阅读时间为（ ）",
+          "content_hash": "248d02356c960395d0a58d1f7a5bc829c851823bf5eed0edefacf2a0ba15abec",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "gaokao_english_final_gap_batch25_v1.json",
+      "total": 11,
+      "passed": 11,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "The first map was attractive, but several paths were marked in the wrong places. After the volunteer",
+          "content_hash": "2b0fcb2498243ffedf731f16192e5fdb1fb5e91d7b6a6b364377ead3ee07772c",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 2,
+          "question": "When reviewing online claims, the less familiar a source is, the ______ students should be before sh",
+          "content_hash": "fecb036b1d9bd56d31344332380719be6a70dd0fe385048f0509e2e76efc6c24",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 3,
+          "question": "The new water bottle is slightly ______ than the old one, yet its stronger material allows it to be ",
+          "content_hash": "aa7a288580db600ae656303dd9d16812bd5c9cfec835467d16970b47b1bed51a",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 4,
+          "question": "According to the new timetable, the last bus to the science museum ______ at 6:30 every evening.",
+          "content_hash": "fab6df13fd26522d5756fd119024ea7777cfc0eb611a43d3f1ffb5444766b8d2",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 5,
+          "question": "In the monitoring system, each of the sensors ______ a signal only when the soil becomes too dry.",
+          "content_hash": "96fc7c2e53fa27d93e4502fb26aa1a2e8e4058d0db1ce5cc6ae96c867f448e75",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 6,
+          "question": "A report proposes opening the school roof garden at lunchtime. It notes that supervision and safe ac",
+          "content_hash": "2a00c748392d9f1411c98220485ed4e3e4b976354a411416916cdea79c4b10fa",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 7,
+          "question": "The survey shows that most residents support planting more street trees. However, ______ a question ",
+          "content_hash": "638eea3478a70f8767fa0b745fb2816579333c0b1dfc17e0b3668988817a195c",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 8,
+          "question": "The village archive is now available online. Before the photographs were digitized, ______ only one ",
+          "content_hash": "2dfb9bc23431d41e8b2f444a2bd58405d0860ad44f362590e95e050968d78560",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 9,
+          "question": "______ no reliable internet connection in the mountain station, the researchers saved the data local",
+          "content_hash": "8b49fed2b46bb1b5f958866c1c540517198e54f59f444e1634518447074a9e22",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 10,
+          "question": "An editor is summarizing a study that found a link between evening screen use and shorter sleep but ",
+          "content_hash": "e1a258c89ae06ae6421ef191e94e35e14e0ef20b98c7f1a9b6f7cdc561d088fa",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 11,
+          "question": "Before the weekly air-quality figures appear on the public website, every unusual reading ______ aga",
+          "content_hash": "cf51567971032878ef9d9bc77a53cf36cdca6cbd2764ab169f75b7ebbb1cabf6",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "report": "pre_import",
+  "filename": "gaokao_math_final_gap_batch25_v1.json",
+  "file_hash": "ee665bcbd0256aaf4655e7cfe376617178b7fc1e8a6cab17645eb77355426ab7",
+  "mapping_version": "kp-mapping-v1.1",
+  "database": {
+    "questions": 715,
+    "primary_knowledge_point_links": 715,
+    "orphan_questions": 0,
+    "selected_question_count": 715,
+    "selected_questions_business_hash": "e05fdcb0e03499d9eb0815cc7356441eac66d2fa56cb507de79eb25a5d4fb0a8"
+  },
+  "total": 13,
+  "new_questions": 13,
+  "matching_duplicates": 0,
+  "conflicts": 0,
+  "errors": [],
+  "ready": true,
+  "items": [
+    {
+      "index": 1,
+      "content_hash": "c83c0598f4ca984f74ecac18ea545954ed30046bc816b58b457005e2219111dd",
+      "primary_code": "MATH-EXPONENT-OPERATION",
+      "status": "new"
+    },
+    {
+      "index": 2,
+      "content_hash": "06bc443ebd529da37664ca1fc9d929837ab341795c14e4bb90578f40bef6c5cf",
+      "primary_code": "MATH-EXPONENT-OPERATION",
+      "status": "new"
+    },
+    {
+      "index": 3,
+      "content_hash": "dff4733f43a9e7078fabbeb69cbfc15d2d3b25233040a25a1a21526b5aba3573",
+      "primary_code": "MATH-EXPONENT-OPERATION",
+      "status": "new"
+    },
+    {
+      "index": 4,
+      "content_hash": "6173efd6a609763412d7810cf7ec1ced979bd8cb336e0e9918134dcacd3a4c62",
+      "primary_code": "MATH-EXPONENT-OPERATION",
+      "status": "new"
+    },
+    {
+      "index": 5,
+      "content_hash": "a035ebcdf2b254a1d144ff0acc132ae4bbb052f69bacf0af2a50e3df50fb94ea",
+      "primary_code": "MATH-EXPONENT-OPERATION",
+      "status": "new"
+    },
+    {
+      "index": 6,
+      "content_hash": "fc5536e840502e6272a4e98b48e6da93c25bbf56f8285a28fcb7ed4a0ea72fdb",
+      "primary_code": "MATH-LOGIC-SUFFICIENT-NECESSARY",
+      "status": "new"
+    },
+    {
+      "index": 7,
+      "content_hash": "ac3475fa7271efe4d63aabade52575260717aa62a7e1e077d7f42376badcda2b",
+      "primary_code": "MATH-LOGIC-SUFFICIENT-NECESSARY",
+      "status": "new"
+    },
+    {
+      "index": 8,
+      "content_hash": "bd8cb6413633c3523d0308a07117c2ea8900d0590b80892f930767e06f1ab613",
+      "primary_code": "MATH-LOGIC-SUFFICIENT-NECESSARY",
+      "status": "new"
+    },
+    {
+      "index": 9,
+      "content_hash": "e2a430e76559011f01f6954d62cd7d9ba6585f1f1dd284a42e0b48743a3a27a6",
+      "primary_code": "MATH-STATISTICS-MEAN",
+      "status": "new"
+    },
+    {
+      "index": 10,
+      "content_hash": "cc386780ae23f50c70739db026feaf0d1b6cd7b046ae2ad372dcf4167e20314e",
+      "primary_code": "MATH-STATISTICS-MEAN",
+      "status": "new"
+    },
+    {
+      "index": 11,
+      "content_hash": "17a6b438171b569023beabf21c476887392ffd7a4e168c598523e0e254f35ba6",
+      "primary_code": "MATH-STATISTICS-MEAN",
+      "status": "new"
+    },
+    {
+      "index": 12,
+      "content_hash": "7d01348af0977ded69493ff24e2cf6b154c961b1266f087a9188d9ccb9b0d1a9",
+      "primary_code": "MATH-STATISTICS-MEAN",
+      "status": "new"
+    },
+    {
+      "index": 13,
+      "content_hash": "248d02356c960395d0a58d1f7a5bc829c851823bf5eed0edefacf2a0ba15abec",
+      "primary_code": "MATH-STATISTICS-MEAN",
+      "status": "new"
+    }
+  ]
+}

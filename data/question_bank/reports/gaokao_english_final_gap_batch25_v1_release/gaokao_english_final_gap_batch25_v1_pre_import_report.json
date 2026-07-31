@@ -1,0 +1,87 @@
+{
+  "report": "pre_import",
+  "filename": "gaokao_english_final_gap_batch25_v1.json",
+  "file_hash": "04f95ed03d5c2f428899d04a82f6f41f050fffa57c8b1b44fca3bd3827b532cb",
+  "mapping_version": "kp-mapping-v1.1",
+  "database": {
+    "questions": 728,
+    "primary_knowledge_point_links": 728,
+    "orphan_questions": 0,
+    "selected_question_count": 728,
+    "selected_questions_business_hash": "524dcbd580256b7d5b1aac03a61a1f1797fc4e2ec9e76d380c562e4c17268a05"
+  },
+  "total": 11,
+  "new_questions": 11,
+  "matching_duplicates": 0,
+  "conflicts": 0,
+  "errors": [],
+  "ready": true,
+  "items": [
+    {
+      "index": 1,
+      "content_hash": "2b0fcb2498243ffedf731f16192e5fdb1fb5e91d7b6a6b364377ead3ee07772c",
+      "primary_code": "ENG-GRAMMAR-ADJECTIVE-COMPARATIVE",
+      "status": "new"
+    },
+    {
+      "index": 2,
+      "content_hash": "fecb036b1d9bd56d31344332380719be6a70dd0fe385048f0509e2e76efc6c24",
+      "primary_code": "ENG-GRAMMAR-ADJECTIVE-COMPARATIVE",
+      "status": "new"
+    },
+    {
+      "index": 3,
+      "content_hash": "aa7a288580db600ae656303dd9d16812bd5c9cfec835467d16970b47b1bed51a",
+      "primary_code": "ENG-GRAMMAR-ADJECTIVE-COMPARATIVE",
+      "status": "new"
+    },
+    {
+      "index": 4,
+      "content_hash": "fab6df13fd26522d5756fd119024ea7777cfc0eb611a43d3f1ffb5444766b8d2",
+      "primary_code": "ENG-GRAMMAR-TENSE-PRESENT-SIMPLE",
+      "status": "new"
+    },
+    {
+      "index": 5,
+      "content_hash": "96fc7c2e53fa27d93e4502fb26aa1a2e8e4058d0db1ce5cc6ae96c867f448e75",
+      "primary_code": "ENG-GRAMMAR-TENSE-PRESENT-SIMPLE",
+      "status": "new"
+    },
+    {
+      "index": 6,
+      "content_hash": "2a00c748392d9f1411c98220485ed4e3e4b976354a411416916cdea79c4b10fa",
+      "primary_code": "ENG-GRAMMAR-THERE-BE",
+      "status": "new"
+    },
+    {
+      "index": 7,
+      "content_hash": "638eea3478a70f8767fa0b745fb2816579333c0b1dfc17e0b3668988817a195c",
+      "primary_code": "ENG-GRAMMAR-THERE-BE",
+      "status": "new"
+    },
+    {
+      "index": 8,
+      "content_hash": "2dfb9bc23431d41e8b2f444a2bd58405d0860ad44f362590e95e050968d78560",
+      "primary_code": "ENG-GRAMMAR-THERE-BE",
+      "status": "new"
+    },
+    {
+      "index": 9,
+      "content_hash": "8b49fed2b46bb1b5f958866c1c540517198e54f59f444e1634518447074a9e22",
+      "primary_code": "ENG-GRAMMAR-THERE-BE",
+      "status": "new"
+    },
+    {
+      "index": 10,
+      "content_hash": "e1a258c89ae06ae6421ef191e94e35e14e0ef20b98c7f1a9b6f7cdc561d088fa",
+      "primary_code": "ENG-GRAMMAR-THERE-BE",
+      "status": "new"
+    },
+    {
+      "index": 11,
+      "content_hash": "cf51567971032878ef9d9bc77a53cf36cdca6cbd2764ab169f75b7ebbb1cabf6",
+      "primary_code": "ENG-GRAMMAR-VOICE-PRESENT-PASSIVE",
+      "status": "new"
+    }
+  ]
+}
