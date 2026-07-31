@@ -1,0 +1,102 @@
+{
+  "schema_version": "shiguang-question-candidate-v1",
+  "batch": "gaokao-language-material-groups-batch27",
+  "questions": [
+    {
+      "subject": "语文", "chapter": "现代文阅读", "knowledge_points": ["现代文内容推断"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】阅读下面材料：博物馆数字化常被理解为“把藏品拍得更清楚”。高清图像确实能让远方观众看见器物纹饰，却不能自动呈现器物怎样被使用、为何流转到此地。某馆因此把图像与修复记录、口述史和出土地层信息关联起来，同时公开资料中仍存争议之处。访问量没有立刻翻倍，但教师开始利用这些关系设计探究课。由此看，数字化的价值不只在复制对象，还在重建对象与知识之间可检验的联系。\n下列最能概括材料中心观点的一项是（ ）。",
+      "options": ["博物馆数字化的唯一目标是提高网站访问量", "高清图像会妨碍观众理解藏品", "有价值的数字化应在呈现藏品之外组织其背景联系并标明知识边界", "所有争议资料都不应进入博物馆网站"], "answer": "C",
+      "solution": "材料先承认高清图像扩大可见性，再指出其不能自动解释使用和流转背景；随后以多类资料关联、公开争议及教学应用说明更深层价值。由两层转折可得C。A把未立即增长的访问量误作唯一目标，B、D与原文相反。",
+      "source": "原创·博物馆数字化论述材料·批次27（非高考真题）",
+      "title": "博物馆数字化·中心观点", "tags": ["kp:CHN-MODERN-INFERENCE", "origin:original", "material-group:chn27-museum-links", "material-order:1", "grade:high-school", "batch:gaokao-language-material-groups-batch27", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "现代文阅读", "knowledge_points": ["表现手法与文本鉴赏"], "difficulty": 4, "type": "single_choice",
+      "question": "【共同材料】阅读下面材料：博物馆数字化常被理解为“把藏品拍得更清楚”。高清图像确实能让远方观众看见器物纹饰，却不能自动呈现器物怎样被使用、为何流转到此地。某馆因此把图像与修复记录、口述史和出土地层信息关联起来，同时公开资料中仍存争议之处。访问量没有立刻翻倍，但教师开始利用这些关系设计探究课。由此看，数字化的价值不只在复制对象，还在重建对象与知识之间可检验的联系。\n材料怎样增强其论证的严密性？下列分析最准确的一项是（ ）。",
+      "options": ["先承认高清图像的作用，再指出其解释限度，并用实践结果修正“流量即价值”的尺度", "先否定一切图像技术，再诉诸教师权威", "只列举口述史、修复记录等名词，不作因果分析", "用访问量没有翻倍证明项目已经失败"], "answer": "A",
+      "solution": "首句后的“确实”构成让步，接着以“却”限定高清图像的解释能力；案例又显示访问量虽未激增，教学利用却增加，从而引出不同价值尺度。A完整识别这三步，其他选项均割裂了论证。",
+      "source": "原创·博物馆数字化论述材料·批次27（非高考真题）",
+      "title": "博物馆数字化·论证结构", "tags": ["kp:CHN-MODERN-APPRECIATION", "origin:original", "material-group:chn27-museum-links", "material-order:2", "grade:high-school", "batch:gaokao-language-material-groups-batch27", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "现代文阅读", "knowledge_points": ["信息筛选与整合"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】阅读下面材料：博物馆数字化常被理解为“把藏品拍得更清楚”。高清图像确实能让远方观众看见器物纹饰，却不能自动呈现器物怎样被使用、为何流转到此地。某馆因此把图像与修复记录、口述史和出土地层信息关联起来，同时公开资料中仍存争议之处。访问量没有立刻翻倍，但教师开始利用这些关系设计探究课。由此看，数字化的价值不只在复制对象，还在重建对象与知识之间可检验的联系。\n根据材料，该馆数字化项目具有哪些特点？概括最完整的一项是（ ）。",
+      "options": ["只提供藏品高清图片，并以点击量评价效果", "关联多种背景资料、标明争议，并支持基于证据的教学使用", "删除尚无定论的资料，以保证介绍完全统一", "用口述史取代器物图像和修复记录"], "answer": "B",
+      "solution": "项目措施包括关联图像、修复记录、口述史和地层信息，公开争议；效果包括教师据此设计探究课。B整合了措施、知识边界和用途。A、C、D分别遗漏或曲解关键信息。",
+      "source": "原创·博物馆数字化论述材料·批次27（非高考真题）",
+      "title": "博物馆数字化·信息整合", "tags": ["kp:CHN-MODERN-INFORMATION", "origin:original", "material-group:chn27-museum-links", "material-order:3", "grade:high-school", "batch:gaokao-language-material-groups-batch27", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "文言文阅读", "knowledge_points": ["文言实词与虚词"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】阅读下面文言短文：晋平公问于师旷曰：“吾年七十，欲学，恐已暮矣。”师旷曰：“何不炳烛乎？”平公曰：“安有为人臣而戏其君乎？”师旷曰：“盲臣安敢戏其君乎？臣闻之：少而好学，如日出之阳；壮而好学，如日中之光；老而好学，如炳烛之明。炳烛之明，孰与昧行乎？”平公曰：“善哉！”\n结合全文，“炳烛之明，孰与昧行乎”中“昧行”的意思是（ ）。",
+      "options": ["在黑暗中行走", "隐藏自己的品行", "天亮后出行", "糊涂地责备别人"], "answer": "A",
+      "solution": "师旷把少年、壮年、老年学习分别比作日出、日中、点烛之光，“炳烛之明”与“昧行”形成明暗对比。因此“昧”取昏暗义，“昧行”是在黑暗中行走，选A。",
+      "source": "改编·刘向《说苑·建本》“晋平公问学”·古籍公共领域文本·批次27（非高考真题）",
+      "title": "晋平公问学·实词语境", "tags": ["kp:CHN-CLASSICAL-WORDS", "origin:external-adapted", "material-group:chn27-night-learning", "material-order:1", "grade:high-school", "batch:gaokao-language-material-groups-batch27", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "文言文阅读", "knowledge_points": ["文言文内容理解"], "difficulty": 4, "type": "single_choice",
+      "question": "【共同材料】阅读下面文言短文：晋平公问于师旷曰：“吾年七十，欲学，恐已暮矣。”师旷曰：“何不炳烛乎？”平公曰：“安有为人臣而戏其君乎？”师旷曰：“盲臣安敢戏其君乎？臣闻之：少而好学，如日出之阳；壮而好学，如日中之光；老而好学，如炳烛之明。炳烛之明，孰与昧行乎？”平公曰：“善哉！”\n师旷为什么先说“何不炳烛乎”？下列理解最恰当的一项是（ ）。",
+      "options": ["他误以为平公要在夜间读书", "他借“暮”的时间义引出点烛，再转为比喻，说明晚年学习仍胜于不学", "他想用玩笑拒绝回答君王", "他认为只有点烛才能理解书本"], "answer": "B",
+      "solution": "平公以“暮”比喻年老，师旷先顺着字面提出“炳烛”，造成语义转换；随后明确把老年学习比作烛光，并与暗行比较。须联系前后两层才能判断B，A、C、D都停留在字面。",
+      "source": "改编·刘向《说苑·建本》“晋平公问学”·古籍公共领域文本·批次27（非高考真题）",
+      "title": "晋平公问学·语义转换", "tags": ["kp:CHN-CLASSICAL-CONTENT", "origin:external-adapted", "material-group:chn27-night-learning", "material-order:2", "grade:high-school", "batch:gaokao-language-material-groups-batch27", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "文言文阅读", "knowledge_points": ["文言文翻译"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】阅读下面文言短文：晋平公问于师旷曰：“吾年七十，欲学，恐已暮矣。”师旷曰：“何不炳烛乎？”平公曰：“安有为人臣而戏其君乎？”师旷曰：“盲臣安敢戏其君乎？臣闻之：少而好学，如日出之阳；壮而好学，如日中之光；老而好学，如炳烛之明。炳烛之明，孰与昧行乎？”平公曰：“善哉！”\n下列对“炳烛之明，孰与昧行乎”的翻译，最准确的一项是（ ）。",
+      "options": ["点燃蜡烛照明，同在黑暗中行走相比，哪一个更好呢", "明亮的蜡烛，谁愿意拿着它在夜里赶路呢", "点燃蜡烛学习，怎么会使人行为愚昧呢", "蜡烛的光芒，能和白天的阳光一样吗"], "answer": "A",
+      "solution": "“炳烛”是点燃蜡烛，“孰与”用于比较，可译为“与……相比哪一个更好”，“昧行”是在暗中行走。A同时落实词义和比较句式，并符合师旷劝学语境。",
+      "source": "改编·刘向《说苑·建本》“晋平公问学”·古籍公共领域文本·批次27（非高考真题）",
+      "title": "晋平公问学·比较句翻译", "tags": ["kp:CHN-CLASSICAL-TRANSLATION", "origin:external-adapted", "material-group:chn27-night-learning", "material-order:3", "grade:high-school", "batch:gaokao-language-material-groups-batch27", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "英语", "chapter": "阅读理解", "knowledge_points": ["主旨大意"], "difficulty": 3, "type": "single_choice",
+      "question": "Read the passage and answer the question.\nA community app invited residents to mark unsafe cycling spots on a map. The first results showed many reports near the town center, so officials planned to spend most of the budget there. A volunteer then compared the map with app-use data and found that central residents were far more likely to use the app. After paper surveys were offered in outer neighborhoods, several previously quiet roads emerged as serious concerns. The project did not make the digital map useless; it showed that a map of reports is also a map of who had an easy way to report.\nWhat is the main idea of the passage?",
+      "options": ["Digital reports should always be replaced by paper surveys.", "Popular town-center roads are necessarily the most dangerous.", "Data should be interpreted in light of who had the opportunity to produce it.", "Community volunteers should decide all transport budgets."], "answer": "C",
+      "solution": "Officials first treat report density as danger density. App-use data then reveal unequal participation, and paper surveys change the pattern. The final sentence generalizes this lesson, so C is the main idea. A rejects digital data more strongly than the passage does; B repeats the initial error; D is unsupported.",
+      "source": "Original·English reading passage on participation bias·Batch27 (not an exam item)",
+      "title": "Cycling Map·Main Idea", "tags": ["kp:ENG-READING-MAIN-IDEA", "origin:original", "material-group:eng27-reporting-map", "material-order:1", "grade:high-school", "batch:gaokao-language-material-groups-batch27", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "英语", "chapter": "阅读理解", "knowledge_points": ["细节理解"], "difficulty": 3, "type": "single_choice",
+      "question": "Read the passage and answer the question.\nA community app invited residents to mark unsafe cycling spots on a map. The first results showed many reports near the town center, so officials planned to spend most of the budget there. A volunteer then compared the map with app-use data and found that central residents were far more likely to use the app. After paper surveys were offered in outer neighborhoods, several previously quiet roads emerged as serious concerns. The project did not make the digital map useless; it showed that a map of reports is also a map of who had an easy way to report.\nWhy did some outer roads appear “quiet” on the first map?",
+      "options": ["Cycling was forbidden in outer neighborhoods.", "Residents there had less access to the original reporting method.", "Officials had already repaired all those roads.", "Paper surveys prevented residents from using the app."], "answer": "B",
+      "solution": "The passage says central residents were much more likely to use the app. When an alternative reporting channel reached outer neighborhoods, serious concerns appeared. Combining these facts shows that low reporting partly reflected unequal access, not an absence of danger. Therefore B is the only supported explanation.",
+      "source": "Original·English reading passage on participation bias·Batch27 (not an exam item)",
+      "title": "Cycling Map·Hidden Cause", "tags": ["kp:ENG-READING-DETAIL", "origin:original", "material-group:eng27-reporting-map", "material-order:2", "grade:high-school", "batch:gaokao-language-material-groups-batch27", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "英语", "chapter": "阅读理解", "knowledge_points": ["主旨大意"], "difficulty": 4, "type": "single_choice",
+      "question": "Read the passage and answer the question.\nA community app invited residents to mark unsafe cycling spots on a map. The first results showed many reports near the town center, so officials planned to spend most of the budget there. A volunteer then compared the map with app-use data and found that central residents were far more likely to use the app. After paper surveys were offered in outer neighborhoods, several previously quiet roads emerged as serious concerns. The project did not make the digital map useless; it showed that a map of reports is also a map of who had an easy way to report.\nWhat does the final sentence suggest about the digital map?",
+      "options": ["It records both safety concerns and patterns of participation.", "It accurately measures road quality without any context.", "It is valuable only after all digital reports are deleted.", "It proves that central residents exaggerate every concern."], "answer": "A",
+      "solution": "A report appears only when a concern exists and someone can use the reporting channel. Thus the map reflects the target issue and access to the app at the same time. A captures this double meaning. B ignores participation bias, while C and D are not claimed.",
+      "source": "Original·English reading passage on participation bias·Batch27 (not an exam item)",
+      "title": "Cycling Map·Sentence Meaning", "tags": ["kp:ENG-READING-MAIN-IDEA", "origin:original", "material-group:eng27-reporting-map", "material-order:3", "grade:high-school", "batch:gaokao-language-material-groups-batch27", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "英语", "chapter": "语篇语法", "knowledge_points": ["动词不定式"], "difficulty": 3, "type": "single_choice",
+      "question": "Read the mini-passage and choose the best answer for the blank.\nWhen a school garden repeatedly flooded, students first wanted ______ (1) more drains. Their science teacher asked them to investigate ______ (2) before changing the site. After mapping roof runoff and soil levels, they built a small rain garden ______ (3) the flow of storm water, using plants that could survive both wet and dry periods.\nWhich option best completes blank (1)?",
+      "options": ["to install", "installing", "installed", "having installed"], "answer": "A",
+      "solution": "The verb 'want' is followed by an infinitive when the subject intends to perform a future action: 'wanted to install'. The past context fixes 'wanted', but does not change the complement pattern. B would require a verb such as 'suggested'; C and D cannot serve as the required complement here.",
+      "source": "Original·English contextual grammar passage on a rain garden·Batch27 (not an exam item)",
+      "title": "Rain Garden Cloze·Infinitive", "tags": ["kp:ENG-NONFINITE-INFINITIVE", "origin:original", "material-group:eng27-rain-garden-cloze", "material-order:1", "grade:high-school", "batch:gaokao-language-material-groups-batch27", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "英语", "chapter": "语篇语法", "knowledge_points": ["宾语从句的语序"], "difficulty": 3, "type": "single_choice",
+      "question": "Read the mini-passage and choose the best answer for the blank.\nWhen a school garden repeatedly flooded, students first wanted ______ (1) more drains. Their science teacher asked them to investigate ______ (2) before changing the site. After mapping roof runoff and soil levels, they built a small rain garden ______ (3) the flow of storm water, using plants that could survive both wet and dry periods.\nWhich option best completes blank (2)?",
+      "options": ["where the water came from", "where did the water come from", "where was the water coming", "from where did come the water"], "answer": "A",
+      "solution": "The verb 'investigate' takes the embedded question as its object. An embedded wh-clause uses statement word order, so 'where the water came from' is correct. B and D keep direct-question inversion, while C is both incomplete and inconsistent with the passage's general investigation.",
+      "source": "Original·English contextual grammar passage on a rain garden·Batch27 (not an exam item)",
+      "title": "Rain Garden Cloze·Embedded Inquiry", "tags": ["kp:ENG-CLAUSE-OBJECT-WORD-ORDER", "origin:original", "material-group:eng27-rain-garden-cloze", "material-order:2", "grade:high-school", "batch:gaokao-language-material-groups-batch27", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "英语", "chapter": "语篇语法", "knowledge_points": ["动词不定式"], "difficulty": 2, "type": "single_choice",
+      "question": "Read the mini-passage and choose the best answer for the blank.\nWhen a school garden repeatedly flooded, students first wanted ______ (1) more drains. Their science teacher asked them to investigate ______ (2) before changing the site. After mapping roof runoff and soil levels, they built a small rain garden ______ (3) the flow of storm water, using plants that could survive both wet and dry periods.\nWhich option best completes blank (3)?",
+      "options": ["to slow", "slowing", "slowed", "having slowed"], "answer": "A",
+      "solution": "The rain garden was built for a purpose: to slow the flow of storm water. The infinitive therefore links the design decision to the earlier investigation. B would suggest a loosely accompanying action, C is a finite or past-participle form without support, and D incorrectly places the slowing before construction.",
+      "source": "Original·English contextual grammar passage on a rain garden·Batch27 (not an exam item)",
+      "title": "Rain Garden Cloze·Infinitive of Purpose", "tags": ["kp:ENG-NONFINITE-INFINITIVE", "origin:original", "material-group:eng27-rain-garden-cloze", "material-order:3", "grade:high-school", "batch:gaokao-language-material-groups-batch27", "review:independent-answer-passed"]
+    }
+  ]
+}

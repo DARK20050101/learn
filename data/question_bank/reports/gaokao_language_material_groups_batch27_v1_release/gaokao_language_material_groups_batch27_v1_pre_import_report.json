@@ -1,0 +1,93 @@
+{
+  "report": "pre_import",
+  "filename": "gaokao_language_material_groups_batch27_v1.json",
+  "file_hash": "36a5d9eeb7f87c8eaf586f43f3d636f3661b145203ab8fddb75f77b83b399d94",
+  "mapping_version": "kp-mapping-v1.1",
+  "database": {
+    "questions": 787,
+    "primary_knowledge_point_links": 787,
+    "orphan_questions": 0,
+    "selected_question_count": 787,
+    "selected_questions_business_hash": "989e727ab2a3616c67a6f5a4e3b55a139f02883882a167b16e2d7ebc4ea91f3c"
+  },
+  "total": 12,
+  "new_questions": 12,
+  "matching_duplicates": 0,
+  "conflicts": 0,
+  "errors": [],
+  "ready": true,
+  "items": [
+    {
+      "index": 1,
+      "content_hash": "5f37bf0a98e96f9669d4855519af4880d357d3f19fa9f0e2017593ebc21003af",
+      "primary_code": "CHN-MODERN-INFERENCE",
+      "status": "new"
+    },
+    {
+      "index": 2,
+      "content_hash": "d9a01564d4cfc3a6560fec4e9d7927ac7955ebaec8dace655b47ec6c74574f57",
+      "primary_code": "CHN-MODERN-APPRECIATION",
+      "status": "new"
+    },
+    {
+      "index": 3,
+      "content_hash": "6f933d75d695e70939f935dca7b1f4de38f6870b93349ce01fcc448f22c5d383",
+      "primary_code": "CHN-MODERN-INFORMATION",
+      "status": "new"
+    },
+    {
+      "index": 4,
+      "content_hash": "c1880c4e5d1143638b8c2403816793efa2f037c6550104c2adfcdb380de801af",
+      "primary_code": "CHN-CLASSICAL-WORDS",
+      "status": "new"
+    },
+    {
+      "index": 5,
+      "content_hash": "5f541c125a3bcea11869687c67835760003a01862a301c96b8dcd5d87f839d18",
+      "primary_code": "CHN-CLASSICAL-CONTENT",
+      "status": "new"
+    },
+    {
+      "index": 6,
+      "content_hash": "853fb022e568ccca89fc146cd5e088811b3ec894589af43485928c277090de98",
+      "primary_code": "CHN-CLASSICAL-TRANSLATION",
+      "status": "new"
+    },
+    {
+      "index": 7,
+      "content_hash": "0b31a53c2812539a5ce9521711e1cea8238f7d52ce225809b644d7652491c816",
+      "primary_code": "ENG-READING-MAIN-IDEA",
+      "status": "new"
+    },
+    {
+      "index": 8,
+      "content_hash": "1f26ea3bfc2c626f5345c8e4342a4594643d64dc0d08d45ed48d85b2268773de",
+      "primary_code": "ENG-READING-DETAIL",
+      "status": "new"
+    },
+    {
+      "index": 9,
+      "content_hash": "3dadd05cd20e75eb2e31c4044f429ce5fe82f67eff74a2e1c26e30596cd7d7f1",
+      "primary_code": "ENG-READING-MAIN-IDEA",
+      "status": "new"
+    },
+    {
+      "index": 10,
+      "content_hash": "bf2aaa5cbd56a036bff1b0389b3f5cf53c9c488278581c90798a022ea98af92a",
+      "primary_code": "ENG-NONFINITE-INFINITIVE",
+      "status": "new"
+    },
+    {
+      "index": 11,
+      "content_hash": "415f1a1d5f193a55c16826e5620742f8e489eb6959fe73ab23dad6f74daaebb8",
+      "primary_code": "ENG-CLAUSE-OBJECT-WORD-ORDER",
+      "status": "new"
+    },
+    {
+      "index": 12,
+      "content_hash": "ee50df9a0aaf8948de09ded0a0aa51e2511aeec42886323612c9f75f04262314",
+      "primary_code": "ENG-NONFINITE-INFINITIVE",
+      "status": "new"
+    }
+  ]
+}

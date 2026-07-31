@@ -1,0 +1,294 @@
+{
+  "command": "lint",
+  "total": 36,
+  "passed": 36,
+  "errors": 0,
+  "warnings": 0,
+  "files": [
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "gaokao_language_material_groups_batch27_v1.json",
+      "total": 12,
+      "passed": 12,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "【共同材料】阅读下面材料：博物馆数字化常被理解为“把藏品拍得更清楚”。高清图像确实能让远方观众看见器物纹饰，却不能自动呈现器物怎样被使用、为何流转到此地。某馆因此把图像与修复记录、口述史和出土地层信息",
+          "content_hash": "5f37bf0a98e96f9669d4855519af4880d357d3f19fa9f0e2017593ebc21003af",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 2,
+          "question": "【共同材料】阅读下面材料：博物馆数字化常被理解为“把藏品拍得更清楚”。高清图像确实能让远方观众看见器物纹饰，却不能自动呈现器物怎样被使用、为何流转到此地。某馆因此把图像与修复记录、口述史和出土地层信息",
+          "content_hash": "d9a01564d4cfc3a6560fec4e9d7927ac7955ebaec8dace655b47ec6c74574f57",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 3,
+          "question": "【共同材料】阅读下面材料：博物馆数字化常被理解为“把藏品拍得更清楚”。高清图像确实能让远方观众看见器物纹饰，却不能自动呈现器物怎样被使用、为何流转到此地。某馆因此把图像与修复记录、口述史和出土地层信息",
+          "content_hash": "6f933d75d695e70939f935dca7b1f4de38f6870b93349ce01fcc448f22c5d383",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 4,
+          "question": "【共同材料】阅读下面文言短文：晋平公问于师旷曰：“吾年七十，欲学，恐已暮矣。”师旷曰：“何不炳烛乎？”平公曰：“安有为人臣而戏其君乎？”师旷曰：“盲臣安敢戏其君乎？臣闻之：少而好学，如日出之阳；壮而好",
+          "content_hash": "c1880c4e5d1143638b8c2403816793efa2f037c6550104c2adfcdb380de801af",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 5,
+          "question": "【共同材料】阅读下面文言短文：晋平公问于师旷曰：“吾年七十，欲学，恐已暮矣。”师旷曰：“何不炳烛乎？”平公曰：“安有为人臣而戏其君乎？”师旷曰：“盲臣安敢戏其君乎？臣闻之：少而好学，如日出之阳；壮而好",
+          "content_hash": "5f541c125a3bcea11869687c67835760003a01862a301c96b8dcd5d87f839d18",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 6,
+          "question": "【共同材料】阅读下面文言短文：晋平公问于师旷曰：“吾年七十，欲学，恐已暮矣。”师旷曰：“何不炳烛乎？”平公曰：“安有为人臣而戏其君乎？”师旷曰：“盲臣安敢戏其君乎？臣闻之：少而好学，如日出之阳；壮而好",
+          "content_hash": "853fb022e568ccca89fc146cd5e088811b3ec894589af43485928c277090de98",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 7,
+          "question": "Read the passage and answer the question.\nA community app invited residents to mark unsafe cycling s",
+          "content_hash": "0b31a53c2812539a5ce9521711e1cea8238f7d52ce225809b644d7652491c816",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 8,
+          "question": "Read the passage and answer the question.\nA community app invited residents to mark unsafe cycling s",
+          "content_hash": "1f26ea3bfc2c626f5345c8e4342a4594643d64dc0d08d45ed48d85b2268773de",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 9,
+          "question": "Read the passage and answer the question.\nA community app invited residents to mark unsafe cycling s",
+          "content_hash": "3dadd05cd20e75eb2e31c4044f429ce5fe82f67eff74a2e1c26e30596cd7d7f1",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 10,
+          "question": "Read the mini-passage and choose the best answer for the blank.\nWhen a school garden repeatedly floo",
+          "content_hash": "bf2aaa5cbd56a036bff1b0389b3f5cf53c9c488278581c90798a022ea98af92a",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 11,
+          "question": "Read the mini-passage and choose the best answer for the blank.\nWhen a school garden repeatedly floo",
+          "content_hash": "415f1a1d5f193a55c16826e5620742f8e489eb6959fe73ab23dad6f74daaebb8",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 12,
+          "question": "Read the mini-passage and choose the best answer for the blank.\nWhen a school garden repeatedly floo",
+          "content_hash": "ee50df9a0aaf8948de09ded0a0aa51e2511aeec42886323612c9f75f04262314",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "gaokao_math_physics_material_groups_batch27_v1.json",
+      "total": 12,
+      "passed": 12,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "【共同材料】设函数 $f(x)=x^3-3x$。\n\n曲线 $y=f(x)$ 在横坐标为2的点处的切线与 $y$ 轴交点的纵坐标为（ ）",
+          "content_hash": "faf6286eba80ad07c15d6eac00e1cc47860a1a21e50169a3de66ce567a19bbb9",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 2,
+          "question": "【共同材料】设函数 $f(x)=x^3-3x$。\n\n函数 $f(x)$ 的单调递增区间为（ ）",
+          "content_hash": "3ededd4f5fb99b5de5e7992775deb9d763cf8c173d7721d9bfc592bfb37d7f10",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 3,
+          "question": "【共同材料】设函数 $f(x)=x^3-3x$。若直线 $y=kx$ 与曲线 $y=f(x)$ 有三个不同的交点，则实数 $k$ 的取值范围是（ ）",
+          "content_hash": "4320ebe7d5c9d4034a6199cabb777c2916362b08bad132a39e4d876507ddb017",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 4,
+          "question": "【共同材料】等差数列 $\\{a_n\\}$ 满足 $a_1=1$、公差为2，并在抛物线 $y=x^2$ 上取点 $P_n(a_n,a_n^2)$。\n\n点 $P_1$ 到点 $P_2$ 的距离为（ ）",
+          "content_hash": "a240d6afbf86933a98c9c3f8df4572fe589520735e2bb4fef24da6f29379b99f",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 5,
+          "question": "【共同材料】等差数列 $\\{a_n\\}$ 满足 $a_1=1$、公差为2，并在抛物线 $y=x^2$ 上取点 $P_n(a_n,a_n^2)$。\n\n直线 $P_2P_4$ 的斜率为（ ）",
+          "content_hash": "711e1a8aa7a473c139183bb1e2764782c9044c7cb884ce7f9e97784d3bf98cae",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 6,
+          "question": "【共同材料】等差数列 $\\{a_n\\}$ 满足 $a_1=1$、公差为2，并在抛物线 $y=x^2$ 上取点 $P_n(a_n,a_n^2)$。若直线 $P_1P_k$ 的斜率为10，且 $k>1$，",
+          "content_hash": "5ec656972912a23f37a6aea4a6e8941ede1f003ab540ccdec77e1932df8dad65",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 7,
+          "question": "【共同材料】质量为 $2.0\\ \\mathrm{kg}$ 的物块从静止开始沿倾角为 $37^\\circ$ 的粗糙斜面向上运动。前2.0 s内有沿斜面向上的恒力 $F=28\\ \\mathrm{N}$ 作",
+          "content_hash": "7a0aa43a4169ea343523c0cb57f9dd5366095ac10fbdf7037748b45cdddbc953",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 8,
+          "question": "【共同材料】质量为 $2.0\\ \\mathrm{kg}$ 的物块从静止开始沿倾角为 $37^\\circ$ 的粗糙斜面向上运动。前2.0 s内有沿斜面向上的恒力 $F=28\\ \\mathrm{N}$ 作",
+          "content_hash": "2d08eb5a6feb18371571e78c3bcd303c71284f21197b1a340e16b4dadce775c8",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 9,
+          "question": "【共同材料】质量为 $2.0\\ \\mathrm{kg}$ 的物块从静止开始沿倾角为 $37^\\circ$ 的粗糙斜面向上运动。前2.0 s内有沿斜面向上的恒力 $F=28\\ \\mathrm{N}$ 作",
+          "content_hash": "a5d2e9ad86308f88332c199889fbd366bf76f768fb6a420fda46e07ec427bc3b",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 10,
+          "question": "【共同材料】间距 $L=0.50\\ \\mathrm{m}$ 的水平平行金属导轨处于竖直向下、磁感应强度 $B=1.0\\ \\mathrm{T}$ 的匀强磁场中。导轨左端接电阻，导体棒垂直导轨向右运动，回",
+          "content_hash": "9356bbe39657188b2c9724d85e80bb53b08ec7bca9fd0ace0f797e90c06a84ea",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 11,
+          "question": "【共同材料】间距 $L=0.50\\ \\mathrm{m}$ 的水平平行金属导轨处于竖直向下、磁感应强度 $B=1.0\\ \\mathrm{T}$ 的匀强磁场中。质量 $m=0.20\\ \\mathrm{k",
+          "content_hash": "7bb545840f475b67f73a0ac7540fc751d8f23b99af118bec43574ce85a82a945",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 12,
+          "question": "【共同材料】间距 $L=0.50\\ \\mathrm{m}$ 的水平平行金属导轨处于竖直向下、磁感应强度 $B=1.0\\ \\mathrm{T}$ 的匀强磁场中。导体棒垂直导轨，在水平恒力 $F=0.50",
+          "content_hash": "057ff4f99c25c53d6676deae25a8d3d8f84ce45827bef5278f2ea6b81e4c7ab8",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "gaokao_science_material_groups_batch27_v1.json",
+      "total": 12,
+      "passed": 12,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "【共同材料】某含锌废渣主要含ZnO、Fe₂O₃和少量不溶性杂质。工艺流程为：用稀硫酸浸取，过滤；向滤液中加入ZnO粉末调节pH，过滤除去含铁沉淀；再向滤液中加入Na₂CO₃溶液得到ZnCO₃沉淀，煅烧",
+          "content_hash": "476c385f86e66f8d08526c18a044ebe1dc11950822ec658595e1e177022b7aa5",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 2,
+          "question": "【共同材料】某含锌废渣主要含ZnO、Fe₂O₃和少量不溶性杂质。工艺流程为：用稀硫酸浸取，过滤；向滤液中加入ZnO粉末调节pH，过滤除去含铁沉淀；再向滤液中加入Na₂CO₃溶液得到ZnCO₃沉淀，煅烧",
+          "content_hash": "0b34848449025e81b3791562e44bb479cbbba1197fbefb9fc56c27b47224dd3c",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 3,
+          "question": "【共同材料】某含锌废渣主要含ZnO、Fe₂O₃和少量不溶性杂质。工艺流程为：用稀硫酸浸取，过滤；向滤液中加入ZnO粉末调节pH，过滤除去含铁沉淀；再向滤液中加入Na₂CO₃溶液得到ZnCO₃沉淀，煅烧",
+          "content_hash": "6286f1e6a8e6915f10c1bf488ba09dd50feef8254865f2e8e02c61c37455f494",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 4,
+          "question": "【共同材料】用酸性KMnO₄溶液测定某过氧化氢消毒液中H₂O₂含量。准确移取5.00 mL消毒液，稀释至100.0 mL；移取20.00 mL稀释液，用0.02000 mol·L⁻¹ KMnO₄溶液滴",
+          "content_hash": "513bf4b4b55823c15e1ad12bb81833ce9e6e1970a38d99084083c5ea83aca7c7",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 5,
+          "question": "【共同材料】用酸性KMnO₄溶液测定某过氧化氢消毒液中H₂O₂含量。准确移取5.00 mL消毒液，稀释至100.0 mL；移取20.00 mL稀释液，用0.02000 mol·L⁻¹ KMnO₄溶液滴",
+          "content_hash": "ae58f41c54c551ec572997e7b720e0ac4da9193015804cd4ec6c0656e0601528",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 6,
+          "question": "【共同材料】用酸性KMnO₄溶液测定某过氧化氢消毒液中H₂O₂含量。准确移取5.00 mL消毒液，稀释至100.0 mL；移取20.00 mL稀释液，用0.02000 mol·L⁻¹ KMnO₄溶液滴",
+          "content_hash": "f71e990d160e378ffa9a4806cea42e8081f67b8b46c3f2669db8d0c4de8131fd",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 7,
+          "question": "【共同材料】某自花传粉植物的花色由独立遗传的两对等位基因A/a、B/b控制，只有同时含A和B显性基因的植株开紫花，其余基因型均开白花。将两株紫花植株杂交，F₁中紫花∶白花=9∶7。不考虑突变和致死。\n",
+          "content_hash": "7ca423ac3ae331f46aca10ed05ff05ac5e06b278157eb167936b4c303157bbf2",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 8,
+          "question": "【共同材料】某自花传粉植物的花色由独立遗传的两对等位基因A/a、B/b控制，只有同时含A和B显性基因的植株开紫花，其余基因型均开白花。将两株紫花植株杂交，F₁中紫花∶白花=9∶7。不考虑突变和致死。\n",
+          "content_hash": "ee65dcf0a054bf6f3992405aa56dd112bd2faafe66d8df76c3ee71d3b1c44cba",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 9,
+          "question": "【共同材料】某自花传粉植物的花色由独立遗传的两对等位基因A/a、B/b控制，只有同时含A和B显性基因的植株开紫花，其余基因型均开白花。将两株紫花植株杂交，F₁中紫花∶白花=9∶7。不考虑突变和致死。\n",
+          "content_hash": "b8b6cd5f4f13027553837ae1cf290faf2284b116805de746d1f1487c6b428126",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 10,
+          "question": "【共同材料】研究人员取等量湖水建立三个微型生态系统，初始藻类生物量均为10 mg·L⁻¹。培养10 d后数据如下：对照组藻类生物量12 mg·L⁻¹、清晨溶氧7 mg·L⁻¹、傍晚溶氧10 mg·L⁻",
+          "content_hash": "fc6386906d28f67c96b70fcf620c16b6f5e660d2339e5c0b8a20915238f0889a",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 11,
+          "question": "【共同材料】研究人员取等量湖水建立三个微型生态系统，初始藻类生物量均为10 mg·L⁻¹。培养10 d后数据如下：对照组藻类生物量12 mg·L⁻¹、清晨溶氧7 mg·L⁻¹、傍晚溶氧10 mg·L⁻",
+          "content_hash": "adb2c2d56b2e26a07cd3356623e9834935777f149019c4e8c03720375cf0ec9e",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 12,
+          "question": "【共同材料】研究人员取等量湖水建立三个微型生态系统，初始藻类生物量均为10 mg·L⁻¹。培养10 d后数据如下：对照组藻类生物量12 mg·L⁻¹、清晨溶氧7 mg·L⁻¹、傍晚溶氧10 mg·L⁻",
+          "content_hash": "e3032776790262e0e6a53cee631b24356a8d36620b32fdca79f3162c85523354",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    }
+  ]
+}

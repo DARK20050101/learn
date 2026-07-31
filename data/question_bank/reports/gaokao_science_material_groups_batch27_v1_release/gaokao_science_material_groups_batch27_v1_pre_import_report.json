@@ -1,0 +1,93 @@
+{
+  "report": "pre_import",
+  "filename": "gaokao_science_material_groups_batch27_v1.json",
+  "file_hash": "6b3a0b7958c3c064d99e71790b72f459564d3f6fcbc74244d747b344e891e3e6",
+  "mapping_version": "kp-mapping-v1.1",
+  "database": {
+    "questions": 811,
+    "primary_knowledge_point_links": 811,
+    "orphan_questions": 0,
+    "selected_question_count": 811,
+    "selected_questions_business_hash": "732c4dd2a7a7b1f443c81356abdde7d5aa66970e02d12404d3669f8a7651b06a"
+  },
+  "total": 12,
+  "new_questions": 12,
+  "matching_duplicates": 0,
+  "conflicts": 0,
+  "errors": [],
+  "ready": true,
+  "items": [
+    {
+      "index": 1,
+      "content_hash": "476c385f86e66f8d08526c18a044ebe1dc11950822ec658595e1e177022b7aa5",
+      "primary_code": "CHEM-EXPERIMENT-DESIGN",
+      "status": "new"
+    },
+    {
+      "index": 2,
+      "content_hash": "0b34848449025e81b3791562e44bb479cbbba1197fbefb9fc56c27b47224dd3c",
+      "primary_code": "CHEM-EXPERIMENT-DESIGN",
+      "status": "new"
+    },
+    {
+      "index": 3,
+      "content_hash": "6286f1e6a8e6915f10c1bf488ba09dd50feef8254865f2e8e02c61c37455f494",
+      "primary_code": "CHEM-CONCEPT-AMOUNT",
+      "status": "new"
+    },
+    {
+      "index": 4,
+      "content_hash": "513bf4b4b55823c15e1ad12bb81833ce9e6e1970a38d99084083c5ea83aca7c7",
+      "primary_code": "CHEM-EXPERIMENT-ANALYSIS",
+      "status": "new"
+    },
+    {
+      "index": 5,
+      "content_hash": "ae58f41c54c551ec572997e7b720e0ac4da9193015804cd4ec6c0656e0601528",
+      "primary_code": "CHEM-EXPERIMENT-OPERATION",
+      "status": "new"
+    },
+    {
+      "index": 6,
+      "content_hash": "f71e990d160e378ffa9a4806cea42e8081f67b8b46c3f2669db8d0c4de8131fd",
+      "primary_code": "CHEM-EXPERIMENT-ANALYSIS",
+      "status": "new"
+    },
+    {
+      "index": 7,
+      "content_hash": "7ca423ac3ae331f46aca10ed05ff05ac5e06b278157eb167936b4c303157bbf2",
+      "primary_code": "BIO-GENETICS-LAWS",
+      "status": "new"
+    },
+    {
+      "index": 8,
+      "content_hash": "ee65dcf0a054bf6f3992405aa56dd112bd2faafe66d8df76c3ee71d3b1c44cba",
+      "primary_code": "BIO-GENETICS-LAWS",
+      "status": "new"
+    },
+    {
+      "index": 9,
+      "content_hash": "b8b6cd5f4f13027553837ae1cf290faf2284b116805de746d1f1487c6b428126",
+      "primary_code": "BIO-GENETICS-LAWS",
+      "status": "new"
+    },
+    {
+      "index": 10,
+      "content_hash": "fc6386906d28f67c96b70fcf620c16b6f5e660d2339e5c0b8a20915238f0889a",
+      "primary_code": "BIO-ECOLOGY-ECOSYSTEM",
+      "status": "new"
+    },
+    {
+      "index": 11,
+      "content_hash": "adb2c2d56b2e26a07cd3356623e9834935777f149019c4e8c03720375cf0ec9e",
+      "primary_code": "BIO-ECOLOGY-ECOSYSTEM",
+      "status": "new"
+    },
+    {
+      "index": 12,
+      "content_hash": "e3032776790262e0e6a53cee631b24356a8d36620b32fdca79f3162c85523354",
+      "primary_code": "BIO-ECOLOGY-ENVIRONMENT",
+      "status": "new"
+    }
+  ]
+}
