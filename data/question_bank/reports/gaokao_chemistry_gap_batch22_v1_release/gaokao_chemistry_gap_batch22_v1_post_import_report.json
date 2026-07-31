@@ -1,0 +1,67 @@
+{
+  "report": "post_import",
+  "filename": "gaokao_chemistry_gap_batch22_v1.json",
+  "mapping_version": "kp-mapping-v1.1",
+  "import_result": {
+    "batch_id": 38,
+    "filename": "gaokao_chemistry_gap_batch22_v1.json",
+    "status": "completed",
+    "total_count": 15,
+    "imported_count": 15,
+    "duplicate_count": 0,
+    "failed_count": 0,
+    "imported_question_ids": [
+      591,
+      592,
+      593,
+      594,
+      595,
+      596,
+      597,
+      598,
+      599,
+      600,
+      601,
+      602,
+      603,
+      604,
+      605
+    ],
+    "duplicate_question_ids": [],
+    "mapping_version": "kp-mapping-v1.1"
+  },
+  "database": {
+    "questions": 605,
+    "primary_knowledge_point_links": 605,
+    "orphan_questions": 0,
+    "selected_question_count": 605,
+    "selected_questions_business_hash": "24cf41d3bc28cc25a1214b8e8a1467c28054817d404afaf11418bd38ef2d6e71"
+  },
+  "original_questions": {
+    "questions": 605,
+    "primary_knowledge_point_links": 605,
+    "orphan_questions": 0,
+    "selected_question_count": 590,
+    "selected_questions_business_hash": "685cfee1e315850c228ff9c4e5f4e419b350cf9854c3743ee43f045d41d7f938"
+  },
+  "new_questions": {
+    "questions": 605,
+    "primary_knowledge_point_links": 605,
+    "orphan_questions": 0,
+    "selected_question_count": 15,
+    "selected_questions_business_hash": "41b77a058a708f22f1d85133031e35079417dc100b3f2fdff5a9313bc9f58be1"
+  },
+  "checks": {
+    "question_count_expected": true,
+    "primary_count_matches_questions": true,
+    "no_orphan_questions": true,
+    "new_questions_have_primary": true,
+    "original_questions_unchanged": true
+  },
+  "passed": true,
+  "recovery": {
+    "strategy": "restore_pre_import_pg_dump; or, only when imported questions have no dependent records, remove their links and questions in one audited transaction",
+    "batch_id": 38,
+    "warning": "deleting the import batch record alone does not restore question data"
+  }
+}

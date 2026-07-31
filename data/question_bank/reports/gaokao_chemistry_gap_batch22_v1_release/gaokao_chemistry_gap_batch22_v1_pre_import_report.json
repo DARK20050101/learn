@@ -1,0 +1,111 @@
+{
+  "report": "pre_import",
+  "filename": "gaokao_chemistry_gap_batch22_v1.json",
+  "file_hash": "adfaeb972eeb78b694a0709fc853ff1527abefe0c826b9ee1d14351248167303",
+  "mapping_version": "kp-mapping-v1.1",
+  "database": {
+    "questions": 590,
+    "primary_knowledge_point_links": 590,
+    "orphan_questions": 0,
+    "selected_question_count": 590,
+    "selected_questions_business_hash": "685cfee1e315850c228ff9c4e5f4e419b350cf9854c3743ee43f045d41d7f938"
+  },
+  "total": 15,
+  "new_questions": 15,
+  "matching_duplicates": 0,
+  "conflicts": 0,
+  "errors": [],
+  "ready": true,
+  "items": [
+    {
+      "index": 1,
+      "content_hash": "7ff22924e71d1375e40100879687c4da0a3967d9a9d9a8d144248f47fb0c80e4",
+      "primary_code": "CHEM-STRUCTURE-BOND",
+      "status": "new"
+    },
+    {
+      "index": 2,
+      "content_hash": "d27a8df57b325541a307f0e085ddf1062215a70eb1cd32e707de1220b14d7f69",
+      "primary_code": "CHEM-STRUCTURE-BOND",
+      "status": "new"
+    },
+    {
+      "index": 3,
+      "content_hash": "a5af3e1500b352a7765b4ccb0cef3fb9ac0410388059ab44c317a148f4534dcc",
+      "primary_code": "CHEM-STRUCTURE-BOND",
+      "status": "new"
+    },
+    {
+      "index": 4,
+      "content_hash": "4fe5cfff6f6f1d79537c3dd5243e62f5c914837b24113d7f811a49564b91527f",
+      "primary_code": "CHEM-STRUCTURE-CRYSTAL",
+      "status": "new"
+    },
+    {
+      "index": 5,
+      "content_hash": "6bb3fb6acd29c6ca61fa843fd170e92af6304010fc829174125d046a34c2a689",
+      "primary_code": "CHEM-STRUCTURE-CRYSTAL",
+      "status": "new"
+    },
+    {
+      "index": 6,
+      "content_hash": "3f433d43daa265e3a3ae1eefe4ecbabd27452937c98373d207eee5d58695f48f",
+      "primary_code": "CHEM-STRUCTURE-CRYSTAL",
+      "status": "new"
+    },
+    {
+      "index": 7,
+      "content_hash": "20b3fb6bc6aa2b809ebf6348f44700b48af360f26c06fcb867949a553b838aee",
+      "primary_code": "CHEM-ORGANIC-SYNTHESIS",
+      "status": "new"
+    },
+    {
+      "index": 8,
+      "content_hash": "7d9482af1e3f0b06185fe7dc25657dbe303593aac048cd6ef0cdc9e971fb8f08",
+      "primary_code": "CHEM-ORGANIC-SYNTHESIS",
+      "status": "new"
+    },
+    {
+      "index": 9,
+      "content_hash": "62bef9e3b30a5efdd5966d4a1cbf9014039e6698e16198dc66778b82aa19d0d4",
+      "primary_code": "CHEM-ORGANIC-REACTION",
+      "status": "new"
+    },
+    {
+      "index": 10,
+      "content_hash": "d501e89f2fd1e3521b4e185f7a2a1048c1653cf821f72abae75ae36e4fb85185",
+      "primary_code": "CHEM-ORGANIC-SYNTHESIS",
+      "status": "new"
+    },
+    {
+      "index": 11,
+      "content_hash": "9d0aab8bb71329138ac2b84851fef397e24c7a10430fb87ef826dfd893c4fa46",
+      "primary_code": "CHEM-INORGANIC-METAL",
+      "status": "new"
+    },
+    {
+      "index": 12,
+      "content_hash": "701f76132fe12b616033fec112d18873590eec9f1b9b06a8fa5a339a12e462a9",
+      "primary_code": "CHEM-INORGANIC-METAL",
+      "status": "new"
+    },
+    {
+      "index": 13,
+      "content_hash": "7646f385c5826b034ae55ec44579888d5260f90d1e07b570e8fc304c0a116c6a",
+      "primary_code": "CHEM-INORGANIC-METAL",
+      "status": "new"
+    },
+    {
+      "index": 14,
+      "content_hash": "307bd35ffa65535bf29dc31edfba9a40de121a267b1dac0d3a67839c798141e0",
+      "primary_code": "CHEM-EXPERIMENT-DESIGN",
+      "status": "new"
+    },
+    {
+      "index": 15,
+      "content_hash": "db099f59546186f4579fd7d175278e769d571976665a19eeaecdf0974d4b44c4",
+      "primary_code": "CHEM-INORGANIC-TRANSFORMATION",
+      "status": "new"
+    }
+  ]
+}

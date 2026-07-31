@@ -1,0 +1,111 @@
+{
+  "report": "pre_import",
+  "filename": "gaokao_math_gap_batch22_v1.json",
+  "file_hash": "9dcb5a366626ad9bd1ea0d2162f1fe1698b6eea79aaecc6bf5d4949c3e5cef40",
+  "mapping_version": "kp-mapping-v1.1",
+  "database": {
+    "questions": 575,
+    "primary_knowledge_point_links": 575,
+    "orphan_questions": 0,
+    "selected_question_count": 575,
+    "selected_questions_business_hash": "4c9754fc1dc7d39aab292a5e43d32cded2d58c2efe09b7b374a33f44431e9c2d"
+  },
+  "total": 15,
+  "new_questions": 15,
+  "matching_duplicates": 0,
+  "conflicts": 0,
+  "errors": [],
+  "ready": true,
+  "items": [
+    {
+      "index": 1,
+      "content_hash": "b09dc8df6816fb84eed95c5117e6984f6090e257b28b9deaa2199dd92fe38832",
+      "primary_code": "MATH-SOLID-LINE-PLANE-PERPENDICULAR",
+      "status": "new"
+    },
+    {
+      "index": 2,
+      "content_hash": "c650633f73fd52d916224b06ab839c2575e67a5eec08ce0d8f7612abb710da9e",
+      "primary_code": "MATH-SOLID-LINE-PLANE-PERPENDICULAR",
+      "status": "new"
+    },
+    {
+      "index": 3,
+      "content_hash": "329866e026a09aeda122383a5983665dada0b489f2efc3e2f31f819b724912c3",
+      "primary_code": "MATH-SOLID-LINE-PLANE-PERPENDICULAR",
+      "status": "new"
+    },
+    {
+      "index": 4,
+      "content_hash": "b1a72a8de2db326efab64a9c35758a31a669cee7e2b90ab6aced032f8d25615b",
+      "primary_code": "MATH-SOLID-LINE-PLANE-PERPENDICULAR",
+      "status": "new"
+    },
+    {
+      "index": 5,
+      "content_hash": "e79ad685e3636a6c83fa5d3fc4f37c7c35f95cc2cea1dadfd90180fd92bcc0c5",
+      "primary_code": "MATH-SOLID-LINE-PLANE-PERPENDICULAR",
+      "status": "new"
+    },
+    {
+      "index": 6,
+      "content_hash": "cd9baaef6b5a479f71f8da16e40c7347269868396ee8e4cf1ffe44f7fbed1456",
+      "primary_code": "MATH-SOLID-LINE-PLANE-PERPENDICULAR",
+      "status": "new"
+    },
+    {
+      "index": 7,
+      "content_hash": "8f3059cba6d236c155efc7bc45155764150372380193b4c68516e9811f406be7",
+      "primary_code": "MATH-PROBABILITY-CLASSICAL",
+      "status": "new"
+    },
+    {
+      "index": 8,
+      "content_hash": "3fa075345e2e28c656baa13aeb9e226272775d27a32fd8d521725b7bc23e6e58",
+      "primary_code": "MATH-PROBABILITY-CLASSICAL",
+      "status": "new"
+    },
+    {
+      "index": 9,
+      "content_hash": "562c70da4eff6d29ad92ed9f0579e08fd70e07fd881ba6737e4b273018460fbd",
+      "primary_code": "MATH-PROBABILITY-CLASSICAL",
+      "status": "new"
+    },
+    {
+      "index": 10,
+      "content_hash": "51d892f3b846705caf6bd17242185d5f85e9c9090b69c2598f7e23f25c21686c",
+      "primary_code": "MATH-PROBABILITY-CLASSICAL",
+      "status": "new"
+    },
+    {
+      "index": 11,
+      "content_hash": "1f483c9d75f3f90bea6c48597cc3e145c3fc014958f919ec211395e4f5db574d",
+      "primary_code": "MATH-PROBABILITY-CLASSICAL",
+      "status": "new"
+    },
+    {
+      "index": 12,
+      "content_hash": "7017e083b254613451ec3e2121e96b8b0eaef151e07b5fc4ddbb0d8f77b41982",
+      "primary_code": "MATH-INEQUALITY-QUADRATIC",
+      "status": "new"
+    },
+    {
+      "index": 13,
+      "content_hash": "7ad36984d7b58f18b5afde4b62393b68f5561322d4a496af899ac3fb50374823",
+      "primary_code": "MATH-INEQUALITY-QUADRATIC",
+      "status": "new"
+    },
+    {
+      "index": 14,
+      "content_hash": "a15a2e971c77ac5342251d0c5799470de346f81479fad37c74cf5ed1b8fc42e8",
+      "primary_code": "MATH-INEQUALITY-QUADRATIC",
+      "status": "new"
+    },
+    {
+      "index": 15,
+      "content_hash": "a0fb64864c46480817554471cca08bcd09d25fbfda2d908b181d951cd2396c0c",
+      "primary_code": "MATH-INEQUALITY-QUADRATIC",
+      "status": "new"
+    }
+  ]
+}

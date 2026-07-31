@@ -1,0 +1,126 @@
+{
+  "schema_version": "shiguang-question-candidate-v1",
+  "batch": "gaokao-chinese-gap-batch22",
+  "questions": [
+    {
+      "subject": "语文", "chapter": "名篇名句默写", "knowledge_points": ["理解性默写"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】某校为“古诗文中的担当”主题展板选择名句。展板分为三个栏目：①面对危局仍勇于任事；②坚守原则，不因外物改变志向；③胸怀天下，关切百姓疾苦。\n下列名句与栏目①的主题对应最恰当的一项是（ ）。",
+      "options": ["长太息以掩涕兮，哀民生之多艰", "受任于败军之际，奉命于危难之间", "且举世誉之而不加劝，举世非之而不加沮", "寄蜉蝣于天地，渺沧海之一粟"], "answer": "B",
+      "solution": "“受任于败军之际，奉命于危难之间”直接写在军队败退、形势危急时接受重任，与“面对危局仍勇于任事”完全对应。A关切民生，C不因毁誉改变，D感叹个体渺小。",
+      "source": "GAOKAO-Bench|adapted:true|dataset:2010-2022_Chinese_Language_Ancient_Poetry_Dictation|commit:6dbb24f8d843",
+      "title": "担当主题展板·语境选句", "tags": ["kp:CHN-MEMORIZATION-CONTEXT", "origin:external-adapted", "material-group:chn22-duty-quotes", "material-order:1", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-gap-batch22", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "名篇名句默写", "knowledge_points": ["理解性默写"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】某校为“古诗文中的担当”主题展板选择名句。展板分为三个栏目：①面对危局仍勇于任事；②坚守原则，不因外物改变志向；③胸怀天下，关切百姓疾苦。\n下列名句与栏目②的主题对应最恰当的一项是（ ）。",
+      "options": ["且举世誉之而不加劝，举世非之而不加沮", "安得广厦千万间，大庇天下寒士俱欢颜", "位卑则足羞，官盛则近谀", "小楼一夜听春雨，深巷明朝卖杏花"], "answer": "A",
+      "solution": "A写宋荣子不因世人的赞誉而更加奋勉，也不因世人的非议而更加沮丧，突出不受外界毁誉左右。B关怀寒士，C批评士大夫择师观，D写春日生活。",
+      "source": "GAOKAO-Bench|adapted:true|dataset:2010-2022_Chinese_Language_Ancient_Poetry_Dictation|commit:6dbb24f8d843",
+      "title": "担当主题展板·毁誉与操守", "tags": ["kp:CHN-MEMORIZATION-CONTEXT", "origin:external-adapted", "material-group:chn22-duty-quotes", "material-order:2", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-gap-batch22", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "名篇名句默写", "knowledge_points": ["理解性默写"], "difficulty": 4, "type": "single_choice",
+      "question": "【共同材料】某校为“古诗文中的担当”主题展板选择名句。展板分为三个栏目：①面对危局仍勇于任事；②坚守原则，不因外物改变志向；③胸怀天下，关切百姓疾苦。\n若栏目③要求两句诗既写诗人由个人处境联想到天下人，又包含改善其居住困境的愿望，最恰当的一项是（ ）。",
+      "options": ["长太息以掩涕兮，哀民生之多艰", "何时眼前突兀见此屋，吾庐独破受冻死亦足", "安得广厦千万间，大庇天下寒士俱欢颜", "人生如梦，一尊还酹江月"], "answer": "C",
+      "solution": "C由自己茅屋被风吹破的处境推及“天下寒士”，并以“广厦千万间”提出改善居住困境的愿望，两个限定均满足。B强调愿为愿景牺牲，但句中没有直接写天下人的居住改善。",
+      "source": "GAOKAO-Bench|adapted:true|dataset:2010-2022_Chinese_Language_Ancient_Poetry_Dictation|commit:6dbb24f8d843",
+      "title": "担当主题展板·复合语境选句", "tags": ["kp:CHN-MEMORIZATION-CONTEXT", "origin:external-adapted", "material-group:chn22-duty-quotes", "material-order:3", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-gap-batch22", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "名篇名句默写", "knowledge_points": ["易错字与通假字"], "difficulty": 2, "type": "single_choice",
+      "question": "【共同材料】整理古诗文名句时，既要依据语境辨清同音字，也要识别教材注明的通假字；不能只凭现代汉语习惯随意改字。\n下列名句书写完全正确的一项是（ ）。",
+      "options": ["金戈铁马，气吞万里如虎", "人生如梦，一樽还酹江月", "无边落木箫箫下，不尽长江滚滚来", "飞湍瀑流争喧豗，砯崖传石万壑雷"], "answer": "A",
+      "solution": "A书写正确。B教材通行写法为“一尊还酹江月”；C应为“萧萧”；D应为“砯崖转石万壑雷”，“转”意为使巨石滚转，不能写作“传”。",
+      "source": "GAOKAO-Bench|adapted:true|dataset:2010-2022_Chinese_Language_Ancient_Poetry_Dictation|commit:6dbb24f8d843",
+      "title": "古诗文名句·易错字辨析", "tags": ["kp:CHN-MEMORIZATION-VARIANTS", "origin:external-adapted", "material-group:chn22-variants", "material-order:1", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-gap-batch22", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "名篇名句默写", "knowledge_points": ["易错字与通假字"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】整理古诗文名句时，既要依据语境辨清同音字，也要识别教材注明的通假字；不能只凭现代汉语习惯随意改字。\n下列对加点字通假关系的说明，正确的一项是（ ）。",
+      "options": ["“君子生非异也”中的“生”同“性”，指天性、资质", "“或师焉，或不焉”中的“不”同“否”，表示没有", "“浩浩乎如冯虚御风”中的“冯”同“逢”，表示遇见", "“则知明而行无过矣”中的“知”同“智”，表示知识"], "answer": "A",
+      "solution": "A正确，“生”通“性”，指人的天性、资质。B“不”通“否”，在语境中用于句末表否定选择，并非“没有”；C“冯”通“凭”，意为乘；D“知”通“智”，意为智慧、明智，并非知识。",
+      "source": "GAOKAO-Bench|adapted:true|dataset:2010-2022_Chinese_Language_Ancient_Poetry_Dictation|commit:6dbb24f8d843",
+      "title": "古诗文名句·通假义辨析", "tags": ["kp:CHN-MEMORIZATION-VARIANTS", "origin:external-adapted", "material-group:chn22-variants", "material-order:2", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-gap-batch22", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "名篇名句默写", "knowledge_points": ["易错字与通假字"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】整理古诗文名句时，既要依据语境辨清同音字，也要识别教材注明的通假字；不能只凭现代汉语习惯随意改字。\n同学提出：“既然通假字可用本字解释，默写时就可以直接写成本字。”下列判断最准确的一项是（ ）。",
+      "options": ["正确，本字比通假字更符合现代规范", "正确，只要读音相同即可互换", "不正确，默写应依据指定教材文本，解释字义与改写原文是两回事", "不正确，因为古文中不存在通假现象"], "answer": "C",
+      "solution": "通假关系用于解释文本中字的意义，不意味着默写时可任意用本字替换原文用字。名篇默写须以指定教材版本为据。A、B混淆释义与文本复现，D否认客观存在的通假现象。",
+      "source": "GAOKAO-Bench|adapted:true|dataset:2010-2022_Chinese_Language_Ancient_Poetry_Dictation|commit:6dbb24f8d843",
+      "title": "古诗文名句·版本意识", "tags": ["kp:CHN-MEMORIZATION-VARIANTS", "origin:external-adapted", "material-group:chn22-variants", "material-order:3", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-gap-batch22", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "写作", "knowledge_points": ["议论文立意"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】一位青年木匠学习修复古建筑。起初，他追求一天多修几扇窗；师傅却要求他先花时间辨木性、查旧档、做样板。几年后，他既能守住古法，又借助数字测绘减少误差。他说：“慢不是目的，快也不是目的，让每一步都对最终质量负责才是目的。”\n下列立意最切合材料整体含意的一项是（ ）。",
+      "options": ["传统技艺只能依靠缓慢劳动保存", "效率与质量并非天然对立，应由目标统摄方法选择", "青年成长必须完全服从师傅经验", "数字技术必将取代传统手艺"], "answer": "B",
+      "solution": "材料通过先慢后快、古法与数字技术结合，最终落到“对质量负责”，核心是以目标统摄速度和方法，而非简单褒慢贬快。A、C、D均把材料中的一种手段绝对化。",
+      "source": "GAOKAO-Bench|adapted:true|dataset:2010-2022_Chinese_Language_Composition|commit:6dbb24f8d843",
+      "title": "木匠材料作文·整体立意", "tags": ["kp:CHN-WRITING-ARGUMENT", "origin:external-adapted", "material-group:chn22-carpenter", "material-order:1", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-gap-batch22", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "写作", "knowledge_points": ["议论文立意"], "difficulty": 4, "type": "single_choice",
+      "question": "【共同材料】一位青年木匠学习修复古建筑。起初，他追求一天多修几扇窗；师傅却要求他先花时间辨木性、查旧档、做样板。几年后，他既能守住古法，又借助数字测绘减少误差。他说：“慢不是目的，快也不是目的，让每一步都对最终质量负责才是目的。”\n若写议论文，下列中心论点最有思辨性且不偏离材料的一项是（ ）。",
+      "options": ["凡事欲速则不达，慢下来一定能成功", "尊重规律奠定效率基础，技术创新则让坚守获得新的实现方式", "古法凝聚前人智慧，所以任何改变都会损害传统", "质量最重要，因此工作数量和完成时间都不值得考虑"], "answer": "B",
+      "solution": "B同时处理规律、效率、传统和创新的关系，既有边界又有层次。A把“慢”绝对化；C排斥材料肯定的数字测绘；D由重视质量推到否定数量和时间，过度引申。",
+      "source": "GAOKAO-Bench|adapted:true|dataset:2010-2022_Chinese_Language_Composition|commit:6dbb24f8d843",
+      "title": "木匠材料作文·思辨立意", "tags": ["kp:CHN-WRITING-ARGUMENT", "origin:external-adapted", "material-group:chn22-carpenter", "material-order:2", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-gap-batch22", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "写作", "knowledge_points": ["议论文立意"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】一位青年木匠学习修复古建筑。起初，他追求一天多修几扇窗；师傅却要求他先花时间辨木性、查旧档、做样板。几年后，他既能守住古法，又借助数字测绘减少误差。他说：“慢不是目的，快也不是目的，让每一步都对最终质量负责才是目的。”\n下列标题最能准确涵盖材料核心的一项是（ ）。",
+      "options": ["《唯慢方能成大器》", "《古法不可更改》", "《让速度服从尺度》", "《告别一切效率指标》"], "answer": "C",
+      "solution": "“速度”对应快慢，“尺度”对应规律与最终质量，C简洁地概括了材料的关系型立意。其余标题均把材料一端绝对化。",
+      "source": "GAOKAO-Bench|adapted:true|dataset:2010-2022_Chinese_Language_Composition|commit:6dbb24f8d843",
+      "title": "木匠材料作文·标题辨析", "tags": ["kp:CHN-WRITING-ARGUMENT", "origin:external-adapted", "material-group:chn22-carpenter", "material-order:3", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-gap-batch22", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "写作", "knowledge_points": ["材料分析与运用"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】某地推出“无废校园”：食堂按需备餐并公开每日剩餐量；实验室分类回收可再利用器材；学生社团把旧校服改成收纳袋。半年后，厨余垃圾减少四成，但调查发现，少数班级为追求数据好看，把部分垃圾转移到校外处理。\n若以“评价公共行动不能只看表面数字”为论点，下列运用材料的方式最恰当的一项是（ ）。",
+      "options": ["只写厨余垃圾减少四成，证明行动完全成功", "只写旧校服变收纳袋，证明手工劳动有趣", "将减量成效与转移垃圾的现象对照，说明指标改善不等于问题真正解决", "列举三个举措后得出所有校园都应照搬"], "answer": "C",
+      "solution": "C把正面成效与反常现象放在同一评价框架中，恰能支撑“不能只看表面数字”。A遮蔽反例，B偏离论点，D由个案推出普遍方案，论证越界。",
+      "source": "GAOKAO-Bench|adapted:true|dataset:2010-2022_Chinese_Language_Composition|commit:6dbb24f8d843",
+      "title": "无废校园材料·对照运用", "tags": ["kp:CHN-WRITING-MATERIAL", "origin:external-adapted", "material-group:chn22-zero-waste", "material-order:1", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-gap-batch22", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "写作", "knowledge_points": ["材料分析与运用"], "difficulty": 4, "type": "single_choice",
+      "question": "【共同材料】某地推出“无废校园”：食堂按需备餐并公开每日剩餐量；实验室分类回收可再利用器材；学生社团把旧校服改成收纳袋。半年后，厨余垃圾减少四成，但调查发现，少数班级为追求数据好看，把部分垃圾转移到校外处理。\n依据材料，下列推论最严密的一项是（ ）。",
+      "options": ["公开数据必然诱发造假，因此应停止统计", "只要倡导节约，所有参与者都会自觉落实", "公共治理既需可量化指标，也需核查指标是否真实反映目标", "出现个别转移垃圾现象，足以证明整个项目失败"], "answer": "C",
+      "solution": "材料既显示公开统计带来的减量成效，也暴露为数据而转移问题的风险，因此合理结论是指标与实质核查并重。A、B使用“必然”“所有”等绝对判断；D以个别问题否定全部成效。",
+      "source": "GAOKAO-Bench|adapted:true|dataset:2010-2022_Chinese_Language_Composition|commit:6dbb24f8d843",
+      "title": "无废校园材料·边界推论", "tags": ["kp:CHN-WRITING-MATERIAL", "origin:external-adapted", "material-group:chn22-zero-waste", "material-order:2", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-gap-batch22", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "写作", "knowledge_points": ["材料分析与运用"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】某地推出“无废校园”：食堂按需备餐并公开每日剩餐量；实验室分类回收可再利用器材；学生社团把旧校服改成收纳袋。半年后，厨余垃圾减少四成，但调查发现，少数班级为追求数据好看，把部分垃圾转移到校外处理。\n把该材料用于论证“手段应接受目的的检验”，下列分析最恰当的一项是（ ）。",
+      "options": ["公开剩餐量只是手段，真正目的在减少浪费；若转移垃圾以美化数据，手段便背离了目的", "数据可以精确计算，所以任何数据都比现场调查可靠", "旧物改造最有创意，所以应取消其他所有措施", "少数班级做法不当，说明学生不适合参与公共事务"], "answer": "A",
+      "solution": "A准确区分“统计手段”和“减废目的”，并说明评价手段的标准。B盲目信任数据，C、D都从局部信息推出无依据的排他结论。",
+      "source": "GAOKAO-Bench|adapted:true|dataset:2010-2022_Chinese_Language_Composition|commit:6dbb24f8d843",
+      "title": "无废校园材料·目的与手段", "tags": ["kp:CHN-WRITING-MATERIAL", "origin:external-adapted", "material-group:chn22-zero-waste", "material-order:3", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-gap-batch22", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "语言文字运用", "knowledge_points": ["词语辨析与使用"], "difficulty": 2, "type": "single_choice",
+      "question": "【共同材料】博物馆的数字化，不是把展品照片简单搬到网上。高清扫描使纹饰细节得以呈现，三维建模让观众从不同角度观察器物，策展人还需解释器物与时代生活的联系。技术若只制造新奇效果，反而可能遮蔽文物本身；只有内容与技术相互支撑，数字展览才能真正拉近观众与历史的距离。\n依次填入下面句子横线处的词语，最恰当的一项是（ ）。\n数字技术能够____观看边界，但不能替代策展人对历史信息的____。",
+      "options": ["拓展  阐释", "扩大  阐明", "拓宽  阐发", "扩张  阐述"], "answer": "A",
+      "solution": "“拓展边界”搭配自然，强调扩大观看的可能范围；“阐释历史信息”强调解释其意义，也符合策展语境。其余组合或搭配生硬，或语义侧重不合。",
+      "source": "GAOKAO-Bench|adapted:true|dataset:2010-2022_Chinese_Lang_and_Usage_MCQs|commit:6dbb24f8d843",
+      "title": "数字博物馆语用·词语辨析", "tags": ["kp:CHN-LANGUAGE-WORDS", "origin:external-adapted", "material-group:chn22-digital-museum", "material-order:1", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-gap-batch22", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "语言文字运用", "knowledge_points": ["病句辨析与修改"], "difficulty": 2, "type": "single_choice",
+      "question": "【共同材料】博物馆的数字化，不是把展品照片简单搬到网上。高清扫描使纹饰细节得以呈现，三维建模让观众从不同角度观察器物，策展人还需解释器物与时代生活的联系。技术若只制造新奇效果，反而可能遮蔽文物本身；只有内容与技术相互支撑，数字展览才能真正拉近观众与历史的距离。\n下列各句中，没有语病的一项是（ ）。",
+      "options": ["通过三维建模，使观众获得了多角度观察器物的机会。", "数字展览能否拉近观众与历史的距离，关键在于内容与技术是否相互支撑。", "博物馆数字化的目的，是为了让文物信息更容易被公众理解。", "高清扫描不仅呈现了纹饰细节，而且观众的观看边界也得到拓展。"], "answer": "B",
+      "solution": "B两面对两面，结构完整。A介词结构导致主语残缺；C“目的，是为了”句式杂糅；D前后分句主语不同，“不仅”位置不当，应置于“高清扫描”之前或调整后句。",
+      "source": "GAOKAO-Bench|adapted:true|dataset:2010-2022_Chinese_Lang_and_Usage_MCQs|commit:6dbb24f8d843",
+      "title": "数字博物馆语用·病句辨析", "tags": ["kp:CHN-LANGUAGE-SENTENCE", "origin:external-adapted", "material-group:chn22-digital-museum", "material-order:2", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-gap-batch22", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "语言文字运用", "knowledge_points": ["语言表达与衔接"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】博物馆的数字化，不是把展品照片简单搬到网上。高清扫描使纹饰细节得以呈现，三维建模让观众从不同角度观察器物，策展人还需解释器物与时代生活的联系。技术若只制造新奇效果，反而可能遮蔽文物本身；只有内容与技术相互支撑，数字展览才能真正拉近观众与历史的距离。\n填入下面横线处的语句，衔接最恰当的一项是（ ）。\n数字技术为文物展示提供了新的入口，____。因此，评价数字展览不能只数用了多少种技术，还要看观众是否借此更好地理解文物。",
+      "options": ["而入口的价值，最终要由它通向何种理解来衡量", "所以技术种类越多，展览的文化价值就越高", "但是实体博物馆已经没有继续存在的必要", "而文物的历史信息通常与观看方式毫无关系"], "answer": "A",
+      "solution": "后句由“因此”引出评价标准从技术数量转向理解效果，A以“入口—通向理解”的比喻承上启下。B与后句相反，C、D均无材料依据。",
+      "source": "GAOKAO-Bench|adapted:true|dataset:2010-2022_Chinese_Lang_and_Usage_MCQs|commit:6dbb24f8d843",
+      "title": "数字博物馆语用·语句衔接", "tags": ["kp:CHN-LANGUAGE-EXPRESSION", "origin:external-adapted", "material-group:chn22-digital-museum", "material-order:3", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-gap-batch22", "review:independent-answer-passed"]
+    }
+  ]
+}

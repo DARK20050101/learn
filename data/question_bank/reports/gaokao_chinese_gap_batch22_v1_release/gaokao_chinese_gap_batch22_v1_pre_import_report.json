@@ -1,0 +1,111 @@
+{
+  "report": "pre_import",
+  "filename": "gaokao_chinese_gap_batch22_v1.json",
+  "file_hash": "4d7804073ec1630ba965e40cbacb18c0fe25cee6320c66137b34dca3b3e6b1c8",
+  "mapping_version": "kp-mapping-v1.1",
+  "database": {
+    "questions": 560,
+    "primary_knowledge_point_links": 560,
+    "orphan_questions": 0,
+    "selected_question_count": 560,
+    "selected_questions_business_hash": "19f8b7472d33e10a2458882fc129741d1e8c900376ef31e7eab0445c677900c7"
+  },
+  "total": 15,
+  "new_questions": 15,
+  "matching_duplicates": 0,
+  "conflicts": 0,
+  "errors": [],
+  "ready": true,
+  "items": [
+    {
+      "index": 1,
+      "content_hash": "31ea95bea8b2a0896a2fde209f6e14747a2755fa8ad6751290dc9a3f159b419c",
+      "primary_code": "CHN-MEMORIZATION-CONTEXT",
+      "status": "new"
+    },
+    {
+      "index": 2,
+      "content_hash": "e8bb84e818827202d7292ff283c4bbf5aedc562cd139485fe2fc4089359f160c",
+      "primary_code": "CHN-MEMORIZATION-CONTEXT",
+      "status": "new"
+    },
+    {
+      "index": 3,
+      "content_hash": "8ec76269ce3f4ff18cc5ed41d3acb6028fcb63490d1bab526c20297b827a70da",
+      "primary_code": "CHN-MEMORIZATION-CONTEXT",
+      "status": "new"
+    },
+    {
+      "index": 4,
+      "content_hash": "36d7410f52e6699d3b5b36da78b962ad88742ed3608ad9e33f2570ee4433866b",
+      "primary_code": "CHN-MEMORIZATION-VARIANTS",
+      "status": "new"
+    },
+    {
+      "index": 5,
+      "content_hash": "0f38575b3074ca7651375ea698fa25555a6f164e5203d6ebbe325a3939d2ce6e",
+      "primary_code": "CHN-MEMORIZATION-VARIANTS",
+      "status": "new"
+    },
+    {
+      "index": 6,
+      "content_hash": "1b65300e84a211da8b6f49d5b5643cfad8ab6993646fc16a5430dcd7d3ccdbca",
+      "primary_code": "CHN-MEMORIZATION-VARIANTS",
+      "status": "new"
+    },
+    {
+      "index": 7,
+      "content_hash": "3f389160684efdf8ec35fb28006e4330c5c35e14ccaf1f92db097506f009fa79",
+      "primary_code": "CHN-WRITING-ARGUMENT",
+      "status": "new"
+    },
+    {
+      "index": 8,
+      "content_hash": "7f174726f841be55daeaec024e4b2e0cf763a9e4aadf31decbe78b5ea35b7c21",
+      "primary_code": "CHN-WRITING-ARGUMENT",
+      "status": "new"
+    },
+    {
+      "index": 9,
+      "content_hash": "151fc1ae6a7dda16d60169c0fbcfb62ab7051a4989e327ecbf6d54af2c9ad3c0",
+      "primary_code": "CHN-WRITING-ARGUMENT",
+      "status": "new"
+    },
+    {
+      "index": 10,
+      "content_hash": "bd7b3bff09dd4ce52ca29f759b29fa53d3c6a6d0acd736bd9f23c9b15f757de3",
+      "primary_code": "CHN-WRITING-MATERIAL",
+      "status": "new"
+    },
+    {
+      "index": 11,
+      "content_hash": "0f145828a1673e5f9fb7f609af881dd3d924e0610fe0a011ff16c0464000e8fb",
+      "primary_code": "CHN-WRITING-MATERIAL",
+      "status": "new"
+    },
+    {
+      "index": 12,
+      "content_hash": "8fa073648931efa7189eda71fc0274ece6a7738303493640502f4deee7ad3e50",
+      "primary_code": "CHN-WRITING-MATERIAL",
+      "status": "new"
+    },
+    {
+      "index": 13,
+      "content_hash": "89d2d9e72d3a7982210e5c49e76934d1cea04cc8334cdbe76a4127004a1c266a",
+      "primary_code": "CHN-LANGUAGE-WORDS",
+      "status": "new"
+    },
+    {
+      "index": 14,
+      "content_hash": "169adc13d025a95d10f70845a8143485710f3e6204b0df64762ba06bad1605fa",
+      "primary_code": "CHN-LANGUAGE-SENTENCE",
+      "status": "new"
+    },
+    {
+      "index": 15,
+      "content_hash": "d755460d139b7d02b89f011f6c4486a9cf9815f8a34e91d256e613f8d2a5cb00",
+      "primary_code": "CHN-LANGUAGE-EXPRESSION",
+      "status": "new"
+    }
+  ]
+}
