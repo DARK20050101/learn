@@ -14,6 +14,32 @@
 
 ## 本地配置
 
+### DeepSeek 快速配置
+
+在项目根目录运行：
+
+~~~powershell
+Set-Location E:\1a
+.\configure_ai.ps1
+~~~
+
+脚本会把 DeepSeek 配置写入已被 Git 忽略的本地 `.env`，并执行一次最小连接测试。API Key 不会显示在诊断结果中，也不会写入前端。如果暂时只想保存配置、不访问外部服务，可以运行：
+
+~~~powershell
+.\configure_ai.ps1 -SkipConnectionCheck
+~~~
+
+不修改配置时，也可单独检查当前状态：
+
+~~~powershell
+.\.venv\Scripts\python.exe -m app.cli.ai doctor
+.\.venv\Scripts\python.exe -m app.cli.ai doctor --check-connection
+~~~
+
+DeepSeek 当前配置使用 `https://api.deepseek.com` 和 `deepseek-v4-flash`。修改 `.env` 后需要重启 FastAPI 服务。
+
+### 手动配置
+
 复制 `.env.example` 为 `.env`，填写兼容 OpenAI Chat Completions 协议的服务：
 
 ```env
