@@ -1,0 +1,101 @@
+{
+  "command": "missing",
+  "mapping_version": "kp-mapping-v1.1",
+  "subject": "语文",
+  "minimum": 5,
+  "missing_count": 10,
+  "empty_count": 0,
+  "insufficient_count": 10,
+  "items": [
+    {
+      "code": "CHN-CLASSICAL-CONTENT",
+      "name": "文言文内容理解",
+      "subject": "语文",
+      "question_count": 3,
+      "status": "insufficient",
+      "gap_to_minimum": 2,
+      "gap_to_10": 7
+    },
+    {
+      "code": "CHN-CLASSICAL-TRANSLATION",
+      "name": "文言文翻译",
+      "subject": "语文",
+      "question_count": 3,
+      "status": "insufficient",
+      "gap_to_minimum": 2,
+      "gap_to_10": 7
+    },
+    {
+      "code": "CHN-CLASSICAL-WORDS",
+      "name": "文言实词与虚词",
+      "subject": "语文",
+      "question_count": 3,
+      "status": "insufficient",
+      "gap_to_minimum": 2,
+      "gap_to_10": 7
+    },
+    {
+      "code": "CHN-MEMORIZATION-AUTHOR",
+      "name": "篇目作者与语境",
+      "subject": "语文",
+      "question_count": 2,
+      "status": "insufficient",
+      "gap_to_minimum": 3,
+      "gap_to_10": 8
+    },
+    {
+      "code": "CHN-MODERN-APPRECIATION",
+      "name": "表现手法与文本鉴赏",
+      "subject": "语文",
+      "question_count": 3,
+      "status": "insufficient",
+      "gap_to_minimum": 2,
+      "gap_to_10": 7
+    },
+    {
+      "code": "CHN-MODERN-INFORMATION",
+      "name": "信息筛选与整合",
+      "subject": "语文",
+      "question_count": 3,
+      "status": "insufficient",
+      "gap_to_minimum": 2,
+      "gap_to_10": 7
+    },
+    {
+      "code": "CHN-POETRY-EMOTION",
+      "name": "诗歌思想感情",
+      "subject": "语文",
+      "question_count": 2,
+      "status": "insufficient",
+      "gap_to_minimum": 3,
+      "gap_to_10": 8
+    },
+    {
+      "code": "CHN-POETRY-IMAGE",
+      "name": "诗歌形象与意境",
+      "subject": "语文",
+      "question_count": 2,
+      "status": "insufficient",
+      "gap_to_minimum": 3,
+      "gap_to_10": 8
+    },
+    {
+      "code": "CHN-POETRY-TECHNIQUE",
+      "name": "诗歌表达技巧",
+      "subject": "语文",
+      "question_count": 3,
+      "status": "insufficient",
+      "gap_to_minimum": 2,
+      "gap_to_10": 7
+    },
+    {
+      "code": "CHN-WRITING-STRUCTURE",
+      "name": "论证结构与方法",
+      "subject": "语文",
+      "question_count": 2,
+      "status": "insufficient",
+      "gap_to_minimum": 3,
+      "gap_to_10": 8
+    }
+  ]
+}

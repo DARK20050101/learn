@@ -1,0 +1,111 @@
+{
+  "report": "pre_import",
+  "filename": "gaokao_chinese_gap_batch23_v1.json",
+  "file_hash": "54475fa1c5a639e7379adce2e069d051720fded24fc36e8786936be5be23cac7",
+  "mapping_version": "kp-mapping-v1.1",
+  "database": {
+    "questions": 605,
+    "primary_knowledge_point_links": 605,
+    "orphan_questions": 0,
+    "selected_question_count": 605,
+    "selected_questions_business_hash": "24cf41d3bc28cc25a1214b8e8a1467c28054817d404afaf11418bd38ef2d6e71"
+  },
+  "total": 15,
+  "new_questions": 15,
+  "matching_duplicates": 0,
+  "conflicts": 0,
+  "errors": [],
+  "ready": true,
+  "items": [
+    {
+      "index": 1,
+      "content_hash": "52c6d7613ddacc4c0de0894f3a6c99226b0d2c94cf3354478a583f188163a699",
+      "primary_code": "CHN-MEMORIZATION-CONTEXT",
+      "status": "new"
+    },
+    {
+      "index": 2,
+      "content_hash": "04f81efc7cd9144a46d4fbbc181474895e39a3a69b8c6eb06e0c6f0eff023aff",
+      "primary_code": "CHN-MEMORIZATION-CONTEXT",
+      "status": "new"
+    },
+    {
+      "index": 3,
+      "content_hash": "685c350dd0d727866300d583c262cd2250e39cb2c3253f729678740e2025127d",
+      "primary_code": "CHN-MEMORIZATION-VARIANTS",
+      "status": "new"
+    },
+    {
+      "index": 4,
+      "content_hash": "0f0e2f802857e23e1a1c494fe24175f9c48aafa1eee07d3cb59078cf14375066",
+      "primary_code": "CHN-MEMORIZATION-VARIANTS",
+      "status": "new"
+    },
+    {
+      "index": 5,
+      "content_hash": "a392edcd76bf967bd738acc37304cc777b93971b56c0526fabd6bb5680951784",
+      "primary_code": "CHN-WRITING-ARGUMENT",
+      "status": "new"
+    },
+    {
+      "index": 6,
+      "content_hash": "38f7258d5816fb4b6291a73a83690cbd3509ca51670ef7047ba0c453a516d197",
+      "primary_code": "CHN-WRITING-ARGUMENT",
+      "status": "new"
+    },
+    {
+      "index": 7,
+      "content_hash": "8cdfc1cab53d9cbe1425afaf7a09d7579e660b9e5f0c690acab7eb268cf0ac9f",
+      "primary_code": "CHN-WRITING-MATERIAL",
+      "status": "new"
+    },
+    {
+      "index": 8,
+      "content_hash": "d3ac6d018274fe9ca6a8dd38897b7ecb9fc6d55f8fb006a75eeda1911ae33448",
+      "primary_code": "CHN-WRITING-MATERIAL",
+      "status": "new"
+    },
+    {
+      "index": 9,
+      "content_hash": "fb9ba0211aa7094bf003e471e4f2a62df5e6565d230d60f6ceb2bd9249fef418",
+      "primary_code": "CHN-MEMORIZATION-AUTHOR",
+      "status": "new"
+    },
+    {
+      "index": 10,
+      "content_hash": "f60fa116934b3d0b5937cb3a6bdc8565ba785fd59ca50ca10f8d37b78602ee79",
+      "primary_code": "CHN-MEMORIZATION-AUTHOR",
+      "status": "new"
+    },
+    {
+      "index": 11,
+      "content_hash": "8ef8bf77bacae55d6e2831602d41da4166a0d55f0af277bfe095f907426d8c20",
+      "primary_code": "CHN-WRITING-STRUCTURE",
+      "status": "new"
+    },
+    {
+      "index": 12,
+      "content_hash": "193aa73423f0928ff7813089a852e40d76166b713b953877ab484c2ab18ed10a",
+      "primary_code": "CHN-WRITING-STRUCTURE",
+      "status": "new"
+    },
+    {
+      "index": 13,
+      "content_hash": "f3dffdbf68ffbc7e8dc18b40e96629c0b563e95cc408e9c927de5c7947b3be56",
+      "primary_code": "CHN-POETRY-EMOTION",
+      "status": "new"
+    },
+    {
+      "index": 14,
+      "content_hash": "3ea8f8456b3c6af4ad2cd51f78d102de06862d6f83d70b5ab3b357ba4bf89d0c",
+      "primary_code": "CHN-CLASSICAL-TRANSLATION",
+      "status": "new"
+    },
+    {
+      "index": 15,
+      "content_hash": "9f0407650f9f219e35e11b33b170d79d218886f5facc967e3ff3a4495c4cc456",
+      "primary_code": "CHN-CLASSICAL-WORDS",
+      "status": "new"
+    }
+  ]
+}

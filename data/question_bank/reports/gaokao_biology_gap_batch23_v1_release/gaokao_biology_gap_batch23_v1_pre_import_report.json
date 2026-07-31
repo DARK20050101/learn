@@ -1,0 +1,111 @@
+{
+  "report": "pre_import",
+  "filename": "gaokao_biology_gap_batch23_v1.json",
+  "file_hash": "7b05340a252eae2e5d92ee333d6b74eab434478d187d0101ab483c184ba70e21",
+  "mapping_version": "kp-mapping-v1.1",
+  "database": {
+    "questions": 635,
+    "primary_knowledge_point_links": 635,
+    "orphan_questions": 0,
+    "selected_question_count": 635,
+    "selected_questions_business_hash": "83a58c8c70006456dbbc83d47176b348c79a21dfdf7f75e0228a6105379781b9"
+  },
+  "total": 15,
+  "new_questions": 15,
+  "matching_duplicates": 0,
+  "conflicts": 0,
+  "errors": [],
+  "ready": true,
+  "items": [
+    {
+      "index": 1,
+      "content_hash": "7fd08e06380e92ea87538631b33aee97557ddfbd7585a7d82354dd7c8a386160",
+      "primary_code": "BIO-CELL-LIFE-CYCLE",
+      "status": "new"
+    },
+    {
+      "index": 2,
+      "content_hash": "473c14834297dab4d220770639d40aa07c2fc4675110f4642b5aa27d7b8cba8b",
+      "primary_code": "BIO-CELL-LIFE-CYCLE",
+      "status": "new"
+    },
+    {
+      "index": 3,
+      "content_hash": "0b0ad2d5897dea182d156ecf91926e462fa883dce4aa82a10e625f7e420b59d0",
+      "primary_code": "BIO-CELL-LIFE-CYCLE",
+      "status": "new"
+    },
+    {
+      "index": 4,
+      "content_hash": "7166fba9f39be550bcee340018decdd63c2dd80ad7a46e296546f81ffc54c8bf",
+      "primary_code": "BIO-GENETICS-VARIATION-EVOLUTION",
+      "status": "new"
+    },
+    {
+      "index": 5,
+      "content_hash": "e0924e0f1ffc41d4129213163fa82e9b6b35a3ee958387ffece111359f77b4b6",
+      "primary_code": "BIO-GENETICS-VARIATION-EVOLUTION",
+      "status": "new"
+    },
+    {
+      "index": 6,
+      "content_hash": "c2fb8f15f2ed5e200a2b6a4d2a2d6f5bf28c0f4eb0f1509a46059b1119c972fe",
+      "primary_code": "BIO-GENETICS-VARIATION-EVOLUTION",
+      "status": "new"
+    },
+    {
+      "index": 7,
+      "content_hash": "bc7d20463fcf18c02361664930588fb1bb22aece5ece660b65b670ab9c15e1be",
+      "primary_code": "BIO-GENETICS-VARIATION-EVOLUTION",
+      "status": "new"
+    },
+    {
+      "index": 8,
+      "content_hash": "82fccfc4b8d436e70867dc2fb4b520792fa1cfd596d0ad3bdaca1b0f8f4a9312",
+      "primary_code": "BIO-HOMEOSTASIS-IMMUNE",
+      "status": "new"
+    },
+    {
+      "index": 9,
+      "content_hash": "846f41daa9d9fe9663563a8655a2e7bfde4eab77744be990f05e9f48adb8e5b8",
+      "primary_code": "BIO-HOMEOSTASIS-IMMUNE",
+      "status": "new"
+    },
+    {
+      "index": 10,
+      "content_hash": "e17484ad24bbb1ac115e9f46e6b45d410915d925fe9a6e7f62e6ddf2f5f47655",
+      "primary_code": "BIO-CELL-MOLECULE",
+      "status": "new"
+    },
+    {
+      "index": 11,
+      "content_hash": "520ca9cca89674072997c18458e9391d154296ba04b14665b27077a23ac91bdc",
+      "primary_code": "BIO-HOMEOSTASIS-PLANT",
+      "status": "new"
+    },
+    {
+      "index": 12,
+      "content_hash": "5d2a30a86e757da73117b82b16ea248eae685a8bd5280ae2b0ee7f9badadf55d",
+      "primary_code": "BIO-HOMEOSTASIS-PLANT",
+      "status": "new"
+    },
+    {
+      "index": 13,
+      "content_hash": "2fb01db42f729174b4b59df7f5c7f5a3f3b39c48813c82227e9e864c18bfacfc",
+      "primary_code": "BIO-TECHNOLOGY-CELL-GENE",
+      "status": "new"
+    },
+    {
+      "index": 14,
+      "content_hash": "9f604e29a38ea43db8b3d0a71b0561844073ed96dd4a9ba6e7c727bdede5906c",
+      "primary_code": "BIO-ECOLOGY-ENVIRONMENT",
+      "status": "new"
+    },
+    {
+      "index": 15,
+      "content_hash": "856a8e3b344524ca43edc161dcc61e90fa28e46170bf4aae5c918fd441d19b42",
+      "primary_code": "BIO-ECOLOGY-ECOSYSTEM",
+      "status": "new"
+    }
+  ]
+}

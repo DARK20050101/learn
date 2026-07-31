@@ -1,0 +1,357 @@
+{
+  "command": "lint",
+  "total": 45,
+  "passed": 45,
+  "errors": 0,
+  "warnings": 0,
+  "files": [
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "gaokao_chinese_gap_batch23_v1.json",
+      "total": 15,
+      "passed": 15,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "【共同材料】学校策划“古人的学习观”主题展览，设“积累与坚持”“学习与反思”两个栏目。策展说明要求：所选名句必须同时切合栏目主题，并能准确体现句间逻辑。\n下列名句最适合放入“积累与坚持”栏目，且同时包",
+          "content_hash": "52c6d7613ddacc4c0de0894f3a6c99226b0d2c94cf3354478a583f188163a699",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 2,
+          "question": "【共同材料】学校策划“古人的学习观”主题展览，设“积累与坚持”“学习与反思”两个栏目。策展说明要求：所选名句必须同时切合栏目主题，并能准确体现句间逻辑。\n“学习与反思”栏目需要一组形成条件关系的名句：",
+          "content_hash": "04f81efc7cd9144a46d4fbbc181474895e39a3a69b8c6eb06e0c6f0eff023aff",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 3,
+          "question": "【共同材料】校刊编辑核对古诗文引文时提出两条原则：第一，结合语境辨析同音字和形近字；第二，通假字的释义与原文书写不能混为一谈。\n下列引文书写完全正确的一项是（ ）。",
+          "content_hash": "685c350dd0d727866300d583c262cd2250e39cb2c3253f729678740e2025127d",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 4,
+          "question": "【共同材料】校刊编辑核对古诗文引文时提出两条原则：第一，结合语境辨析同音字和形近字；第二，通假字的释义与原文书写不能混为一谈。\n下列对原文字形及其语境义的说明，正确的一项是（ ）。",
+          "content_hash": "0f0e2f802857e23e1a1c494fe24175f9c48aafa1eee07d3cb59078cf14375066",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 5,
+          "question": "【共同材料】高原小城修复一条古渠。有人主张全部改成封闭管道，以减少渗漏；老人提醒，古渠还滋养沿线树木，并承载社区记忆。最终，工程团队保留部分明渠生态段，在缺水路段采用新管材，并建立用水监测系统。通水后",
+          "content_hash": "a392edcd76bf967bd738acc37304cc777b93971b56c0526fabd6bb5680951784",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 6,
+          "question": "【共同材料】高原小城修复一条古渠。有人主张全部改成封闭管道，以减少渗漏；老人提醒，古渠还滋养沿线树木，并承载社区记忆。最终，工程团队保留部分明渠生态段，在缺水路段采用新管材，并建立用水监测系统。通水后",
+          "content_hash": "38f7258d5816fb4b6291a73a83690cbd3509ca51670ef7047ba0c453a516d197",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 7,
+          "question": "【共同材料】某中学开放图书馆晚间自习。首月到馆人数显著增加，但座位周转率低，一些同学用书包长期占座。学校随后推出预约、短时离席保留和候补提醒制度，并设置安静区与讨论区。第二个月，使用人数继续增加，投诉",
+          "content_hash": "8cdfc1cab53d9cbe1425afaf7a09d7579e660b9e5f0c690acab7eb268cf0ac9f",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 8,
+          "question": "【共同材料】某中学开放图书馆晚间自习。首月到馆人数显著增加，但座位周转率低，一些同学用书包长期占座。学校随后推出预约、短时离席保留和候补提醒制度，并设置安静区与讨论区。第二个月，使用人数继续增加，投诉",
+          "content_hash": "d3ac6d018274fe9ca6a8dd38897b7ecb9fc6d55f8fb006a75eeda1911ae33448",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 9,
+          "question": "【共同材料】同学为古诗文朗诵会编排“作者—篇目—时代语境”说明卡。说明卡不仅要对应作者和篇目，还要避免把作品中的艺术想象直接当作作者生平事实。\n下列“作者—篇目”对应正确的一项是（ ）。",
+          "content_hash": "fb9ba0211aa7094bf003e471e4f2a62df5e6565d230d60f6ceb2bd9249fef418",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 10,
+          "question": "【共同材料】同学为古诗文朗诵会编排“作者—篇目—时代语境”说明卡。说明卡不仅要对应作者和篇目，还要避免把作品中的艺术想象直接当作作者生平事实。\n下列说明卡表述最准确的一项是（ ）。",
+          "content_hash": "f60fa116934b3d0b5937cb3a6bdc8565ba785fd59ca50ca10f8d37b78602ee79",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 11,
+          "question": "【共同材料】下面是一篇议论文的提纲：\n中心论点：真正的韧性不是拒绝改变，而是在变化中守住目标。\n第一部分：解释“韧性”与“僵硬”的区别。\n第二部分：列举竹子受风弯曲而不折、科研团队调整实验路径两个事例",
+          "content_hash": "8ef8bf77bacae55d6e2831602d41da4166a0d55f0af277bfe095f907426d8c20",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 12,
+          "question": "【共同材料】下面是一篇议论文的提纲：\n中心论点：真正的韧性不是拒绝改变，而是在变化中守住目标。\n第一部分：解释“韧性”与“僵硬”的区别。\n第二部分：列举竹子受风弯曲而不折、科研团队调整实验路径两个事例",
+          "content_hash": "193aa73423f0928ff7813089a852e40d76166b713b953877ab484c2ab18ed10a",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 13,
+          "question": "阅读下面这首诗，完成题目。\n秋夜寄丘二十二员外\n韦应物\n怀君属秋夜，散步咏凉天。\n空山松子落，幽人应未眠。\n下列对诗歌思想感情的理解，最恰当的一项是（ ）。",
+          "content_hash": "f3dffdbf68ffbc7e8dc18b40e96629c0b563e95cc408e9c927de5c7947b3be56",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 14,
+          "question": "【共同材料】阅读下面的文言短文。\n孟子谓戴不胜曰：“子欲子之王之善与？我明告子。有楚大夫于此，欲其子之齐语也，则使齐人傅诸？使楚人傅诸？”曰：“使齐人傅之。”曰：“一齐人傅之，众楚人咻之，虽日挞而求其",
+          "content_hash": "3ea8f8456b3c6af4ad2cd51f78d102de06862d6f83d70b5ab3b357ba4bf89d0c",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 15,
+          "question": "【共同材料】阅读下面的文言短文。\n孟子谓戴不胜曰：“子欲子之王之善与？我明告子。有楚大夫于此，欲其子之齐语也，则使齐人傅诸？使楚人傅诸？”曰：“使齐人傅之。”曰：“一齐人傅之，众楚人咻之，虽日挞而求其",
+          "content_hash": "9f0407650f9f219e35e11b33b170d79d218886f5facc967e3ff3a4495c4cc456",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "gaokao_physics_gap_batch23_v1.json",
+      "total": 15,
+      "passed": 15,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "一根竖直长直导线中通有方向向上的恒定电流。在导线东侧某点，电流产生的磁场方向为（ ）",
+          "content_hash": "8dc7072b4964a2a9b9359b285626e6d6e4dc524e097cc915b187454688cab588",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 2,
+          "question": "【共同材料】一圆形线圈水平放置，从上方观察，线圈中的电流沿顺时针方向。在线圈圆心处，该电流产生的磁场方向为（ ）",
+          "content_hash": "066dea18a8ece6aad0e3350e93332217329e09c627fc156179dfbbf44a6d2e3a",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 3,
+          "question": "一束单色光从折射率为 $1.5$ 的玻璃射向空气，入射角为 $30^\\circ$。已知 $\\sin30^\\circ=0.5$，则折射角的正弦值为（ ）",
+          "content_hash": "1809b85faced518ca5dba1b28a4c566ca03bfdf72f8f3ae7188f2f7e4618689f",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 4,
+          "question": "【共同材料】一透明半圆柱的横截面半径为 $R$，折射率为 $\\sqrt2$。单色光沿半径方向从圆弧面射入，在圆心处射到直径界面，入射角为 $45^\\circ$。光在直径界面处将（ ）",
+          "content_hash": "9d9eff600e878f6bd713175c95833cf74187285cc3648810b9a67b7aa14fc2fe",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 5,
+          "question": "小明用水平力推墙而墙未动。关于小明对墙的推力与墙对小明的作用力，下列说法正确的是（ ）",
+          "content_hash": "fd372a891c2bf0ed5bbccc7b53e6136c5f26ec2843388867158bc42e14e8fa6b",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 6,
+          "question": "【共同材料】质量分别为 $2.0\\ \\mathrm{kg}$ 和 $3.0\\ \\mathrm{kg}$ 的甲、乙两物块在光滑水平面上接触。用 $10\\ \\mathrm{N}$ 的水平力推甲，使两物块一",
+          "content_hash": "b6f113bc35becf9f04d60065972681c232c4e4329e076927a44103eafad9af33",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 7,
+          "question": "【共同材料】定值电阻 $R_1=6\\ \\Omega$ 与 $R_2=3\\ \\Omega$ 并联后接在 $6\\ \\mathrm{V}$ 的理想电源两端。干路电流为（ ）",
+          "content_hash": "9cf7537800b813c09e8d1a51fac7967ce6f5cb6e428b8d17d8ea26cd07e2f4ab",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 8,
+          "question": "真空中两个相同点电荷相距 $0.30\\ \\mathrm{m}$，它们之间的库仑力为 $0.90\\ \\mathrm{N}$。取 $k=9.0\\times10^9\\ \\mathrm{N\\,m^2/C^2}",
+          "content_hash": "17c6e5950fd44b9a94277345130559957aaf5dd7802f6bd35144fad7024c624e",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 9,
+          "question": "【共同材料】两个固定的正点电荷 $Q$ 和 $4Q$ 相距 $3L$。在二者连线上放置一个正检验电荷，使其所受库仑力的合力为零。该点到电荷 $Q$ 的距离为（ ）",
+          "content_hash": "3ecca1d1d465317043667f0c56e1d77914a3b6bbaa1e3229cc454596973b327f",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 10,
+          "question": "条形磁铁沿闭合线圈轴线运动。下列情形中，线圈内没有感应电流的是（ ）",
+          "content_hash": "0cefe9d564cef48604a3d99ed8c536fea6ca96c11f8f559ff67689124a28e2b1",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 11,
+          "question": "【共同材料】一电热器接在 $220\\ \\mathrm{V}$ 电源上，正常工作时电流为 $5.0\\ \\mathrm{A}$。若连续工作 $10\\ \\mathrm{min}$，消耗的电能为（ ）",
+          "content_hash": "a1d6e12b1eaa4b3abd2e5eaa41c7e05d0ecacc9f84c1c982d61d2daa77c3d7bb",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 12,
+          "question": "两个共点力大小分别为 $6\\ \\mathrm{N}$ 和 $8\\ \\mathrm{N}$，夹角为 $90^\\circ$。它们的合力大小为（ ）",
+          "content_hash": "84f9733f28cae37b21464e0680913edc28e756ef0194b635674aee8d1976a454",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 13,
+          "question": "一辆汽车沿直线先向东行驶 $4.0\\ \\mathrm{km}$，再向西行驶 $7.0\\ \\mathrm{km}$。若规定向东为正方向，则全过程的路程和位移分别为（ ）",
+          "content_hash": "79c35e21adaaad68a336abf9effc19da383c5005142885b6f5702f721a5061b2",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 14,
+          "question": "【共同材料】运动员在半径为 $R$ 的圆形跑道上从 $A$ 点出发，沿同一方向运动 $5/4$ 周。该过程的路程与位移大小之比为（ ）",
+          "content_hash": "d629fdc2ba96974754c6c8946d03ff1eedd97663d0e3cdc3b387c627a0624713",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 15,
+          "question": "【共同材料】从离地足够高处由静止释放一小球，不计空气阻力，取 $g=10\\ \\mathrm{m/s^2}$。小球在最后 $1.0\\ \\mathrm{s}$ 内下落的距离为它从释放到落地总高度的 $7/",
+          "content_hash": "39a13546e367f11f9aff7a1d83c66f4748f31f607d91109382a03a452e96da15",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "gaokao_biology_gap_batch23_v1.json",
+      "total": 15,
+      "passed": 15,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "【共同材料】研究人员用含胸腺嘧啶脱氧核苷（TdR）的培养液培养某动物细胞，并在不同时段加入仅能掺入新合成DNA链的放射性TdR。随后制作临时装片，统计处于分裂期的细胞及其染色体放射性。\n\n放射性TdR",
+          "content_hash": "7fd08e06380e92ea87538631b33aee97557ddfbd7585a7d82354dd7c8a386160",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 2,
+          "question": "【共同材料】研究人员用含胸腺嘧啶脱氧核苷（TdR）的培养液培养某动物细胞，并在不同时段加入仅能掺入新合成DNA链的放射性TdR。随后制作临时装片，统计处于分裂期的细胞及其染色体放射性。\n\n短时标记后立",
+          "content_hash": "473c14834297dab4d220770639d40aa07c2fc4675110f4642b5aa27d7b8cba8b",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 3,
+          "question": "【共同材料】研究人员用含胸腺嘧啶脱氧核苷（TdR）的培养液培养某动物细胞，并在不同时段加入仅能掺入新合成DNA链的放射性TdR。随后制作临时装片，统计处于分裂期的细胞及其染色体放射性。\n\n细胞经一个完",
+          "content_hash": "0b0ad2d5897dea182d156ecf91926e462fa883dce4aa82a10e625f7e420b59d0",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 4,
+          "question": "【共同材料】二倍体作物中，抗病基因R与高产基因H位于同一条染色体上。研究人员先用杂交获得R、H同时存在的植株，再通过多代选择固定优良性状；另以秋水仙素处理幼苗获得四倍体，并比较不同倍性植株的花粉育性。",
+          "content_hash": "7166fba9f39be550bcee340018decdd63c2dd80ad7a46e296546f81ffc54c8bf",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 5,
+          "question": "【共同材料】二倍体作物中，抗病基因R与高产基因H位于同一条染色体上。研究人员先用杂交获得R、H同时存在的植株，再通过多代选择固定优良性状；另以秋水仙素处理幼苗获得四倍体，并比较不同倍性植株的花粉育性。",
+          "content_hash": "e0924e0f1ffc41d4129213163fa82e9b6b35a3ee958387ffece111359f77b4b6",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 6,
+          "question": "【共同材料】二倍体作物中，抗病基因R与高产基因H位于同一条染色体上。研究人员先用杂交获得R、H同时存在的植株，再通过多代选择固定优良性状；另以秋水仙素处理幼苗获得四倍体，并比较不同倍性植株的花粉育性。",
+          "content_hash": "c2fb8f15f2ed5e200a2b6a4d2a2d6f5bf28c0f4eb0f1509a46059b1119c972fe",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 7,
+          "question": "【共同材料】二倍体作物中，抗病基因R与高产基因H位于同一条染色体上。研究人员先用杂交获得R、H同时存在的植株，再通过多代选择固定优良性状；另以秋水仙素处理幼苗获得四倍体，并比较不同倍性植株的花粉育性。",
+          "content_hash": "bc7d20463fcf18c02361664930588fb1bb22aece5ece660b65b670ab9c15e1be",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 8,
+          "question": "【共同材料】某灭活疫苗含病毒的特定蛋白抗原。志愿者完成首针和加强针接种后，研究人员定期检测血清中特异性抗体浓度，并用相同抗原刺激其外周血淋巴细胞。加强针后抗体浓度上升更快、峰值更高。\n\n加强免疫反应更",
+          "content_hash": "82fccfc4b8d436e70867dc2fb4b520792fa1cfd596d0ad3bdaca1b0f8f4a9312",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 9,
+          "question": "【共同材料】某灭活疫苗含病毒的特定蛋白抗原。志愿者完成首针和加强针接种后，研究人员定期检测血清中特异性抗体浓度，并用相同抗原刺激其外周血淋巴细胞。加强针后抗体浓度上升更快、峰值更高。\n\n为证明检测到的",
+          "content_hash": "846f41daa9d9fe9663563a8655a2e7bfde4eab77744be990f05e9f48adb8e5b8",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 10,
+          "question": "【共同材料】某灭活疫苗含病毒的特定蛋白抗原。志愿者完成首针和加强针接种后，研究人员定期检测血清中特异性抗体浓度，并用相同抗原刺激其外周血淋巴细胞。加强针后抗体浓度上升更快、峰值更高。\n\n抗体与该病毒蛋",
+          "content_hash": "e17484ad24bbb1ac115e9f46e6b45d410915d925fe9a6e7f62e6ddf2f5f47655",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 11,
+          "question": "【共同材料】科研人员以某优良果树的茎尖为外植体进行组织培养。培养基甲中生长素与细胞分裂素比例较高，培养基乙中该比例较低。外植体在甲中先形成愈伤组织并生根，转入乙后形成芽，最终获得完整植株。\n\n甲、乙培",
+          "content_hash": "520ca9cca89674072997c18458e9391d154296ba04b14665b27077a23ac91bdc",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 12,
+          "question": "【共同材料】科研人员以某优良果树的茎尖为外植体进行组织培养。培养基甲中生长素与细胞分裂素比例较高，培养基乙中该比例较低。外植体在甲中先形成愈伤组织并生根，转入乙后形成芽，最终获得完整植株。\n\n若探究不",
+          "content_hash": "5d2a30a86e757da73117b82b16ea248eae685a8bd5280ae2b0ee7f9badadf55d",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 13,
+          "question": "【共同材料】科研人员以某优良果树的茎尖为外植体进行组织培养。培养基甲中生长素与细胞分裂素比例较高，培养基乙中该比例较低。外植体在甲中先形成愈伤组织并生根，转入乙后形成芽，最终获得完整植株。\n\n若外植体",
+          "content_hash": "2fb01db42f729174b4b59df7f5c7f5a3f3b39c48813c82227e9e864c18bfacfc",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 14,
+          "question": "【共同材料】某湖泊因农业面源污染出现水华。治理时，一部分区域设置生态沟渠和人工湿地拦截氮、磷，另一部分区域恢复沉水植物并减少捕捞肉食性鱼类。连续监测显示，水体透明度逐渐提高，藻类生物量下降。\n\n设置生",
+          "content_hash": "9f604e29a38ea43db8b3d0a71b0561844073ed96dd4a9ba6e7c727bdede5906c",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 15,
+          "question": "【共同材料】某湖泊因农业面源污染出现水华。治理时，一部分区域设置生态沟渠和人工湿地拦截氮、磷，另一部分区域恢复沉水植物并减少捕捞肉食性鱼类。连续监测显示，水体透明度逐渐提高，藻类生物量下降。\n\n减少捕",
+          "content_hash": "856a8e3b344524ca43edc161dcc61e90fa28e46170bf4aae5c918fd441d19b42",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "report": "pre_import",
+  "filename": "gaokao_physics_gap_batch23_v1.json",
+  "file_hash": "3f2689b9f235a42ada29b36ee0725e1c01aaa2aefde342081317751f73e3a580",
+  "mapping_version": "kp-mapping-v1.1",
+  "database": {
+    "questions": 620,
+    "primary_knowledge_point_links": 620,
+    "orphan_questions": 0,
+    "selected_question_count": 620,
+    "selected_questions_business_hash": "823d504584239109dd63363181c376b524585d02ff32cc38456e60ea856678fb"
+  },
+  "total": 15,
+  "new_questions": 15,
+  "matching_duplicates": 0,
+  "conflicts": 0,
+  "errors": [],
+  "ready": true,
+  "items": [
+    {
+      "index": 1,
+      "content_hash": "8dc7072b4964a2a9b9359b285626e6d6e4dc524e097cc915b187454688cab588",
+      "primary_code": "PHY-MAGNETIC-FIELD-DIRECTION",
+      "status": "new"
+    },
+    {
+      "index": 2,
+      "content_hash": "066dea18a8ece6aad0e3350e93332217329e09c627fc156179dfbbf44a6d2e3a",
+      "primary_code": "PHY-MAGNETIC-FIELD-DIRECTION",
+      "status": "new"
+    },
+    {
+      "index": 3,
+      "content_hash": "1809b85faced518ca5dba1b28a4c566ca03bfdf72f8f3ae7188f2f7e4618689f",
+      "primary_code": "PHY-OPTICS-REFRACTION",
+      "status": "new"
+    },
+    {
+      "index": 4,
+      "content_hash": "9d9eff600e878f6bd713175c95833cf74187285cc3648810b9a67b7aa14fc2fe",
+      "primary_code": "PHY-OPTICS-REFRACTION",
+      "status": "new"
+    },
+    {
+      "index": 5,
+      "content_hash": "fd372a891c2bf0ed5bbccc7b53e6136c5f26ec2843388867158bc42e14e8fa6b",
+      "primary_code": "PHY-NEWTON-THIRD-LAW",
+      "status": "new"
+    },
+    {
+      "index": 6,
+      "content_hash": "b6f113bc35becf9f04d60065972681c232c4e4329e076927a44103eafad9af33",
+      "primary_code": "PHY-NEWTON-THIRD-LAW",
+      "status": "new"
+    },
+    {
+      "index": 7,
+      "content_hash": "9cf7537800b813c09e8d1a51fac7967ce6f5cb6e428b8d17d8ea26cd07e2f4ab",
+      "primary_code": "PHY-CIRCUIT-OHM-LAW",
+      "status": "new"
+    },
+    {
+      "index": 8,
+      "content_hash": "17c6e5950fd44b9a94277345130559957aaf5dd7802f6bd35144fad7024c624e",
+      "primary_code": "PHY-ELECTROSTATICS-COULOMB-LAW",
+      "status": "new"
+    },
+    {
+      "index": 9,
+      "content_hash": "3ecca1d1d465317043667f0c56e1d77914a3b6bbaa1e3229cc454596973b327f",
+      "primary_code": "PHY-ELECTROSTATICS-COULOMB-LAW",
+      "status": "new"
+    },
+    {
+      "index": 10,
+      "content_hash": "0cefe9d564cef48604a3d99ed8c536fea6ca96c11f8f559ff67689124a28e2b1",
+      "primary_code": "PHY-INDUCTION-CURRENT-CONDITION",
+      "status": "new"
+    },
+    {
+      "index": 11,
+      "content_hash": "a1d6e12b1eaa4b3abd2e5eaa41c7e05d0ecacc9f84c1c982d61d2daa77c3d7bb",
+      "primary_code": "PHY-CIRCUIT-ELECTRIC-POWER",
+      "status": "new"
+    },
+    {
+      "index": 12,
+      "content_hash": "84f9733f28cae37b21464e0680913edc28e756ef0194b635674aee8d1976a454",
+      "primary_code": "PHY-FORCE-COMPOSITION",
+      "status": "new"
+    },
+    {
+      "index": 13,
+      "content_hash": "79c35e21adaaad68a336abf9effc19da383c5005142885b6f5702f721a5061b2",
+      "primary_code": "PHY-MOTION-DISPLACEMENT-DISTANCE",
+      "status": "new"
+    },
+    {
+      "index": 14,
+      "content_hash": "d629fdc2ba96974754c6c8946d03ff1eedd97663d0e3cdc3b387c627a0624713",
+      "primary_code": "PHY-MOTION-DISPLACEMENT-DISTANCE",
+      "status": "new"
+    },
+    {
+      "index": 15,
+      "content_hash": "39a13546e367f11f9aff7a1d83c66f4748f31f607d91109382a03a452e96da15",
+      "primary_code": "PHY-KINEMATICS-FREE-FALL",
+      "status": "new"
+    }
+  ]
+}

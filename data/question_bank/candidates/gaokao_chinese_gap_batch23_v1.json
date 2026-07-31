@@ -1,0 +1,126 @@
+{
+  "schema_version": "shiguang-question-candidate-v1",
+  "batch": "gaokao-chinese-gap-batch23",
+  "questions": [
+    {
+      "subject": "语文", "chapter": "名篇名句默写", "knowledge_points": ["理解性默写"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】学校策划“古人的学习观”主题展览，设“积累与坚持”“学习与反思”两个栏目。策展说明要求：所选名句必须同时切合栏目主题，并能准确体现句间逻辑。\n下列名句最适合放入“积累与坚持”栏目，且同时包含“不积累便不能实现目标”和“坚持便能获得成效”两层意思的一项是（ ）。",
+      "options": ["故不积跬步，无以至千里；锲而不舍，金石可镂", "学而不思则罔，思而不学则殆", "知之者不如好之者，好之者不如乐之者", "吾尝终日而思矣，不如须臾之所学也"], "answer": "A",
+      "solution": "A前句从反面说明积累是达到远方的必要条件，后句从正面说明坚持能够取得成效，两个限定都满足。B讨论学与思，C讨论学习境界，D比较空想与学习。",
+      "source": "GAOKAO-Bench|adapted:true|dataset:2010-2022_Chinese_Language_Ancient_Poetry_Dictation|commit:6dbb24f8d843",
+      "title": "学习观展览·积累与坚持", "tags": ["kp:CHN-MEMORIZATION-CONTEXT", "origin:external-adapted", "material-group:chn23-learning-quotes", "material-order:1", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-gap-batch23", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "名篇名句默写", "knowledge_points": ["理解性默写"], "difficulty": 4, "type": "single_choice",
+      "question": "【共同材料】学校策划“古人的学习观”主题展览，设“积累与坚持”“学习与反思”两个栏目。策展说明要求：所选名句必须同时切合栏目主题，并能准确体现句间逻辑。\n“学习与反思”栏目需要一组形成条件关系的名句：只学习却不思考会迷惘，只思考却不学习会困惑。下列最恰当的一项是（ ）。",
+      "options": ["吾尝跂而望矣，不如登高之博见也", "学而时习之，不亦说乎", "学而不思则罔，思而不学则殆", "博学而日参省乎己，则知明而行无过矣"], "answer": "C",
+      "solution": "C以两个“而不”分别指出学而不思、思而不学的后果，完整呈现题干要求的双向条件关系。D虽兼有学习与反省，但没有分别说明偏废任一方面的后果。",
+      "source": "GAOKAO-Bench|adapted:true|dataset:2010-2022_Chinese_Language_Ancient_Poetry_Dictation|commit:6dbb24f8d843",
+      "title": "学习观展览·学思关系", "tags": ["kp:CHN-MEMORIZATION-CONTEXT", "origin:external-adapted", "material-group:chn23-learning-quotes", "material-order:2", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-gap-batch23", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "名篇名句默写", "knowledge_points": ["易错字与通假字"], "difficulty": 2, "type": "single_choice",
+      "question": "【共同材料】校刊编辑核对古诗文引文时提出两条原则：第一，结合语境辨析同音字和形近字；第二，通假字的释义与原文书写不能混为一谈。\n下列引文书写完全正确的一项是（ ）。",
+      "options": ["艰难苦恨频霜鬓，潦倒新停浊酒杯", "舞幽壑之潜蛟，泣孤舟之嫠妇", "覆压三百余里，膈离天日", "驾一叶之扁舟，举匏尊以相嘱"], "answer": "B",
+      "solution": "B书写正确。A应为“繁霜鬓”；C应为“隔离天日”；D应为“举匏尊以相属”，“属”在这里意为劝请、邀约。",
+      "source": "GAOKAO-Bench|adapted:true|dataset:2010-2022_Chinese_Language_Ancient_Poetry_Dictation|commit:6dbb24f8d843",
+      "title": "校刊引文核对·易错字", "tags": ["kp:CHN-MEMORIZATION-VARIANTS", "origin:external-adapted", "material-group:chn23-text-proofing", "material-order:1", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-gap-batch23", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "名篇名句默写", "knowledge_points": ["易错字与通假字"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】校刊编辑核对古诗文引文时提出两条原则：第一，结合语境辨析同音字和形近字；第二，通假字的释义与原文书写不能混为一谈。\n下列对原文字形及其语境义的说明，正确的一项是（ ）。",
+      "options": ["“虽有槁暴”中的“有”同“友”，表示朋友", "“举酒属客”中的“属”同“嘱”，意为嘱咐客人", "“列缺霹雳”中的“列”同“裂”，意为云的缝隙", "“虽有槁暴”中的“暴”同“曝”，意为晒"], "answer": "D",
+      "solution": "D正确，“暴”通“曝”，在句中指晒。A“有”通“又”；B“属”意为劝请，不是通假字；C“列缺”指闪电，“列”不作“云的缝隙”解。",
+      "source": "GAOKAO-Bench|adapted:true|dataset:2010-2022_Chinese_Language_Ancient_Poetry_Dictation|commit:6dbb24f8d843",
+      "title": "校刊引文核对·通假语境义", "tags": ["kp:CHN-MEMORIZATION-VARIANTS", "origin:external-adapted", "material-group:chn23-text-proofing", "material-order:2", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-gap-batch23", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "写作", "knowledge_points": ["议论文立意"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】高原小城修复一条古渠。有人主张全部改成封闭管道，以减少渗漏；老人提醒，古渠还滋养沿线树木，并承载社区记忆。最终，工程团队保留部分明渠生态段，在缺水路段采用新管材，并建立用水监测系统。通水后，输水效率提高，渠边景观也得以延续。\n下列立意最切合材料整体含意的一项是（ ）。",
+      "options": ["传统设施具有历史价值，因此不应作任何改变", "技术方案应在效率、生态与文化价值之间寻求具体平衡", "只要采用新材料，所有公共工程都能成功", "社区记忆比现实用水需求更重要"], "answer": "B",
+      "solution": "材料的解决方案兼顾输水效率、沿线生态和社区记忆，核心不是简单选新或守旧，而是综合权衡并因地制宜。A、C、D都将其中一个方面绝对化。",
+      "source": "GAOKAO-Bench|adapted:true|dataset:2010-2022_Chinese_Language_Composition|commit:6dbb24f8d843",
+      "title": "古渠修复材料·整体立意", "tags": ["kp:CHN-WRITING-ARGUMENT", "origin:external-adapted", "material-group:chn23-canal", "material-order:1", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-gap-batch23", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "写作", "knowledge_points": ["议论文立意"], "difficulty": 4, "type": "single_choice",
+      "question": "【共同材料】高原小城修复一条古渠。有人主张全部改成封闭管道，以减少渗漏；老人提醒，古渠还滋养沿线树木，并承载社区记忆。最终，工程团队保留部分明渠生态段，在缺水路段采用新管材，并建立用水监测系统。通水后，输水效率提高，渠边景观也得以延续。\n若据此写议论文，下列中心论点最具思辨性的一项是（ ）。",
+      "options": ["更新不是抹去旧痕，而是辨明旧事物的多重价值后，使改变回应真实问题", "保护传统就是完整保存旧物的每一个细节", "现代工程的唯一尺度是输水效率", "折中方案总比立场明确的方案高明"], "answer": "A",
+      "solution": "A既承认更新的必要，又为更新设置“辨明多重价值、回应真实问题”的条件，准确概括材料中的辩证关系。B、C片面，D把特定情境中的综合方案泛化为无条件的折中崇拜。",
+      "source": "GAOKAO-Bench|adapted:true|dataset:2010-2022_Chinese_Language_Composition|commit:6dbb24f8d843",
+      "title": "古渠修复材料·思辨立意", "tags": ["kp:CHN-WRITING-ARGUMENT", "origin:external-adapted", "material-group:chn23-canal", "material-order:2", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-gap-batch23", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "写作", "knowledge_points": ["材料分析与运用"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】某中学开放图书馆晚间自习。首月到馆人数显著增加，但座位周转率低，一些同学用书包长期占座。学校随后推出预约、短时离席保留和候补提醒制度，并设置安静区与讨论区。第二个月，使用人数继续增加，投诉却明显减少。\n若论证“公共资源的开放需要规则保障公平”，下列材料运用最恰当的一项是（ ）。",
+      "options": ["只写首月人数增加，说明开放自然会带来公平", "对比占座问题与规则实施后的变化，说明开放权利须配合可执行的使用边界", "强调图书馆环境安静，说明读书一定使人自律", "由一所学校的变化断定所有公共场所都应实行同一套预约制度"], "answer": "B",
+      "solution": "B把开放后的新问题、制度调整和结果变化组成完整证据链，直接支撑“开放需要规则保障公平”。A遗漏问题，C无因果依据，D把个案做法机械推广。",
+      "source": "GAOKAO-Bench|adapted:true|dataset:2010-2022_Chinese_Language_Composition|commit:6dbb24f8d843",
+      "title": "图书馆开放材料·证据链", "tags": ["kp:CHN-WRITING-MATERIAL", "origin:external-adapted", "material-group:chn23-library", "material-order:1", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-gap-batch23", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "写作", "knowledge_points": ["材料分析与运用"], "difficulty": 4, "type": "single_choice",
+      "question": "【共同材料】某中学开放图书馆晚间自习。首月到馆人数显著增加，但座位周转率低，一些同学用书包长期占座。学校随后推出预约、短时离席保留和候补提醒制度，并设置安静区与讨论区。第二个月，使用人数继续增加，投诉却明显减少。\n依据材料，下列推论最严密的一项是（ ）。",
+      "options": ["投诉减少完全由预约系统造成，与空间分区无关", "规则越多越能保证公共资源公平", "有效规则应回应具体冲突，并在便利使用与约束不当占用之间保持尺度", "只要技术提醒足够及时，使用者就不需要形成公共意识"], "answer": "C",
+      "solution": "C从占座冲突、预约与离席保留并行等信息概括出规则的针对性和尺度感。A无法从多项措施中分离单一因果，B将规则数量等同效果，D夸大技术作用。",
+      "source": "GAOKAO-Bench|adapted:true|dataset:2010-2022_Chinese_Language_Composition|commit:6dbb24f8d843",
+      "title": "图书馆开放材料·严密推论", "tags": ["kp:CHN-WRITING-MATERIAL", "origin:external-adapted", "material-group:chn23-library", "material-order:2", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-gap-batch23", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "文学文化常识", "knowledge_points": ["篇目作者与语境"], "difficulty": 2, "type": "single_choice",
+      "question": "【共同材料】同学为古诗文朗诵会编排“作者—篇目—时代语境”说明卡。说明卡不仅要对应作者和篇目，还要避免把作品中的艺术想象直接当作作者生平事实。\n下列“作者—篇目”对应正确的一项是（ ）。",
+      "options": ["苏轼—《赤壁赋》", "杜甫—《琵琶行》", "李白—《蜀相》", "辛弃疾—《念奴娇·赤壁怀古》"], "answer": "A",
+      "solution": "《赤壁赋》作者为苏轼。B《琵琶行》作者为白居易；C《蜀相》作者为杜甫；D《念奴娇·赤壁怀古》作者为苏轼。",
+      "source": "GAOKAO-Bench|adapted:true|dataset:2010-2022_Chinese_Language_Ancient_Poetry_Dictation|commit:6dbb24f8d843",
+      "title": "朗诵会说明卡·作者篇目", "tags": ["kp:CHN-MEMORIZATION-AUTHOR", "origin:external-adapted", "material-group:chn23-author-context", "material-order:1", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-gap-batch23", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "文学文化常识", "knowledge_points": ["篇目作者与语境"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】同学为古诗文朗诵会编排“作者—篇目—时代语境”说明卡。说明卡不仅要对应作者和篇目，还要避免把作品中的艺术想象直接当作作者生平事实。\n下列说明卡表述最准确的一项是（ ）。",
+      "options": ["《赤壁赋》写苏轼夜游赤壁并借主客问答思考人生，篇中“客”的全部言论都可视为真实友人的原话", "《蜀道难》以瑰奇想象铺写蜀道艰险，不能据诗中神话传说断定李白亲历了相关远古事件", "《琵琶行》由杜甫贬居浔阳时所作，借商妇身世感叹自身遭际", "《永遇乐·京口北固亭怀古》由苏轼登临北固亭时所作，主要追忆三国周瑜"], "answer": "B",
+      "solution": "B正确区分作品艺术想象与作者生平事实。A把文学构设的主客对话简单等同实录；C作者应为白居易；D作者为辛弃疾，涉及孙权、刘裕等历史人物。",
+      "source": "GAOKAO-Bench|adapted:true|dataset:2010-2022_Chinese_Language_Ancient_Poetry_Dictation|commit:6dbb24f8d843",
+      "title": "朗诵会说明卡·作品语境", "tags": ["kp:CHN-MEMORIZATION-AUTHOR", "origin:external-adapted", "material-group:chn23-author-context", "material-order:2", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-gap-batch23", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "写作", "knowledge_points": ["论证结构与方法"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】下面是一篇议论文的提纲：\n中心论点：真正的韧性不是拒绝改变，而是在变化中守住目标。\n第一部分：解释“韧性”与“僵硬”的区别。\n第二部分：列举竹子受风弯曲而不折、科研团队调整实验路径两个事例。\n第三部分：分析若把坚持误解为重复旧办法，反而可能离目标更远。\n结尾：回扣青年成长，应守目标而善调整。\n对该提纲论证结构的概括，最准确的一项是（ ）。",
+      "options": ["先提出并辨析概念，再用事例正面论证，继而从反面补充，最后联系现实收束", "全文按时间顺序叙述两个故事，没有提出观点", "先否定中心论点，再用类比证明僵硬更可贵", "各部分彼此并列，均只说明竹子的生长特点"], "answer": "A",
+      "solution": "提纲依次完成概念辨析、正面举例、反面分析和现实收束，A准确呈现其层次与功能。其余选项均忽略中心论点或误判各部分关系。",
+      "source": "GAOKAO-Bench|adapted:true|dataset:2010-2022_Chinese_Language_Composition|commit:6dbb24f8d843",
+      "title": "韧性提纲·结构辨析", "tags": ["kp:CHN-WRITING-STRUCTURE", "origin:external-adapted", "material-group:chn23-argument-structure", "material-order:1", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-gap-batch23", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "写作", "knowledge_points": ["论证结构与方法"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】下面是一篇议论文的提纲：\n中心论点：真正的韧性不是拒绝改变，而是在变化中守住目标。\n第一部分：解释“韧性”与“僵硬”的区别。\n第二部分：列举竹子受风弯曲而不折、科研团队调整实验路径两个事例。\n第三部分：分析若把坚持误解为重复旧办法，反而可能离目标更远。\n结尾：回扣青年成长，应守目标而善调整。\n为增强第二部分两个事例之间的逻辑联系，下列修改最恰当的一项是（ ）。",
+      "options": ["删去对事例的分析，只保留细节以增加篇幅", "在两例后指出：前者以自然现象作类比，后者以实践事实印证，二者共同说明“形可变而目标不失”", "把两个事例都改成名人名言，以免出现不同领域", "在每个事例后重复一次中心论点，不再解释事例与观点的关系"], "answer": "B",
+      "solution": "B明确两例的不同论证功能及共同指向，使材料不止于堆砌。A、D弱化分析，C误以为跨领域必然破坏逻辑。",
+      "source": "GAOKAO-Bench|adapted:true|dataset:2010-2022_Chinese_Language_Composition|commit:6dbb24f8d843",
+      "title": "韧性提纲·事例勾连", "tags": ["kp:CHN-WRITING-STRUCTURE", "origin:external-adapted", "material-group:chn23-argument-structure", "material-order:2", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-gap-batch23", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "古代诗歌阅读", "knowledge_points": ["诗歌思想感情"], "difficulty": 3, "type": "single_choice",
+      "question": "阅读下面这首诗，完成题目。\n秋夜寄丘二十二员外\n韦应物\n怀君属秋夜，散步咏凉天。\n空山松子落，幽人应未眠。\n下列对诗歌思想感情的理解，最恰当的一项是（ ）。",
+      "options": ["诗人借秋夜散步与遥想友人未眠，表达清幽意境中的思念和心灵相契", "诗人听见松子落地，主要表达对山中猛兽的恐惧", "诗人以“凉天”控诉仕途失意，决意从此不再为官", "诗人断定友人彻夜宴饮，流露对奢靡生活的不满"], "answer": "A",
+      "solution": "“怀君”直点思念，“幽人应未眠”由自己的秋夜散步遥想友人，松子落的清幽声响强化两人精神相契的意蕴。其余选项均无文本依据。",
+      "source": "Wikisource|adapted:true|work:秋夜寄丘二十二员外|author:韦应物|public-domain",
+      "title": "韦应物《秋夜寄丘二十二员外》·情感理解", "tags": ["kp:CHN-POETRY-EMOTION", "origin:external-adapted", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-gap-batch23", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "文言文阅读", "knowledge_points": ["文言文翻译"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】阅读下面的文言短文。\n孟子谓戴不胜曰：“子欲子之王之善与？我明告子。有楚大夫于此，欲其子之齐语也，则使齐人傅诸？使楚人傅诸？”曰：“使齐人傅之。”曰：“一齐人傅之，众楚人咻之，虽日挞而求其齐也，不可得矣；引而置之庄岳之间数年，虽日挞而求其楚，亦不可得矣。”（节选自《孟子·滕文公下》）\n下列对“虽日挞而求其齐也，不可得矣”的翻译，最准确的一项是（ ）。",
+      "options": ["即使每天鞭打他，要求他说齐国话，也不可能做到了", "虽然白天鞭打齐国人，但寻找齐国人是不可能的", "即使太阳暴晒，楚国人也不能到达齐国", "虽然每日训练他，却不应要求他学习齐国礼仪"], "answer": "A",
+      "solution": "“虽”意为即使，“日”作状语，每天；“挞”意为鞭打、责罚；“求其齐”结合上文指要求他说齐语；“不可得”指不能实现。A落实了关键词和句意。",
+      "source": "Chinese Text Project|adapted:true|work:孟子·滕文公下|public-domain",
+      "title": "孟子齐语材料·句子翻译", "tags": ["kp:CHN-CLASSICAL-TRANSLATION", "origin:external-adapted", "material-group:chn23-mencius-language", "material-order:1", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-gap-batch23", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "文言文阅读", "knowledge_points": ["文言实词与虚词"], "difficulty": 2, "type": "single_choice",
+      "question": "【共同材料】阅读下面的文言短文。\n孟子谓戴不胜曰：“子欲子之王之善与？我明告子。有楚大夫于此，欲其子之齐语也，则使齐人傅诸？使楚人傅诸？”曰：“使齐人傅之。”曰：“一齐人傅之，众楚人咻之，虽日挞而求其齐也，不可得矣；引而置之庄岳之间数年，虽日挞而求其楚，亦不可得矣。”（节选自《孟子·滕文公下》）\n下列对加点词语境义的解释，不正确的一项是（ ）。",
+      "options": ["傅：教导", "咻：喧扰", "引：带领", "置：购买"], "answer": "D",
+      "solution": "“引而置之庄岳之间”意为把他带到并安置在齐国庄、岳闹市之间，“置”是安置，不是购买。傅、咻、引的解释均符合语境。",
+      "source": "Chinese Text Project|adapted:true|work:孟子·滕文公下|public-domain",
+      "title": "孟子齐语材料·实词语境义", "tags": ["kp:CHN-CLASSICAL-WORDS", "origin:external-adapted", "material-group:chn23-mencius-language", "material-order:2", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-gap-batch23", "review:independent-answer-passed"]
+    }
+  ]
+}
