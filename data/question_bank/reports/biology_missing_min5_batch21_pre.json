@@ -1,0 +1,74 @@
+{
+  "command": "missing",
+  "mapping_version": "kp-mapping-v1.1",
+  "subject": "生物",
+  "minimum": 5,
+  "missing_count": 7,
+  "empty_count": 0,
+  "insufficient_count": 7,
+  "items": [
+    {
+      "code": "BIO-CELL-LIFE-CYCLE",
+      "name": "细胞生命历程",
+      "subject": "生物",
+      "question_count": 4,
+      "status": "insufficient",
+      "gap_to_minimum": 1,
+      "gap_to_10": 6
+    },
+    {
+      "code": "BIO-CELL-MOLECULE",
+      "name": "组成细胞的分子",
+      "subject": "生物",
+      "question_count": 4,
+      "status": "insufficient",
+      "gap_to_minimum": 1,
+      "gap_to_10": 6
+    },
+    {
+      "code": "BIO-ECOLOGY-ECOSYSTEM",
+      "name": "生态系统结构与功能",
+      "subject": "生物",
+      "question_count": 4,
+      "status": "insufficient",
+      "gap_to_minimum": 1,
+      "gap_to_10": 6
+    },
+    {
+      "code": "BIO-ECOLOGY-ENVIRONMENT",
+      "name": "生态环境保护",
+      "subject": "生物",
+      "question_count": 4,
+      "status": "insufficient",
+      "gap_to_minimum": 1,
+      "gap_to_10": 6
+    },
+    {
+      "code": "BIO-HOMEOSTASIS-IMMUNE",
+      "name": "免疫调节",
+      "subject": "生物",
+      "question_count": 3,
+      "status": "insufficient",
+      "gap_to_minimum": 2,
+      "gap_to_10": 7
+    },
+    {
+      "code": "BIO-HOMEOSTASIS-PLANT",
+      "name": "植物生命活动调节",
+      "subject": "生物",
+      "question_count": 3,
+      "status": "insufficient",
+      "gap_to_minimum": 2,
+      "gap_to_10": 7
+    },
+    {
+      "code": "BIO-TECHNOLOGY-CELL-GENE",
+      "name": "细胞工程与基因工程",
+      "subject": "生物",
+      "question_count": 4,
+      "status": "insufficient",
+      "gap_to_minimum": 1,
+      "gap_to_10": 6
+    }
+  ]
+}

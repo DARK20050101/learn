@@ -1,0 +1,101 @@
+{
+  "command": "missing",
+  "mapping_version": "kp-mapping-v1.1",
+  "subject": "英语",
+  "minimum": 5,
+  "missing_count": 10,
+  "empty_count": 1,
+  "insufficient_count": 9,
+  "items": [
+    {
+      "code": "ENG-CLAUSE-OBJECT-WORD-ORDER",
+      "name": "宾语从句的语序",
+      "subject": "英语",
+      "question_count": 1,
+      "status": "insufficient",
+      "gap_to_minimum": 4,
+      "gap_to_10": 9
+    },
+    {
+      "code": "ENG-GRAMMAR-ADJECTIVE-COMPARATIVE",
+      "name": "形容词比较级",
+      "subject": "英语",
+      "question_count": 2,
+      "status": "insufficient",
+      "gap_to_minimum": 3,
+      "gap_to_10": 8
+    },
+    {
+      "code": "ENG-GRAMMAR-AGREEMENT-PROXIMITY",
+      "name": "主谓一致的就近原则",
+      "subject": "英语",
+      "question_count": 1,
+      "status": "insufficient",
+      "gap_to_minimum": 4,
+      "gap_to_10": 9
+    },
+    {
+      "code": "ENG-GRAMMAR-MODAL-BASIC",
+      "name": "情态动词的基本用法",
+      "subject": "英语",
+      "question_count": 4,
+      "status": "insufficient",
+      "gap_to_minimum": 1,
+      "gap_to_10": 6
+    },
+    {
+      "code": "ENG-GRAMMAR-TENSE-PAST-CONTINUOUS",
+      "name": "过去进行时",
+      "subject": "英语",
+      "question_count": 4,
+      "status": "insufficient",
+      "gap_to_minimum": 1,
+      "gap_to_10": 6
+    },
+    {
+      "code": "ENG-GRAMMAR-TENSE-PRESENT-SIMPLE",
+      "name": "一般现在时",
+      "subject": "英语",
+      "question_count": 3,
+      "status": "insufficient",
+      "gap_to_minimum": 2,
+      "gap_to_10": 7
+    },
+    {
+      "code": "ENG-GRAMMAR-THERE-BE",
+      "name": "There be 句型",
+      "subject": "英语",
+      "question_count": 0,
+      "status": "empty",
+      "gap_to_minimum": 5,
+      "gap_to_10": 10
+    },
+    {
+      "code": "ENG-GRAMMAR-VOICE-PRESENT-PASSIVE",
+      "name": "一般现在时被动语态",
+      "subject": "英语",
+      "question_count": 3,
+      "status": "insufficient",
+      "gap_to_minimum": 2,
+      "gap_to_10": 7
+    },
+    {
+      "code": "ENG-NONFINITE-GERUND-SUBJECT",
+      "name": "动名词短语作主语",
+      "subject": "英语",
+      "question_count": 4,
+      "status": "insufficient",
+      "gap_to_minimum": 1,
+      "gap_to_10": 6
+    },
+    {
+      "code": "ENG-VOCAB-CONTEXT-ADVERB",
+      "name": "副词语境辨析",
+      "subject": "英语",
+      "question_count": 2,
+      "status": "insufficient",
+      "gap_to_minimum": 3,
+      "gap_to_10": 8
+    }
+  ]
+}

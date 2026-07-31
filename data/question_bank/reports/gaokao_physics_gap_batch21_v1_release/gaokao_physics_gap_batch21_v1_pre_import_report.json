@@ -1,0 +1,111 @@
+{
+  "report": "pre_import",
+  "filename": "gaokao_physics_gap_batch21_v1.json",
+  "file_hash": "996346244e948534ba77fe3ba11e7640ad90d85e24c94a7b0d5732d98fd4e5d2",
+  "mapping_version": "kp-mapping-v1.1",
+  "database": {
+    "questions": 515,
+    "primary_knowledge_point_links": 515,
+    "orphan_questions": 0,
+    "selected_question_count": 515,
+    "selected_questions_business_hash": "bf0aa9e55535fd915d684cd874c4e110f0965394aa1534fc9cd9aa6c0bab661b"
+  },
+  "total": 15,
+  "new_questions": 15,
+  "matching_duplicates": 0,
+  "conflicts": 0,
+  "errors": [],
+  "ready": true,
+  "items": [
+    {
+      "index": 1,
+      "content_hash": "993194b74aaf0d09c8a5a6e09d4022518482225a22ee9597024897e408dc1b4d",
+      "primary_code": "PHY-NEWTON-THIRD-LAW",
+      "status": "new"
+    },
+    {
+      "index": 2,
+      "content_hash": "a5a6c00790da7bbfb5c38e1520a997f599dd29a0aad5e9b426ecfcea59d80d93",
+      "primary_code": "PHY-NEWTON-THIRD-LAW",
+      "status": "new"
+    },
+    {
+      "index": 3,
+      "content_hash": "986d1e90e7d029581a4923fdb77e4473a08cc73c346d0ddced9528b6c78a9bd1",
+      "primary_code": "PHY-MOTION-DISPLACEMENT-DISTANCE",
+      "status": "new"
+    },
+    {
+      "index": 4,
+      "content_hash": "a602aa0b7366bbd13e67c9731e546a201bf7c302136261ddba0cb4b2f2df1ac6",
+      "primary_code": "PHY-MOTION-DISPLACEMENT-DISTANCE",
+      "status": "new"
+    },
+    {
+      "index": 5,
+      "content_hash": "1ae698a38438d379cc540691b5438b5db925a0b914523238bbd4ed967414903a",
+      "primary_code": "PHY-OPTICS-REFRACTION",
+      "status": "new"
+    },
+    {
+      "index": 6,
+      "content_hash": "a124a5fd194dd0a98c2eb8e883ebf668a859b03e50e56c8e746432a55ebabde3",
+      "primary_code": "PHY-OPTICS-REFRACTION",
+      "status": "new"
+    },
+    {
+      "index": 7,
+      "content_hash": "06a9147f8c80400b79141415ab1779a8c8a58bd02985ade50d280c46641bc074",
+      "primary_code": "PHY-CIRCUIT-OHM-LAW",
+      "status": "new"
+    },
+    {
+      "index": 8,
+      "content_hash": "5e8f6338702d2c7ab2a5d201ee7dcc545c91d2bddf4901f1f681a5c0117a4fb7",
+      "primary_code": "PHY-CIRCUIT-OHM-LAW",
+      "status": "new"
+    },
+    {
+      "index": 9,
+      "content_hash": "9716f51e62446495c1d0648003dc779ae7a8da73b57264cc4f071eb37944c8ea",
+      "primary_code": "PHY-CIRCUIT-OHM-LAW",
+      "status": "new"
+    },
+    {
+      "index": 10,
+      "content_hash": "a968d77d68b64805371f59131d8b1fd7aeddda9a08be24870d9d35099fd7c29d",
+      "primary_code": "PHY-ELECTROSTATICS-COULOMB-LAW",
+      "status": "new"
+    },
+    {
+      "index": 11,
+      "content_hash": "5023ddf3f55001c902437f4e6f7db8942821010bc18f661921e9b0808db38604",
+      "primary_code": "PHY-ELECTROSTATICS-COULOMB-LAW",
+      "status": "new"
+    },
+    {
+      "index": 12,
+      "content_hash": "c4ea03978bd04a6ca601f050c1d3584030f53246593395f8facf40b245234e2b",
+      "primary_code": "PHY-INDUCTION-CURRENT-CONDITION",
+      "status": "new"
+    },
+    {
+      "index": 13,
+      "content_hash": "0b4d4799f1e0a97ce158d058b96a33b6cb62e3e795f1dfc89094c83a9f31ea5b",
+      "primary_code": "PHY-INDUCTION-CURRENT-CONDITION",
+      "status": "new"
+    },
+    {
+      "index": 14,
+      "content_hash": "cc21f183dedb9aa472db59738dab32b17225bc96cdbb345438c2d8bf3b5cfcd2",
+      "primary_code": "PHY-CIRCUIT-ELECTRIC-POWER",
+      "status": "new"
+    },
+    {
+      "index": 15,
+      "content_hash": "a8b8b3fde663aeacbb5cf50fe4c30f34460c8819492424ad4fd649caf524d0d3",
+      "primary_code": "PHY-CIRCUIT-ELECTRIC-POWER",
+      "status": "new"
+    }
+  ]
+}

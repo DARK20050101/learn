@@ -1,0 +1,357 @@
+{
+  "command": "lint",
+  "total": 45,
+  "passed": 45,
+  "errors": 0,
+  "warnings": 0,
+  "files": [
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "gaokao_physics_gap_batch21_v1.json",
+      "total": 15,
+      "passed": 15,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "一名运动员站在水平地面上保持静止。关于运动员受到的重力和运动员对地面的压力，下列说法正确的是（ ）",
+          "content_hash": "993194b74aaf0d09c8a5a6e09d4022518482225a22ee9597024897e408dc1b4d",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 2,
+          "question": "【共同材料】甲、乙两人穿着冰鞋静止在水平冰面上，甲的质量为 $60\\ \\mathrm{kg}$，乙的质量为 $40\\ \\mathrm{kg}$。甲用水平恒力推乙，在接触的 $0.50\\ \\mathrm",
+          "content_hash": "a5a6c00790da7bbfb5c38e1520a997f599dd29a0aad5e9b426ecfcea59d80d93",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 3,
+          "question": "一名学生沿直线跑道先向东运动 $120\\ \\mathrm{m}$，再向西运动 $50\\ \\mathrm{m}$。若规定向东为正方向，则该过程的路程和位移分别为（ ）",
+          "content_hash": "986d1e90e7d029581a4923fdb77e4473a08cc73c346d0ddced9528b6c78a9bd1",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 4,
+          "question": "【共同材料】某运动员在半径为 $50\\ \\mathrm{m}$ 的圆形跑道上从 $A$ 点出发，沿跑道运动四分之三周到达 $B$ 点。\n\n此过程运动员的路程与位移大小之比为（ ）",
+          "content_hash": "a602aa0b7366bbd13e67c9731e546a201bf7c302136261ddba0cb4b2f2df1ac6",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 5,
+          "question": "一束单色光从空气斜射入折射率为 $\\sqrt3$ 的玻璃，入射角为 $60^\\circ$。折射角为（ ）",
+          "content_hash": "1ae698a38438d379cc540691b5438b5db925a0b914523238bbd4ed967414903a",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 6,
+          "question": "【共同材料】一块上下表面平行、厚度为 $6.0\\ \\mathrm{cm}$ 的玻璃砖折射率为 $1.5$。一束光从空气以入射角 $60^\\circ$ 射入玻璃砖，再从下表面射出。\n\n光线在玻璃砖内传播",
+          "content_hash": "a124a5fd194dd0a98c2eb8e883ebf668a859b03e50e56c8e746432a55ebabde3",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 7,
+          "question": "【共同材料】某导体两端的电压为 $6.0\\ \\mathrm{V}$ 时，通过它的电流为 $0.30\\ \\mathrm{A}$，导体温度保持不变。\n\n若导体两端电压增至 $10.0\\ \\mathrm{V",
+          "content_hash": "06a9147f8c80400b79141415ab1779a8c8a58bd02985ade50d280c46641bc074",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 8,
+          "question": "【共同材料】电源电压恒为 $12\\ \\mathrm{V}$，定值电阻 $R_1=4\\ \\Omega$ 与 $R_2=8\\ \\Omega$ 串联，电表均为理想电表。\n\n$R_2$ 两端的电压为（ ）",
+          "content_hash": "5e8f6338702d2c7ab2a5d201ee7dcc545c91d2bddf4901f1f681a5c0117a4fb7",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 9,
+          "question": "【共同材料】一电源电动势为 $12\\ \\mathrm{V}$、内阻为 $2\\ \\Omega$，外电路由定值电阻 $R=4\\ \\Omega$ 与滑动变阻器串联组成。当滑动变阻器接入电路的阻值为 $6\\ ",
+          "content_hash": "9716f51e62446495c1d0648003dc779ae7a8da73b57264cc4f071eb37944c8ea",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 10,
+          "question": "真空中两个点电荷的电荷量分别为 $+2q$ 和 $-q$，相距 $r$ 时库仑力大小为 $F$。若两电荷的电荷量均变为原来的2倍、距离变为 $2r$，则库仑力大小变为（ ）",
+          "content_hash": "a968d77d68b64805371f59131d8b1fd7aeddda9a08be24870d9d35099fd7c29d",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 11,
+          "question": "【共同材料】在光滑绝缘水平面上，三个相同的带正电小球固定在一条直线上，电荷量均为 $q$。小球A、B间距为 $r$，B、C间距为 $2r$。\n\n解除对B的固定瞬间，B受到的合力大小为（ ）",
+          "content_hash": "5023ddf3f55001c902437f4e6f7db8942821010bc18f661921e9b0808db38604",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 12,
+          "question": "闭合线圈放在匀强磁场中，下列情况一定能在线圈中产生感应电流的是（ ）",
+          "content_hash": "c4ea03978bd04a6ca601f050c1d3584030f53246593395f8facf40b245234e2b",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 13,
+          "question": "【共同材料】两根足够长的平行金属导轨构成闭合回路，导轨间距为 $L$，整个装置处在垂直导轨平面的匀强磁场中。一根导体棒垂直导轨放置并保持良好接触。\n\n下列运动中，回路里没有感应电流的是（ ）",
+          "content_hash": "0b4d4799f1e0a97ce158d058b96a33b6cb62e3e795f1dfc89094c83a9f31ea5b",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 14,
+          "question": "【共同材料】一台直流电动机接在 $12\\ \\mathrm{V}$ 电源上，正常工作时电流为 $2.0\\ \\mathrm{A}$，线圈电阻为 $1.0\\ \\Omega$。\n\n电动机正常工作时的输出机械功",
+          "content_hash": "cc21f183dedb9aa472db59738dab32b17225bc96cdbb345438c2d8bf3b5cfcd2",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 15,
+          "question": "【共同材料】额定电压均为 $6\\ \\mathrm{V}$ 的灯泡甲、乙，额定功率分别为 $3\\ \\mathrm{W}$ 和 $6\\ \\mathrm{W}$。将两灯串联后接在电压可调的电源上，灯丝电阻视",
+          "content_hash": "a8b8b3fde663aeacbb5cf50fe4c30f34460c8819492424ad4fd649caf524d0d3",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "gaokao_english_advanced_batch21_v1.json",
+      "total": 15,
+      "passed": 15,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "【共同材料】For years, biologists counted a rare tree frog by walking through wetlands at night and listen",
+          "content_hash": "f510adf811e65595710ef49ff5fd16b48db3a7465c69423141cc913e54d8a51b",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 2,
+          "question": "【共同材料】For years, biologists counted a rare tree frog by walking through wetlands at night and listen",
+          "content_hash": "9012a1ce0db52e075660e0229b5eeb2ffc5f78bf590311e6a38fb904911c8169",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 3,
+          "question": "【共同材料】For years, biologists counted a rare tree frog by walking through wetlands at night and listen",
+          "content_hash": "880b4b4c13344e665e78094e759e91972f6314e3aa3715e59a3f42a3b213cb37",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 4,
+          "question": "【共同材料】For years, biologists counted a rare tree frog by walking through wetlands at night and listen",
+          "content_hash": "99fd57ed4c900cd2e4b9e6fbf97eced652b0e75d7514fa8edf51a21a0c50c247",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 5,
+          "question": "【共同材料】Visitors to museums often spend only a few seconds in front of each object. To test whether la",
+          "content_hash": "43fed06716d1d5c28ca17d9aecffe58f4974419e002b3dc4f1244951974e3534",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 6,
+          "question": "【共同材料】Visitors to museums often spend only a few seconds in front of each object. To test whether la",
+          "content_hash": "50eb7e202dd1885d5f71aca3f5049adc667f42b01cd274c811612fc261655add",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 7,
+          "question": "【共同材料】Visitors to museums often spend only a few seconds in front of each object. To test whether la",
+          "content_hash": "cb160c43db45cd6ee81d4a4059ac55306249cc9eeea74cb9a50af5f8b63df9f0",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 8,
+          "question": "【共同材料】Visitors to museums often spend only a few seconds in front of each object. To test whether la",
+          "content_hash": "bf99ca9bea32e44eba8de1164b09c95853314262c46d4256bc5577e010126ed7",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 9,
+          "question": "【共同材料】After a summer storm flooded the community seed library, Lina expected to find only ruined pac",
+          "content_hash": "47779abd4b3cfd3cb929c8498129684aa78f99fa08e489c4eb36717fa3702fe3",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 10,
+          "question": "【共同材料】After a summer storm flooded the community seed library, Lina expected to find only ruined pac",
+          "content_hash": "4eed17f74b3609b30ba8f172bae87411b070462b7199af1347921bece6f5f59a",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 11,
+          "question": "【共同材料】After a summer storm flooded the community seed library, Lina expected to find only ruined pac",
+          "content_hash": "4d01b021baeb74825b61c06780868bd7b7c4bd75c55b2ce8c26423b2029b5cc4",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 12,
+          "question": "【共同材料】After a summer storm flooded the community seed library, Lina expected to find only ruined pac",
+          "content_hash": "7f5626ff87eaae4d8a3cb5be1473ff7c628d9c54ef0b827c536fb7ac5b43be23",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 13,
+          "question": "【共同材料】After a summer storm flooded the community seed library, Lina expected to find only ruined pac",
+          "content_hash": "528b1287b26dca8095479df35ba49568e30c7915ed42a9d06072fa647c178729",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 14,
+          "question": "______ to seasonal flooding for centuries, the farming method is now being studied by engineers seek",
+          "content_hash": "c518fe16755deeb5530e76cdbf1b69a5b259e9453894d803f7509a4157b877be",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 15,
+          "question": "The committee published the criteria by ______ proposals would be judged, allowing every applicant t",
+          "content_hash": "530680126812f1c1e1b4a12700e01e71a331434debb9e0216fb045724cbf255f",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "gaokao_math_advanced_batch21_v1.json",
+      "total": 15,
+      "passed": 15,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "【共同材料】设函数 $f_a(x)=\\ln x-ax$（$x>0$，$a>0$）。\n\n当 $a=\\dfrac12$ 时，函数 $f_a(x)$ 取得最大值处的横坐标为（ ）",
+          "content_hash": "cbaab3fa850bc213445e552dedf1c1f05da7d4fa5dd09a6db16e503557117a9e",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 2,
+          "question": "【共同材料】设函数 $f_a(x)=\\ln x-ax$（$x>0$，$a>0$）。\n\n函数 $f_a(x)$ 的最大值为（ ）",
+          "content_hash": "b9274551baafcba1db5ab1b4f20a3e8bfe2011a3f57b641511b2bc21497836b3",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 3,
+          "question": "【共同材料】设函数 $f_a(x)=\\ln x-ax$（$x>0$，$a>0$）。\n\n若方程 $\\ln x=ax$ 有两个不同的正实根，则 $a$ 的取值范围是（ ）",
+          "content_hash": "4286df85cfbdd2b56ab2aa57dfc012918110141a97a95c48ac2f6d021b444ad1",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 4,
+          "question": "【共同材料】设函数 $f_a(x)=\\ln x-ax$（$x>0$，$a>0$）。\n\n当 $a=e^{-1}$ 时，方程 $f_a(x)=0$ 的正实根为（ ）",
+          "content_hash": "b890fedd99b5d90fe009070d3794f8e82c8266320dadbe5b3f4c5cf05feab70f",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 5,
+          "question": "【共同材料】设函数 $f_a(x)=\\ln x-ax$（$x>0$，$a>0$）。\n\n若对任意 $x>0$，不等式 $\\ln x\\le ax$ 恒成立，则 $a$ 的最小值为（ ）",
+          "content_hash": "e1ee31d25b2a0ceee1e9462e8fb60d0ef538d4d1a04eb6fd0df35ad5189e4a32",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 6,
+          "question": "【共同材料】数列 $\\{a_n\\}$ 满足 $a_1=1$，$a_{n+1}=2a_n+1$。令 $b_n=a_n+1$。\n\n数列 $\\{b_n\\}$ 是（ ）",
+          "content_hash": "1a9a9599198d19ad047b7b8b597d3f9c3d7dd9488ce24f5119b624bf0118968b",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 7,
+          "question": "【共同材料】数列 $\\{a_n\\}$ 满足 $a_1=1$，$a_{n+1}=2a_n+1$。\n\n数列 $\\{a_n\\}$ 的通项公式为（ ）",
+          "content_hash": "a77e962dd786e05fe9557e6aa2ba53bceab4d63a5422900b7a05c82d6efe483f",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 8,
+          "question": "【共同材料】数列 $\\{a_n\\}$ 满足 $a_1=1$，$a_{n+1}=2a_n+1$。记 $S_n=a_1+a_2+\\cdots+a_n$。\n\n$S_5=$（ ）",
+          "content_hash": "d7f1bfbb716f8217d855f7bb422f25218a39b6b6aa354f67e0a82c8b1e9c0882",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 9,
+          "question": "【共同材料】数列 $\\{a_n\\}$ 满足 $a_1=1$，$a_{n+1}=2a_n+1$。\n\n$\\displaystyle\\sum_{n=1}^{N}\\frac{1}{(a_n+1)(a_{n+1",
+          "content_hash": "44baf79debf5cee2db7ef068f3474addd3cde7657928c1794843c38774a68f6a",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 10,
+          "question": "【共同材料】数列 $\\{a_n\\}$ 满足 $a_1=1$，$a_{n+1}=2a_n+1$。\n\n$\\displaystyle\\sum_{n=1}^{5}\\frac{n}{a_n+1}=$（ ）",
+          "content_hash": "1176e3eeea722a42a9466444ce2e0a97512b1d2b0347a73bbd135f601a3f5ffc",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 11,
+          "question": "【共同材料】抛物线 $C:y^2=4x$ 与直线 $l_k:y=kx+1$（$k\\ne0$）相交于 $A,B$ 两点。\n\n当 $k=-1$ 时，$A,B$ 两点横坐标之和为（ ）",
+          "content_hash": "097c9404c02d93c9bd7132b0bb2331b4c497910b1252f98ef17223eb0271db03",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 12,
+          "question": "【共同材料】抛物线 $C:y^2=4x$ 与直线 $l_k:y=kx+1$（$k\\ne0$）相交于 $A,B$ 两点。\n\n当 $k=-1$ 时，弦 $AB$ 的中点坐标为（ ）",
+          "content_hash": "c1b4b7aad8e1a623f9d5b21243348e3c5f92442aa2ef5e7029baf1f9262a914a",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 13,
+          "question": "【共同材料】抛物线 $C:y^2=4x$ 与直线 $l_k:y=kx+1$（$k\\ne0$）相交于 $A,B$ 两点。\n\n当 $k=-1$ 时，弦长 $|AB|=$（ ）",
+          "content_hash": "bfb9328698090af3c8adb032a11a7ec9c134bf2c15593127d3005f727a1d5e18",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 14,
+          "question": "【共同材料】抛物线 $C:y^2=4x$ 与直线 $l_k:y=kx+1$（$k\\ne0$）相交。\n\n若直线 $l_k$ 与抛物线 $C$ 相切，则 $k=$（ ）",
+          "content_hash": "1d0cb9bb94aef8d6d958b11c0f9e4495b4c3489a9c1e2f318b9ed09ae04bfb58",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 15,
+          "question": "【共同材料】抛物线 $C:y^2=4x$ 的焦点为 $F$，直线 $l_k:y=kx+1$（$k\\ne0$）。\n\n若 $l_k$ 经过焦点 $F$，则 $k=$（ ）",
+          "content_hash": "cbec22c47f6cdfec8b0f643af0ab3ac0291213c01c7567c071f49e883fe4bdbb",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "report": "pre_import",
+  "filename": "gaokao_english_advanced_batch21_v1.json",
+  "file_hash": "1966ee605839085c13fafc500a9d5fceb505604cd7769b59e1c952679640ceb1",
+  "mapping_version": "kp-mapping-v1.1",
+  "database": {
+    "questions": 530,
+    "primary_knowledge_point_links": 530,
+    "orphan_questions": 0,
+    "selected_question_count": 530,
+    "selected_questions_business_hash": "ec113736db5e8fde8c1443bb9d4fc9b8448c1e2d86a72f7424cd99698f4a4d73"
+  },
+  "total": 15,
+  "new_questions": 15,
+  "matching_duplicates": 0,
+  "conflicts": 0,
+  "errors": [],
+  "ready": true,
+  "items": [
+    {
+      "index": 1,
+      "content_hash": "f510adf811e65595710ef49ff5fd16b48db3a7465c69423141cc913e54d8a51b",
+      "primary_code": "ENG-READING-DETAIL",
+      "status": "new"
+    },
+    {
+      "index": 2,
+      "content_hash": "9012a1ce0db52e075660e0229b5eeb2ffc5f78bf590311e6a38fb904911c8169",
+      "primary_code": "ENG-READING-MAIN-IDEA",
+      "status": "new"
+    },
+    {
+      "index": 3,
+      "content_hash": "880b4b4c13344e665e78094e759e91972f6314e3aa3715e59a3f42a3b213cb37",
+      "primary_code": "ENG-READING-MAIN-IDEA",
+      "status": "new"
+    },
+    {
+      "index": 4,
+      "content_hash": "99fd57ed4c900cd2e4b9e6fbf97eced652b0e75d7514fa8edf51a21a0c50c247",
+      "primary_code": "ENG-READING-MAIN-IDEA",
+      "status": "new"
+    },
+    {
+      "index": 5,
+      "content_hash": "43fed06716d1d5c28ca17d9aecffe58f4974419e002b3dc4f1244951974e3534",
+      "primary_code": "ENG-READING-DETAIL",
+      "status": "new"
+    },
+    {
+      "index": 6,
+      "content_hash": "50eb7e202dd1885d5f71aca3f5049adc667f42b01cd274c811612fc261655add",
+      "primary_code": "ENG-READING-MAIN-IDEA",
+      "status": "new"
+    },
+    {
+      "index": 7,
+      "content_hash": "cb160c43db45cd6ee81d4a4059ac55306249cc9eeea74cb9a50af5f8b63df9f0",
+      "primary_code": "ENG-READING-MAIN-IDEA",
+      "status": "new"
+    },
+    {
+      "index": 8,
+      "content_hash": "bf99ca9bea32e44eba8de1164b09c95853314262c46d4256bc5577e010126ed7",
+      "primary_code": "ENG-READING-MAIN-IDEA",
+      "status": "new"
+    },
+    {
+      "index": 9,
+      "content_hash": "47779abd4b3cfd3cb929c8498129684aa78f99fa08e489c4eb36717fa3702fe3",
+      "primary_code": "ENG-VOCAB-CONTEXT-VERB",
+      "status": "new"
+    },
+    {
+      "index": 10,
+      "content_hash": "4eed17f74b3609b30ba8f172bae87411b070462b7199af1347921bece6f5f59a",
+      "primary_code": "ENG-VOCAB-COLLOCATION",
+      "status": "new"
+    },
+    {
+      "index": 11,
+      "content_hash": "4d01b021baeb74825b61c06780868bd7b7c4bd75c55b2ce8c26423b2029b5cc4",
+      "primary_code": "ENG-VOCAB-CONTEXT-VERB",
+      "status": "new"
+    },
+    {
+      "index": 12,
+      "content_hash": "7f5626ff87eaae4d8a3cb5be1473ff7c628d9c54ef0b827c536fb7ac5b43be23",
+      "primary_code": "ENG-VOCAB-CONTEXT-VERB",
+      "status": "new"
+    },
+    {
+      "index": 13,
+      "content_hash": "528b1287b26dca8095479df35ba49568e30c7915ed42a9d06072fa647c178729",
+      "primary_code": "ENG-VOCAB-CONTEXT-VERB",
+      "status": "new"
+    },
+    {
+      "index": 14,
+      "content_hash": "c518fe16755deeb5530e76cdbf1b69a5b259e9453894d803f7509a4157b877be",
+      "primary_code": "ENG-NONFINITE-INFINITIVE",
+      "status": "new"
+    },
+    {
+      "index": 15,
+      "content_hash": "530680126812f1c1e1b4a12700e01e71a331434debb9e0216fb045724cbf255f",
+      "primary_code": "ENG-CLAUSE-RELATIVE-WORD-SELECTION",
+      "status": "new"
+    }
+  ]
+}
