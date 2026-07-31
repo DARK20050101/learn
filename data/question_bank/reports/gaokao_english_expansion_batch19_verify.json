@@ -1,0 +1,151 @@
+{
+  "command": "verify",
+  "schema_version": "question-bank-report-v1",
+  "mapping_version": "kp-mapping-v1.1",
+  "total": 16,
+  "passed": 16,
+  "errors": 0,
+  "warnings": 0,
+  "database_duplicates": 0,
+  "files": [
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "gaokao_english_expansion_batch19_v1.json",
+      "total": 16,
+      "passed": 16,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "【共同材料】A city library replaced late fees with a “read it forward” plan. Readers who return an overdue",
+          "content_hash": "c82bdbc6a556e4ec3a7129b87eb4c5456af1d091475166d10cc7acd4c9819a20",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "ENG-READING-DETAIL"
+        },
+        {
+          "index": 2,
+          "question": "【共同材料】A city library replaced late fees with a “read it forward” plan. Readers who return an overdue",
+          "content_hash": "42d7028c7f21ff93a55d314aa7142acf7ce8c52a2e243337c08951759d1a4910",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "ENG-READING-DETAIL"
+        },
+        {
+          "index": 3,
+          "question": "【共同材料】A city library replaced late fees with a “read it forward” plan. Readers who return an overdue",
+          "content_hash": "1248ef165a1e2e7dc32b102fa2b1d34593cb7142aa37debfd3f6b3da2a5fb566",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "ENG-READING-MAIN-IDEA"
+        },
+        {
+          "index": 4,
+          "question": "【共同材料】A city library replaced late fees with a “read it forward” plan. Readers who return an overdue",
+          "content_hash": "0e78c27cd016d5c63b538b30b8e486e711b77b14601ec17f7996b6acd3671fec",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "ENG-READING-MAIN-IDEA"
+        },
+        {
+          "index": 5,
+          "question": "【共同材料】At West Hill School, students tested two ways of cooling classrooms without air conditioners. ",
+          "content_hash": "a4c4cfdf267e39457c7cd0b9dbfded1ff2d72c252497880b7fc6aa84193111a3",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "ENG-READING-DETAIL"
+        },
+        {
+          "index": 6,
+          "question": "【共同材料】At West Hill School, students tested two ways of cooling classrooms without air conditioners. ",
+          "content_hash": "2badab809ab6b8b5642e58c4055eabe5beb40c7440a1fb95dc5bf5f79dcf6515",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "ENG-READING-DETAIL"
+        },
+        {
+          "index": 7,
+          "question": "【共同材料】At West Hill School, students tested two ways of cooling classrooms without air conditioners. ",
+          "content_hash": "66627b962c4a3c54ddf129ff4c33ff785af2aa688b5728f107ebb84e7f7ae1b6",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "ENG-READING-MAIN-IDEA"
+        },
+        {
+          "index": 8,
+          "question": "【共同材料】At West Hill School, students tested two ways of cooling classrooms without air conditioners. ",
+          "content_hash": "0b523b858d9f813679ca1744de160d082dacb2e0aaf2f87adf123e0634e87f47",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "ENG-READING-MAIN-IDEA"
+        },
+        {
+          "index": 9,
+          "question": "【共同材料】Maya joined a weekend repair café, expecting only to learn how to fix a lamp. When an elderly ",
+          "content_hash": "338c9ebc6ad29e7e5acea4359dcb526992409dfd2d5f5e861dadfafe58e44e20",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "ENG-VOCAB-CONTEXT-VERB"
+        },
+        {
+          "index": 10,
+          "question": "【共同材料】Maya joined a weekend repair café, expecting only to learn how to fix a lamp. When an elderly ",
+          "content_hash": "4383d317362fb79d4533021dd6fddb0e649ebaa6eff24ad460c44194c16f8c90",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "ENG-VOCAB-COLLOCATION"
+        },
+        {
+          "index": 11,
+          "question": "【共同材料】Maya joined a weekend repair café, expecting only to learn how to fix a lamp. When an elderly ",
+          "content_hash": "0d108b0c08aa7604047f727707a04f2c45ca474193264074a5d48c2c53ba1394",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "ENG-VOCAB-CONTEXT-VERB"
+        },
+        {
+          "index": 12,
+          "question": "【共同材料】Maya joined a weekend repair café, expecting only to learn how to fix a lamp. When an elderly ",
+          "content_hash": "b0fb9c801c57eaaa1e34e02ed317e33379ab9f46c81d71b45702ded215005c68",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "ENG-VOCAB-CONTEXT-VERB"
+        },
+        {
+          "index": 13,
+          "question": "The community garden has created a quiet corner ______ residents can read or talk after work.",
+          "content_hash": "350472943d6a31ab8bdbd9dd0dfb0e5a001fed5ed338edce8ea1ae7dda9697bf",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "ENG-CLAUSE-RELATIVE-WORD-SELECTION"
+        },
+        {
+          "index": 14,
+          "question": "When the power suddenly failed, the researchers ______ the final set of measurements, so they had to",
+          "content_hash": "ea9db6ad178d052e489923d2df6215f5a8b35648c9df7fe13a3a168a7411db4d",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "ENG-GRAMMAR-TENSE-PAST-CONTINUOUS"
+        },
+        {
+          "index": 15,
+          "question": "______ from several independent sources, the report was revised before publication.",
+          "content_hash": "b867c183e50f782cbd8a4845fc36cc4e78d8159c199ae94ec31535971db036e1",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "ENG-NONFINITE-INFINITIVE"
+        },
+        {
+          "index": 16,
+          "question": "If the museum ______ visitors to handle the objects without guidance, many valuable details might be",
+          "content_hash": "9bb48b207a464a3a83a41ba05fd357bf274415f0d3341921235b1b162632b785",
+          "errors": [],
+          "warnings": [],
+          "primary_code": "ENG-CLAUSE-ADVERBIAL-CONDITION"
+        }
+      ]
+    }
+  ]
+}

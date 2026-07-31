@@ -1,0 +1,46 @@
+{
+  "report": "question_retirement",
+  "batch": "simple-question-retirement-batch19",
+  "executed_at": "2026-07-31T05:54:27.1888456+08:00",
+  "strategy": "soft_delete",
+  "field_change": {
+    "is_active": {
+      "from": true,
+      "to": false
+    }
+  },
+  "selection_rules": [
+    "difficulty=1",
+    "low diagnostic value or single-step mechanical recall",
+    "no student_answers references",
+    "no daily_task_items references",
+    "no training_session_items references"
+  ],
+  "retired_count": 10,
+  "question_ids": [
+    6,
+    18,
+    43,
+    53,
+    55,
+    59,
+    64,
+    69,
+    78,
+    96
+  ],
+  "subjects": {
+    "数学": 5,
+    "英语": 5
+  },
+  "database_after": {
+    "questions_total": 475,
+    "questions_active": 465,
+    "questions_inactive": 10
+  },
+  "physical_delete": false,
+  "recovery": {
+    "description": "Restore the retired questions without changing IDs or historical data.",
+    "sql": "UPDATE questions SET is_active = TRUE, updated_at = NOW() WHERE id IN (6,18,43,53,55,59,64,69,78,96);"
+  }
+}

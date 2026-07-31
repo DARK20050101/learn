@@ -1,0 +1,399 @@
+{
+  "command": "lint",
+  "total": 51,
+  "passed": 51,
+  "errors": 0,
+  "warnings": 0,
+  "files": [
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "gaokao_chinese_expansion_batch19_v1.json",
+      "total": 20,
+      "passed": 20,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "【共同材料】历史地理学把空间过程和时间过程结合起来。传统沿革地理主要描述和复原疆域、政区、地名和水道的变迁，很少追问变化原因；现代历史地理学不仅复原过去的地理现象，还借助地理学及相关学科的理论、方法和",
+          "content_hash": "88eac8e12668832231d2e5654de822a03f99c647512eb602b566ce561e36890f",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 2,
+          "question": "【共同材料】历史地理学把空间过程和时间过程结合起来。传统沿革地理主要描述和复原疆域、政区、地名和水道的变迁，很少追问变化原因；现代历史地理学不仅复原过去的地理现象，还借助地理学及相关学科的理论、方法和",
+          "content_hash": "bcd0c89eb35e94ac901446a2cded0a9c59c531dbfd5d80c651270e3b62c5f13e",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 3,
+          "question": "【共同材料】历史地理学把空间过程和时间过程结合起来。传统沿革地理主要描述和复原疆域、政区、地名和水道的变迁，很少追问变化原因；现代历史地理学不仅复原过去的地理现象，还借助地理学及相关学科的理论、方法和",
+          "content_hash": "25e3abaabd63bb8a887fabc952dda1352e409974b5ed1a31b77fdee420933661",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 4,
+          "question": "【共同材料】历史地理学把空间过程和时间过程结合起来。传统沿革地理主要描述和复原疆域、政区、地名和水道的变迁，很少追问变化原因；现代历史地理学不仅复原过去的地理现象，还借助地理学及相关学科的理论、方法和",
+          "content_hash": "4ad4579c45583c5378fa3bed7755cae1aeae4e0dfe257970f2de2067d7bbdc0d",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 5,
+          "question": "【共同材料】进入建水古城，飞檐斗拱、酒旌食馆、朱门闾巷扑面而来。临安饭店当街敞开，食客喝汤、端饭、动筷、晃勺，吆五喝六。电子地图只标出几条宽街，仿佛此地荒凉；实际上，小巷如毛细血管般密集，四合院、水井",
+          "content_hash": "0228348935d6cfd29c82eb1547245f3df2fe6f734251faf3a366d41be9466164",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 6,
+          "question": "【共同材料】进入建水古城，飞檐斗拱、酒旌食馆、朱门闾巷扑面而来。临安饭店当街敞开，食客喝汤、端饭、动筷、晃勺，吆五喝六。电子地图只标出几条宽街，仿佛此地荒凉；实际上，小巷如毛细血管般密集，四合院、水井",
+          "content_hash": "a9c6d0696c353ef2092e043ad7e8056316ddde6a46effe9aad0dfe2ec9a6f879",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 7,
+          "question": "【共同材料】进入建水古城，飞檐斗拱、酒旌食馆、朱门闾巷扑面而来。临安饭店当街敞开，食客喝汤、端饭、动筷、晃勺，吆五喝六。电子地图只标出几条宽街，仿佛此地荒凉；实际上，小巷如毛细血管般密集，四合院、水井",
+          "content_hash": "3eef9dce1d82d464134c187838034eb263c08f60416409a14d6e0cde639b13f4",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 8,
+          "question": "【共同材料】进入建水古城，飞檐斗拱、酒旌食馆、朱门闾巷扑面而来。临安饭店当街敞开，食客喝汤、端饭、动筷、晃勺，吆五喝六。电子地图只标出几条宽街，仿佛此地荒凉；实际上，小巷如毛细血管般密集，四合院、水井",
+          "content_hash": "03b7cefa02c49454e755d25be4f526fd5fea8d0c4a057730c85be062f3d1af1d",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 9,
+          "question": "【共同材料】燕达，字逢辰。少有勇略，善骑射。太祖召见，以为可用。达每临敌，常被重铠为先锋，未尝少却。尝出田，道逢汴河决，达率所部塞之。帝闻曰：“将帅能勤民事，诚可嘉也。”\n对下列加点词的解释，不正确的",
+          "content_hash": "570e027eb1cd3b1be75533be21d0335dd2190eecd7542aed5455af58828591a9",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 10,
+          "question": "【共同材料】燕达，字逢辰。少有勇略，善骑射。太祖召见，以为可用。达每临敌，常被重铠为先锋，未尝少却。尝出田，道逢汴河决，达率所部塞之。帝闻曰：“将帅能勤民事，诚可嘉也。”\n下列对燕达形象的概括，不正确",
+          "content_hash": "2c60241510029876d883bef9829996fa169573935da5a0e224a4760d9087a623",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 11,
+          "question": "【共同材料】燕达，字逢辰。少有勇略，善骑射。太祖召见，以为可用。达每临敌，常被重铠为先锋，未尝少却。尝出田，道逢汴河决，达率所部塞之。帝闻曰：“将帅能勤民事，诚可嘉也。”\n对“达每临敌，常被重铠为先锋",
+          "content_hash": "5dd3293e602765b5c6a7739095eed8f3ae47494a2c42591c5f530d97fd8039f9",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 12,
+          "question": "【共同材料】燕达，字逢辰。少有勇略，善骑射。太祖召见，以为可用。达每临敌，常被重铠为先锋，未尝少却。尝出田，道逢汴河决，达率所部塞之。帝闻曰：“将帅能勤民事，诚可嘉也。”\n太祖评价燕达“可嘉”，最主要",
+          "content_hash": "0096942f36e3007091fec54a3dd0fe73f4f81d46b2661ab7cdc974c5aa74289e",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 13,
+          "question": "阅读王安石《读史》：“自古功名亦苦辛，行藏终欲付何人。当时黮闇犹承误，末俗纷纭更乱真。糟粕所传非粹美，丹青难写是精神。区区岂尽高贤意，独守千秋纸上尘。”下列对诗歌主旨的概括，最恰当的一项是（ ）",
+          "content_hash": "be6a990fd6c4ccb736dd72c8b3c6f2dcbccfad9abd98403eaa18464639a2a0ef",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 14,
+          "question": "阅读王安石《读史》：“自古功名亦苦辛，行藏终欲付何人。当时黮闇犹承误，末俗纷纭更乱真。糟粕所传非粹美，丹青难写是精神。区区岂尽高贤意，独守千秋纸上尘。”对“糟粕所传非粹美，丹青难写是精神”所用手法，分",
+          "content_hash": "0b3c5e351ecc7f1360a41cb4c43e8895199b971ff2b345dd958f659af39acc28",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 15,
+          "question": "阅读陆游《鹊桥仙·华灯纵博》下片：“轻舟八尺，低篷三扇，占断苹洲烟雨。镜湖元自属闲人，又何必、君恩赐与！”下列对词中“闲人”形象的理解，最恰当的一项是（ ）",
+          "content_hash": "12b4bd371aaa1976979ee9e7596259615a88cc9d2ae8876e803c9b2448a8e0c5",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 16,
+          "question": "阅读陆游《鹊桥仙·华灯纵博》下片：“轻舟八尺，低篷三扇，占断苹洲烟雨。镜湖元自属闲人，又何必、君恩赐与！”末句“又何必、君恩赐与”的表达效果，分析最准确的一项是（ ）",
+          "content_hash": "3dc595e3baa2ca855e062fdf08220fe7dc8585227d8f18f692413d86ad678583",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 17,
+          "question": "【共同材料】阅读能使人超越有限的生活半径。面对浩如烟海的书籍，若只求数量、追逐热榜，所得往往浮光掠影；若能选择真正适合自己的作品，沉潜其中，与作者反复对话，才可能把别人的经验转化为自己的认识。\n依次填",
+          "content_hash": "a43843def805a7653d3caf7f0cd1b2ca652eb7e75dbe91cb1860b09f7c57b807",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 18,
+          "question": "【共同材料】阅读能使人超越有限的生活半径。面对浩如烟海的书籍，若只求数量、追逐热榜，所得往往浮光掠影；若能选择真正适合自己的作品，沉潜其中，与作者反复对话，才可能把别人的经验转化为自己的认识。\n下列各",
+          "content_hash": "08f64937dacd56a7e32ec327653067467f92e8e8aea558d74efcff9137f6c724",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 19,
+          "question": "【共同材料】阅读能使人超越有限的生活半径。面对浩如烟海的书籍，若只求数量、追逐热榜，所得往往浮光掠影；若能选择真正适合自己的作品，沉潜其中，与作者反复对话，才可能把别人的经验转化为自己的认识。\n填入下",
+          "content_hash": "4e647e01b5e9d2e37c14b9e160e00880bfa4b6c70930e2e948334828649436f8",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 20,
+          "question": "【共同材料】阅读能使人超越有限的生活半径。面对浩如烟海的书籍，若只求数量、追逐热榜，所得往往浮光掠影；若能选择真正适合自己的作品，沉潜其中，与作者反复对话，才可能把别人的经验转化为自己的认识。\n下列作",
+          "content_hash": "cfbb094bb58aadbadc857c9f3083bfb738dc474a0bbaa69b81797c3d36187255",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "gaokao_english_expansion_batch19_v1.json",
+      "total": 16,
+      "passed": 16,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "【共同材料】A city library replaced late fees with a “read it forward” plan. Readers who return an overdue",
+          "content_hash": "c82bdbc6a556e4ec3a7129b87eb4c5456af1d091475166d10cc7acd4c9819a20",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 2,
+          "question": "【共同材料】A city library replaced late fees with a “read it forward” plan. Readers who return an overdue",
+          "content_hash": "42d7028c7f21ff93a55d314aa7142acf7ce8c52a2e243337c08951759d1a4910",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 3,
+          "question": "【共同材料】A city library replaced late fees with a “read it forward” plan. Readers who return an overdue",
+          "content_hash": "1248ef165a1e2e7dc32b102fa2b1d34593cb7142aa37debfd3f6b3da2a5fb566",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 4,
+          "question": "【共同材料】A city library replaced late fees with a “read it forward” plan. Readers who return an overdue",
+          "content_hash": "0e78c27cd016d5c63b538b30b8e486e711b77b14601ec17f7996b6acd3671fec",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 5,
+          "question": "【共同材料】At West Hill School, students tested two ways of cooling classrooms without air conditioners. ",
+          "content_hash": "a4c4cfdf267e39457c7cd0b9dbfded1ff2d72c252497880b7fc6aa84193111a3",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 6,
+          "question": "【共同材料】At West Hill School, students tested two ways of cooling classrooms without air conditioners. ",
+          "content_hash": "2badab809ab6b8b5642e58c4055eabe5beb40c7440a1fb95dc5bf5f79dcf6515",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 7,
+          "question": "【共同材料】At West Hill School, students tested two ways of cooling classrooms without air conditioners. ",
+          "content_hash": "66627b962c4a3c54ddf129ff4c33ff785af2aa688b5728f107ebb84e7f7ae1b6",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 8,
+          "question": "【共同材料】At West Hill School, students tested two ways of cooling classrooms without air conditioners. ",
+          "content_hash": "0b523b858d9f813679ca1744de160d082dacb2e0aaf2f87adf123e0634e87f47",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 9,
+          "question": "【共同材料】Maya joined a weekend repair café, expecting only to learn how to fix a lamp. When an elderly ",
+          "content_hash": "338c9ebc6ad29e7e5acea4359dcb526992409dfd2d5f5e861dadfafe58e44e20",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 10,
+          "question": "【共同材料】Maya joined a weekend repair café, expecting only to learn how to fix a lamp. When an elderly ",
+          "content_hash": "4383d317362fb79d4533021dd6fddb0e649ebaa6eff24ad460c44194c16f8c90",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 11,
+          "question": "【共同材料】Maya joined a weekend repair café, expecting only to learn how to fix a lamp. When an elderly ",
+          "content_hash": "0d108b0c08aa7604047f727707a04f2c45ca474193264074a5d48c2c53ba1394",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 12,
+          "question": "【共同材料】Maya joined a weekend repair café, expecting only to learn how to fix a lamp. When an elderly ",
+          "content_hash": "b0fb9c801c57eaaa1e34e02ed317e33379ab9f46c81d71b45702ded215005c68",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 13,
+          "question": "The community garden has created a quiet corner ______ residents can read or talk after work.",
+          "content_hash": "350472943d6a31ab8bdbd9dd0dfb0e5a001fed5ed338edce8ea1ae7dda9697bf",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 14,
+          "question": "When the power suddenly failed, the researchers ______ the final set of measurements, so they had to",
+          "content_hash": "ea9db6ad178d052e489923d2df6215f5a8b35648c9df7fe13a3a168a7411db4d",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 15,
+          "question": "______ from several independent sources, the report was revised before publication.",
+          "content_hash": "b867c183e50f782cbd8a4845fc36cc4e78d8159c199ae94ec31535971db036e1",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 16,
+          "question": "If the museum ______ visitors to handle the objects without guidance, many valuable details might be",
+          "content_hash": "9bb48b207a464a3a83a41ba05fd357bf274415f0d3341921235b1b162632b785",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "command": "lint",
+      "schema_version": "question-bank-report-v1",
+      "filename": "gaokao_math_expansion_batch19_v1.json",
+      "total": 15,
+      "passed": 15,
+      "errors": 0,
+      "warnings": 0,
+      "items": [
+        {
+          "index": 1,
+          "question": "【共同材料】已知函数 $f(x)=x+\\dfrac{4}{x}$，其中 $x>0$。\n\n函数 $f(x)$ 的最小值为（ ）",
+          "content_hash": "579f599dbc6f6729a897f20d1edaa643228f8af12ff9af54b9d1df35021920da",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 2,
+          "question": "【共同材料】已知函数 $f(x)=x+\\dfrac{4}{x}$，其中 $x>0$。若关于 $x$ 的方程 $f(x)=m$ 有两个不相等的正根，则 $m$ 的取值范围为（ ）",
+          "content_hash": "9c6a627afa95e7aebace99aa0a5e5c7ebe3f51bc0820a1d7794066b05223e26d",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 3,
+          "question": "【共同材料】已知函数 $f(x)=x+\\dfrac{4}{x}$，其中 $x>0$。若 $a,b>0$，$a\\ne b$，且 $f(a)=f(b)$，则 $ab$ 等于（ ）",
+          "content_hash": "d9a35986d1088f2592fc9cb862966ff92d4a9860dd899248bc94f4e9aca3bc06",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 4,
+          "question": "【共同材料】已知函数 $f(x)=x+\\dfrac{4}{x}$，其中 $x>0$。不等式 $f(x)\\le5$ 的解集为（ ）",
+          "content_hash": "e2adb1e7fa8b7ce7b3bcdede4e5068bb9d1f00404cc96fa7ce6fc30cc44c3fe4",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 5,
+          "question": "【共同材料】设 $f(x)=x^3-3x^2+ax+1$。若曲线 $y=f(x)$ 在点 $x=1$ 处的切线斜率为 $1$，则 $a=$（ ）",
+          "content_hash": "3945a9ac67a4583399a4b20f0baf6137bb50d39638b727c1dbf112e6f102e577",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 6,
+          "question": "【共同材料】设 $f(x)=x^3-3x^2+4x+1$。函数 $f(x)$ 的单调性为（ ）",
+          "content_hash": "6932ec74b60ba8b3e3a8b8539869c5047fbd012b491c596cf75cb762697f52fa",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 7,
+          "question": "设 $g(x)=x^3-3x^2+mx$。若 $g(x)$ 在区间 $[0,2]$ 上单调递增，则实数 $m$ 的最小值为（ ）",
+          "content_hash": "d3be097769e7a139709aad499d8a4063ff61da994a6936a232bce192efbe9838",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 8,
+          "question": "已知 $h(x)=x^3-3x$。直线 $y=kx$ 与曲线 $y=h(x)$ 相切，则 $k=$（ ）",
+          "content_hash": "38a53fe7c9d98bc1b9f61841d5c42dab1edb4a68ccb780bce1230099151e9f35",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 9,
+          "question": "【共同材料】等差数列 $\\{a_n\\}$ 满足 $a_2+a_5=14$，且 $a_3+a_6=18$。该数列的公差为（ ）",
+          "content_hash": "850d177b0d37ddc8c6ce2468c6f0708547f41713f44e1d6e4a852884ee5b0e6c",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 10,
+          "question": "【共同材料】等差数列 $\\{a_n\\}$ 满足 $a_2+a_5=14$，且 $a_3+a_6=18$。其前 $10$ 项和 $S_{10}=$（ ）",
+          "content_hash": "e8529e3608692cffe8f12599c2e45d049de8a8ae92f82349bec6f83aa5dd77fe",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 11,
+          "question": "正项等比数列 $\\{b_n\\}$ 满足 $b_2b_4=64$，且 $b_2+b_4=20$，则 $b_3=$（ ）",
+          "content_hash": "dc5835f1deedf786f8d4df528cfb2e6909898b3023053bd6c7de94a0fc077623",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 12,
+          "question": "【共同材料】圆 $C:(x-2)^2+(y+1)^2=5$。原点 $O$ 与圆 $C$ 的位置关系是（ ）",
+          "content_hash": "d4c979c92a81b7e9e70008f23099f419a819e6ca59534e4cc6fecd265c18ee91",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 13,
+          "question": "【共同材料】圆 $C:(x-2)^2+(y+1)^2=5$。圆 $C$ 在原点处的切线斜率为（ ）",
+          "content_hash": "80552bcb96ef76d0d4d1fe76f8b0bb7fcc6b58d10a5381de2697b3022c31d684",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 14,
+          "question": "【共同材料】圆 $C:(x-2)^2+(y+1)^2=5$。过点 $P(4,2)$ 作圆 $C$ 的两条切线，切点分别为 $A,B$，则 $AB$ 所在直线方程为（ ）",
+          "content_hash": "e6d1fe14e7c896709610fa2ab5bb1b70271c5632d128353cbe828570ef771105",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "index": 15,
+          "question": "已知椭圆 $\\dfrac{x^2}{4}+y^2=1$ 的右焦点为 $F$，过 $F$ 且斜率为 $1$ 的直线与椭圆交于 $A,B$ 两点，则弦 $AB$ 的中点横坐标为（ ）",
+          "content_hash": "b9a616efb619d1c18388138eaa869d1abd6bca347b3adf4cec153aef6ea7e91c",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    }
+  ]
+}

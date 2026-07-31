@@ -1,0 +1,111 @@
+{
+  "report": "pre_import",
+  "filename": "gaokao_math_expansion_batch19_v1.json",
+  "file_hash": "3d77528a3fd889eec773fe90a45d77029f7eb6e75d0bfda175958a23cafe9281",
+  "mapping_version": "kp-mapping-v1.1",
+  "database": {
+    "questions": 460,
+    "primary_knowledge_point_links": 460,
+    "orphan_questions": 0,
+    "selected_question_count": 460,
+    "selected_questions_business_hash": "f6a83ff5a8f261f47c875b87fde7ea5ac20d001f306b5849b05dcd3405a23f2e"
+  },
+  "total": 15,
+  "new_questions": 15,
+  "matching_duplicates": 0,
+  "conflicts": 0,
+  "errors": [],
+  "ready": true,
+  "items": [
+    {
+      "index": 1,
+      "content_hash": "579f599dbc6f6729a897f20d1edaa643228f8af12ff9af54b9d1df35021920da",
+      "primary_code": "MATH-FUNCTION-MONOTONICITY",
+      "status": "new"
+    },
+    {
+      "index": 2,
+      "content_hash": "9c6a627afa95e7aebace99aa0a5e5c7ebe3f51bc0820a1d7794066b05223e26d",
+      "primary_code": "MATH-FUNCTION-MONOTONICITY",
+      "status": "new"
+    },
+    {
+      "index": 3,
+      "content_hash": "d9a35986d1088f2592fc9cb862966ff92d4a9860dd899248bc94f4e9aca3bc06",
+      "primary_code": "MATH-FUNCTION-MONOTONICITY",
+      "status": "new"
+    },
+    {
+      "index": 4,
+      "content_hash": "e2adb1e7fa8b7ce7b3bcdede4e5068bb9d1f00404cc96fa7ce6fc30cc44c3fe4",
+      "primary_code": "MATH-FUNCTION-MONOTONICITY",
+      "status": "new"
+    },
+    {
+      "index": 5,
+      "content_hash": "3945a9ac67a4583399a4b20f0baf6137bb50d39638b727c1dbf112e6f102e577",
+      "primary_code": "MATH-DERIVATIVE-ELEMENTARY",
+      "status": "new"
+    },
+    {
+      "index": 6,
+      "content_hash": "6932ec74b60ba8b3e3a8b8539869c5047fbd012b491c596cf75cb762697f52fa",
+      "primary_code": "MATH-DERIVATIVE-ELEMENTARY",
+      "status": "new"
+    },
+    {
+      "index": 7,
+      "content_hash": "d3be097769e7a139709aad499d8a4063ff61da994a6936a232bce192efbe9838",
+      "primary_code": "MATH-DERIVATIVE-ELEMENTARY",
+      "status": "new"
+    },
+    {
+      "index": 8,
+      "content_hash": "38a53fe7c9d98bc1b9f61841d5c42dab1edb4a68ccb780bce1230099151e9f35",
+      "primary_code": "MATH-DERIVATIVE-ELEMENTARY",
+      "status": "new"
+    },
+    {
+      "index": 9,
+      "content_hash": "850d177b0d37ddc8c6ce2468c6f0708547f41713f44e1d6e4a852884ee5b0e6c",
+      "primary_code": "MATH-SEQUENCE-ARITHMETIC-GENERAL",
+      "status": "new"
+    },
+    {
+      "index": 10,
+      "content_hash": "e8529e3608692cffe8f12599c2e45d049de8a8ae92f82349bec6f83aa5dd77fe",
+      "primary_code": "MATH-SEQUENCE-ARITHMETIC-GENERAL",
+      "status": "new"
+    },
+    {
+      "index": 11,
+      "content_hash": "dc5835f1deedf786f8d4df528cfb2e6909898b3023053bd6c7de94a0fc077623",
+      "primary_code": "MATH-SEQUENCE-GEOMETRIC-GENERAL",
+      "status": "new"
+    },
+    {
+      "index": 12,
+      "content_hash": "d4c979c92a81b7e9e70008f23099f419a819e6ca59534e4cc6fecd265c18ee91",
+      "primary_code": "MATH-ANALYTIC-CIRCLE-STANDARD",
+      "status": "new"
+    },
+    {
+      "index": 13,
+      "content_hash": "80552bcb96ef76d0d4d1fe76f8b0bb7fcc6b58d10a5381de2697b3022c31d684",
+      "primary_code": "MATH-ANALYTIC-LINE-SLOPE",
+      "status": "new"
+    },
+    {
+      "index": 14,
+      "content_hash": "e6d1fe14e7c896709610fa2ab5bb1b70271c5632d128353cbe828570ef771105",
+      "primary_code": "MATH-ANALYTIC-CIRCLE-STANDARD",
+      "status": "new"
+    },
+    {
+      "index": 15,
+      "content_hash": "b9a616efb619d1c18388138eaa869d1abd6bca347b3adf4cec153aef6ea7e91c",
+      "primary_code": "MATH-ANALYTIC-LINE-SLOPE",
+      "status": "new"
+    }
+  ]
+}

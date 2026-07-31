@@ -1,0 +1,134 @@
+{
+  "schema_version": "shiguang-question-candidate-v1",
+  "batch": "gaokao-english-expansion-batch19",
+  "questions": [
+    {
+      "subject": "英语", "chapter": "阅读理解", "knowledge_points": ["细节理解"], "difficulty": 2, "type": "single_choice",
+      "question": "【共同材料】A city library replaced late fees with a “read it forward” plan. Readers who return an overdue book may either donate a new children's book or spend thirty minutes reading aloud at a partner primary school. In the first six months, overdue returns rose by 40 percent. Librarians say the plan is not meant to excuse keeping books too long; reminder messages are still sent before each due date. Its purpose is to bring books back while turning a mistake into something useful for the community.\n\nWhat must a reader do under the new plan after returning an overdue book?",
+      "options": ["Pay both a fine and a membership fee.", "Choose between donating a book and reading to children.", "Work in the library for an entire day.", "Explain the delay to the city government."], "answer": "B",
+      "solution": "材料明确说，归还逾期图书后可在“捐一本新的儿童读物”和“到合作小学朗读三十分钟”之间选择，因此选 B。",
+      "source": "GAOKAO-Bench/AGIEval-style|adapted-original|english-reading|batch19", "title": "图书馆逾期归还计划·细节",
+      "tags": ["kp:ENG-READING-DETAIL", "origin:original-adapted", "material-group:eng-b19-library", "material-order:1", "grade:high-school", "batch:gaokao-english-expansion-batch19", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "英语", "chapter": "阅读理解", "knowledge_points": ["细节理解"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】A city library replaced late fees with a “read it forward” plan. Readers who return an overdue book may either donate a new children's book or spend thirty minutes reading aloud at a partner primary school. In the first six months, overdue returns rose by 40 percent. Librarians say the plan is not meant to excuse keeping books too long; reminder messages are still sent before each due date. Its purpose is to bring books back while turning a mistake into something useful for the community.\n\nWhy are reminder messages still sent?",
+      "options": ["To prevent readers from treating the plan as permission to return books late.", "To advertise jobs at partner schools.", "To ask readers to buy all borrowed books.", "To replace the library's online catalogue."], "answer": "A",
+      "solution": "材料指出该计划并非纵容逾期，仍发送到期提醒，说明提醒旨在防止读者把替代方案当作故意迟还的许可，选 A。",
+      "source": "GAOKAO-Bench/AGIEval-style|adapted-original|english-reading|batch19", "title": "图书馆逾期归还计划·目的推断",
+      "tags": ["kp:ENG-READING-DETAIL", "origin:original-adapted", "material-group:eng-b19-library", "material-order:2", "grade:high-school", "batch:gaokao-english-expansion-batch19", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "英语", "chapter": "阅读理解", "knowledge_points": ["主旨大意"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】A city library replaced late fees with a “read it forward” plan. Readers who return an overdue book may either donate a new children's book or spend thirty minutes reading aloud at a partner primary school. In the first six months, overdue returns rose by 40 percent. Librarians say the plan is not meant to excuse keeping books too long; reminder messages are still sent before each due date. Its purpose is to bring books back while turning a mistake into something useful for the community.\n\nWhich best describes the idea behind the plan?",
+      "options": ["Punishment should become increasingly expensive.", "Libraries should lend books only to children.", "A practical consequence can also create community value.", "Due dates are unnecessary when reminders are available."], "answer": "C",
+      "solution": "计划既促使图书归还，又让逾期者通过捐书或朗读服务社区，核心是把纠正错误与创造公共价值结合，选 C。",
+      "source": "GAOKAO-Bench/AGIEval-style|adapted-original|english-reading|batch19", "title": "图书馆逾期归还计划·理念",
+      "tags": ["kp:ENG-READING-MAIN-IDEA", "origin:original-adapted", "material-group:eng-b19-library", "material-order:3", "grade:high-school", "batch:gaokao-english-expansion-batch19", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "英语", "chapter": "阅读理解", "knowledge_points": ["主旨大意"], "difficulty": 4, "type": "single_choice",
+      "question": "【共同材料】A city library replaced late fees with a “read it forward” plan. Readers who return an overdue book may either donate a new children's book or spend thirty minutes reading aloud at a partner primary school. In the first six months, overdue returns rose by 40 percent. Librarians say the plan is not meant to excuse keeping books too long; reminder messages are still sent before each due date. Its purpose is to bring books back while turning a mistake into something useful for the community.\n\nWhich finding would most strongly support the librarians' claim that the plan is effective rather than merely lenient?",
+      "options": ["More readers say they dislike reminder messages.", "Partner schools request shorter opening hours.", "Overdue returns increase while the average length of delay decreases.", "The library buys fewer shelves than it did last year."], "answer": "C",
+      "solution": "“有效而非纵容”需要同时体现更多逾期书被归还、且迟还程度下降。C 同时提供这两项证据，支持力度最强。",
+      "source": "GAOKAO-Bench/AGIEval-style|adapted-original|english-reading|batch19", "title": "图书馆逾期归还计划·证据评价",
+      "tags": ["kp:ENG-READING-MAIN-IDEA", "origin:original-adapted", "material-group:eng-b19-library", "material-order:4", "grade:high-school", "batch:gaokao-english-expansion-batch19", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "英语", "chapter": "阅读理解", "knowledge_points": ["细节理解"], "difficulty": 2, "type": "single_choice",
+      "question": "【共同材料】At West Hill School, students tested two ways of cooling classrooms without air conditioners. In Room A, they opened windows all day. In Room B, they opened windows only in the cool early morning, then closed them and lowered outside shades before sunlight reached the glass. By 2 p.m., Room B was three degrees cooler. The students warned that their result came from two similar rooms on one clear day, so the test should be repeated in different weather before the school changes its policy.\n\nWhat did students do in Room B before direct sunlight reached the windows?",
+      "options": ["They turned on an air conditioner.", "They lowered the outside shades.", "They opened every door.", "They moved the class outdoors."], "answer": "B",
+      "solution": "材料直接说明 Room B 在阳光照到玻璃前放下了外遮阳帘，因此选 B。",
+      "source": "AGIEval-style|adapted-original|english-reading|batch19", "title": "教室降温实验·操作细节",
+      "tags": ["kp:ENG-READING-DETAIL", "origin:original-adapted", "material-group:eng-b19-cooling", "material-order:1", "grade:high-school", "batch:gaokao-english-expansion-batch19", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "英语", "chapter": "阅读理解", "knowledge_points": ["细节理解"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】At West Hill School, students tested two ways of cooling classrooms without air conditioners. In Room A, they opened windows all day. In Room B, they opened windows only in the cool early morning, then closed them and lowered outside shades before sunlight reached the glass. By 2 p.m., Room B was three degrees cooler. The students warned that their result came from two similar rooms on one clear day, so the test should be repeated in different weather before the school changes its policy.\n\nWhy do the students recommend repeating the test?",
+      "options": ["The two rooms had different numbers of desks.", "They want to compare air conditioners of several brands.", "Evidence from one day and two rooms may not apply under other conditions.", "Room A was already cooler in the morning."], "answer": "C",
+      "solution": "学生强调样本只有两个房间且仅测试了一个晴天，说明证据范围有限，需在不同天气复测，选 C。",
+      "source": "AGIEval-style|adapted-original|english-reading|batch19", "title": "教室降温实验·研究局限",
+      "tags": ["kp:ENG-READING-DETAIL", "origin:original-adapted", "material-group:eng-b19-cooling", "material-order:2", "grade:high-school", "batch:gaokao-english-expansion-batch19", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "英语", "chapter": "阅读理解", "knowledge_points": ["主旨大意"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】At West Hill School, students tested two ways of cooling classrooms without air conditioners. In Room A, they opened windows all day. In Room B, they opened windows only in the cool early morning, then closed them and lowered outside shades before sunlight reached the glass. By 2 p.m., Room B was three degrees cooler. The students warned that their result came from two similar rooms on one clear day, so the test should be repeated in different weather before the school changes its policy.\n\nWhat can reasonably be inferred about the students?",
+      "options": ["They value promising results but recognize limits in their evidence.", "They believe one successful test proves a rule in all climates.", "They prefer comfort to careful measurement.", "They designed the test mainly to sell window shades."], "answer": "A",
+      "solution": "学生报告了三度温差这一积极结果，同时主动指出样本和天气条件的局限，体现出既重视结果又审慎评价证据，选 A。",
+      "source": "AGIEval-style|adapted-original|english-reading|batch19", "title": "教室降温实验·态度推断",
+      "tags": ["kp:ENG-READING-MAIN-IDEA", "origin:original-adapted", "material-group:eng-b19-cooling", "material-order:3", "grade:high-school", "batch:gaokao-english-expansion-batch19", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "英语", "chapter": "阅读理解", "knowledge_points": ["主旨大意"], "difficulty": 4, "type": "single_choice",
+      "question": "【共同材料】At West Hill School, students tested two ways of cooling classrooms without air conditioners. In Room A, they opened windows all day. In Room B, they opened windows only in the cool early morning, then closed them and lowered outside shades before sunlight reached the glass. By 2 p.m., Room B was three degrees cooler. The students warned that their result came from two similar rooms on one clear day, so the test should be repeated in different weather before the school changes its policy.\n\nWhich change would best improve the reliability of a follow-up test?",
+      "options": ["Using the same two rooms on several days with varied weather and switching the treatments between rooms.", "Measuring only the room that feels cooler to students.", "Keeping Room B's method secret from the school.", "Testing both rooms once more at midnight."], "answer": "A",
+      "solution": "跨多种天气重复并交换两房间所用方法，可减少天气与房间本身差异的影响，最能提高结论可靠性，选 A。",
+      "source": "AGIEval-style|adapted-original|english-reading|batch19", "title": "教室降温实验·方案改进",
+      "tags": ["kp:ENG-READING-MAIN-IDEA", "origin:original-adapted", "material-group:eng-b19-cooling", "material-order:4", "grade:high-school", "batch:gaokao-english-expansion-batch19", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "英语", "chapter": "完形填空", "knowledge_points": ["动词语境辨析"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】Maya joined a weekend repair café, expecting only to learn how to fix a lamp. When an elderly visitor brought in a radio, Maya first wanted the expert beside her to take over. The expert instead asked questions and let Maya test each possible cause. After an hour, the radio played again. Maya realized that good helpers do not always provide an immediate answer; sometimes they create enough space for another person to ___(1)___ a solution. Later she used the same approach with a younger volunteer who was ___(2)___ by a broken toy. Rather than ___(3)___ the task herself, Maya encouraged him to describe what he had already tried. His confidence grew as the problem became ___(4)___ into smaller steps.\n\nChoose the best word for blank (1).",
+      "options": ["discover", "hide", "avoid", "borrow"], "answer": "A",
+      "solution": "专家通过提问让 Maya 自己排查原因，语境表达“为他人留出发现解决办法的空间”，discover 最恰当。",
+      "source": "GAOKAO-Bench-style|adapted-original|english-cloze|batch19", "title": "维修咖啡馆完形·发现方案",
+      "tags": ["kp:ENG-VOCAB-CONTEXT-VERB", "origin:original-adapted", "material-group:eng-b19-repair-cloze", "material-order:1", "grade:high-school", "batch:gaokao-english-expansion-batch19", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "英语", "chapter": "完形填空", "knowledge_points": ["形容词语境辨析"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】Maya joined a weekend repair café, expecting only to learn how to fix a lamp. When an elderly visitor brought in a radio, Maya first wanted the expert beside her to take over. The expert instead asked questions and let Maya test each possible cause. After an hour, the radio played again. Maya realized that good helpers do not always provide an immediate answer; sometimes they create enough space for another person to ___(1)___ a solution. Later she used the same approach with a younger volunteer who was ___(2)___ by a broken toy. Rather than ___(3)___ the task herself, Maya encouraged him to describe what he had already tried. His confidence grew as the problem became ___(4)___ into smaller steps.\n\nChoose the best word for blank (2).",
+      "options": ["frustrated", "entertained", "protected", "rewarded"], "answer": "A",
+      "solution": "玩具损坏且后文需要 Maya 鼓励，说明年轻志愿者因问题受挫，frustrated 符合语境。",
+      "source": "GAOKAO-Bench-style|adapted-original|english-cloze|batch19", "title": "维修咖啡馆完形·受挫情绪",
+      "tags": ["kp:ENG-VOCAB-COLLOCATION", "origin:original-adapted", "material-group:eng-b19-repair-cloze", "material-order:2", "grade:high-school", "batch:gaokao-english-expansion-batch19", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "英语", "chapter": "完形填空", "knowledge_points": ["动词语境辨析"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】Maya joined a weekend repair café, expecting only to learn how to fix a lamp. When an elderly visitor brought in a radio, Maya first wanted the expert beside her to take over. The expert instead asked questions and let Maya test each possible cause. After an hour, the radio played again. Maya realized that good helpers do not always provide an immediate answer; sometimes they create enough space for another person to ___(1)___ a solution. Later she used the same approach with a younger volunteer who was ___(2)___ by a broken toy. Rather than ___(3)___ the task herself, Maya encouraged him to describe what he had already tried. His confidence grew as the problem became ___(4)___ into smaller steps.\n\nChoose the best word for blank (3).",
+      "options": ["completing", "postponing", "measuring", "reporting"], "answer": "A",
+      "solution": "rather than 与后文“鼓励他描述尝试”形成对比，Maya 没有亲自完成任务，因此选 completing。",
+      "source": "GAOKAO-Bench-style|adapted-original|english-cloze|batch19", "title": "维修咖啡馆完形·避免包办",
+      "tags": ["kp:ENG-VOCAB-CONTEXT-VERB", "origin:original-adapted", "material-group:eng-b19-repair-cloze", "material-order:3", "grade:high-school", "batch:gaokao-english-expansion-batch19", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "英语", "chapter": "完形填空", "knowledge_points": ["动词语境辨析"], "difficulty": 4, "type": "single_choice",
+      "question": "【共同材料】Maya joined a weekend repair café, expecting only to learn how to fix a lamp. When an elderly visitor brought in a radio, Maya first wanted the expert beside her to take over. The expert instead asked questions and let Maya test each possible cause. After an hour, the radio played again. Maya realized that good helpers do not always provide an immediate answer; sometimes they create enough space for another person to ___(1)___ a solution. Later she used the same approach with a younger volunteer who was ___(2)___ by a broken toy. Rather than ___(3)___ the task herself, Maya encouraged him to describe what he had already tried. His confidence grew as the problem became ___(4)___ into smaller steps.\n\nChoose the best word for blank (4).",
+      "options": ["broken down", "turned down", "given away", "put aside"], "answer": "A",
+      "solution": "将复杂问题分解成更小步骤应使用 break down；被动结构 became broken down 与语境吻合，选 A。",
+      "source": "GAOKAO-Bench-style|adapted-original|english-cloze|batch19", "title": "维修咖啡馆完形·分解问题",
+      "tags": ["kp:ENG-VOCAB-CONTEXT-VERB", "origin:original-adapted", "material-group:eng-b19-repair-cloze", "material-order:4", "grade:high-school", "batch:gaokao-english-expansion-batch19", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "英语", "chapter": "语法综合", "knowledge_points": ["定语从句关系词的选择"], "difficulty": 2, "type": "single_choice",
+      "question": "The community garden has created a quiet corner ______ residents can read or talk after work.",
+      "options": ["where", "which", "whose", "what"], "answer": "A",
+      "solution": "先行词 corner 表示地点，关系词在从句中作地点状语，应使用 where。",
+      "source": "AGIEval-style|adapted-original|english-grammar|batch19", "title": "语法综合·定语从句地点关系词",
+      "tags": ["kp:ENG-CLAUSE-RELATIVE-WORD-SELECTION", "origin:original-adapted", "grade:high-school", "batch:gaokao-english-expansion-batch19", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "英语", "chapter": "语法综合", "knowledge_points": ["过去进行时"], "difficulty": 3, "type": "single_choice",
+      "question": "When the power suddenly failed, the researchers ______ the final set of measurements, so they had to repeat it.",
+      "options": ["recorded", "were recording", "have recorded", "would record"], "answer": "B",
+      "solution": "停电发生时，记录测量数据这一动作正在进行；when 引出的短暂过去动作与过去进行时搭配，选 were recording。",
+      "source": "AGIEval-style|adapted-original|english-grammar|batch19", "title": "语法综合·过去进行时语境",
+      "tags": ["kp:ENG-GRAMMAR-TENSE-PAST-CONTINUOUS", "origin:original-adapted", "grade:high-school", "batch:gaokao-english-expansion-batch19", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "英语", "chapter": "语法综合", "knowledge_points": ["非谓语动词综合"], "difficulty": 3, "type": "single_choice",
+      "question": "______ from several independent sources, the report was revised before publication.",
+      "options": ["Having checked", "Having been checked", "To check", "Checking"], "answer": "B",
+      "solution": "report 与 check 是被动关系，且核查发生在修订之前，需用完成式被动分词 Having been checked。",
+      "source": "GAOKAO-Bench-style|adapted-original|english-grammar|batch19", "title": "语法综合·完成式被动分词",
+      "tags": ["kp:ENG-NONFINITE-INFINITIVE", "origin:original-adapted", "grade:high-school", "batch:gaokao-english-expansion-batch19", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "英语", "chapter": "语法综合", "knowledge_points": ["条件状语从句"], "difficulty": 3, "type": "single_choice",
+      "question": "If the museum ______ visitors to handle the objects without guidance, many valuable details might be damaged.",
+      "options": ["allows", "allowed", "had allowed", "will allow"], "answer": "B",
+      "solution": "主句使用 might be damaged，表达对现在或将来不太可能情形的假设，if 从句用一般过去时 allowed。",
+      "source": "AGIEval-style|adapted-original|english-grammar|batch19", "title": "语法综合·虚拟条件语境",
+      "tags": ["kp:ENG-CLAUSE-ADVERBIAL-CONDITION", "origin:original-adapted", "grade:high-school", "batch:gaokao-english-expansion-batch19", "review:independent-answer-passed"]
+    }
+  ]
+}

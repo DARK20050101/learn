@@ -1,0 +1,72 @@
+{
+  "report": "post_import",
+  "filename": "gaokao_chinese_expansion_batch19_v1.json",
+  "mapping_version": "kp-mapping-v1.1",
+  "import_result": {
+    "batch_id": 27,
+    "filename": "gaokao_chinese_expansion_batch19_v1.json",
+    "status": "completed",
+    "total_count": 20,
+    "imported_count": 20,
+    "duplicate_count": 0,
+    "failed_count": 0,
+    "imported_question_ids": [
+      425,
+      426,
+      427,
+      428,
+      429,
+      430,
+      431,
+      432,
+      433,
+      434,
+      435,
+      436,
+      437,
+      438,
+      439,
+      440,
+      441,
+      442,
+      443,
+      444
+    ],
+    "duplicate_question_ids": [],
+    "mapping_version": "kp-mapping-v1.1"
+  },
+  "database": {
+    "questions": 444,
+    "primary_knowledge_point_links": 444,
+    "orphan_questions": 0,
+    "selected_question_count": 444,
+    "selected_questions_business_hash": "664dd5ec3fbc28363dda8ec0bf216c6a60e01284a32df6a09265eee7e5a56ca2"
+  },
+  "original_questions": {
+    "questions": 444,
+    "primary_knowledge_point_links": 444,
+    "orphan_questions": 0,
+    "selected_question_count": 424,
+    "selected_questions_business_hash": "a49ca214e087a8b56e0e1e4912935eadd6b299f5c1e8a999d148c9af20faeaa4"
+  },
+  "new_questions": {
+    "questions": 444,
+    "primary_knowledge_point_links": 444,
+    "orphan_questions": 0,
+    "selected_question_count": 20,
+    "selected_questions_business_hash": "09dfb56e9aa69deeabb3ba3bf7abba7d57e61beaf9a2fb32447863cd7da36758"
+  },
+  "checks": {
+    "question_count_expected": true,
+    "primary_count_matches_questions": true,
+    "no_orphan_questions": true,
+    "new_questions_have_primary": true,
+    "original_questions_unchanged": true
+  },
+  "passed": true,
+  "recovery": {
+    "strategy": "restore_pre_import_pg_dump; or, only when imported questions have no dependent records, remove their links and questions in one audited transaction",
+    "batch_id": 27,
+    "warning": "deleting the import batch record alone does not restore question data"
+  }
+}

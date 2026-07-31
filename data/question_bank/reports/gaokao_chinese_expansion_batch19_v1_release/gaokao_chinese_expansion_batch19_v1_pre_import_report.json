@@ -1,0 +1,141 @@
+{
+  "report": "pre_import",
+  "filename": "gaokao_chinese_expansion_batch19_v1.json",
+  "file_hash": "b18acdb8d82af36d94006fb465f576cf3b2745d844910204d282bdba3748081b",
+  "mapping_version": "kp-mapping-v1.1",
+  "database": {
+    "questions": 424,
+    "primary_knowledge_point_links": 424,
+    "orphan_questions": 0,
+    "selected_question_count": 424,
+    "selected_questions_business_hash": "a49ca214e087a8b56e0e1e4912935eadd6b299f5c1e8a999d148c9af20faeaa4"
+  },
+  "total": 20,
+  "new_questions": 20,
+  "matching_duplicates": 0,
+  "conflicts": 0,
+  "errors": [],
+  "ready": true,
+  "items": [
+    {
+      "index": 1,
+      "content_hash": "88eac8e12668832231d2e5654de822a03f99c647512eb602b566ce561e36890f",
+      "primary_code": "CHN-MODERN-INFERENCE",
+      "status": "new"
+    },
+    {
+      "index": 2,
+      "content_hash": "bcd0c89eb35e94ac901446a2cded0a9c59c531dbfd5d80c651270e3b62c5f13e",
+      "primary_code": "CHN-MODERN-INFORMATION",
+      "status": "new"
+    },
+    {
+      "index": 3,
+      "content_hash": "25e3abaabd63bb8a887fabc952dda1352e409974b5ed1a31b77fdee420933661",
+      "primary_code": "CHN-MODERN-INFERENCE",
+      "status": "new"
+    },
+    {
+      "index": 4,
+      "content_hash": "4ad4579c45583c5378fa3bed7755cae1aeae4e0dfe257970f2de2067d7bbdc0d",
+      "primary_code": "CHN-MODERN-APPRECIATION",
+      "status": "new"
+    },
+    {
+      "index": 5,
+      "content_hash": "0228348935d6cfd29c82eb1547245f3df2fe6f734251faf3a366d41be9466164",
+      "primary_code": "CHN-MODERN-APPRECIATION",
+      "status": "new"
+    },
+    {
+      "index": 6,
+      "content_hash": "a9c6d0696c353ef2092e043ad7e8056316ddde6a46effe9aad0dfe2ec9a6f879",
+      "primary_code": "CHN-MODERN-INFERENCE",
+      "status": "new"
+    },
+    {
+      "index": 7,
+      "content_hash": "3eef9dce1d82d464134c187838034eb263c08f60416409a14d6e0cde639b13f4",
+      "primary_code": "CHN-MODERN-INFORMATION",
+      "status": "new"
+    },
+    {
+      "index": 8,
+      "content_hash": "03b7cefa02c49454e755d25be4f526fd5fea8d0c4a057730c85be062f3d1af1d",
+      "primary_code": "CHN-MODERN-APPRECIATION",
+      "status": "new"
+    },
+    {
+      "index": 9,
+      "content_hash": "570e027eb1cd3b1be75533be21d0335dd2190eecd7542aed5455af58828591a9",
+      "primary_code": "CHN-CLASSICAL-WORDS",
+      "status": "new"
+    },
+    {
+      "index": 10,
+      "content_hash": "2c60241510029876d883bef9829996fa169573935da5a0e224a4760d9087a623",
+      "primary_code": "CHN-CLASSICAL-CONTENT",
+      "status": "new"
+    },
+    {
+      "index": 11,
+      "content_hash": "5dd3293e602765b5c6a7739095eed8f3ae47494a2c42591c5f530d97fd8039f9",
+      "primary_code": "CHN-CLASSICAL-TRANSLATION",
+      "status": "new"
+    },
+    {
+      "index": 12,
+      "content_hash": "0096942f36e3007091fec54a3dd0fe73f4f81d46b2661ab7cdc974c5aa74289e",
+      "primary_code": "CHN-CLASSICAL-CONTENT",
+      "status": "new"
+    },
+    {
+      "index": 13,
+      "content_hash": "be6a990fd6c4ccb736dd72c8b3c6f2dcbccfad9abd98403eaa18464639a2a0ef",
+      "primary_code": "CHN-POETRY-EMOTION",
+      "status": "new"
+    },
+    {
+      "index": 14,
+      "content_hash": "0b3c5e351ecc7f1360a41cb4c43e8895199b971ff2b345dd958f659af39acc28",
+      "primary_code": "CHN-POETRY-TECHNIQUE",
+      "status": "new"
+    },
+    {
+      "index": 15,
+      "content_hash": "12b4bd371aaa1976979ee9e7596259615a88cc9d2ae8876e803c9b2448a8e0c5",
+      "primary_code": "CHN-POETRY-IMAGE",
+      "status": "new"
+    },
+    {
+      "index": 16,
+      "content_hash": "3dc595e3baa2ca855e062fdf08220fe7dc8585227d8f18f692413d86ad678583",
+      "primary_code": "CHN-POETRY-TECHNIQUE",
+      "status": "new"
+    },
+    {
+      "index": 17,
+      "content_hash": "a43843def805a7653d3caf7f0cd1b2ca652eb7e75dbe91cb1860b09f7c57b807",
+      "primary_code": "CHN-LANGUAGE-WORDS",
+      "status": "new"
+    },
+    {
+      "index": 18,
+      "content_hash": "08f64937dacd56a7e32ec327653067467f92e8e8aea558d74efcff9137f6c724",
+      "primary_code": "CHN-LANGUAGE-SENTENCE",
+      "status": "new"
+    },
+    {
+      "index": 19,
+      "content_hash": "4e647e01b5e9d2e37c14b9e160e00880bfa4b6c70930e2e948334828649436f8",
+      "primary_code": "CHN-LANGUAGE-EXPRESSION",
+      "status": "new"
+    },
+    {
+      "index": 20,
+      "content_hash": "cfbb094bb58aadbadc857c9f3083bfb738dc474a0bbaa69b81797c3d36187255",
+      "primary_code": "CHN-LANGUAGE-EXPRESSION",
+      "status": "new"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "schema_version": "shiguang-question-candidate-v1",
+  "batch": "gaokao-chinese-expansion-19",
+  "questions": [
+    {
+      "subject": "语文", "chapter": "现代文阅读", "knowledge_points": ["文意理解与推断"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】历史地理学把空间过程和时间过程结合起来。传统沿革地理主要描述和复原疆域、政区、地名和水道的变迁，很少追问变化原因；现代历史地理学不仅复原过去的地理现象，还借助地理学及相关学科的理论、方法和技术探寻其演变规律。20世纪30年代以后，中国沿革地理开始向现代历史地理学转化；改革开放以来，相关研究领域不断拓展。\n根据材料，下列理解正确的一项是（ ）",
+      "options": ["沿革地理与历史地理学的差别仅在研究对象多少", "只要复原过去的地理现象，就属于现代历史地理学", "现代历史地理学强调在时空结合中解释地理现象的演变", "中国历史地理学到改革开放后才开始形成"],
+      "answer": "C", "solution": "材料明确指出现代历史地理学既复原现象，又追寻原因和规律，并把空间过程与时间过程结合，C概括准确。A忽略二者性质差异；B遗漏解释规律；D把研究拓展误作学科起点。",
+      "source": "AGIEval-v1.1|dataset:gaokao-chinese|adapted:true|row:0-1|original:2020年高考山东卷|commit:84ab72d94318",
+      "title": "历史地理学材料阅读·概念辨析", "tags": ["kp:CHN-MODERN-INFERENCE", "origin:external-adapted", "material-group:chn19-historical-geography", "material-order:1", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-expansion-19", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "现代文阅读", "knowledge_points": ["信息筛选与整合"], "difficulty": 2, "type": "single_choice",
+      "question": "【共同材料】历史地理学把空间过程和时间过程结合起来。传统沿革地理主要描述和复原疆域、政区、地名和水道的变迁，很少追问变化原因；现代历史地理学不仅复原过去的地理现象，还借助地理学及相关学科的理论、方法和技术探寻其演变规律。20世纪30年代以后，中国沿革地理开始向现代历史地理学转化；改革开放以来，相关研究领域不断拓展。\n下列不属于材料所说传统沿革地理主要研究内容的一项是（ ）",
+      "options": ["历代行政区划的分合", "古今地名的变更", "河流水道的变迁", "地貌演变的动力机制"],
+      "answer": "D", "solution": "传统沿革地理主要描述疆域政区、地名和水道的变迁；分析地貌演变的动力机制属于追寻变化原因和规律，超出了其主要内容。",
+      "source": "AGIEval-v1.1|dataset:gaokao-chinese|adapted:true|row:0-1|original:2020年高考山东卷|commit:84ab72d94318",
+      "title": "历史地理学材料阅读·信息筛选", "tags": ["kp:CHN-MODERN-INFORMATION", "origin:external-adapted", "material-group:chn19-historical-geography", "material-order:2", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-expansion-19", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "现代文阅读", "knowledge_points": ["文意理解与推断"], "difficulty": 4, "type": "single_choice",
+      "question": "【共同材料】历史地理学把空间过程和时间过程结合起来。传统沿革地理主要描述和复原疆域、政区、地名和水道的变迁，很少追问变化原因；现代历史地理学不仅复原过去的地理现象，还借助地理学及相关学科的理论、方法和技术探寻其演变规律。20世纪30年代以后，中国沿革地理开始向现代历史地理学转化；改革开放以来，相关研究领域不断拓展。\n依据材料，下列研究最能体现现代历史地理学特征的一项是（ ）",
+      "options": ["汇编历代地方志中的同名异地资料", "绘出某河道在各朝代的位置图", "考订一座古城名称最早出现的年代", "结合沉积数据与文献分析河道改迁及聚落兴衰的关系"],
+      "answer": "D", "solution": "D同时利用多学科资料，把空间变化、时间过程及其与人类聚落的关系纳入解释，体现了复原、解释和探寻规律的完整链条。其余三项主要停留在资料整理或现象复原。",
+      "source": "AGIEval-v1.1|dataset:gaokao-chinese|adapted:true|row:0-1|original:2020年高考山东卷|commit:84ab72d94318",
+      "title": "历史地理学材料阅读·情境推断", "tags": ["kp:CHN-MODERN-INFERENCE", "origin:external-adapted", "material-group:chn19-historical-geography", "material-order:3", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-expansion-19", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "现代文阅读", "knowledge_points": ["表现手法与文本鉴赏"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】历史地理学把空间过程和时间过程结合起来。传统沿革地理主要描述和复原疆域、政区、地名和水道的变迁，很少追问变化原因；现代历史地理学不仅复原过去的地理现象，还借助地理学及相关学科的理论、方法和技术探寻其演变规律。20世纪30年代以后，中国沿革地理开始向现代历史地理学转化；改革开放以来，相关研究领域不断拓展。\n材料在说明两门学问的区别时，主要采用的论证方法是（ ）",
+      "options": ["对比论证", "比喻论证", "归谬论证", "因果论证"],
+      "answer": "A", "solution": "材料从研究内容和研究性质两方面并列比较沿革地理与现代历史地理学，核心方法是对比论证。",
+      "source": "AGIEval-v1.1|dataset:gaokao-chinese|adapted:true|row:0-1|original:2020年高考山东卷|commit:84ab72d94318",
+      "title": "历史地理学材料阅读·论证方法", "tags": ["kp:CHN-MODERN-APPRECIATION", "origin:external-adapted", "material-group:chn19-historical-geography", "material-order:4", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-expansion-19", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "现代文阅读", "knowledge_points": ["表现手法与文本鉴赏"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】进入建水古城，飞檐斗拱、酒旌食馆、朱门闾巷扑面而来。临安饭店当街敞开，食客喝汤、端饭、动筷、晃勺，吆五喝六。电子地图只标出几条宽街，仿佛此地荒凉；实际上，小巷如毛细血管般密集，四合院、水井、老树、杂货铺、炊烟与寻常人家的生活彼此交织。\n下列对材料艺术特色的分析，不正确的一项是（ ）",
+      "options": ["密集铺陈市井事物，表现古城生活的丰饶", "以电子地图的粗疏反衬古城内部的细密", "由城门写到街巷，视线逐步深入古城", "用冷静客观的统计完全取代感官描写"],
+      "answer": "D", "solution": "材料大量运用视觉、听觉等感官描写，统计信息只是辅助，不能说“完全取代”。A、B、C均符合文本组织和表达特点。",
+      "source": "AGIEval-v1.1|dataset:gaokao-chinese|adapted:true|row:2|original:2020年高考山东卷|commit:84ab72d94318",
+      "title": "《建水记》材料阅读·艺术特色", "tags": ["kp:CHN-MODERN-APPRECIATION", "origin:external-adapted", "material-group:chn19-jianshui", "material-order:1", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-expansion-19", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "现代文阅读", "knowledge_points": ["文意理解与推断"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】进入建水古城，飞檐斗拱、酒旌食馆、朱门闾巷扑面而来。临安饭店当街敞开，食客喝汤、端饭、动筷、晃勺，吆五喝六。电子地图只标出几条宽街，仿佛此地荒凉；实际上，小巷如毛细血管般密集，四合院、水井、老树、杂货铺、炊烟与寻常人家的生活彼此交织。\n材料批评电子地图“仿佛此地荒凉”，其深层用意是（ ）",
+      "options": ["说明数字地图的数据全部错误", "强调抽象标注难以呈现地方生活的丰富肌理", "证明古城不应允许现代技术进入", "指出宽街比小巷更缺少保护价值"],
+      "answer": "B", "solution": "电子地图只保留少数抽象地点，抹去了街巷、建筑和日常生活的细节。作者意在揭示抽象地图与地方真实肌理之间的落差，而非否定技术本身。",
+      "source": "AGIEval-v1.1|dataset:gaokao-chinese|adapted:true|row:2|original:2020年高考山东卷|commit:84ab72d94318",
+      "title": "《建水记》材料阅读·意蕴推断", "tags": ["kp:CHN-MODERN-INFERENCE", "origin:external-adapted", "material-group:chn19-jianshui", "material-order:2", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-expansion-19", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "现代文阅读", "knowledge_points": ["信息筛选与整合"], "difficulty": 2, "type": "single_choice",
+      "question": "【共同材料】进入建水古城，飞檐斗拱、酒旌食馆、朱门闾巷扑面而来。临安饭店当街敞开，食客喝汤、端饭、动筷、晃勺，吆五喝六。电子地图只标出几条宽街，仿佛此地荒凉；实际上，小巷如毛细血管般密集，四合院、水井、老树、杂货铺、炊烟与寻常人家的生活彼此交织。\n材料直接表现建水古城“生活气息”的一项是（ ）",
+      "options": ["飞檐斗拱的建筑形式", "电子地图的道路标注", "食客喝汤端饭、吆五喝六", "古城保护范围的划定"],
+      "answer": "C", "solution": "C直接描写食客的动作与声音，最集中地呈现日常生活气息；其余选项或偏建筑形制，或属于地图和管理信息。",
+      "source": "AGIEval-v1.1|dataset:gaokao-chinese|adapted:true|row:2|original:2020年高考山东卷|commit:84ab72d94318",
+      "title": "《建水记》材料阅读·信息筛选", "tags": ["kp:CHN-MODERN-INFORMATION", "origin:external-adapted", "material-group:chn19-jianshui", "material-order:3", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-expansion-19", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "现代文阅读", "knowledge_points": ["表现手法与文本鉴赏"], "difficulty": 4, "type": "single_choice",
+      "question": "【共同材料】进入建水古城，飞檐斗拱、酒旌食馆、朱门闾巷扑面而来。临安饭店当街敞开，食客喝汤、端饭、动筷、晃勺，吆五喝六。电子地图只标出几条宽街，仿佛此地荒凉；实际上，小巷如毛细血管般密集，四合院、水井、老树、杂货铺、炊烟与寻常人家的生活彼此交织。\n“小巷如毛细血管般密集”这一比喻在文中的作用，理解最恰当的是（ ）",
+      "options": ["突出街巷狭窄破败，需要彻底改造", "把空间形态与生命意象相连，表现街巷滋养并联结日常生活", "说明古城道路具有严格的对称结构", "暗示古城居民生活封闭、缺少对外交流"],
+      "answer": "B", "solution": "“毛细血管”既写出街巷细密延展的形态，又赋予古城有机生命感；后文生活事物“彼此交织”进一步说明街巷联结、承载生活的功能。",
+      "source": "AGIEval-v1.1|dataset:gaokao-chinese|adapted:true|row:2|original:2020年高考山东卷|commit:84ab72d94318",
+      "title": "《建水记》材料阅读·比喻鉴赏", "tags": ["kp:CHN-MODERN-APPRECIATION", "origin:external-adapted", "material-group:chn19-jianshui", "material-order:4", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-expansion-19", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "文言文阅读", "knowledge_points": ["文言实词与虚词"], "difficulty": 2, "type": "single_choice",
+      "question": "【共同材料】燕达，字逢辰。少有勇略，善骑射。太祖召见，以为可用。达每临敌，常被重铠为先锋，未尝少却。尝出田，道逢汴河决，达率所部塞之。帝闻曰：“将帅能勤民事，诚可嘉也。”\n对下列加点词的解释，不正确的一项是（ ）",
+      "options": ["善骑射：擅长", "未尝少却：退却", "尝出田：曾经", "诚可嘉也：嘉奖"],
+      "answer": "D", "solution": "“嘉”在“诚可嘉也”中是“赞许、值得赞美”的意思，并非动词“嘉奖”。其余三项解释均合乎语境。",
+      "source": "AGIEval-v1.1|dataset:gaokao-chinese|adapted:true|row:3-4|original:2020年高考山东卷文言文|commit:84ab72d94318",
+      "title": "燕达传材料阅读·实词辨析", "tags": ["kp:CHN-CLASSICAL-WORDS", "origin:external-adapted", "material-group:chn19-yanda", "material-order:1", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-expansion-19", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "文言文阅读", "knowledge_points": ["文言文内容理解"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】燕达，字逢辰。少有勇略，善骑射。太祖召见，以为可用。达每临敌，常被重铠为先锋，未尝少却。尝出田，道逢汴河决，达率所部塞之。帝闻曰：“将帅能勤民事，诚可嘉也。”\n下列对燕达形象的概括，不正确的一项是（ ）",
+      "options": ["勇敢善战", "体恤民事", "临敌退缩", "有实际行动能力"],
+      "answer": "C", "solution": "“未尝少却”意为从不稍有退却，C与原文相反。披重铠为先锋体现勇敢，率部堵决口体现关心民事和行动能力。",
+      "source": "AGIEval-v1.1|dataset:gaokao-chinese|adapted:true|row:3-4|original:2020年高考山东卷文言文|commit:84ab72d94318",
+      "title": "燕达传材料阅读·人物理解", "tags": ["kp:CHN-CLASSICAL-CONTENT", "origin:external-adapted", "material-group:chn19-yanda", "material-order:2", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-expansion-19", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "文言文阅读", "knowledge_points": ["文言文翻译"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】燕达，字逢辰。少有勇略，善骑射。太祖召见，以为可用。达每临敌，常被重铠为先锋，未尝少却。尝出田，道逢汴河决，达率所部塞之。帝闻曰：“将帅能勤民事，诚可嘉也。”\n对“达每临敌，常被重铠为先锋，未尝少却”的翻译，最准确的一项是（ ）",
+      "options": ["燕达每次面对敌军，常披着厚重铠甲担任先锋，不曾稍稍退却", "燕达到敌人那里去，常被人穿上铠甲推作先锋，从未被撤换", "燕达每逢敌人，常把重铠盖在先锋身上，从未减少装备", "燕达每次临近敌境，常带着重兵作为前锋，不曾稍作休息"],
+      "answer": "A", "solution": "“被”通“披”，意为穿着；“为先锋”是担任先锋；“少却”是稍稍退却。A逐一落实关键词且句意通顺。",
+      "source": "AGIEval-v1.1|dataset:gaokao-chinese|adapted:true|row:3-4|original:2020年高考山东卷文言文|commit:84ab72d94318",
+      "title": "燕达传材料阅读·句子翻译", "tags": ["kp:CHN-CLASSICAL-TRANSLATION", "origin:external-adapted", "material-group:chn19-yanda", "material-order:3", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-expansion-19", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "文言文阅读", "knowledge_points": ["文言文内容理解"], "difficulty": 4, "type": "single_choice",
+      "question": "【共同材料】燕达，字逢辰。少有勇略，善骑射。太祖召见，以为可用。达每临敌，常被重铠为先锋，未尝少却。尝出田，道逢汴河决，达率所部塞之。帝闻曰：“将帅能勤民事，诚可嘉也。”\n太祖评价燕达“可嘉”，最主要的原因是（ ）",
+      "options": ["燕达精于骑射，符合武将本职", "燕达得到召见后始终忠于皇帝", "燕达在非战斗情境中主动承担救灾事务", "燕达披重铠冲锋，能够以一当十"],
+      "answer": "C", "solution": "评价紧接燕达率部堵塞汴河决口之事，且“勤民事”点明赞许的是将帅主动处理关系百姓的事务。其他选项或虽见于前文，或属无据推断，都不是此处评价的直接原因。",
+      "source": "AGIEval-v1.1|dataset:gaokao-chinese|adapted:true|row:3-4|original:2020年高考山东卷文言文|commit:84ab72d94318",
+      "title": "燕达传材料阅读·因果推断", "tags": ["kp:CHN-CLASSICAL-CONTENT", "origin:external-adapted", "material-group:chn19-yanda", "material-order:4", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-expansion-19", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "古代诗歌阅读", "knowledge_points": ["诗歌思想感情"], "difficulty": 3, "type": "single_choice",
+      "question": "阅读王安石《读史》：“自古功名亦苦辛，行藏终欲付何人。当时黮闇犹承误，末俗纷纭更乱真。糟粕所传非粹美，丹青难写是精神。区区岂尽高贤意，独守千秋纸上尘。”下列对诗歌主旨的概括，最恰当的一项是（ ）",
+      "options": ["感叹建功立业必然带来人生痛苦", "批评后世仅凭史籍表象轻率评判前贤", "赞美画师能够保存历史人物的精神", "主张读史应完全否定既有文献"],
+      "answer": "B", "solution": "“乱真”“糟粕”“丹青难写是精神”“岂尽高贤意”共同指出记载和画像难以穷尽前贤精神，批评后人据表象妄加评判。诗人并未否定全部文献。",
+      "source": "AGIEval-v1.1|dataset:gaokao-chinese|adapted:true|row:5|original:2020年高考山东卷|commit:84ab72d94318",
+      "title": "王安石《读史》·主旨理解", "tags": ["kp:CHN-POETRY-EMOTION", "origin:external-adapted", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-expansion-19", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "古代诗歌阅读", "knowledge_points": ["诗歌表达技巧"], "difficulty": 3, "type": "single_choice",
+      "question": "阅读王安石《读史》：“自古功名亦苦辛，行藏终欲付何人。当时黮闇犹承误，末俗纷纭更乱真。糟粕所传非粹美，丹青难写是精神。区区岂尽高贤意，独守千秋纸上尘。”对“糟粕所传非粹美，丹青难写是精神”所用手法，分析最恰当的一项是（ ）",
+      "options": ["借代与对比，指出文字画像均难传人物真精神", "夸张与用典，赞叹史家拥有不朽才华", "比拟与反问，描写画中人物栩栩如生", "双关与排比，说明功名可以流传千秋"],
+      "answer": "A", "solution": "“糟粕”与“粹美”形成对照，“丹青”借代画像；两句共同说明传世文字和画像都可能失真，难以呈现人物精神。",
+      "source": "AGIEval-v1.1|dataset:gaokao-chinese|adapted:true|row:5|original:2020年高考山东卷|commit:84ab72d94318",
+      "title": "王安石《读史》·表达技巧", "tags": ["kp:CHN-POETRY-TECHNIQUE", "origin:external-adapted", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-expansion-19", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "古代诗歌阅读", "knowledge_points": ["诗歌形象与意境"], "difficulty": 3, "type": "single_choice",
+      "question": "阅读陆游《鹊桥仙·华灯纵博》下片：“轻舟八尺，低篷三扇，占断苹洲烟雨。镜湖元自属闲人，又何必、君恩赐与！”下列对词中“闲人”形象的理解，最恰当的一项是（ ）",
+      "options": ["沉迷赌博而逃避责任的浪子", "自得于烟雨轻舟、又流露愤懑的退居者", "奉诏归隐并感激君恩的臣子", "不问世事、毫无政治关怀的渔父"],
+      "answer": "B", "solution": "轻舟烟雨写退居生活的疏放自得，“又何必、君恩赐与”则以反语表达被排挤后的不平，因而兼有旷达姿态与愤懑内心。",
+      "source": "AGIEval-v1.1|dataset:gaokao-chinese|adapted:true|row:27|original:2018年高考山东卷|commit:84ab72d94318",
+      "title": "陆游《鹊桥仙》·人物形象", "tags": ["kp:CHN-POETRY-IMAGE", "origin:external-adapted", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-expansion-19", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "古代诗歌阅读", "knowledge_points": ["诗歌表达技巧"], "difficulty": 4, "type": "single_choice",
+      "question": "阅读陆游《鹊桥仙·华灯纵博》下片：“轻舟八尺，低篷三扇，占断苹洲烟雨。镜湖元自属闲人，又何必、君恩赐与！”末句“又何必、君恩赐与”的表达效果，分析最准确的一项是（ ）",
+      "options": ["直抒感激，赞美朝廷体恤退居之臣", "以设问表达对镜湖归属问题的疑惑", "以反语否定所谓恩赐，显出傲岸与不平", "借景抒情，表现对烟雨景色的畏惧"],
+      "answer": "C", "solution": "词人说镜湖本来就属于“闲人”，何须君王赐予，表面轻松，实际以反语消解“恩赐”的权威，表现傲岸和被迫退居的不平。",
+      "source": "AGIEval-v1.1|dataset:gaokao-chinese|adapted:true|row:27|original:2018年高考山东卷|commit:84ab72d94318",
+      "title": "陆游《鹊桥仙》·反语鉴赏", "tags": ["kp:CHN-POETRY-TECHNIQUE", "origin:external-adapted", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-expansion-19", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "语言文字运用", "knowledge_points": ["词语辨析与使用"], "difficulty": 2, "type": "single_choice",
+      "question": "【共同材料】阅读能使人超越有限的生活半径。面对浩如烟海的书籍，若只求数量、追逐热榜，所得往往浮光掠影；若能选择真正适合自己的作品，沉潜其中，与作者反复对话，才可能把别人的经验转化为自己的认识。\n依次填入横线处的成语，最恰当的一项是：书海虽____，阅读却不可一味____；真正有效的阅读，需要专注而深入。",
+      "options": ["汗牛充栋／走马观花", "鳞次栉比／按部就班", "星罗棋布／循序渐进", "不胜枚举／精雕细刻"],
+      "answer": "A", "solution": "“汗牛充栋”形容书籍极多，与“书海”相合；“走马观花”比喻粗略地观察，恰与后文“专注而深入”相反。其他成语的适用对象或感情色彩不合。",
+      "source": "GAOKAO-Bench|adapted:true|dataset:2010-2022_Chinese_Lang_and_Usage_MCQs|commit:6dbb24f8d843",
+      "title": "阅读主题语用材料·成语辨析", "tags": ["kp:CHN-LANGUAGE-WORDS", "origin:external-adapted", "material-group:chn19-reading-language", "material-order:1", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-expansion-19", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "语言文字运用", "knowledge_points": ["病句辨析与修改"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】阅读能使人超越有限的生活半径。面对浩如烟海的书籍，若只求数量、追逐热榜，所得往往浮光掠影；若能选择真正适合自己的作品，沉潜其中，与作者反复对话，才可能把别人的经验转化为自己的认识。\n下列各句中，没有语病的一项是（ ）",
+      "options": ["能否把别人的经验转化为自己的认识，关键在于深入阅读。", "通过与作者反复对话，使读者逐渐形成了独立判断。", "选择适合自己的作品并深入阅读，有助于提升思维品质。", "阅读热榜之所以流行的原因，是它降低了选书的时间。"],
+      "answer": "C", "solution": "C搭配恰当、结构完整。A两面对一面；B滥用介词造成主语残缺；D“之所以”与“原因”句式杂糅，且“降低时间”搭配不当。",
+      "source": "GAOKAO-Bench|adapted:true|dataset:2010-2022_Chinese_Lang_and_Usage_MCQs|commit:6dbb24f8d843",
+      "title": "阅读主题语用材料·病句辨析", "tags": ["kp:CHN-LANGUAGE-SENTENCE", "origin:external-adapted", "material-group:chn19-reading-language", "material-order:2", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-expansion-19", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "语言文字运用", "knowledge_points": ["语言表达与衔接"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】阅读能使人超越有限的生活半径。面对浩如烟海的书籍，若只求数量、追逐热榜，所得往往浮光掠影；若能选择真正适合自己的作品，沉潜其中，与作者反复对话，才可能把别人的经验转化为自己的认识。\n填入下面横线处的语句，衔接最恰当的一项是：阅读不是把书页翻过就算完成。____，____；____，____。如此，文字才会真正参与一个人的成长。①还要联系自身经验加以检验 ②既要理解作者说了什么 ③也要追问作者为什么这样说 ④进而形成自己的判断",
+      "options": ["②③①④", "①②④③", "②①③④", "③②④①"],
+      "answer": "A", "solution": "先由“既要”引出②，再以“也要”承接③；理解和追问之后联系自身经验检验①，最终形成判断④，符合由理解到反思再到内化的逻辑。",
+      "source": "GAOKAO-Bench|adapted:true|dataset:2010-2022_Chinese_Lang_and_Usage_MCQs|commit:6dbb24f8d843",
+      "title": "阅读主题语用材料·语句衔接", "tags": ["kp:CHN-LANGUAGE-EXPRESSION", "origin:external-adapted", "material-group:chn19-reading-language", "material-order:3", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-expansion-19", "review:independent-answer-passed"]
+    },
+    {
+      "subject": "语文", "chapter": "语言文字运用", "knowledge_points": ["语言表达与衔接"], "difficulty": 3, "type": "single_choice",
+      "question": "【共同材料】阅读能使人超越有限的生活半径。面对浩如烟海的书籍，若只求数量、追逐热榜，所得往往浮光掠影；若能选择真正适合自己的作品，沉潜其中，与作者反复对话，才可能把别人的经验转化为自己的认识。\n下列作为材料标题，最准确的一项是（ ）",
+      "options": ["读得多，才算会读", "从追逐热榜到拒绝新书", "让阅读从浏览走向内化", "所有经典都适合每个人"],
+      "answer": "C", "solution": "材料对比浮泛浏览与沉潜对话，落脚于把他人经验转化为自身认识，即从浏览走向内化。A、B、D都把材料观点绝对化或曲解。",
+      "source": "GAOKAO-Bench|adapted:true|dataset:2010-2022_Chinese_Lang_and_Usage_MCQs|commit:6dbb24f8d843",
+      "title": "阅读主题语用材料·标题概括", "tags": ["kp:CHN-LANGUAGE-EXPRESSION", "origin:external-adapted", "material-group:chn19-reading-language", "material-order:4", "region-fit:qinghai-curriculum", "batch:gaokao-chinese-expansion-19", "review:independent-answer-passed"]
+    }
+  ]
+}
