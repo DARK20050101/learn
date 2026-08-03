@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { computed, onMounted, ref } from 'vue'
 import { useRouter } from 'vue-router'
-import { ArrowRight, BookOpen, BookX, Check, LogOut, RefreshCw, Sparkles, WifiOff, X } from 'lucide-vue-next'
+import { ArrowRight, BookOpen, BookX, Check, LogOut, PenLine, RefreshCw, Sparkles, WifiOff, X } from 'lucide-vue-next'
 import AppNav from '../components/AppNav.vue'
 import LoadingState from '../components/LoadingState.vue'
 import { ApiError, NetworkError, api } from '../services/api'
@@ -71,6 +71,7 @@ onMounted(load)
       <section class="mt-8"><div class="mb-4 flex items-center justify-between"><h2 class="text-lg font-bold">题目一览</h2><span class="text-xs text-slate-400">已答题可查看结果</span></div><div class="space-y-3"><button v-for="item in state.task.items" :key="item.id" class="flex w-full items-center gap-4 rounded-2xl border border-black/[.04] bg-white/80 p-4 text-left shadow-sm" @click="router.push(`/question/${item.position}`)"><span class="grid h-10 w-10 shrink-0 place-items-center rounded-xl font-semibold" :class="!state.answers[item.id] ? 'bg-slate-100 text-slate-500' : state.answers[item.id].is_correct ? 'bg-leaf-50 text-leaf-700' : 'bg-red-50 text-coral'"><Check v-if="state.answers[item.id]?.is_correct" :size="18"/><X v-else-if="state.answers[item.id]" :size="18"/><template v-else>{{ item.position }}</template></span><span class="min-w-0 flex-1"><span class="block text-xs text-slate-400">{{ item.question.subject }} · 难度 {{ item.question.difficulty }}</span><span class="mt-1 block truncate text-sm font-medium">{{ item.question.title }}</span><span class="mt-1 block text-xs" :class="!state.answers[item.id] ? 'text-slate-400' : state.answers[item.id].is_correct ? 'text-leaf-600' : 'text-coral'">{{ !state.answers[item.id] ? '继续作答' : state.answers[item.id].is_correct ? '回答正确 · 查看结果' : '回答错误 · 查看解析' }}</span></span><ArrowRight :size="17" class="text-slate-300"/></button></div></section>
     </template>
     <button v-if="status === 'ready'" class="mt-8 flex w-full items-center gap-4 rounded-2xl border border-black/[.04] bg-white p-5 text-left shadow-sm" @click="router.push('/training/subject')"><span class="grid h-12 w-12 shrink-0 place-items-center rounded-2xl bg-leaf-50 text-leaf-700"><BookOpen :size="22"/></span><span class="min-w-0 flex-1"><span class="block font-semibold">学科专项训练</span><span class="mt-1 block text-xs text-slate-400">按学科和知识点自主加练</span></span><ArrowRight :size="18" class="text-slate-300"/></button>
+    <button v-if="status === 'ready'" class="mt-3 flex w-full items-center gap-4 rounded-2xl border border-black/[.04] bg-white p-5 text-left shadow-sm" @click="router.push('/training/fill')"><span class="grid h-12 w-12 shrink-0 place-items-center rounded-2xl bg-amber-50 text-amber-600"><PenLine :size="22"/></span><span class="min-w-0 flex-1"><span class="block font-semibold">概念记忆 · 知识填空</span><span class="mt-1 block text-xs text-slate-400">专门练习概念、定义与公式</span></span><ArrowRight :size="18" class="text-slate-300"/></button>
     <AppNav />
   </main>
 </template>

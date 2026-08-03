@@ -67,6 +67,9 @@ export const api = {
   subjectTrainingCatalog: () => request<SubjectTrainingCatalog>('/training-sessions/subject/catalog'),
   createSubjectTraining: (payload: { subject: string; chapter?: string; knowledge_point_code?: string; difficulty?: number; question_count: number }) =>
     request<TrainingSession>('/training-sessions/subject', { method: 'POST', body: JSON.stringify(payload) }),
+  fillTrainingCatalog: () => request<SubjectTrainingCatalog>('/training-sessions/fill/catalog'),
+  createFillTraining: (payload: { subject: string; chapter?: string; knowledge_point_code?: string; difficulty?: number; question_count: number }) =>
+    request<TrainingSession>('/training-sessions/fill', { method: 'POST', body: JSON.stringify(payload) }),
   trainingSession: (id: number) => request<TrainingSession>(`/training-sessions/${id}`),
   trainingAnswers: (id: number) => request<AnswerResult[]>(`/training-sessions/${id}/answers`),
   submitTrainingAnswer: (itemId: number, payload: { answer: AnswerValue; duration_seconds: number; idempotency_key: string }) =>

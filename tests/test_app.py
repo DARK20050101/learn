@@ -25,6 +25,8 @@ def test_openapi_contains_core_modules() -> None:
     assert "/api/v1/training-session-items/{item_id}/answer" in paths
     assert "/api/v1/training-sessions/subject/catalog" in paths
     assert "/api/v1/training-sessions/subject" in paths
+    assert "/api/v1/training-sessions/fill/catalog" in paths
+    assert "/api/v1/training-sessions/fill" in paths
     assert "/api/v1/wrong-questions" in paths
     assert "/api/v1/wrong-questions/{question_id}/practice" in paths
     assert "/api/v1/ai-analysis" not in paths

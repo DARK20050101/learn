@@ -68,6 +68,10 @@ E:\1a\.venv\Scripts\python.exe -m scripts.import_questions `
 规则判题所使用的完整选项值。系统会校验字段、题型、选项和答案，并使用规范化内容的
 SHA-256 指纹检测文件内及数据库中的重复题。
 
+知识点记忆填空（`type: "fill_blank"`）用于概念、定义和公式的记忆类题目，题干中
+使用下划线表示空位。`answer` 可以是一个字符串，也可以是字符串数组（同义词/别名）：
+多个可接受答案中任意一个都判为正确，且忽略空格、全半角、大小写和常见标点差异。
+
 每次导入都会写入 `question_import_batches`，保存文件哈希、成功数、重复数、失败数和
 逐条错误详情。CLI 同时输出 JSON 汇总；存在格式错误时退出码为 1，仅有重复题时仍会
 正常完成并在结果中列明。
@@ -122,6 +126,29 @@ E:\1a\.venv\Scripts\python.exe -m scripts.release_questions `
 
 移动端专项训练页面可依次选择学科、章节、标准知识点、难度和题量。提交答案仍走统一
 `student_answers`、规则判题、AI错题分析和知识掌握度更新链路。
+
+## Phase 11.5：概念记忆训练（知识填空）
+
+概念记忆是只包含 `fill_blank` 填空题的专项训练入口，复用 `training_sessions`，不新增
+数据库表：
+
+- `GET /api/v1/training-sessions/fill/catalog`：返回仅统计填空题的学科/章节/标准
+  知识点目录及1—5级难度分布。
+- `POST /api/v1/training-sessions/fill`：参数与学科专项训练一致
+  （`subject`、`chapter`、`knowledge_point_code`、`difficulty`、`question_count`），
+  只从 `fill_blank` 题目中选题。
+- 会话类型为 `fill_review`，`selection_version=fill-v1`，并在 `selection_config`
+  中记录 `question_type=fill_blank`。
+- 判题、答案恢复、AI错题分析和掌握度更新继续复用统一流程。
+
+移动端首页提供“概念记忆 · 知识填空”独立入口，选择学科、知识点、难度和题量后，
+以填空形式作答概念、定义与公式类题目。
+
+升级数据库：
+
+```powershell
+E:\1a\.venv\Scripts\alembic.exe upgrade head
+```
 
 示例数据位于 `data/questions/`，数学、物理、英语各 20 题，仅用于 MVP 流程验证，
 正式用户测试前应由当地教师复核内容与教材适配性。

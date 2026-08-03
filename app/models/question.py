@@ -13,6 +13,7 @@ class QuestionType(StrEnum):
     multiple_choice = "multiple_choice"
     true_false = "true_false"
     short_answer = "short_answer"
+    fill_blank = "fill_blank"
 
 
 class Question(TimestampMixin, Base):

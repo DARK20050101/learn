@@ -65,6 +65,18 @@ class QuestionImportItem(BaseModel):
             self.answer = self.answer.strip()
             if self.options:
                 raise ValueError("简答题不需要 options")
+        elif self.type == QuestionType.fill_blank:
+            raw = self.answer if isinstance(self.answer, list) else [self.answer]
+            if not all(isinstance(value, str) for value in raw):
+                raise ValueError("填空题 answer 必须是字符串或字符串数组")
+            accepted = list(
+                dict.fromkeys(value.strip() for value in raw if value.strip())
+            )
+            if not accepted:
+                raise ValueError("填空题至少需要一个可接受答案")
+            self.answer = accepted
+            if self.options:
+                raise ValueError("填空题不需要 options")
         return self
 
     def _resolve_option(self, answer: str) -> str:

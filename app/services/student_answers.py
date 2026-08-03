@@ -1,3 +1,4 @@
+import unicodedata
 from datetime import UTC, datetime
 
 from fastapi import HTTPException
@@ -17,6 +18,15 @@ from app.models.training_session import (
 from app.schemas.question import AnswerValue
 from app.schemas.student_answer import AnswerStats, AnswerSubmit
 
+_FILL_PUNCTUATION = set(",.。;；:：!！?？'\"“”‘’、…")
+
+
+def normalize_fill_answer(text: str) -> str:
+    normalized = unicodedata.normalize("NFKC", text).casefold()
+    return "".join(
+        char for char in normalized if not char.isspace() and char not in _FILL_PUNCTUATION
+    )
+
 
 def evaluate_answer(question: Question, submitted: AnswerValue) -> bool:
     expected = question.correct_answer
@@ -29,6 +39,16 @@ def evaluate_answer(question: Question, submitted: AnswerValue) -> bool:
         )
     if question.question_type == QuestionType.true_false:
         return isinstance(submitted, bool) and submitted is expected
+    if question.question_type == QuestionType.fill_blank:
+        if not isinstance(submitted, str) or not isinstance(expected, list):
+            return False
+        if not submitted.strip():
+            return False
+        student_answer = normalize_fill_answer(submitted)
+        return any(
+            isinstance(accepted, str) and normalize_fill_answer(accepted) == student_answer
+            for accepted in expected
+        )
     return (
         isinstance(submitted, str)
         and isinstance(expected, str)

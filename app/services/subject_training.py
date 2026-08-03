@@ -8,7 +8,7 @@ from sqlalchemy.ext.asyncio import AsyncSession
 
 from app.models.knowledge_point import KnowledgePoint, QuestionKnowledgePoint
 from app.models.knowledge_status import KnowledgeStatus
-from app.models.question import Question
+from app.models.question import Question, QuestionType
 from app.models.student_answer import StudentAnswer
 from app.models.training_session import TrainingSession, TrainingType
 from app.schemas.training_session import (
@@ -21,6 +21,7 @@ from app.schemas.training_session import (
 from app.services.training_sessions import TrainingItemSelection, create_session
 
 SELECTION_VERSION = "subject-v2"
+FILL_SELECTION_VERSION = "fill-v1"
 RECENT_DAYS = 7
 
 
@@ -45,35 +46,40 @@ def _difficulty_counts(counter: Counter[int]) -> dict[int, int]:
     return {level: counter[level] for level in range(1, 6)}
 
 
-async def get_catalog(db: AsyncSession) -> SubjectTrainingCatalog:
-    rows = (
-        await db.execute(
-            select(
-                Question.id,
-                Question.subject,
-                Question.chapter,
-                Question.difficulty,
-                KnowledgePoint.code,
-                KnowledgePoint.name,
-            )
-            .join(
-                QuestionKnowledgePoint,
-                (QuestionKnowledgePoint.question_id == Question.id)
-                & (QuestionKnowledgePoint.role == "primary"),
-            )
-            .join(
-                KnowledgePoint,
-                KnowledgePoint.id == QuestionKnowledgePoint.knowledge_point_id,
-            )
-            .where(
-                Question.is_active.is_(True),
-                KnowledgePoint.is_active.is_(True),
-                KnowledgePoint.level == 3,
-                Question.subject == KnowledgePoint.subject,
-            )
-            .order_by(Question.subject, Question.chapter, KnowledgePoint.code, Question.id)
+async def get_catalog(
+    db: AsyncSession,
+    *,
+    question_type: QuestionType | None = None,
+) -> SubjectTrainingCatalog:
+    statement = (
+        select(
+            Question.id,
+            Question.subject,
+            Question.chapter,
+            Question.difficulty,
+            KnowledgePoint.code,
+            KnowledgePoint.name,
         )
-    ).all()
+        .join(
+            QuestionKnowledgePoint,
+            (QuestionKnowledgePoint.question_id == Question.id)
+            & (QuestionKnowledgePoint.role == "primary"),
+        )
+        .join(
+            KnowledgePoint,
+            KnowledgePoint.id == QuestionKnowledgePoint.knowledge_point_id,
+        )
+        .where(
+            Question.is_active.is_(True),
+            KnowledgePoint.is_active.is_(True),
+            KnowledgePoint.level == 3,
+            Question.subject == KnowledgePoint.subject,
+        )
+        .order_by(Question.subject, Question.chapter, KnowledgePoint.code, Question.id)
+    )
+    if question_type is not None:
+        statement = statement.where(Question.question_type == question_type)
+    rows = (await db.execute(statement)).all()
     subject_buckets: dict[str, CatalogBucket] = defaultdict(_new_bucket)
     chapter_buckets: dict[tuple[str, str], CatalogBucket] = defaultdict(_new_bucket)
     point_buckets: dict[tuple[str, str, str], CatalogBucket] = defaultdict(_new_bucket)
@@ -158,6 +164,8 @@ async def create_subject_training(
     db: AsyncSession,
     user_id: int,
     data: SubjectTrainingCreate,
+    *,
+    question_type: QuestionType | None = None,
 ) -> TrainingSession:
     candidate_query = (
         select(Question, KnowledgePoint)
@@ -178,6 +186,8 @@ async def create_subject_training(
             KnowledgePoint.subject == Question.subject,
         )
     )
+    if question_type is not None:
+        candidate_query = candidate_query.where(Question.question_type == question_type)
     if data.chapter:
         candidate_query = candidate_query.where(Question.chapter == data.chapter)
     if data.knowledge_point_code:
@@ -259,6 +269,7 @@ async def create_subject_training(
         else None
     )
     detail = selected_point_name or data.chapter
+    is_fill = question_type == QuestionType.fill_blank
     selections = [
         TrainingItemSelection(
             question_id=question.id,
@@ -273,16 +284,21 @@ async def create_subject_training(
     return await create_session(
         db,
         user_id,
-        training_type=TrainingType.subject,
-        title=f"{data.subject} · {detail or '综合专项'}",
+        training_type=(TrainingType.fill_review if is_fill else TrainingType.subject),
+        title=(
+            f"概念记忆 · {data.subject}"
+            if is_fill
+            else f"{data.subject} · {detail or '综合专项'}"
+        ),
         selections=selections,
-        selection_version=SELECTION_VERSION,
+        selection_version=(FILL_SELECTION_VERSION if is_fill else SELECTION_VERSION),
         selection_config={
             "question_count": data.question_count,
             "recent_exclusion_days": RECENT_DAYS,
             "algorithm": "rule_based",
             "knowledge_point_code": data.knowledge_point_code,
             "difficulty": data.difficulty,
+            "question_type": question_type.value if question_type else None,
         },
         subject=data.subject,
         chapter=data.chapter,

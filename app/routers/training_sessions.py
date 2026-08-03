@@ -11,11 +11,34 @@ from app.schemas.training_session import (
     TrainingSessionRead,
     TrainingSessionSummary,
 )
-from app.services import ai_analysis, subject_training
+from app.services import ai_analysis, fill_blank_training, subject_training
 from app.services import training_sessions as service
 
 router = APIRouter(prefix="/training-sessions", tags=["通用训练"])
 item_router = APIRouter(prefix="/training-session-items", tags=["通用训练"])
+
+
+@router.get("/fill/catalog", response_model=SubjectTrainingCatalog)
+async def get_fill_training_catalog(
+    db: DbSession,
+    user: CurrentUser,
+) -> SubjectTrainingCatalog:
+    del user
+    return await fill_blank_training.get_fill_catalog(db)
+
+
+@router.post(
+    "/fill",
+    response_model=TrainingSessionRead,
+    status_code=status.HTTP_201_CREATED,
+)
+async def create_fill_training(
+    data: SubjectTrainingCreate,
+    db: DbSession,
+    user: CurrentUser,
+) -> TrainingSessionRead:
+    session = await fill_blank_training.create_fill_training(db, user.id, data)
+    return await session_response(db, session)
 
 
 @router.get("/subject/catalog", response_model=SubjectTrainingCatalog)

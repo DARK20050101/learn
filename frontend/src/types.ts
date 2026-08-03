@@ -1,5 +1,5 @@
 export type AnswerValue = string | string[] | boolean
-export type QuestionType = 'single_choice' | 'multiple_choice' | 'true_false' | 'short_answer'
+export type QuestionType = 'single_choice' | 'multiple_choice' | 'true_false' | 'short_answer' | 'fill_blank'
 export type DifficultyFeedback = 'easy' | 'difficult' | 'dont_know'
 export type AnalysisStatus = 'not_required' | 'pending' | 'completed' | 'failed'
 
@@ -46,7 +46,7 @@ export interface SubjectTrainingCatalog { subjects: SubjectTrainingSubject[] }
 export interface TrainingSessionItem { id: number; position: number; recommendation_reason: string | null; source_answer_id: number | null; question: Question }
 export interface TrainingSession {
   id: number
-  training_type: 'daily' | 'subject' | 'wrong_review' | 'mixed'
+  training_type: 'daily' | 'subject' | 'wrong_review' | 'mixed' | 'fill_review'
   title: string
   status: 'pending' | 'in_progress' | 'completed' | 'cancelled'
   total_questions: number

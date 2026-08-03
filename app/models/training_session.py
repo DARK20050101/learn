@@ -23,6 +23,7 @@ class TrainingType(StrEnum):
     subject = "subject"
     wrong_review = "wrong_review"
     mixed = "mixed"
+    fill_review = "fill_review"
 
 
 class TrainingSessionStatus(StrEnum):

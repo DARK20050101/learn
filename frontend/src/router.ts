@@ -4,6 +4,7 @@ import LoginView from './views/LoginView.vue'
 import QuestionView from './views/QuestionView.vue'
 import StatsView from './views/StatsView.vue'
 import SubjectTrainingView from './views/SubjectTrainingView.vue'
+import FillTrainingView from './views/FillTrainingView.vue'
 import TrainingSessionView from './views/TrainingSessionView.vue'
 import WrongQuestionsView from './views/WrongQuestionsView.vue'
 
@@ -16,6 +17,7 @@ const router = createRouter({
     { path: '/stats', component: StatsView },
     { path: '/wrong-questions', component: WrongQuestionsView },
     { path: '/training/subject', component: SubjectTrainingView },
+    { path: '/training/fill', component: FillTrainingView },
     { path: '/training/:sessionId/:position?', component: TrainingSessionView },
   ],
   scrollBehavior: () => ({ top: 0 }),

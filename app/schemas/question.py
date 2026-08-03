@@ -45,6 +45,10 @@ class QuestionCreate(QuestionBase):
             self.correct_answer, bool
         ):
             raise ValueError("判断题 correct_answer 必须是布尔值")
+        if self.question_type == QuestionType.fill_blank and not isinstance(
+            self.correct_answer, list
+        ):
+            raise ValueError("填空题 correct_answer 必须是可接受答案字符串数组")
         return self
 
 

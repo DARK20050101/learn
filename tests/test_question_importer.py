@@ -5,6 +5,7 @@ import pytest
 from pydantic import ValidationError
 
 from app.models.question_import import ImportStatus, QuestionImportBatch
+from app.schemas.question import QuestionCreate
 from app.schemas.question_import import QuestionImportItem
 from app.services.question_importer import (
     QuestionFileError,
@@ -34,6 +35,56 @@ def valid_question(**changes: object) -> dict:
 def test_single_choice_letter_is_normalized_to_option() -> None:
     item = QuestionImportItem.model_validate(valid_question())
     assert item.answer == "递增"
+
+
+def test_fill_blank_accepts_single_answer_string() -> None:
+    item = QuestionImportItem.model_validate(
+        valid_question(type="fill_blank", answer="光合作用", options=[])
+    )
+    assert item.answer == ["光合作用"]
+
+
+def test_fill_blank_normalizes_answer_list() -> None:
+    item = QuestionImportItem.model_validate(
+        valid_question(
+            type="fill_blank",
+            answer=[" 光合作用 ", "光 合作用", " 光合作用"],
+            options=[],
+        )
+    )
+    assert item.answer == ["光合作用", "光 合作用"]
+
+
+def test_fill_blank_rejects_empty_answer() -> None:
+    with pytest.raises(ValidationError, match="至少需要一个可接受答案"):
+        QuestionImportItem.model_validate(
+            valid_question(type="fill_blank", answer=["  ", ""], options=[])
+        )
+
+
+def test_fill_blank_rejects_options() -> None:
+    with pytest.raises(ValidationError, match="不需要 options"):
+        QuestionImportItem.model_validate(
+            valid_question(type="fill_blank", answer="光合作用", options=["A", "B"])
+        )
+
+
+def test_question_create_fill_blank_requires_answer_list() -> None:
+    with pytest.raises(ValidationError, match="必须是可接受答案字符串数组"):
+        QuestionCreate(
+            title="概念",
+            content="光合作用的定义是____。",
+            subject="生物",
+            question_type="fill_blank",
+            correct_answer="光合作用",
+        )
+    QuestionCreate(
+        title="概念",
+        content="光合作用的定义是____。",
+        subject="生物",
+        question_type="fill_blank",
+        correct_answer=["光合作用"],
+    )
 
 
 def test_choice_answer_must_exist_in_options() -> None:
